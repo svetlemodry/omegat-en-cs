@@ -1,5 +1,4 @@
-omegat-teamrepo
+omegat-en-cs
 ===============
 
-This is a template repository for collaborative translation using the OmegaT free CAT application.
-
+This is my repository for softwae translation using the OmegaT free CAT application.
