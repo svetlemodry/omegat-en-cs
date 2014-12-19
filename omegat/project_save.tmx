@@ -4,6 +4,2994 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>%d mins ago</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204014Z" creationid="svetlemodry" creationdate="20141219T204014Z">
+        <seg>před %d minutami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%s file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204608Z" creationid="svetlemodry" creationdate="20141219T204608Z">
+        <seg>%s soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%s has read up to this point</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204428Z" creationid="svetlemodry" creationdate="20141219T204428Z">
+        <seg>%s dočetl(a) až sem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Or long press to bring back default)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204436Z" creationid="svetlemodry" creationdate="20141219T204436Z">
+        <seg>(Stisknout dlouze pro obnovení výchozího stavu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(or touch phones)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204554Z" creationid="svetlemodry" creationdate="20141219T204554Z">
+        <seg>(nebo dotykové telefony)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-1</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203941Z" creationid="svetlemodry" creationdate="20141219T203941Z">
+        <seg>-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203919Z" creationid="svetlemodry" creationdate="20141219T203919Z">
+        <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1 MB</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203918Z" creationid="svetlemodry" creationdate="20141219T203918Z">
+        <seg>1 MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1 hour</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203929Z" creationid="svetlemodry" creationdate="20141219T203929Z">
+        <seg>jedna hodina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1 min ago</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204011Z" creationid="svetlemodry" creationdate="20141219T204011Z">
+        <seg>před minutou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1048576</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203921Z" creationid="svetlemodry" creationdate="20141219T203921Z">
+        <seg>1048576</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1800</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203938Z" creationid="svetlemodry" creationdate="20141219T203938Z">
+        <seg>1800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2 hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203932Z" creationid="svetlemodry" creationdate="20141219T203932Z">
+        <seg>2 hodiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>256</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203913Z" creationid="svetlemodry" creationdate="20141219T203913Z">
+        <seg>256</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>262144</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203920Z" creationid="svetlemodry" creationdate="20141219T203920Z">
+        <seg>262144</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>28800</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203940Z" creationid="svetlemodry" creationdate="20141219T203940Z">
+        <seg>28800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>30 minutes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203922Z" creationid="svetlemodry" creationdate="20141219T203922Z">
+        <seg>30 minut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3600</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203939Z" creationid="svetlemodry" creationdate="20141219T203939Z">
+        <seg>3600</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>512</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203916Z" creationid="svetlemodry" creationdate="20141219T203916Z">
+        <seg>512</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>524288</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203920Z" creationid="svetlemodry" creationdate="20141219T203920Z">
+        <seg>524288</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7200</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203939Z" creationid="svetlemodry" creationdate="20141219T203939Z">
+        <seg>7200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8 hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203934Z" creationid="svetlemodry" creationdate="20141219T203934Z">
+        <seg>8 hodin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Warning:&lt;/b0&gt; Sending this without mutual presence updates could cause unexpected problems.\n\n&lt;s1&gt;Go to contact details to verify your presence subscriptions.&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211646Z" creationid="svetlemodry" creationdate="20141219T211646Z">
+        <seg>&lt;b0&gt;Varování:&lt;/b0&gt; Odeslání bez povolení změn stavu může způsobit nečekané problémy na obou stranách.\n\n&lt;s1&gt;Přejdi na detaily kontaktu pro ověření povolení o změnách stavu.&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About Conversations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204531Z" creationid="svetlemodry" creationdate="20141219T204531Z">
+        <seg>O aplikaci Conversations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Accept</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
+        <seg>Přijmout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Accept files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204718Z" creationid="svetlemodry" creationdate="20141219T204143Z">
+        <seg>Přijímat soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Account avatar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204617Z" creationid="svetlemodry" creationdate="20141219T204617Z">
+        <seg>Avatar účtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Account details</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204552Z" creationid="svetlemodry" creationdate="20141219T204552Z">
+        <seg>Detaily účtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204037Z" creationid="svetlemodry" creationdate="20141219T204037Z">
+        <seg>Přidat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203957Z" creationid="svetlemodry" creationdate="20141219T203957Z">
+        <seg>Přidat účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add back</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204427Z" creationid="svetlemodry" creationdate="20141219T204427Z">
+        <seg>Opět přidat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210735Z" creationid="svetlemodry" creationdate="20141219T204135Z">
+        <seg>Přidat kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add to phone book</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203959Z" creationid="svetlemodry" creationdate="20141219T203959Z">
+        <seg>Přidat do telefonního seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional Information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204446Z" creationid="svetlemodry" creationdate="20141219T204446Z">
+        <seg>Dodatečné informace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Admin</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204019Z" creationid="svetlemodry" creationdate="20141219T204019Z">
+        <seg>Administrátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advanced Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204146Z" creationid="svetlemodry" creationdate="20141219T204146Z">
+        <seg>Pokročilé nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also vibrate when a new message arrives</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204144Z" creationid="svetlemodry" creationdate="20141219T204144Z">
+        <seg>Vibrovat při přijetí nové zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always notify when a new conference message arrives instead of only when highlighted</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204145Z" creationid="svetlemodry" creationdate="20141219T204145Z">
+        <seg>Vždy upozorňovat při nové konferenční zprávě, nejen pokud je vybrána</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always send messages encrypted (except for conferences)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204525Z" creationid="svetlemodry" creationdate="20141219T204525Z">
+        <seg>Vždy zasílat šifrované zprávy (mimo konference)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error has occurred</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
+        <seg>Došlo k chybě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Android</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203846Z" creationid="svetlemodry" creationdate="20141219T203846Z">
+        <seg>Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure that you want to verify your contacts OTR fingerprint?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204612Z" creationid="svetlemodry" creationdate="20141219T204612Z">
+        <seg>Opravdu si přejete ověřit OTR otisk kontaktu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you would like to delete this fingerprint?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204505Z" creationid="svetlemodry" creationdate="20141219T204505Z">
+        <seg>Chcete opravdu smazat tento identifikátor?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204158Z" creationid="svetlemodry" creationdate="20141219T204158Z">
+        <seg>Jste si jisti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ask for presence updates</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212248Z" creationid="svetlemodry" creationdate="20141219T204150Z">
+        <seg>Zažádat o změny stavu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attach file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210708Z" creationid="svetlemodry" creationdate="20141219T204134Z">
+        <seg>Přiložit soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatically accept files smaller than…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204143Z" creationid="svetlemodry" creationdate="20141219T204143Z">
+        <seg>Automaticky přijímat soubory menší než…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Build and licensing information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204532Z" creationid="svetlemodry" creationdate="20141219T204532Z">
+        <seg>Informace o sestavení a licenci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By sending in stack traces you are helping the ongoing development of Conversations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204146Z" creationid="svetlemodry" creationdate="20141219T204146Z">
+        <seg>Zasláním detailů o důvodu selhání pomůžete dalšímu vývoji aplikace Konverzace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By sending in stack traces you are helping the ongoing development of Conversations\n&lt;b0&gt;Warning:&lt;/b0&gt; This will use your XMPP account to send the stack trace to the developer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210615Z" creationid="svetlemodry" creationdate="20141219T210509Z">
+        <seg>Zasláním detailů o důvodu selhání pomůžete dalšímu vývoji aplikace Konverzace\n&lt;b0&gt;Varování:&lt;/b0&gt; Toto použije nastavený XMPP účet pro zaslání detailů vývojářům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204032Z" creationid="svetlemodry" creationdate="20141219T204032Z">
+        <seg>Zrušit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel transmission</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204609Z" creationid="svetlemodry" creationdate="20141219T204609Z">
+        <seg>Zrušit přenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check image file size</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204545Z" creationid="svetlemodry" creationdate="20141219T204545Z">
+        <seg>Ověřit velikost obrázku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checking image on HTTP host</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204543Z" creationid="svetlemodry" creationdate="20141219T204543Z">
+        <seg>Ověřuji obrázek na HTTP hostiteli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204004Z" creationid="svetlemodry" creationdate="20141219T204004Z">
+        <seg>Vybrat kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204604Z" creationid="svetlemodry" creationdate="20141219T204604Z">
+        <seg>Vybrat soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose picture</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204150Z" creationid="svetlemodry" creationdate="20141219T204150Z">
+        <seg>Vybrat obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose presence to contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204137Z" creationid="svetlemodry" creationdate="20141219T204137Z">
+        <seg>Vybrat aktualizaci stavu pro kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear Conversation History</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204651Z" creationid="svetlemodry" creationdate="20141219T204136Z">
+        <seg>Smaže historii konverzací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear history</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204136Z" creationid="svetlemodry" creationdate="20141219T204136Z">
+        <seg>Smazat historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Colorize send button to indicate contact status</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204537Z" creationid="svetlemodry" creationdate="20141219T204537Z">
+        <seg>Obarvit tlačítko odesílání barvou indikující stavu kontaktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conference</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204230Z" creationid="svetlemodry" creationdate="20141219T204230Z">
+        <seg>Konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conference Details</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204001Z" creationid="svetlemodry" creationdate="20141219T204001Z">
+        <seg>Detaily konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conference address</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204406Z" creationid="svetlemodry" creationdate="20141219T204404Z">
+        <seg>Adresa konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conference created!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204616Z" creationid="svetlemodry" creationdate="20141219T204616Z">
+        <seg>Konference vytvořena!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conference creation failed!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204615Z" creationid="svetlemodry" creationdate="20141219T204615Z">
+        <seg>Vytvoření konference selhalo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conference details</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203954Z" creationid="svetlemodry" creationdate="20141219T203954Z">
+        <seg>Detaily konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conference name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204538Z" creationid="svetlemodry" creationdate="20141219T204538Z">
+        <seg>Jméno konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conference not found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204424Z" creationid="svetlemodry" creationdate="20141219T204424Z">
+        <seg>Konference nenalezena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conference notifications</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204145Z" creationid="svetlemodry" creationdate="20141219T204145Z">
+        <seg>Upozornění při konferencích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conference requires password</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204459Z" creationid="svetlemodry" creationdate="20141219T204459Z">
+        <seg>Konference vyžaduje heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204352Z" creationid="svetlemodry" creationdate="20141219T204352Z">
+        <seg>Konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204557Z" creationid="svetlemodry" creationdate="20141219T204557Z">
+        <seg>Potvrdit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm Messages</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204146Z" creationid="svetlemodry" creationdate="20141219T204146Z">
+        <seg>Potvrzovat zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm password</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204221Z" creationid="svetlemodry" creationdate="20141219T204221Z">
+        <seg>Potvrdit heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204442Z" creationid="svetlemodry" creationdate="20141219T204442Z">
+        <seg>Připojit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connecting\u2026</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204153Z" creationid="svetlemodry" creationdate="20141219T204153Z">
+        <seg>Připojuji\u2026</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact Details</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204002Z" creationid="svetlemodry" creationdate="20141219T204002Z">
+        <seg>Detaily kontaktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact added you to contact list</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204426Z" creationid="svetlemodry" creationdate="20141219T204426Z">
+        <seg>Kontakt přidán do seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact details</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203952Z" creationid="svetlemodry" creationdate="20141219T203952Z">
+        <seg>Detaily kontaktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact requested SMP verification</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204601Z" creationid="svetlemodry" creationdate="20141219T204601Z">
+        <seg>Kontakt zažádal o ověření SMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contacts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204031Z" creationid="svetlemodry" creationdate="20141219T204031Z">
+        <seg>Kontakty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conversations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T213856Z" creationid="svetlemodry" creationdate="20141219T203756Z">
+        <seg>Konverzace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conversations has crashed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204046Z" creationid="svetlemodry" creationdate="20141219T204046Z">
+        <seg>Aplikace Konverzace přestala reagovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conversations is unable to encrypt your messages because your contact is not announcing his or hers public key.\n\n&lt;s0&gt;Please ask your contact to setup OpenPGP.&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T213147Z" creationid="svetlemodry" creationdate="20141219T204140Z">
+        <seg>Není možné zašifrovat zprávu v aplikaci Konverzace, protože druhá strana neoznamuje svůj veřejný klíč.\n\n&lt;s0&gt;Požádejte svůj kontakt ať si nastaví OpenPGP.&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conversations utilizes a third party app called &lt;b0&gt;OpenKeychain&lt;/b0&gt; to encrypt and decrypt messages and to manage your public keys.\n\nOpenKeychain is licensed under GPLv3 and available on F-Droid and Google Play.\n\n&lt;s1&gt;(Please restart Conversations afterwards.)&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T213104Z" creationid="svetlemodry" creationdate="20141219T213104Z">
+        <seg>Konverzace využívá aplikaci třetí strany, &lt;b0&gt;OpenKeychain&lt;/b0&gt;, k šifrování a dešifrování zpráv a ke správě veřejných klíčů.\n\nOpenKeychain je licencován pod GPLv3 a dostupný na F-Droid a Google Play.\n\n&lt;s1&gt;(Po instalaci prosím restartujte aplikaci Konverzace.)&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy OTR fingerprint to clipboard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204618Z" creationid="svetlemodry" creationdate="20141219T204618Z">
+        <seg>Zkopírovat otisk OTR do schránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy original URL</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204547Z" creationid="svetlemodry" creationdate="20141219T204547Z">
+        <seg>Kopírovat originální URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204546Z" creationid="svetlemodry" creationdate="20141219T204546Z">
+        <seg>Zkopírovat text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not save avatar to disk</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204435Z" creationid="svetlemodry" creationdate="20141219T204435Z">
+        <seg>Nepodařilo se uložit avatar na disk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not verify fingerprint</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204611Z" creationid="svetlemodry" creationdate="20141219T204611Z">
+        <seg>Ověření otisku se nezdařilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204400Z" creationid="svetlemodry" creationdate="20141219T204400Z">
+        <seg>Vytvořit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204354Z" creationid="svetlemodry" creationdate="20141219T204354Z">
+        <seg>Vytvořit kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create conference with…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204614Z" creationid="svetlemodry" creationdate="20141219T204614Z">
+        <seg>Vytvořit konferenci s…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current session established</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204448Z" creationid="svetlemodry" creationdate="20141219T204445Z">
+        <seg>Současné sezení vytvořeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Decrypt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204350Z" creationid="svetlemodry" creationdate="20141219T204350Z">
+        <seg>Dešifrovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Decrypting message.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204017Z" creationid="svetlemodry" creationdate="20141219T204017Z">
+        <seg>Dešifruji zprávu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Decryption failed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204138Z" creationid="svetlemodry" creationdate="20141219T204138Z">
+        <seg>Zašifrování se nezdařilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204038Z" creationid="svetlemodry" creationdate="20141219T204038Z">
+        <seg>Smazat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete Contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204357Z" creationid="svetlemodry" creationdate="20141219T204357Z">
+        <seg>Smazat kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete Fingerprint</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204504Z" creationid="svetlemodry" creationdate="20141219T204504Z">
+        <seg>Smazat identifikátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204156Z" creationid="svetlemodry" creationdate="20141219T204156Z">
+        <seg>Smazat účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete bookmark</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204417Z" creationid="svetlemodry" creationdate="20141219T204417Z">
+        <seg>Smazat záložku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete from roster</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204000Z" creationid="svetlemodry" creationdate="20141219T204000Z">
+        <seg>Smazat ze seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete messages</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204655Z" creationid="svetlemodry" creationdate="20141219T204136Z">
+        <seg>Smazat zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable notifications</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204454Z" creationid="svetlemodry" creationdate="20141219T204449Z">
+        <seg>Vypnout upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable notifications for a short time after a carbon copy was received</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204735Z" creationid="svetlemodry" creationdate="20141219T204145Z">
+        <seg>Neupozorňovat krátce poté co byla obdržena kopie zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable notifications for this conversation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204456Z" creationid="svetlemodry" creationdate="20141219T204456Z">
+        <seg>Vypnout upozornění pro tuto konverzaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display read-only tags underneath contacts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204613Z" creationid="svetlemodry" creationdate="20141219T204613Z">
+        <seg>Zobrazit tagy pro čtení pod kontakty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to add %s to your phones contact list?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204225Z" creationid="svetlemodry" creationdate="20141219T204225Z">
+        <seg>Chcete přidat %s do svého telefonního seznamu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to delete all messages within this Conversation?\n\n&lt;b0&gt;Warning:&lt;/b0&gt; This will not influence messages stored on other devices or servers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212847Z" creationid="svetlemodry" creationdate="20141219T212847Z">
+        <seg>Chcete smazat všechny zprávy v této konverzaci?\n\n&lt;b0&gt;Varování:&lt;/b0&gt; Toto neovlivní zprávy uložené na jiných přístrojích nebo serverech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don’t save encrypted messages</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204526Z" creationid="svetlemodry" creationdate="20141219T204526Z">
+        <seg>Neukládat šifrované zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download %s file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204605Z" creationid="svetlemodry" creationdate="20141219T204605Z">
+        <seg>Stáhnout %s soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Image</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204138Z" creationid="svetlemodry" creationdate="20141219T204138Z">
+        <seg>Stáhnout obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204038Z" creationid="svetlemodry" creationdate="20141219T204038Z">
+        <seg>Upravit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204156Z" creationid="svetlemodry" creationdate="20141219T204156Z">
+        <seg>Upravit účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit conference subject</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204422Z" creationid="svetlemodry" creationdate="20141219T204422Z">
+        <seg>Upravit jméno konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203958Z" creationid="svetlemodry" creationdate="20141219T203958Z">
+        <seg>Upravit jméno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204458Z" creationid="svetlemodry" creationdate="20141219T204458Z">
+        <seg>Povolit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204158Z" creationid="svetlemodry" creationdate="20141219T204158Z">
+        <seg>Povolit účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable legacy SSL</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204528Z" creationid="svetlemodry" creationdate="20141219T204528Z">
+        <seg>Povolit zastaralé SSL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable notifications</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204614Z" creationid="svetlemodry" creationdate="20141219T204614Z">
+        <seg>Povolit upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable quiet hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204534Z" creationid="svetlemodry" creationdate="20141219T204534Z">
+        <seg>Povolit tichý režim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables SSLv3 support for legacy servers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204528Z" creationid="svetlemodry" creationdate="20141219T204528Z">
+        <seg>Povolí SSLv3 podporu pro zastaralé servery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encrypted image received.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211125Z" creationid="svetlemodry" creationdate="20141219T204141Z">
+        <seg>Byl přijat šifrovaný obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encrypted message received.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T213229Z" creationid="svetlemodry" creationdate="20141219T204141Z">
+        <seg>Byla přijata šifrovaná zpráva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encrypted message.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204337Z" creationid="svetlemodry" creationdate="20141219T204321Z">
+        <seg>Šifrovaná zpráva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encryption settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204524Z" creationid="svetlemodry" creationdate="20141219T204524Z">
+        <seg>Nastavení šifrování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End this conversation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203951Z" creationid="svetlemodry" creationdate="20141219T203951Z">
+        <seg>Ukončit tuto konverzaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End this conversations afterwards</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204136Z" creationid="svetlemodry" creationdate="20141219T204136Z">
+        <seg>Poté ukončit i tuto konverzaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End time</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204533Z" creationid="svetlemodry" creationdate="20141219T204533Z">
+        <seg>Dokdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter password</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204500Z" creationid="svetlemodry" creationdate="20141219T204500Z">
+        <seg>Vložit heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while converting the image file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204151Z" creationid="svetlemodry" creationdate="20141219T204151Z">
+        <seg>Chyba při konverzi obrázkového souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expert options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204530Z" creationid="svetlemodry" creationdate="20141219T204530Z">
+        <seg>Expertní nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204558Z" creationid="svetlemodry" creationdate="20141219T204558Z">
+        <seg>Selhalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fetching history from server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204619Z" creationid="svetlemodry" creationdate="20141219T204619Z">
+        <seg>Načíst historii ze serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File not found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204151Z" creationid="svetlemodry" creationdate="20141219T204151Z">
+        <seg>Soubor nenalezen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File offered for download</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204608Z" creationid="svetlemodry" creationdate="20141219T204608Z">
+        <seg>Soubor nabídnut ke stažení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finish</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204600Z" creationid="svetlemodry" creationdate="20141219T204600Z">
+        <seg>Dokončit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Force end-to-end encryption</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204525Z" creationid="svetlemodry" creationdate="20141219T204525Z">
+        <seg>Vynutit šifrování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204142Z" creationid="svetlemodry" creationdate="20141219T204142Z">
+        <seg>Obecné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General I/O error.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204151Z" creationid="svetlemodry" creationdate="20141219T204151Z">
+        <seg>Obecná I/O chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grant presence updates</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
+        <seg>Povolit aktualizace stavu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hint or Question</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204555Z" creationid="svetlemodry" creationdate="20141219T204555Z">
+        <seg>Nápověda nebo Otázka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I/O Error decrypting file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
+        <seg>I/O chyba dešifrování souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you delete your account your entire conversation history will be lost</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204158Z" creationid="svetlemodry" creationdate="20141219T204158Z">
+        <seg>Pokud smažete svůj účet celá historie konverzací bude ztracena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204506Z" creationid="svetlemodry" creationdate="20141219T204506Z">
+        <seg>Ignorovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image URL</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204548Z" creationid="svetlemodry" creationdate="20141219T204548Z">
+        <seg>URL obrázku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image file offered for download</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210919Z" creationid="svetlemodry" creationdate="20141219T204138Z">
+        <seg>Byl nabídnut obrázek ke stažení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image is too large</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204224Z" creationid="svetlemodry" creationdate="20141219T204224Z">
+        <seg>Obrázek je příliš velký</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image received.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211143Z" creationid="svetlemodry" creationdate="20141219T204142Z">
+        <seg>Byl přijat obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image transmission failed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204550Z" creationid="svetlemodry" creationdate="20141219T204550Z">
+        <seg>Přenos obrázku selhal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In progress</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204557Z" creationid="svetlemodry" creationdate="20141219T204557Z">
+        <seg>Probíhá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incompatible server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204155Z" creationid="svetlemodry" creationdate="20141219T204155Z">
+        <seg>Nekompatibilní server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Increase font size</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204535Z" creationid="svetlemodry" creationdate="20141219T204535Z">
+        <seg>Zvětšit písmo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204659Z" creationid="svetlemodry" creationdate="20141219T204140Z">
+        <seg>Instalovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invite Contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204030Z" creationid="svetlemodry" creationdate="20141219T204030Z">
+        <seg>Pozvat kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jabber ID</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212417Z" creationid="svetlemodry" creationdate="20141219T204159Z">
+        <seg>Jabber ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Join</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204403Z" creationid="svetlemodry" creationdate="20141219T204403Z">
+        <seg>Vstoupit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Join Conference</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204356Z" creationid="svetlemodry" creationdate="20141219T204356Z">
+        <seg>Připojit ke konferenci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>KB</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203914Z" creationid="svetlemodry" creationdate="20141219T203914Z">
+        <seg>KB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep service in foreground</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204603Z" creationid="svetlemodry" creationdate="20141219T204603Z">
+        <seg>Ponechat službu v popředí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keys</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204149Z" creationid="svetlemodry" creationdate="20141219T204149Z">
+        <seg>Klíče</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Leave</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204425Z" creationid="svetlemodry" creationdate="20141219T204425Z">
+        <seg>Odejít</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Let your contact know when you have received and read a message</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
+        <seg>Dá vědět kontaktům, že zpráva byla přijata a přečtena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manage Accounts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204000Z" creationid="svetlemodry" creationdate="20141219T204000Z">
+        <seg>Nastavení účtů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manage accounts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203948Z" creationid="svetlemodry" creationdate="20141219T203948Z">
+        <seg>Nastavení účtů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manually verify</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204612Z" creationid="svetlemodry" creationdate="20141219T204612Z">
+        <seg>Ruční ověření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maybe you don’t have the proper private key.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204139Z" creationid="svetlemodry" creationdate="20141219T204139Z">
+        <seg>Možná nemáte správný privátní klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maybe you ran out of storage space?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204151Z" creationid="svetlemodry" creationdate="20141219T204151Z">
+        <seg>Že by již nebylo volné místo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Message copied to clipboard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204550Z" creationid="svetlemodry" creationdate="20141219T204550Z">
+        <seg>Zpráva zkopírována do schránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Message options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204545Z" creationid="svetlemodry" creationdate="20141219T204545Z">
+        <seg>Možnosti zpráv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Message text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204549Z" creationid="svetlemodry" creationdate="20141219T204549Z">
+        <seg>Text zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing presence updates from contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204501Z" creationid="svetlemodry" creationdate="20141219T204501Z">
+        <seg>Chybí informace o změnách stavu kontaktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing public key announcements</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204244Z" creationid="svetlemodry" creationdate="20141219T204244Z">
+        <seg>Chybí oznámení o veřejném klíči</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mobile</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203828Z" creationid="svetlemodry" creationdate="20141219T202237Z">
+        <seg>Mobil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moderator</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204021Z" creationid="svetlemodry" creationdate="20141219T204021Z">
+        <seg>Moderátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Never ask again</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204132Z" creationid="svetlemodry" creationdate="20141219T204132Z">
+        <seg>Již se neptat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Never send crash reports</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204146Z" creationid="svetlemodry" creationdate="20141219T204146Z">
+        <seg>Neodesílat detaily o pádu aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New conversation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203947Z" creationid="svetlemodry" creationdate="20141219T203947Z">
+        <seg>Nová konverzace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204444Z" creationid="svetlemodry" creationdate="20141219T204444Z">
+        <seg>Další</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nickname is already in use</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204018Z" creationid="svetlemodry" creationdate="20141219T204018Z">
+        <seg>Přezdívka se již používá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No OpenPGP Key found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204703Z" creationid="svetlemodry" creationdate="20141219T204140Z">
+        <seg>Nebyl nalezen žádný OpenPGP klíč</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No OpenPGP Keys found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204141Z" creationid="svetlemodry" creationdate="20141219T204141Z">
+        <seg>Nebyly nalezeny žádné OpenPGP klíče</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No application found to open file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204611Z" creationid="svetlemodry" creationdate="20141219T204611Z">
+        <seg>Nebyla nalezena aplikace umožňující otevření souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No conference server found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204615Z" creationid="svetlemodry" creationdate="20141219T204615Z">
+        <seg>Nebyl nalezen konferenční server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No connectivity</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212328Z" creationid="svetlemodry" creationdate="20141219T204154Z">
+        <seg>Žádné připojení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No more history on server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204619Z" creationid="svetlemodry" creationdate="20141219T204619Z">
+        <seg>Na serveru není žádná další historie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No valid OTR session has been found!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204601Z" creationid="svetlemodry" creationdate="20141219T204601Z">
+        <seg>Nebylo nalezeno platné OTR sezení!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification Settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204143Z" creationid="svetlemodry" creationdate="20141219T204143Z">
+        <seg>Nastavení upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification grace period</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204731Z" creationid="svetlemodry" creationdate="20141219T204145Z">
+        <seg>Četnost upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204144Z" creationid="svetlemodry" creationdate="20141219T204144Z">
+        <seg>Upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notifications are disabled</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204457Z" creationid="svetlemodry" creationdate="20141219T204457Z">
+        <seg>Upozornění jsou vypnuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notifications will be silenced during quiet hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204534Z" creationid="svetlemodry" creationdate="20141219T204534Z">
+        <seg>Upozornění budou během tichého režimu ztlumena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify when a new message arrives</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204726Z" creationid="svetlemodry" creationdate="20141219T204144Z">
+        <seg>Upozornit při přijetí nové zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204042Z" creationid="svetlemodry" creationdate="20141219T204042Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OTR</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212215Z" creationid="svetlemodry" creationdate="20141219T204156Z">
+        <seg>OTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OTR fingerprint</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204348Z" creationid="svetlemodry" creationdate="20141219T204348Z">
+        <seg>OTR identifikátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OTR fingerprint copied to clipboard!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204540Z" creationid="svetlemodry" creationdate="20141219T204540Z">
+        <seg>OTR otisk zkopírován do schránky!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Offline</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204153Z" creationid="svetlemodry" creationdate="20141219T204153Z">
+        <seg>Offline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Online</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204152Z" creationid="svetlemodry" creationdate="20141219T204152Z">
+        <seg>Online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open %s file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204605Z" creationid="svetlemodry" creationdate="20141219T204605Z">
+        <seg>Otevřít %s soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenKeychain</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210957Z" creationid="svetlemodry" creationdate="20141219T204139Z">
+        <seg>OpenKeychain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenKeychain reported an error</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
+        <seg>OpenKeychain nahlásil chybu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenPGP</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204219Z" creationid="svetlemodry" creationdate="20141219T204156Z">
+        <seg>OpenPGP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenPGP encrypted messages found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204343Z" creationid="svetlemodry" creationdate="20141219T204343Z">
+        <seg>Nalezena OpenPGP šifrovaná zpráva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204538Z" creationid="svetlemodry" creationdate="20141219T204538Z">
+        <seg>Další</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other Members</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204231Z" creationid="svetlemodry" creationdate="20141219T204231Z">
+        <seg>Ostatní členové</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Out of memory.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204224Z" creationid="svetlemodry" creationdate="20141219T204224Z">
+        <seg>Nedostatek paměti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Owner</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204020Z" creationid="svetlemodry" creationdate="20141219T204020Z">
+        <seg>Vlastník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Participant</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204022Z" creationid="svetlemodry" creationdate="20141219T204022Z">
+        <seg>Účastník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204159Z" creationid="svetlemodry" creationdate="20141219T204159Z">
+        <seg>Heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Passwords do not match</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204223Z" creationid="svetlemodry" creationdate="20141219T204223Z">
+        <seg>Hesla nesouhlasí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Phone</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203840Z" creationid="svetlemodry" creationdate="20141219T203840Z">
+        <seg>Telefon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204155Z" creationid="svetlemodry" creationdate="20141219T204155Z">
+        <seg>Čistý text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Play ringtone with notification</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204145Z" creationid="svetlemodry" creationdate="20141219T204145Z">
+        <seg>Přehrát zvuk společně s upozorněním</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please be careful with these</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204530Z" creationid="svetlemodry" creationdate="20141219T204530Z">
+        <seg>S tímto zacházejte velmi opatrně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please install OpenKeychain to decrypt.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204333Z" creationid="svetlemodry" creationdate="20141219T204333Z">
+        <seg>Nainstaluje prosím OpenKeychain pro dešifrování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please note: Everyone subscribed to your presence updates will be allowed to see this picture.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204432Z" creationid="svetlemodry" creationdate="20141219T204432Z">
+        <seg>Pozor: Každý s povolením vidět změny stavu uvidí tento obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please request presence updates from your contact first.\n\n&lt;s0&gt;This will be used to determine what client(s) your contact is using.&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211924Z" creationid="svetlemodry" creationdate="20141219T204502Z">
+        <seg>Nejdříve si prosím vyžádejte povolení o zasílání změn stavu kontaktu.\n\n&lt;s0&gt;To bude poté použito pro zjištění jakou aplikaci tento kontakt používá.&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please wait…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204018Z" creationid="svetlemodry" creationdate="20141219T204018Z">
+        <seg>Chvíli strpení…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preemptively grant and ask for presence subscription for contacts you created</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204740Z" creationid="svetlemodry" creationdate="20141219T204148Z">
+        <seg>Aktivně povolovat a žádat o zasílání změn stavu pro vytvářené kontakty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preemptively grant subscription request</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204150Z" creationid="svetlemodry" creationdate="20141219T204150Z">
+        <seg>Aktivně povolovat vyžádání změn stavu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preparing file for transmission</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204607Z" creationid="svetlemodry" creationdate="20141219T204607Z">
+        <seg>Příprava souboru na přenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preparing image for transmission</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204135Z" creationid="svetlemodry" creationdate="20141219T204135Z">
+        <seg>Připravuji obrázek na přenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prevents the operating system from killing your connection</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204603Z" creationid="svetlemodry" creationdate="20141219T204603Z">
+        <seg>Zamezit operačnímu systému v ukončení připojení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publish</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204430Z" creationid="svetlemodry" creationdate="20141219T204430Z">
+        <seg>Zveřejnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publish OpenPGP public key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204157Z" creationid="svetlemodry" creationdate="20141219T204157Z">
+        <seg>Zveřejnit OpenPGP klíč</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publish avatar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204157Z" creationid="svetlemodry" creationdate="20141219T204157Z">
+        <seg>Zveřejnit avatar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publishing…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204433Z" creationid="svetlemodry" creationdate="20141219T204433Z">
+        <seg>Zveřejňuji…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quiet Hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204532Z" creationid="svetlemodry" creationdate="20141219T204532Z">
+        <seg>Tichý režim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Receive presence updates</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212239Z" creationid="svetlemodry" creationdate="20141219T204149Z">
+        <seg>Přijímat změny stavu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Received messages will be marked with a green tick if supported</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204537Z" creationid="svetlemodry" creationdate="20141219T204537Z">
+        <seg>Přijaté zprávy budou označeny zeleně, pokud je funkce podporována</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Receiving %1$s file (%2$d%% completed)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210908Z" creationid="svetlemodry" creationdate="20141219T210908Z">
+        <seg>Přijímám %1$s soubor (%2$d%% přeneseno)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Receiving image file (%1$d%%)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212704Z" creationid="svetlemodry" creationdate="20141219T212704Z">
+        <seg>Přijímám obrázek (%1$d%%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reception failed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204344Z" creationid="svetlemodry" creationdate="20141219T204344Z">
+        <seg>Příjem selhal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Record voice</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204158Z" creationid="svetlemodry" creationdate="20141219T204158Z">
+        <seg>Nahrát hlas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register new account on server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204029Z" creationid="svetlemodry" creationdate="20141219T204029Z">
+        <seg>Registrovat nový účet na serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Registration completed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204154Z" creationid="svetlemodry" creationdate="20141219T204154Z">
+        <seg>Registrace dokončena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Registration failed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204154Z" creationid="svetlemodry" creationdate="20141219T204154Z">
+        <seg>Registrace selhala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote Fingerprint</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204553Z" creationid="svetlemodry" creationdate="20141219T204553Z">
+        <seg>Vzdálený otisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Request message receipts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204536Z" creationid="svetlemodry" creationdate="20141219T204536Z">
+        <seg>Požadovat oznámení o přijetí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Request now</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204503Z" creationid="svetlemodry" creationdate="20141219T204503Z">
+        <seg>Ihned vyžádat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204617Z" creationid="svetlemodry" creationdate="20141219T204617Z">
+        <seg>Reset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Respond</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204558Z" creationid="svetlemodry" creationdate="20141219T204558Z">
+        <seg>Odpovědět</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211029Z" creationid="svetlemodry" creationdate="20141219T204139Z">
+        <seg>Restartovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204039Z" creationid="svetlemodry" creationdate="20141219T204039Z">
+        <seg>Uložit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save as bookmark</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204416Z" creationid="svetlemodry" creationdate="20141219T204407Z">
+        <seg>Uložit jako záložku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scan QR code</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204551Z" creationid="svetlemodry" creationdate="20141219T204551Z">
+        <seg>Skenovat QR kód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204353Z" creationid="svetlemodry" creationdate="20141219T204353Z">
+        <seg>Hledat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secret accepted!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204616Z" creationid="svetlemodry" creationdate="20141219T204616Z">
+        <seg>Tajemství souhlasí!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secrets do not match</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204559Z" creationid="svetlemodry" creationdate="20141219T204559Z">
+        <seg>Tajemství se neshodují</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure conversation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203955Z" creationid="svetlemodry" creationdate="20141219T203955Z">
+        <seg>Zabezpečená konverzace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Security error</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204155Z" creationid="svetlemodry" creationdate="20141219T204155Z">
+        <seg>Bezpečnostní chyba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send OTR encrypted message</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204137Z" creationid="svetlemodry" creationdate="20141219T204137Z">
+        <seg>Poslat OTR šifrovanou zprávu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send OpenPGP encrypted message</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204137Z" creationid="svetlemodry" creationdate="20141219T204137Z">
+        <seg>Poslat OpenPGP šifrovanou zprávu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send again</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204548Z" creationid="svetlemodry" creationdate="20141219T204548Z">
+        <seg>Poslat znovu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send button indicates status</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204536Z" creationid="svetlemodry" creationdate="20141219T204536Z">
+        <seg>Tlačítko pro odeslání zobrazuje stav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send now</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204131Z" creationid="svetlemodry" creationdate="20141219T204131Z">
+        <seg>Odeslat teď</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send plain text message</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204137Z" creationid="svetlemodry" creationdate="20141219T204137Z">
+        <seg>Poslat textovou zprávu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send presence updates</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204149Z" creationid="svetlemodry" creationdate="20141219T204149Z">
+        <seg>Zasílat změny stavu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send private message to %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204441Z" creationid="svetlemodry" creationdate="20141219T204441Z">
+        <seg>Zaslat soukromou zprávu pro %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send unencrypted</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204138Z" creationid="svetlemodry" creationdate="20141219T204138Z">
+        <seg>Poslat nešifrované</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server does not support registration</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204154Z" creationid="svetlemodry" creationdate="20141219T204154Z">
+        <seg>Server nepodporuje registrace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server not found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212314Z" creationid="svetlemodry" creationdate="20141219T204153Z">
+        <seg>Server nenalezen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204035Z" creationid="svetlemodry" creationdate="20141219T204035Z">
+        <seg>Nastavit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203944Z" creationid="svetlemodry" creationdate="20141219T203944Z">
+        <seg>Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share image</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204547Z" creationid="svetlemodry" creationdate="20141219T204547Z">
+        <seg>Sdílet obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share with</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204029Z" creationid="svetlemodry" creationdate="20141219T204029Z">
+        <seg>Sdílet s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share with Conversation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204003Z" creationid="svetlemodry" creationdate="20141219T204003Z">
+        <seg>Sdílet s konverzací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shared Secret</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204556Z" creationid="svetlemodry" creationdate="20141219T204556Z">
+        <seg>Sdílené tajemství</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show QR code</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204552Z" creationid="svetlemodry" creationdate="20141219T204552Z">
+        <seg>Zobrazit QR kód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show dynamic tags</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204613Z" creationid="svetlemodry" creationdate="20141219T204613Z">
+        <seg>Zobrazit dynamické tagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204453Z" creationid="svetlemodry" creationdate="20141219T204446Z">
+        <seg>Přeskočit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Socialist Millionaire Protocol</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204555Z" creationid="svetlemodry" creationdate="20141219T204555Z">
+        <seg>Socialist Millionaire Protocol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Something went wrong while converting your picture</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204435Z" creationid="svetlemodry" creationdate="20141219T204435Z">
+        <seg>Při konverzi obrázku se něco nezdařilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sound</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204144Z" creationid="svetlemodry" creationdate="20141219T204144Z">
+        <seg>Zvuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start Conversation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204003Z" creationid="svetlemodry" creationdate="20141219T204003Z">
+        <seg>Začít konverzaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start time</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204533Z" creationid="svetlemodry" creationdate="20141219T204533Z">
+        <seg>Odkdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscriptions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204149Z" creationid="svetlemodry" creationdate="20141219T204149Z">
+        <seg>Odběry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tablet</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203842Z" creationid="svetlemodry" creationdate="20141219T203842Z">
+        <seg>Tablet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take picture</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212253Z" creationid="svetlemodry" creationdate="20141219T204150Z">
+        <seg>Vyfotit obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Temporarily disable</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204157Z" creationid="svetlemodry" creationdate="20141219T204157Z">
+        <seg>Dočasně vypnout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Temporarily disabled</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204152Z" creationid="svetlemodry" creationdate="20141219T204152Z">
+        <seg>Dočasně vypnuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The app you used to select this image did not provide us with enough permissions to read the file.\n\n&lt;s0&gt;Use a different file manager to choose an image&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212502Z" creationid="svetlemodry" creationdate="20141219T204152Z">
+        <seg>Aplikace, která byla vybrána pro výběr obrázku, nepovolila přečtení souboru.\n\n&lt;s0&gt;Zkuste použít jiného správce souborů pro výběr obrázku&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contact already exists</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204402Z" creationid="svetlemodry" creationdate="20141219T204402Z">
+        <seg>Kontakt již existuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contact is not in your roster.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204134Z" creationid="svetlemodry" creationdate="20141219T204134Z">
+        <seg>Kontakt není v seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The conversation associated with this bookmark will not be removed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204028Z" creationid="svetlemodry" creationdate="20141219T204028Z">
+        <seg>Konverzace spojené s touto záložkou nebudou odstraněny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The conversation associated with this contact will not be removed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204026Z" creationid="svetlemodry" creationdate="20141219T204026Z">
+        <seg>Konverzace spojené s tímto kontaktem nebudou odstraněny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file has been deleted</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204610Z" creationid="svetlemodry" creationdate="20141219T204610Z">
+        <seg>Soubor byl smazán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file you selected is not an image</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204151Z" creationid="svetlemodry" creationdate="20141219T204151Z">
+        <seg>Vybraný soubor není obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The image file has been deleted</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204543Z" creationid="svetlemodry" creationdate="20141219T204543Z">
+        <seg>Obrázek byl smazán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The name this client identifies itself with</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204706Z" creationid="svetlemodry" creationdate="20141219T204143Z">
+        <seg>Jméno se kterým se tento klient identifikuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The server rejected your publication</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204434Z" creationid="svetlemodry" creationdate="20141219T204434Z">
+        <seg>Server odmítl toto zveřejnění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This account does already exist</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204444Z" creationid="svetlemodry" creationdate="20141219T204444Z">
+        <seg>Tento účet již existuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This bookmark already exists</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204419Z" creationid="svetlemodry" creationdate="20141219T204419Z">
+        <seg>Tato záložka již existuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This conference is members only</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204541Z" creationid="svetlemodry" creationdate="20141219T204541Z">
+        <seg>Tato konference je pouze pro členy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is not a valid Jabber ID</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204223Z" creationid="svetlemodry" creationdate="20141219T204223Z">
+        <seg>Toto není platné Jabber ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Touch avatar to select picture from gallery</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204431Z" creationid="svetlemodry" creationdate="20141219T204431Z">
+        <seg>Ťuknout na avatar a vybrat obrázek z galerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Touch here to manage your accounts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204134Z" creationid="svetlemodry" creationdate="20141219T204134Z">
+        <seg>Pro nastavení účtů ťukni sem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Touch to disable foreground service</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204602Z" creationid="svetlemodry" creationdate="20141219T204602Z">
+        <seg>Ťukni pro vypnutí služby v popředí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Touch to view</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211157Z" creationid="svetlemodry" creationdate="20141219T204142Z">
+        <seg>Ťukni pro prohlédnutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Touch to view and decrypt.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T213500Z" creationid="svetlemodry" creationdate="20141219T204141Z">
+        <seg>Ťukni pro dešifrování a prohlédnutí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Try again</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204559Z" creationid="svetlemodry" creationdate="20141219T204559Z">
+        <seg>Zkusit znovu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Try again later</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204544Z" creationid="svetlemodry" creationdate="20141219T204544Z">
+        <seg>Zkus znovu později</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UI Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
+        <seg>Nastavení UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL copied to clipboard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204549Z" creationid="svetlemodry" creationdate="20141219T204549Z">
+        <seg>URL zkopírováno do schránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to connect to account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204133Z" creationid="svetlemodry" creationdate="20141219T204133Z">
+        <seg>Připojení k účtu se nezdařilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to connect to multiple accounts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204134Z" creationid="svetlemodry" creationdate="20141219T204134Z">
+        <seg>Připojení k několika účtům se nezdařilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unauthorized</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212309Z" creationid="svetlemodry" creationdate="20141219T204153Z">
+        <seg>Nepřihlášen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204152Z" creationid="svetlemodry" creationdate="20141219T204152Z">
+        <seg>Neznámý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown OTR fingerprint</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204340Z" creationid="svetlemodry" creationdate="20141219T204340Z">
+        <seg>Neznámý OTR identifikátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use larger font sizes across the entire app</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204535Z" creationid="svetlemodry" creationdate="20141219T204535Z">
+        <seg>Používat v celé aplikaci větší velikost písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use room’s subject instead of JID to identify conferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204539Z" creationid="svetlemodry" creationdate="20141219T204539Z">
+        <seg>Pro identifikaci konferencí použít téma místnosti místo jejího JID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username already in use</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204154Z" creationid="svetlemodry" creationdate="20141219T204154Z">
+        <seg>Uživatelské jméno se již používá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verified!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204600Z" creationid="svetlemodry" creationdate="20141219T204600Z">
+        <seg>Ověřeno!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verify</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204349Z" creationid="svetlemodry" creationdate="20141219T204349Z">
+        <seg>Ověřit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verify OTR</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204553Z" creationid="svetlemodry" creationdate="20141219T204553Z">
+        <seg>Ověřit OTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vibrate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204144Z" creationid="svetlemodry" creationdate="20141219T204144Z">
+        <seg>Vibrovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View contact details</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204359Z" creationid="svetlemodry" creationdate="20141219T204359Z">
+        <seg>Zobrazit detaily kontaktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Visitor</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204023Z" creationid="svetlemodry" creationdate="20141219T204023Z">
+        <seg>Návštěvník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: SSLv3 is considered insecure.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204529Z" creationid="svetlemodry" creationdate="20141219T204529Z">
+        <seg>Varování: SSLv3 není již považováno za bezpečné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: This could lead to message loss</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204527Z" creationid="svetlemodry" creationdate="20141219T204527Z">
+        <seg>Varování: Toto může vést ke ztrátě zpráv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Would you like to add it?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210728Z" creationid="svetlemodry" creationdate="20141219T204134Z">
+        <seg>Chcete ho přidat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Would you like to remove %s as a bookmark?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204027Z" creationid="svetlemodry" creationdate="20141219T204027Z">
+        <seg>Chcete odstranit %s ze záložek?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Would you like to remove %s from your roster?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204025Z" creationid="svetlemodry" creationdate="20141219T204025Z">
+        <seg>Chcete odstranit %s ze svého seznamu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XEP-0163: PEP (Avatars)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212119Z" creationid="svetlemodry" creationdate="20141219T204238Z">
+        <seg>XEP-0163: PEP (Avatars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XEP-0198: Stream Management</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204236Z" creationid="svetlemodry" creationdate="20141219T204236Z">
+        <seg>XEP-0198: Nastavení proudu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XEP-0280: Message Carbons</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204233Z" creationid="svetlemodry" creationdate="20141219T204233Z">
+        <seg>XEP-0280: Kopie zpráv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XMPP resource</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204142Z" creationid="svetlemodry" creationdate="20141219T204142Z">
+        <seg>XMPP zdroj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204421Z" creationid="svetlemodry" creationdate="20141219T204421Z">
+        <seg>Já</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are banned from this conference</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204540Z" creationid="svetlemodry" creationdate="20141219T204540Z">
+        <seg>Vstup do konference byl zakázán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are not connected.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204544Z" creationid="svetlemodry" creationdate="20141219T204544Z">
+        <seg>Bez připojení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have been kicked from this conference</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204542Z" creationid="svetlemodry" creationdate="20141219T204542Z">
+        <seg>Vykopli tě z této konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204149Z" creationid="svetlemodry" creationdate="20141219T204149Z">
+        <seg>Váš účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your fingerprint</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204346Z" creationid="svetlemodry" creationdate="20141219T204346Z">
+        <seg>Váš identifikátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your nickname has been changed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204138Z" creationid="svetlemodry" creationdate="20141219T204138Z">
+        <seg>Přezdívka byla změněna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your server does not support the publication of avatars</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204437Z" creationid="svetlemodry" creationdate="20141219T204437Z">
+        <seg>Váš server nepodporuje zveřejňování avataru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>available</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204241Z" creationid="svetlemodry" creationdate="20141219T204241Z">
+        <seg>dostupný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>away</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204227Z" creationid="svetlemodry" creationdate="20141219T204227Z">
+        <seg>pryč</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>delivery failed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204135Z" creationid="svetlemodry" creationdate="20141219T204135Z">
+        <seg>doručení selhalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>do not disturb</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204228Z" creationid="svetlemodry" creationdate="20141219T204228Z">
+        <seg>nerušit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extended away</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204227Z" creationid="svetlemodry" creationdate="20141219T204227Z">
+        <seg>rozšířené pryč</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file transmission failed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204609Z" creationid="svetlemodry" creationdate="20141219T204609Z">
+        <seg>přenos souboru selhal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>free to chat</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204226Z" creationid="svetlemodry" creationdate="20141219T204226Z">
+        <seg>volný pro chat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>just now</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204009Z" creationid="svetlemodry" creationdate="20141219T204009Z">
+        <seg>právě teď</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>last seen %d days ago</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204318Z" creationid="svetlemodry" creationdate="20141219T204318Z">
+        <seg>naposledy spatřen před %d dny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>last seen %d hours ago</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204316Z" creationid="svetlemodry" creationdate="20141219T204250Z">
+        <seg>naposledy spatřen před %d hodinami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>last seen %d minutes ago</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204245Z" creationid="svetlemodry" creationdate="20141219T204245Z">
+        <seg>naposledy spatřen před %d minutami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>last seen 1 day ago</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204327Z" creationid="svetlemodry" creationdate="20141219T204310Z">
+        <seg>naposledy spatřen před 1 dnem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>last seen 1 hour ago</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204246Z" creationid="svetlemodry" creationdate="20141219T204246Z">
+        <seg>naposledy spatřen před 1 hodinou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>last seen 1 minute ago</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204245Z" creationid="svetlemodry" creationdate="20141219T204245Z">
+        <seg>naposledy spatřen před 1 minutou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>last seen just now</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204244Z" creationid="svetlemodry" creationdate="20141219T204244Z">
+        <seg>právě spatřen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>never</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203908Z" creationid="svetlemodry" creationdate="20141219T203908Z">
+        <seg>nikdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>never seen</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204319Z" creationid="svetlemodry" creationdate="20141219T204319Z">
+        <seg>nebyl nikdy spatřen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>offering…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204140Z" creationid="svetlemodry" creationdate="20141219T204140Z">
+        <seg>nabízí…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>offline</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204304Z" creationid="svetlemodry" creationdate="20141219T204228Z">
+        <seg>offline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>online</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212135Z" creationid="svetlemodry" creationdate="20141219T204226Z">
+        <seg>online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rejected</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204135Z" creationid="svetlemodry" creationdate="20141219T204135Z">
+        <seg>zamítnuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>room@conference.example.com</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204411Z" creationid="svetlemodry" creationdate="20141219T204405Z">
+        <seg>mistnost@konference.server.cz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>scan</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204554Z" creationid="svetlemodry" creationdate="20141219T204554Z">
+        <seg>skenovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sending (%1$d%% completed)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204606Z" creationid="svetlemodry" creationdate="20141219T204606Z">
+        <seg>odesílám (%1$d%% přeneseno)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sending…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204016Z" creationid="svetlemodry" creationdate="20141219T204016Z">
+        <seg>odesílám…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204439Z" creationid="svetlemodry" creationdate="20141219T204439Z">
+        <seg>pro %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unavailable</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204243Z" creationid="svetlemodry" creationdate="20141219T204243Z">
+        <seg>nedostupný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unread Conversations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204015Z" creationid="svetlemodry" creationdate="20141219T204015Z">
+        <seg>nepřečtené konverzace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>until further notice</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203936Z" creationid="svetlemodry" creationdate="20141219T203936Z">
+        <seg>než opět změním</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>username@example.com</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212339Z" creationid="svetlemodry" creationdate="20141219T204203Z">
+        <seg>jmeno@server.cz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>using account %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204542Z" creationid="svetlemodry" creationdate="20141219T204542Z">
+        <seg>za použití účtu %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>waiting…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204140Z" creationid="svetlemodry" creationdate="20141219T204140Z">
+        <seg>čekám…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>whispered</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204438Z" creationid="svetlemodry" creationdate="20141219T204438Z">
+        <seg>šeptem</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">conversations-strings.xml</prop>
+      <prop type="id">contacts_have_no_pgp_keys</prop>
+      <tuv lang="EN">
+        <seg>Conversations is unable to encrypt your messages because your contacts are not announcing their public key.\n\n&lt;s0&gt;Please ask your contacts to setup OpenPGP.&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T213800Z" creationid="svetlemodry" creationdate="20141219T213800Z">
+        <seg>Není možné zašifrovat zprávy v aplikaci Konverzace, protože kontakty neoznamují svůj veřejný klíč.\n\n&lt;s0&gt;Požádejte své kontakty ať si nastaví OpenPGP.&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">conversations-strings.xml</prop>
+      <prop type="id">encrypted_message_received</prop>
+      <tuv lang="EN">
+        <seg>Touch to view and decrypt.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T213519Z" creationid="svetlemodry" creationdate="20141219T213519Z">
+        <seg>Ťukni pro dešifrování a přečtení.</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
