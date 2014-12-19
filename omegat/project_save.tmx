@@ -664,8 +664,8 @@
       <tuv lang="EN">
         <seg>Conversations</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T213856Z" creationid="svetlemodry" creationdate="20141219T203756Z">
-        <seg>Konverzace</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T214522Z" creationid="svetlemodry" creationdate="20141219T203756Z">
+        <seg>Conversations</seg>
       </tuv>
     </tu>
     <tu>
@@ -2973,6 +2973,16 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">conversations-strings.xml</prop>
+      <prop type="id">app_name</prop>
+      <tuv lang="EN">
+        <seg>Conversations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T214313Z" creationid="svetlemodry" creationdate="20141219T214313Z">
+        <seg>Conversations</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">conversations-strings.xml</prop>
       <prop type="id">contacts_have_no_pgp_keys</prop>
