@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>%1$s%2$s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150103T173638Z" creationid="svetlemodry" creationdate="20150103T173638Z">
+        <seg>%1$s%2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>%d mins ago</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204014Z" creationid="svetlemodry" creationdate="20141219T204014Z">
@@ -2830,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ms</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150103T173642Z" creationid="svetlemodry" creationdate="20150103T173642Z">
+        <seg>ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>never</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203908Z" creationid="svetlemodry" creationdate="20141219T203908Z">
@@ -2882,6 +2898,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204411Z" creationid="svetlemodry" creationdate="20141219T204405Z">
         <seg>mistnost@konference.server.cz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150103T173644Z" creationid="svetlemodry" creationdate="20150103T173644Z">
+        <seg>s</seg>
       </tuv>
     </tu>
     <tu>
