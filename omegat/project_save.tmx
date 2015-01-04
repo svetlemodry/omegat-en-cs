@@ -478,6 +478,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Carefully compare the fingerprint shown below with the fingerprint of your contact.\nYou can use any trusted form of communication like an encrypted e-mail or a telephone call to exchange those.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114012Z" creationid="svetlemodry" creationdate="20150104T114012Z">
+        <seg>Opatrně porovnejte otisk zobrazený níže s otiskem vašeho kontatku.\nMůžete využít jakoukoliv bezpečnou formu komunikace pro jejich výměnu, jako třeba šifrovaný email nebo telefonát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change password</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114021Z" creationid="svetlemodry" creationdate="20150104T114021Z">
+        <seg>Změnit heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change password on server</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112302Z" creationid="svetlemodry" creationdate="20150104T112302Z">
@@ -838,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current password</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114029Z" creationid="svetlemodry" creationdate="20150104T114029Z">
+        <seg>Současné heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current session established</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204448Z" creationid="svetlemodry" creationdate="20141219T204445Z">
@@ -922,6 +946,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204655Z" creationid="svetlemodry" creationdate="20141219T204136Z">
         <seg>Smazat zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable all accounts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114120Z" creationid="svetlemodry" creationdate="20150104T114120Z">
+        <seg>Vypnout všechny účty</seg>
       </tuv>
     </tu>
     <tu>
@@ -1042,6 +1074,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204158Z" creationid="svetlemodry" creationdate="20141219T204158Z">
         <seg>Povolit účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable all accounts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114106Z" creationid="svetlemodry" creationdate="20150104T114106Z">
+        <seg>Povolit všechny účty</seg>
       </tuv>
     </tu>
     <tu>
@@ -1242,6 +1282,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
         <seg>I/O chyba dešifrování souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you and your contact have a secret in common that no one else knows (like an inside joke or simply what you had for lunch the last time you met) you can use that secret to verify each other's fingerprints.\n\nYou provide a hint or a question for your contact who will respond with a case-sensitive answer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T113448Z" creationid="svetlemodry" creationdate="20150104T113448Z">
+        <seg>Pokud máte vy i váš kontakt společné tajemství které neví nikdo jiný (něco jako společný vtip nebo co jste spolu měli k obědu při svém posledním setkání), můžete toto tajemství použít pro ověření pravosti svých šifrovacích otisků.\n\nZadáte nápovědu nebo otázku a kontakt na ni správně odpoví.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New password</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114034Z" creationid="svetlemodry" creationdate="20150104T114034Z">
+        <seg>Nové heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204444Z" creationid="svetlemodry" creationdate="20141219T204444Z">
@@ -1790,10 +1846,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Password should not be empty</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114056Z" creationid="svetlemodry" creationdate="20150104T114056Z">
+        <seg>Heslo nemá být prázdné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Passwords do not match</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204223Z" creationid="svetlemodry" creationdate="20141219T204223Z">
         <seg>Hesla nesouhlasí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Perform action with</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114128Z" creationid="svetlemodry" creationdate="20150104T114128Z">
+        <seg>Provést akci s</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,10 +2966,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your contact provided the following hint or question for that secret.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T113724Z" creationid="svetlemodry" creationdate="20150104T113724Z">
+        <seg>Váš kontakt zadal následující nápovědu nebo otázku pro zodpovězení tajemství.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your contact would like to verify your fingerprint by challenging you with a shared secret.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T113617Z" creationid="svetlemodry" creationdate="20150104T113617Z">
+        <seg>Váš kontakt by rád ověřil pravost šifrovacího otisku dotazem na společné tajemství.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your fingerprint</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204346Z" creationid="svetlemodry" creationdate="20141219T204346Z">
         <seg>Váš identifikátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your hint should not be empty</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T113737Z" creationid="svetlemodry" creationdate="20150104T113737Z">
+        <seg>Nápověda by měla být vyplněna</seg>
       </tuv>
     </tu>
     <tu>
@@ -2914,6 +3010,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204437Z" creationid="svetlemodry" creationdate="20141219T204437Z">
         <seg>Váš server nepodporuje zveřejňování avataru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your shared secret can not be empty</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T113800Z" creationid="svetlemodry" creationdate="20150104T113800Z">
+        <seg>Společně tajemství nemůže být nevyplněno</seg>
       </tuv>
     </tu>
     <tu>
