@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ask question</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112712Z" creationid="svetlemodry" creationdate="20150104T112712Z">
+        <seg>Položit otázku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attach file</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210708Z" creationid="svetlemodry" creationdate="20141219T204134Z">
@@ -386,6 +394,46 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204143Z" creationid="svetlemodry" creationdate="20141219T204143Z">
         <seg>Automaticky přijímat soubory menší než…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Block</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112309Z" creationid="svetlemodry" creationdate="20150104T112309Z">
+        <seg>Zablokovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Block all contacts from %s?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112235Z" creationid="svetlemodry" creationdate="20150104T112235Z">
+        <seg>Zablokovat všechny kontakty z %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Block contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T111924Z" creationid="svetlemodry" creationdate="20150104T111914Z">
+        <seg>Zablokovat kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Block domain</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T111928Z" creationid="svetlemodry" creationdate="20150104T111928Z">
+        <seg>Zablokovat doménu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Block list</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112025Z" creationid="svetlemodry" creationdate="20150104T112025Z">
+        <seg>Seznam blokovaných</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +474,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204609Z" creationid="svetlemodry" creationdate="20141219T204609Z">
         <seg>Zrušit přenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change password on server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112302Z" creationid="svetlemodry" creationdate="20150104T112302Z">
+        <seg>Změnit heslo na serveru</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contact blocked</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112253Z" creationid="svetlemodry" creationdate="20150104T112253Z">
+        <seg>Kontakty zablokovány</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contact details</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T220028Z" creationid="svetlemodry" creationdate="20141219T203952Z">
@@ -722,6 +786,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204546Z" creationid="svetlemodry" creationdate="20141219T204546Z">
         <seg>Zkopírovat text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not change password</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112632Z" creationid="svetlemodry" creationdate="20150104T112632Z">
+        <seg>Nelze změnit heslo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1710,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Password changed!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112621Z" creationid="svetlemodry" creationdate="20150104T112621Z">
+        <seg>Heslo změněno!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Passwords do not match</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204223Z" creationid="svetlemodry" creationdate="20141219T204223Z">
@@ -2062,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Send a message to start an encrypted chat</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112659Z" creationid="svetlemodry" creationdate="20150104T112659Z">
+        <seg>Zaslat zprávu pro spuštění šifrovaného chatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Send again</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204548Z" creationid="svetlemodry" creationdate="20141219T204548Z">
@@ -2126,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server info</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112402Z" creationid="svetlemodry" creationdate="20150104T112402Z">
+        <seg>Údaje serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server not found</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212314Z" creationid="svetlemodry" creationdate="20141219T204153Z">
@@ -2186,6 +2282,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204552Z" creationid="svetlemodry" creationdate="20141219T204552Z">
         <seg>Zobrazit QR kód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show block list</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112603Z" creationid="svetlemodry" creationdate="20150104T112603Z">
+        <seg>Zobrazit seznam blokovaných</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This account already exists</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112550Z" creationid="svetlemodry" creationdate="20150104T112550Z">
+        <seg>Tento účet již existuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This account does already exist</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204444Z" creationid="svetlemodry" creationdate="20141219T204444Z">
@@ -2494,6 +2606,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unblock</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112312Z" creationid="svetlemodry" creationdate="20150104T112312Z">
+        <seg>Odblokovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unblock all contacts from %s?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112247Z" creationid="svetlemodry" creationdate="20150104T112247Z">
+        <seg>Odblokovat všechny kontakty z %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unblock contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T111919Z" creationid="svetlemodry" creationdate="20150104T111919Z">
+        <seg>Odblokovat kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unblock domain</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T111951Z" creationid="svetlemodry" creationdate="20150104T111951Z">
+        <seg>Odblokovat doménu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unknown</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204152Z" creationid="svetlemodry" creationdate="20141219T204152Z">
@@ -2506,6 +2650,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204340Z" creationid="svetlemodry" creationdate="20141219T204340Z">
         <seg>Neznámý OTR identifikátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112615Z" creationid="svetlemodry" creationdate="20150104T112615Z">
+        <seg>Aktualizuji...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Would you like to block %s from sending you messages?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112146Z" creationid="svetlemodry" creationdate="20150104T112146Z">
+        <seg>Chcete zablokovat příjem zpráv od %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Would you like to remove %s as a bookmark?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204027Z" creationid="svetlemodry" creationdate="20141219T204027Z">
@@ -2622,10 +2782,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Would you like to unblock %s and allow them to send you messages?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112221Z" creationid="svetlemodry" creationdate="20150104T112221Z">
+        <seg>Chcete odblokovat příjem zpráv od %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XEP-0163: PEP (Avatars)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212119Z" creationid="svetlemodry" creationdate="20141219T204238Z">
         <seg>XEP-0163: PEP (Avatars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XEP-0191: Blocking Command</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112505Z" creationid="svetlemodry" creationdate="20150104T112505Z">
+        <seg>XEP-0191: Příkaz blokování</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,10 +2814,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XEP-0237: Roster Versioning</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112532Z" creationid="svetlemodry" creationdate="20150104T112532Z">
+        <seg>XEP-0237: Verzování seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XEP-0280: Message Carbons</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204233Z" creationid="svetlemodry" creationdate="20141219T204233Z">
         <seg>XEP-0280: Kopie zpráv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XEP-0313: MAM</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112424Z" creationid="svetlemodry" creationdate="20150104T112424Z">
+        <seg>XEP-0313: MAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XEP-0352: Client State Indication</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112452Z" creationid="svetlemodry" creationdate="20150104T112452Z">
+        <seg>XEP-0352: Zobrazování stavu klienta</seg>
       </tuv>
     </tu>
     <tu>
