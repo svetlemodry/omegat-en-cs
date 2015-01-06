@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advanced mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150106T201237Z" creationid="svetlemodry" creationdate="20150106T201237Z">
+        <seg>Pokročilý mód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also vibrate when a new message arrives</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204144Z" creationid="svetlemodry" creationdate="20141219T204144Z">
@@ -1494,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Member</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150106T201248Z" creationid="svetlemodry" creationdate="20150106T201248Z">
+        <seg>Člen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Message copied to clipboard</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204550Z" creationid="svetlemodry" creationdate="20141219T204550Z">
@@ -1614,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No affiliation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150106T201338Z" creationid="svetlemodry" creationdate="20150106T201338Z">
+        <seg>Nepřidružený</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No application found to open file</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204611Z" creationid="svetlemodry" creationdate="20141219T204611Z">
@@ -1642,6 +1666,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204619Z" creationid="svetlemodry" creationdate="20141219T204619Z">
         <seg>Na serveru není žádná další historie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No role</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150106T201309Z" creationid="svetlemodry" creationdate="20150106T201309Z">
+        <seg>Bez role</seg>
       </tuv>
     </tu>
     <tu>
@@ -1810,6 +1842,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204224Z" creationid="svetlemodry" creationdate="20141219T204224Z">
         <seg>Nedostatek paměti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Outcast</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150106T201305Z" creationid="svetlemodry" creationdate="20150106T201305Z">
+        <seg>Vyloučený</seg>
       </tuv>
     </tu>
     <tu>
