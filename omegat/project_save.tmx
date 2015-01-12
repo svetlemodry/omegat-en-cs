@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>%s offered for download</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185555Z" creationid="svetlemodry" creationdate="20150112T185555Z">
+        <seg>%s nabídnuto ke stažení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Or long press to bring back default)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204436Z" creationid="svetlemodry" creationdate="20141219T204436Z">
@@ -406,6 +414,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ban from conference</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190122Z" creationid="svetlemodry" creationdate="20150112T185810Z">
+        <seg>Vypovědět z konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ban now</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190106Z" creationid="svetlemodry" creationdate="20150112T190006Z">
+        <seg>Vypovědět</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Block</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112309Z" creationid="svetlemodry" creationdate="20150104T112309Z">
@@ -654,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conference options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190232Z" creationid="svetlemodry" creationdate="20150112T190232Z">
+        <seg>Nastavení konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conference requires password</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204459Z" creationid="svetlemodry" creationdate="20141219T204459Z">
@@ -814,10 +846,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not change affiliation of %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190158Z" creationid="svetlemodry" creationdate="20150112T185752Z">
+        <seg>Nelze změnit připojení uživatele %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not change password</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112632Z" creationid="svetlemodry" creationdate="20150104T112632Z">
         <seg>Nelze změnit heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not change role of %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190152Z" creationid="svetlemodry" creationdate="20150112T190152Z">
+        <seg>Nelze změnit roli uživatele %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not modify conference options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190334Z" creationid="svetlemodry" creationdate="20150112T190334Z">
+        <seg>Nepodařilo se upravit nastavení konference!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185535Z" creationid="svetlemodry" creationdate="20150112T185535Z">
+        <seg>Stáhnout %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download %s file</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204605Z" creationid="svetlemodry" creationdate="20141219T204605Z">
@@ -1182,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter is send</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190454Z" creationid="svetlemodry" creationdate="20150112T190454Z">
+        <seg>Enter odesílá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter password</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204500Z" creationid="svetlemodry" creationdate="20141219T204500Z">
@@ -1266,6 +1338,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204151Z" creationid="svetlemodry" creationdate="20141219T204151Z">
         <seg>Obecná I/O chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grant admin privileges</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185627Z" creationid="svetlemodry" creationdate="20150112T185627Z">
+        <seg>Povolit administrátorská oprávnění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grant membership</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185611Z" creationid="svetlemodry" creationdate="20150112T185611Z">
+        <seg>Povolit členství</seg>
       </tuv>
     </tu>
     <tu>
@@ -1378,6 +1466,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204535Z" creationid="svetlemodry" creationdate="20141219T204535Z">
         <seg>Zvětšit písmo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Input options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190447Z" creationid="svetlemodry" creationdate="20150112T190447Z">
+        <seg>Nastavení zadávání</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1662,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modified conference options!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190313Z" creationid="svetlemodry" creationdate="20150112T190313Z">
+        <seg>Nastavení konference upravena!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Never</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190338Z" creationid="svetlemodry" creationdate="20150112T190338Z">
+        <seg>Nikdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Never ask again</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204132Z" creationid="svetlemodry" creationdate="20141219T204132Z">
@@ -1686,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-anonymous</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190258Z" creationid="svetlemodry" creationdate="20150112T190258Z">
+        <seg>Neanonymní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification Settings</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204143Z" creationid="svetlemodry" creationdate="20141219T204143Z">
@@ -1782,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185542Z" creationid="svetlemodry" creationdate="20150112T185542Z">
+        <seg>Otevřít %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open %s file</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204605Z" creationid="svetlemodry" creationdate="20141219T204605Z">
@@ -1858,6 +1986,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204020Z" creationid="svetlemodry" creationdate="20141219T204020Z">
         <seg>Vlastník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF document</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190547Z" creationid="svetlemodry" creationdate="20150112T190547Z">
+        <seg>dokument PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -2014,6 +2150,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Private (Members only)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190246Z" creationid="svetlemodry" creationdate="20150112T190246Z">
+        <seg>Soukromá (pouze členové)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private, members only conference</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190225Z" creationid="svetlemodry" creationdate="20150112T190225Z">
+        <seg>Soukromá konference pouze pro členy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publicly accessible conference</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190209Z" creationid="svetlemodry" creationdate="20150112T190209Z">
+        <seg>Veřejně přístupná konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publish</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204430Z" creationid="svetlemodry" creationdate="20141219T204430Z">
@@ -2062,10 +2222,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Received %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190553Z" creationid="svetlemodry" creationdate="20150112T190553Z">
+        <seg>%s přijat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Received messages will be marked with a green tick if supported</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204537Z" creationid="svetlemodry" creationdate="20141219T204537Z">
         <seg>Přijaté zprávy budou označeny zeleně, pokud je funkce podporována</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Receiving %1$s (%2$d%% completed)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185523Z" creationid="svetlemodry" creationdate="20150112T185523Z">
+        <seg>Přijímám %1$s (%2$d%% dokončeno)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove from conference</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185645Z" creationid="svetlemodry" creationdate="20150112T185645Z">
+        <seg>Odebrat z konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Request message receipts</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204536Z" creationid="svetlemodry" creationdate="20141219T204536Z">
@@ -2170,6 +2354,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211029Z" creationid="svetlemodry" creationdate="20141219T204139Z">
         <seg>Restartovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Revoke admin privileges</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185636Z" creationid="svetlemodry" creationdate="20150112T185636Z">
+        <seg>Odebrat administrátorská oprávnění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Revoke membership</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185616Z" creationid="svetlemodry" creationdate="20150112T185616Z">
+        <seg>Odebrat členství</seg>
       </tuv>
     </tu>
     <tu>
@@ -2382,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Share with…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185412Z" creationid="svetlemodry" creationdate="20150112T185412Z">
+        <seg>Sdílet s...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shared Secret</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204556Z" creationid="svetlemodry" creationdate="20141219T204556Z">
@@ -2570,6 +2778,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204706Z" creationid="svetlemodry" creationdate="20141219T204143Z">
         <seg>Jméno se kterým se tento klient identifikuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The only way to do that is to ban that user for ever.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190113Z" creationid="svetlemodry" creationdate="20150112T185954Z">
+        <seg>Lze to provést jedině trvalým vypovězením uživatele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2766,10 +2982,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Until further notice</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190427Z" creationid="svetlemodry" creationdate="20150112T190427Z">
+        <seg>Než opět změním</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updating…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112615Z" creationid="svetlemodry" creationdate="20150104T112615Z">
         <seg>Aktualizuji...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use enter key to send message</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190505Z" creationid="svetlemodry" creationdate="20150112T190505Z">
+        <seg>Použít klávesu enter pro odesílání zpráv</seg>
       </tuv>
     </tu>
     <tu>
@@ -2990,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are trying to remove %s from a public conference.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190023Z" creationid="svetlemodry" creationdate="20150112T185923Z">
+        <seg>Pokoušíte se vyhodit %s z veřejné konference.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You have been kicked from this conference</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204542Z" creationid="svetlemodry" creationdate="20141219T204542Z">
@@ -3058,6 +3298,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T113800Z" creationid="svetlemodry" creationdate="20150104T113800Z">
         <seg>Společně tajemství nemůže být nevyplněno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>audio file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190523Z" creationid="svetlemodry" creationdate="20150112T190523Z">
+        <seg>zvukový soubor</seg>
       </tuv>
     </tu>
     <tu>
@@ -3322,6 +3570,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204542Z" creationid="svetlemodry" creationdate="20141219T204542Z">
         <seg>za použití účtu %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>video file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190526Z" creationid="svetlemodry" creationdate="20150112T190526Z">
+        <seg>video soubor</seg>
       </tuv>
     </tu>
     <tu>
