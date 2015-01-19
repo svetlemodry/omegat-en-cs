@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android App</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180226Z" creationid="svetlemodry" creationdate="20150119T180226Z">
+        <seg>Aplikace pro Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure that you want to verify your contacts OTR fingerprint?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204612Z" creationid="svetlemodry" creationdate="20141219T204612Z">
@@ -410,6 +418,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204143Z" creationid="svetlemodry" creationdate="20141219T204143Z">
         <seg>Automaticky přijímat soubory menší než…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avatar has been published!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180326Z" creationid="svetlemodry" creationdate="20150119T180326Z">
+        <seg>Avatar byl zveřejněn!</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,6 +546,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112302Z" creationid="svetlemodry" creationdate="20150104T112302Z">
         <seg>Změnit heslo na serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the emoticons key to an enter key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180205Z" creationid="svetlemodry" creationdate="20150119T180205Z">
+        <seg>Změnit klávesu emotikon na klávesu enter</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +762,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204153Z" creationid="svetlemodry" creationdate="20141219T204153Z">
         <seg>Připojuji\u2026</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180231Z" creationid="svetlemodry" creationdate="20150119T180231Z">
+        <seg>Kontakt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1050,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114120Z" creationid="svetlemodry" creationdate="20150104T114120Z">
         <seg>Vypnout všechny účty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable foreground service</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180253Z" creationid="svetlemodry" creationdate="20150119T180253Z">
+        <seg>Vypnout službu v popředí</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Offering %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180344Z" creationid="svetlemodry" creationdate="20150119T180344Z">
+        <seg>Nabízím %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Offline</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204153Z" creationid="svetlemodry" creationdate="20141219T204153Z">
@@ -2518,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sending %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180338Z" creationid="svetlemodry" creationdate="20150119T180338Z">
+        <seg>Odesílám %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server does not support registration</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204154Z" creationid="svetlemodry" creationdate="20141219T204154Z">
@@ -2618,6 +2674,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204613Z" creationid="svetlemodry" creationdate="20141219T204613Z">
         <seg>Zobrazit dynamické tagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show enter key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180144Z" creationid="svetlemodry" creationdate="20150119T180144Z">
+        <seg>Zobrazit klávesu enter</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,6 +2922,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204602Z" creationid="svetlemodry" creationdate="20141219T204602Z">
         <seg>Ťukni pro vypnutí služby v popředí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Touch to open Conversations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180319Z" creationid="svetlemodry" creationdate="20150119T180319Z">
+        <seg>Ťuknout pro otevření Konverzace</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>audio</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180206Z" creationid="svetlemodry" creationdate="20150119T180206Z">
+        <seg>audio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>audio file</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190523Z" creationid="svetlemodry" creationdate="20150112T190523Z">
@@ -3350,6 +3430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180125Z" creationid="svetlemodry" creationdate="20150119T180125Z">
+        <seg>soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>file transmission failed</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204609Z" creationid="svetlemodry" creationdate="20141219T204609Z">
@@ -3362,6 +3450,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204226Z" creationid="svetlemodry" creationdate="20141219T204226Z">
         <seg>volný pro chat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>image</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180215Z" creationid="svetlemodry" creationdate="20150119T180215Z">
+        <seg>obrázek</seg>
       </tuv>
     </tu>
     <tu>
@@ -3570,6 +3666,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204542Z" creationid="svetlemodry" creationdate="20141219T204542Z">
         <seg>za použití účtu %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>video</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180210Z" creationid="svetlemodry" creationdate="20150119T180210Z">
+        <seg>video</seg>
       </tuv>
     </tu>
     <tu>
