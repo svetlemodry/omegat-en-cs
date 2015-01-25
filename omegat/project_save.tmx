@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide offline</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150125T151710Z" creationid="svetlemodry" creationdate="20150125T151710Z">
+        <seg>Skrýt nepřipojené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hint or Question</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204555Z" creationid="svetlemodry" creationdate="20141219T204555Z">
