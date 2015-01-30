@@ -88,8 +88,8 @@
       <tuv lang="EN">
         <seg>1 hour</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203929Z" creationid="svetlemodry" creationdate="20141219T203929Z">
-        <seg>jedna hodina</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124945Z" creationid="svetlemodry" creationdate="20141219T203929Z">
+        <seg>1 hodina</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +110,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>12 hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125002Z" creationid="svetlemodry" creationdate="20150130T125002Z">
+        <seg>12 hodin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1440</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125024Z" creationid="svetlemodry" creationdate="20150130T125024Z">
+        <seg>1440</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>15</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125013Z" creationid="svetlemodry" creationdate="20150130T125013Z">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>15 minutes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124938Z" creationid="svetlemodry" creationdate="20150130T124938Z">
+        <seg>15 minut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>180</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125019Z" creationid="svetlemodry" creationdate="20150130T125019Z">
+        <seg>180</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1800</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203938Z" creationid="svetlemodry" creationdate="20141219T203938Z">
@@ -122,6 +162,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203932Z" creationid="svetlemodry" creationdate="20141219T203932Z">
         <seg>2 hodiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>24 hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125007Z" creationid="svetlemodry" creationdate="20150130T125007Z">
+        <seg>24 hodin</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,6 +198,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124647Z" creationid="svetlemodry" creationdate="20150130T124647Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3 hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124949Z" creationid="svetlemodry" creationdate="20150130T124949Z">
+        <seg>3 hodiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>30</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125015Z" creationid="svetlemodry" creationdate="20150130T125015Z">
+        <seg>30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30 minutes</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203922Z" creationid="svetlemodry" creationdate="20141219T203922Z">
@@ -158,10 +230,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>360</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125020Z" creationid="svetlemodry" creationdate="20150130T125020Z">
+        <seg>360</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3600</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203939Z" creationid="svetlemodry" creationdate="20141219T203939Z">
         <seg>3600</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125009Z" creationid="svetlemodry" creationdate="20150130T125009Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5 minutes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124932Z" creationid="svetlemodry" creationdate="20150130T124932Z">
+        <seg>5 minut</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +274,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203920Z" creationid="svetlemodry" creationdate="20141219T203920Z">
         <seg>524288</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6 hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124956Z" creationid="svetlemodry" creationdate="20150130T124956Z">
+        <seg>6 hodin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>60</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125017Z" creationid="svetlemodry" creationdate="20150130T125017Z">
+        <seg>60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>720</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125022Z" creationid="svetlemodry" creationdate="20150130T125022Z">
+        <seg>720</seg>
       </tuv>
     </tu>
     <tu>
@@ -257,6 +377,14 @@
         <seg>Add account</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203957Z" creationid="svetlemodry" creationdate="20141219T203957Z">
+        <seg>Přidat účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add an account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125445Z" creationid="svetlemodry" creationdate="20150130T125445Z">
         <seg>Přidat účet</seg>
       </tuv>
     </tu>
@@ -534,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change app settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125504Z" creationid="svetlemodry" creationdate="20150130T125504Z">
+        <seg>Změnit nastavení aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change password</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114021Z" creationid="svetlemodry" creationdate="20150104T114021Z">
@@ -766,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connection failed, ensure this is the right server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125229Z" creationid="svetlemodry" creationdate="20150130T125229Z">
+        <seg>Připojení selhalo, ujistěte se, že máte správný server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contact</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180231Z" creationid="svetlemodry" creationdate="20150119T180231Z">
@@ -962,6 +1106,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204448Z" creationid="svetlemodry" creationdate="20141219T204445Z">
         <seg>Současné sezení vytvořeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data &amp; sync</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124847Z" creationid="svetlemodry" creationdate="20150130T124847Z">
+        <seg>Data a synchronizace</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1454,126 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error #11: Unable to perform a connection to ownCloud instance</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125907Z" creationid="svetlemodry" creationdate="20150130T125907Z">
+        <seg>Chyba #11: Nelze se připojit k ownCloud serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #12: Unable to perform a connection to ownCloud instance</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125938Z" creationid="svetlemodry" creationdate="20150130T125938Z">
+        <seg>Chyba #12: Nelze se připojit k ownCloud serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #13: Unable to perform a connection to ownCloud instance</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125951Z" creationid="svetlemodry" creationdate="20150130T125951Z">
+        <seg>Chyba #13: Nelze se připojit k ownCloud serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #14: Unable to parse server response</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125959Z" creationid="svetlemodry" creationdate="20150130T125959Z">
+        <seg>Chyba #14: Nelze zpracovat odpověď serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #15: Unable to parse server response</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T130011Z" creationid="svetlemodry" creationdate="20150130T130011Z">
+        <seg>Chyba #15: Nelze zpracovat odpověď serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #16: No data connection available</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T130033Z" creationid="svetlemodry" creationdate="20150130T130033Z">
+        <seg>Chyba #16: Není dostupné datové připojení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #1: Invalid data received from server when getting previous messages</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125730Z" creationid="svetlemodry" creationdate="20150130T125730Z">
+        <seg>Chyba #1: Přijata neplatná data ze serveru při přijímání předchozích zpráv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #2: Error while crafting HTTP request</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125740Z" creationid="svetlemodry" creationdate="20150130T125740Z">
+        <seg>Chyba #2: Chyba při vytváření HTTP požadavku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #3: Push request failed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125747Z" creationid="svetlemodry" creationdate="20150130T125747Z">
+        <seg>Chyba #3: Požadavek Push selhal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #4: Invalid datas received from server when pushing datas</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125800Z" creationid="svetlemodry" creationdate="20150130T125800Z">
+        <seg>Chyba #4: Přijata neplatná data ze serveru při jejich odesílání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #5: NULL Sms List</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125814Z" creationid="svetlemodry" creationdate="20150130T125814Z">
+        <seg>Chyba #5: NULL Sms List</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #6: Error while crafting push request</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125822Z" creationid="svetlemodry" creationdate="20150130T125822Z">
+        <seg>Chyba #6: Chyba při vytváření Push požadavku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #7: Unsupported encoding when generating request</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125830Z" creationid="svetlemodry" creationdate="20150130T125830Z">
+        <seg>Chyba #7: Nepodporované kódování při vytváření požadavku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #8: Authentication failed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125837Z" creationid="svetlemodry" creationdate="20150130T125837Z">
+        <seg>Chyba #8: Ověření selhalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #9: Server set unhandled HTTP return code</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125852Z" creationid="svetlemodry" creationdate="20150130T125852Z">
+        <seg>Chyba #9: Server nastavil neznámý HTTP kód odpovědi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while converting the image file</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204151Z" creationid="svetlemodry" creationdate="20141219T204151Z">
@@ -1322,6 +1594,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204558Z" creationid="svetlemodry" creationdate="20141219T204558Z">
         <seg>Selhalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fast Sync frequency</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124720Z" creationid="svetlemodry" creationdate="20150130T124720Z">
+        <seg>Frekvence rychlé synchronizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error !</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125712Z" creationid="svetlemodry" creationdate="20150130T125712Z">
+        <seg>Chyba !</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1670,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General Settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124927Z" creationid="svetlemodry" creationdate="20150130T124927Z">
+        <seg>Hlavní nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124917Z" creationid="svetlemodry" creationdate="20150130T124828Z">
+        <seg>Všeobecné možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Accounts and Sync</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125458Z" creationid="svetlemodry" creationdate="20150130T125458Z">
+        <seg>Přejít na Účty a synchronizaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125510Z" creationid="svetlemodry" creationdate="20150130T125510Z">
+        <seg>Přejít do Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Grant admin privileges</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185627Z" creationid="svetlemodry" creationdate="20150112T185627Z">
@@ -1402,6 +1722,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
         <seg>Povolit aktualizace stavu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hello world!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T130057Z" creationid="svetlemodry" creationdate="20150130T130057Z">
+        <seg>Hello world!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1442,6 +1770,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204158Z" creationid="svetlemodry" creationdate="20141219T204158Z">
         <seg>Pokud smažete svůj účet celá historie konverzací bude ztracena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you like this application, please give rate us on Google Play Store</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125438Z" creationid="svetlemodry" creationdate="20150130T125438Z">
+        <seg>Pokud se vám tato aplikace líbí, ohodnoťte ji v Obchodě Google Play</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid server address</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125152Z" creationid="svetlemodry" creationdate="20150130T125152Z">
+        <seg>Neplatná adresa serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invite Contact</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204030Z" creationid="svetlemodry" creationdate="20141219T204030Z">
@@ -1602,6 +1946,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
         <seg>Dá vědět kontaktům, že zpráva byla přijata a přečtena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Login</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125059Z" creationid="svetlemodry" creationdate="20150130T125059Z">
+        <seg>Login</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Login or password incorrect</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125128Z" creationid="svetlemodry" creationdate="20150130T125128Z">
+        <seg>Nesprávné jméno nebo heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MainActivity</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T130036Z" creationid="svetlemodry" creationdate="20150130T130036Z">
+        <seg>MainActivity</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,6 +2502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please ensure there is a web server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125319Z" creationid="svetlemodry" creationdate="20150130T125319Z">
+        <seg>Ujistěte se, že je webový server dostupný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please install OpenKeychain to decrypt.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204333Z" creationid="svetlemodry" creationdate="20141219T204333Z">
@@ -2266,6 +2642,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204532Z" creationid="svetlemodry" creationdate="20141219T204532Z">
         <seg>Tichý režim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rate us !</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125337Z" creationid="svetlemodry" creationdate="20150130T125337Z">
+        <seg>Ohodnoťit!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2430,6 +2814,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SMS - Fast</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124739Z" creationid="svetlemodry" creationdate="20150130T124706Z">
+        <seg>SMS - rychle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SMS - Slow and Secure</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124729Z" creationid="svetlemodry" creationdate="20150130T124729Z">
+        <seg>SMS - pomalu a bezpečně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204039Z" creationid="svetlemodry" creationdate="20141219T204039Z">
@@ -2474,6 +2874,38 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204559Z" creationid="svetlemodry" creationdate="20141219T204559Z">
         <seg>Tajemství se neshodují</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Section 1</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T130041Z" creationid="svetlemodry" creationdate="20150130T130041Z">
+        <seg>Sekce 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Section 2</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T130045Z" creationid="svetlemodry" creationdate="20150130T130045Z">
+        <seg>Sekce 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Section 3</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T130052Z" creationid="svetlemodry" creationdate="20150130T130052Z">
+        <seg>Sekce 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure Slow Sync frequency</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124759Z" creationid="svetlemodry" creationdate="20150130T124759Z">
+        <seg>Frekvence bezpečné pomalé synchronizace</seg>
       </tuv>
     </tu>
     <tu>
@@ -2578,6 +3010,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180338Z" creationid="svetlemodry" creationdate="20150119T180338Z">
         <seg>Odesílám %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server address</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125146Z" creationid="svetlemodry" creationdate="20150130T125146Z">
+        <seg>Adresa serveru</seg>
       </tuv>
     </tu>
     <tu>
@@ -2694,6 +3134,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sign in</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125052Z" creationid="svetlemodry" creationdate="20150130T125052Z">
+        <seg>Přihlášení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sign in or register</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125114Z" creationid="svetlemodry" creationdate="20150130T125114Z">
+        <seg>Přihlásit se nebo registrovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204453Z" creationid="svetlemodry" creationdate="20141219T204446Z">
@@ -2750,6 +3206,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sync in progress...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125659Z" creationid="svetlemodry" creationdate="20150130T125659Z">
+        <seg>Probíhá synchronizace...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sync options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124840Z" creationid="svetlemodry" creationdate="20150130T124840Z">
+        <seg>Možnosti synchronizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sync process</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125653Z" creationid="svetlemodry" creationdate="20150130T125653Z">
+        <seg>Proces synchronizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronization</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124818Z" creationid="svetlemodry" creationdate="20150130T124818Z">
+        <seg>Synchronizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronize now</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124811Z" creationid="svetlemodry" creationdate="20150130T124811Z">
+        <seg>Synchronizovat teď</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tablet</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203842Z" creationid="svetlemodry" creationdate="20141219T203842Z">
@@ -2778,6 +3274,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204152Z" creationid="svetlemodry" creationdate="20141219T204152Z">
         <seg>Dočasně vypnuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thanks to</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125405Z" creationid="svetlemodry" creationdate="20150130T125405Z">
+        <seg>Poděkování</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This application let you synchronise your SMS to your ownCloud instance using SMS app.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125648Z" creationid="svetlemodry" creationdate="20150130T125648Z">
+        <seg>Tato aplikace umožnuje sychronizovat SMS do vašeho účtu na serveru ownCloud. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This bookmark already exists</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204419Z" creationid="svetlemodry" creationdate="20141219T204419Z">
@@ -2902,10 +3414,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This field is required</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125142Z" creationid="svetlemodry" creationdate="20150130T125142Z">
+        <seg>Toto pole je vyžadováno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is not a valid Jabber ID</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204223Z" creationid="svetlemodry" creationdate="20141219T204223Z">
         <seg>Toto není platné Jabber ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This password is too short</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125136Z" creationid="svetlemodry" creationdate="20150130T125136Z">
+        <seg>Toto heslo je příliš krátké</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,6 +3530,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204134Z" creationid="svetlemodry" creationdate="20141219T204134Z">
         <seg>Připojení k několika účtům se nezdařilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to perform a HTTP connection.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125241Z" creationid="svetlemodry" creationdate="20150130T125241Z">
+        <seg>Nelze provést připojení přes HTTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3706,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204527Z" creationid="svetlemodry" creationdate="20141219T204527Z">
         <seg>Varování: Toto může vést ke ztrátě zpráv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Welcome</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125513Z" creationid="svetlemodry" creationdate="20150130T125513Z">
+        <seg>Vítejte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Welcome to ownCloud SMS application.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125526Z" creationid="svetlemodry" creationdate="20150130T125526Z">
+        <seg>Vítejte v aplikaci ownCloud SMS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3458,6 +4010,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204226Z" creationid="svetlemodry" creationdate="20141219T204226Z">
         <seg>volný pro chat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125324Z" creationid="svetlemodry" creationdate="20150130T125324Z">
+        <seg>http://</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125322Z" creationid="svetlemodry" creationdate="20150130T125322Z">
+        <seg>https://</seg>
       </tuv>
     </tu>
     <tu>
