@@ -2574,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pretty Good Music Player</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182425Z" creationid="svetlemodry" creationdate="20150201T182425Z">
+        <seg>Pretty Good Music Player</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Prevents the operating system from killing your connection</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204603Z" creationid="svetlemodry" creationdate="20141219T204603Z">
