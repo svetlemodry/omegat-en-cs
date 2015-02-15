@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disable Account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150215T145134Z" creationid="svetlemodry" creationdate="20150215T145134Z">
+        <seg>Vypnout účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disable all accounts</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114120Z" creationid="svetlemodry" creationdate="20150104T114120Z">
