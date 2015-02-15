@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error #17: malformed account.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150215T150358Z" creationid="svetlemodry" creationdate="20150215T150358Z">
+        <seg>Chyba #17: účet poškozený</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error #1: Invalid data received from server when getting previous messages</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125730Z" creationid="svetlemodry" creationdate="20150130T125730Z">
@@ -1682,6 +1690,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125800Z" creationid="svetlemodry" creationdate="20150130T125800Z">
         <seg>Chyba #4: Přijata neplatná data ze serveru při jejich odesílání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #5: NULL SMS List</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150215T150410Z" creationid="svetlemodry" creationdate="20150215T150410Z">
+        <seg>Chyba #5: NULL SMS List</seg>
       </tuv>
     </tu>
     <tu>
@@ -2186,6 +2202,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T130036Z" creationid="svetlemodry" creationdate="20150130T130036Z">
         <seg>MainActivity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MainActivity2</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150215T150222Z" creationid="svetlemodry" creationdate="20150215T150222Z">
+        <seg>MainActivity2</seg>
       </tuv>
     </tu>
     <tu>
@@ -2866,6 +2890,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204432Z" creationid="svetlemodry" creationdate="20141219T204432Z">
         <seg>Pozor: Každý s povolením vidět změny stavu uvidí tento obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please reconfigure it</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150215T150306Z" creationid="svetlemodry" creationdate="20150215T150306Z">
+        <seg>Znovu nakonfigurovat</seg>
       </tuv>
     </tu>
     <tu>
@@ -3838,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This application let you synchronize your SMS to your ownCloud instance using SMS app.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150215T150511Z" creationid="svetlemodry" creationdate="20150215T150511Z">
+        <seg>Tato aplikace umožnuje sychronizovat SMS do vašeho účtu na serveru ownCloud za pomoci aplikace pro SMS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This bookmark already exists</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204419Z" creationid="svetlemodry" creationdate="20141219T204419Z">
@@ -4690,6 +4730,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212135Z" creationid="svetlemodry" creationdate="20141219T204226Z">
         <seg>online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ownCloud developers\n\ Contributors and issue's reporters</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150215T150608Z" creationid="svetlemodry" creationdate="20150215T150608Z">
+        <seg>ownCloud vývojáři\n\ přispěvatelé a ti co hlásí chyby</seg>
       </tuv>
     </tu>
     <tu>
