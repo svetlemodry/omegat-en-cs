@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"ORGANIZER of your events; required if you use attendee info"</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151234Z" creationid="svetlemodry" creationdate="20150309T151234Z">
+        <seg>"ORGANIZÁTOR událostí; vyžadováno pokud budete přidávat účastníky"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Use your email address as account name because Android will use the account name as ORGANIZER field for events you create.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151325Z" creationid="svetlemodry" creationdate="20150309T151325Z">
+        <seg>"Použijte svou emailovou adresu jako jméno účtu. Android bude používat tuto hodnotu jako jméno ORGANIZÁTORA událostí které vytvoříte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>%1$s%2$s</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150103T173638Z" creationid="svetlemodry" creationdate="20150103T173638Z">
@@ -134,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>14400</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150813Z" creationid="svetlemodry" creationdate="20150309T150813Z">
+        <seg>14400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>15</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125013Z" creationid="svetlemodry" creationdate="20150130T125013Z">
@@ -238,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>300</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150807Z" creationid="svetlemodry" creationdate="20150309T150807Z">
+        <seg>300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>360</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125020Z" creationid="svetlemodry" creationdate="20150130T125020Z">
@@ -302,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>600</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150808Z" creationid="svetlemodry" creationdate="20150309T150808Z">
+        <seg>600</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>720</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125022Z" creationid="svetlemodry" creationdate="20150130T125022Z">
@@ -322,6 +362,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203934Z" creationid="svetlemodry" creationdate="20141219T203934Z">
         <seg>8 hodin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>86400</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150814Z" creationid="svetlemodry" creationdate="20150309T150814Z">
+        <seg>86400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>900</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150810Z" creationid="svetlemodry" creationdate="20150309T150810Z">
+        <seg>900</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +442,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204552Z" creationid="svetlemodry" creationdate="20141219T204552Z">
         <seg>Detaily účtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Account name:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151127Z" creationid="svetlemodry" creationdate="20150309T151127Z">
+        <seg>Jméno účtu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +522,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204446Z" creationid="svetlemodry" creationdate="20141219T204446Z">
         <seg>Dodatečné informace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Address books</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151016Z" creationid="svetlemodry" creationdate="20150309T151016Z">
+        <seg>Adresáře</seg>
       </tuv>
     </tu>
     <tu>
@@ -730,6 +802,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210615Z" creationid="svetlemodry" creationdate="20141219T210509Z">
         <seg>Zasláním detailů o důvodu selhání pomůžete dalšímu vývoji aplikace Konverzace\n&lt;b0&gt;Varování:&lt;/b0&gt; Toto použije nastavený XMPP účet pro zaslání detailů vývojářům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calendars</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151020Z" creationid="svetlemodry" creationdate="20150309T151020Z">
+        <seg>Kalendáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calendars sync.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150748Z" creationid="svetlemodry" creationdate="20150309T150748Z">
+        <seg>Interval synchronizace</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contacts sync.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150419Z" creationid="svetlemodry" creationdate="20150309T150419Z">
+        <seg>Interval synchronizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conversations</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T214522Z" creationid="svetlemodry" creationdate="20141219T203756Z">
@@ -1198,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Credentials are sent after server requests them</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150340Z" creationid="svetlemodry" creationdate="20150309T150340Z">
+        <seg>Přihlašovací údaje jsou zasílány po vyžádání serverem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Credentials are sent with every request (recommended)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150321Z" creationid="svetlemodry" creationdate="20150309T150321Z">
@@ -1234,6 +1338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T144636Z" creationid="svetlemodry" creationdate="20150309T144636Z">
         <seg>DAVdroid respektuje vaše soukromí, přečtěte si naši &lt;a href="http://davdroid.bitfire.at/privacy?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;Privacy Policy&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Pokud používáte CyanogenMod, "Privacy Guard" musí být pro DAVdroid vypnut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DAVdroid: Select collections</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150909Z" creationid="svetlemodry" creationdate="20150309T150909Z">
+        <seg>DAVdroid: Vybrat sbírky</seg>
       </tuv>
     </tu>
     <tu>
@@ -1530,6 +1642,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110023Z" creationid="svetlemodry" creationdate="20150208T110023Z">
         <seg>Upravit stopu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Email address:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151144Z" creationid="svetlemodry" creationdate="20150309T151144Z">
+        <seg>Emailová adresa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,6 +1954,62 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204151Z" creationid="svetlemodry" creationdate="20141219T204151Z">
         <seg>Chyba při konverzi obrázkového souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every %d minutes + immediately on local changes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150503Z" creationid="svetlemodry" creationdate="20150309T150503Z">
+        <seg>Každých %d minut a ihned při lokálních změnách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every 10 minutes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150827Z" creationid="svetlemodry" creationdate="20150309T150827Z">
+        <seg>Každých 10 minut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every 15 minutes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150833Z" creationid="svetlemodry" creationdate="20150309T150833Z">
+        <seg>Každých 15 minut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every 2 hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150844Z" creationid="svetlemodry" creationdate="20150309T150844Z">
+        <seg>Každé 2 hodiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every 4 hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150849Z" creationid="svetlemodry" creationdate="20150309T150849Z">
+        <seg>Každé 4 hodiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every 5 minutes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150823Z" creationid="svetlemodry" creationdate="20150309T150823Z">
+        <seg>Každých 5 minut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every hour</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150838Z" creationid="svetlemodry" creationdate="20150309T150838Z">
+        <seg>Každou hodinu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>My CalDAV/CardDAV Account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151139Z" creationid="svetlemodry" creationdate="20150309T151139Z">
+        <seg>Můj CalDAV/CardDAV účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>My ticks</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T105918Z" creationid="svetlemodry" creationdate="20150208T105918Z">
@@ -2642,6 +2826,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204018Z" creationid="svetlemodry" creationdate="20141219T204018Z">
         <seg>Přezdívka se již používá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No CalDAV-/CardDAV service is available at this location.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150947Z" creationid="svetlemodry" creationdate="20150309T150947Z">
+        <seg>V tomto umístění není dostupná žádná služba Cal-/CardDAV.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2746,6 +2938,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190258Z" creationid="svetlemodry" creationdate="20150112T190258Z">
         <seg>Neanonymní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not available</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150740Z" creationid="svetlemodry" creationdate="20150309T150740Z">
+        <seg>Nedostupný</seg>
       </tuv>
     </tu>
     <tu>
@@ -2862,10 +3062,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once a day</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150855Z" creationid="svetlemodry" creationdate="20150309T150855Z">
+        <seg>Jednou za den</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Online</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204152Z" creationid="svetlemodry" creationdate="20141219T204152Z">
         <seg>Online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only manually</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150430Z" creationid="svetlemodry" creationdate="20150309T150430Z">
+        <seg>Pouze manuálně</seg>
       </tuv>
     </tu>
     <tu>
@@ -3270,6 +3486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Querying server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150957Z" creationid="svetlemodry" creationdate="20150309T150957Z">
+        <seg>Dotazování serveru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quiet Hours</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204532Z" creationid="svetlemodry" creationdate="20141219T204532Z">
@@ -3586,6 +3810,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143455Z" creationid="svetlemodry" creationdate="20150309T143455Z">
         <seg>Pro více informací přečtěte FAQ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select up to one address book (tap again to unselect):</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151105Z" creationid="svetlemodry" creationdate="20150309T151105Z">
+        <seg>Vybrat nejvýše jeden adresář (dalším tapnutím odznačíte):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select your calendars:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151117Z" creationid="svetlemodry" creationdate="20150309T151117Z">
+        <seg>Vyberte své kalendáře:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4598,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Which collections shall be synchronized?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151012Z" creationid="svetlemodry" creationdate="20150309T151012Z">
+        <seg>Které sbírky mají být synchronizovány?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Would you like to add it?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210728Z" creationid="svetlemodry" creationdate="20141219T204134Z">
@@ -4738,6 +4986,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190023Z" creationid="svetlemodry" creationdate="20150112T185923Z">
         <seg>Pokoušíte se vyhodit %s z veřejné konference.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can't have two accounts with the same name.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151351Z" creationid="svetlemodry" creationdate="20150309T151351Z">
+        <seg>Nelze mít dva účty se stejným jménem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4938,6 +5194,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110036Z" creationid="svetlemodry" creationdate="20150208T110036Z">
         <seg>neaktivní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>interval</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150425Z" creationid="svetlemodry" creationdate="20150309T150425Z">
+        <seg>kontaktů</seg>
       </tuv>
     </tu>
     <tu>
@@ -5241,6 +5505,16 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T213519Z" creationid="svetlemodry" creationdate="20141219T213519Z">
         <seg>Ťukni pro dešifrování a přečtení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">davdroid-strings.xml</prop>
+      <prop type="id">settings_sync_interval_calendars</prop>
+      <tuv lang="EN">
+        <seg>interval</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150803Z" creationid="svetlemodry" creationdate="20150309T150803Z">
+        <seg>kalendáře</seg>
       </tuv>
     </tu>
   </body>
