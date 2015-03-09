@@ -3694,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Synchronization failed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143304Z" creationid="svetlemodry" creationdate="20150309T143304Z">
+        <seg>Sychronizace selhala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Synchronize now</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124811Z" creationid="svetlemodry" creationdate="20150130T124811Z">
@@ -4738,6 +4746,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150215T150608Z" creationid="svetlemodry" creationdate="20150215T150608Z">
         <seg>ownCloud vývojáři\n\ přispěvatelé a ti co hlásí chyby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>read-only</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143232Z" creationid="svetlemodry" creationdate="20150309T143232Z">
+        <seg>pouze pro čtení</seg>
       </tuv>
     </tu>
     <tu>
