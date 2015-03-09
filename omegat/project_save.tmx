@@ -2528,8 +2528,8 @@
       <tuv lang="EN">
         <seg>Login with email address</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T145615Z" creationid="svetlemodry" creationdate="20150309T145615Z">
-        <seg>Přihlášení emailovou adresou</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151520Z" creationid="svetlemodry" creationdate="20150309T145615Z">
+        <seg>Přihlášení s emailovou adresou</seg>
       </tuv>
     </tu>
     <tu>
@@ -2832,8 +2832,8 @@
       <tuv lang="EN">
         <seg>No CalDAV-/CardDAV service is available at this location.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150947Z" creationid="svetlemodry" creationdate="20150309T150947Z">
-        <seg>V tomto umístění není dostupná žádná služba Cal-/CardDAV.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151807Z" creationid="svetlemodry" creationdate="20150309T150947Z">
+        <seg>V tomto umístění není služba Cal-/CardDAV dostupná.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3816,8 +3816,8 @@
       <tuv lang="EN">
         <seg>Select up to one address book (tap again to unselect):</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151105Z" creationid="svetlemodry" creationdate="20150309T151105Z">
-        <seg>Vybrat nejvýše jeden adresář (dalším tapnutím odznačíte):</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151711Z" creationid="svetlemodry" creationdate="20150309T151105Z">
+        <seg>Vybrat nejvýše jeden adresář (opakovaně tapnout pro odebrání):</seg>
       </tuv>
     </tu>
     <tu>
