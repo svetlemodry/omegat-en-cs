@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h1&gt;Welcome to DAVdroid/%s!&lt;/h1&gt; &lt;p&gt;DAVdroid is an Android 4+ sync adapter for CalDAV/CardDAV.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143803Z" creationid="svetlemodry" creationdate="20150309T143803Z">
+        <seg>&lt;h1&gt;Vítejte do aplikace DAVdroid/%s!&lt;/h1&gt; &lt;p&gt;DAVdroid je aplikace pro Android 4+ na synchronizaci CalDAV/CardDAV účtů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About Conversations</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204531Z" creationid="svetlemodry" creationdate="20141219T204531Z">
@@ -1174,6 +1182,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DAVdroid</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143336Z" creationid="svetlemodry" creationdate="20150309T143336Z">
+        <seg>DAVdroid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DAVdroid respects your privacy, see our &lt;a href="http://davdroid.bitfire.at/privacy?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;Privacy Policy&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;If you use CyanogenMod, "Privacy Guard" must be disabled for DAVdroid.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T144636Z" creationid="svetlemodry" creationdate="20150309T144636Z">
+        <seg>DAVdroid respektuje vaše soukromí, přečtěte si naši &lt;a href="http://davdroid.bitfire.at/privacy?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;Privacy Policy&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Pokud používáte CyanogenMod, "Privacy Guard" musí být pro DAVdroid vypnut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dark</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182635Z" creationid="svetlemodry" creationdate="20150201T182635Z">
@@ -1910,10 +1934,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTTP error: %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143505Z" creationid="svetlemodry" creationdate="20150309T143505Z">
+        <seg>HTTP chyba: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hello world!</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T130057Z" creationid="svetlemodry" creationdate="20150130T130057Z">
         <seg>Hello world!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143347Z" creationid="svetlemodry" creationdate="20150309T143347Z">
+        <seg>Pomoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -1938,6 +1978,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
         <seg>I/O chyba dešifrování souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I/O error: %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143529Z" creationid="svetlemodry" creationdate="20150309T143529Z">
+        <seg>I/O chyba: %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -2058,6 +2106,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204659Z" creationid="svetlemodry" creationdate="20141219T204140Z">
         <seg>Instalovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid URI: %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143536Z" creationid="svetlemodry" creationdate="20150309T143536Z">
+        <seg>Neplatné URI: %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manage sync accounts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143608Z" creationid="svetlemodry" creationdate="20150309T143608Z">
+        <seg>Spravovat synchronizované účty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually verify</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204612Z" creationid="svetlemodry" creationdate="20141219T204612Z">
@@ -2290,6 +2354,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204549Z" creationid="svetlemodry" creationdate="20141219T204549Z">
         <seg>Text zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing capabilities: %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143520Z" creationid="svetlemodry" creationdate="20150309T143520Z">
+        <seg>Chybějící možnosti: %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -3350,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See FAQ for more info.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143455Z" creationid="svetlemodry" creationdate="20150309T143455Z">
+        <seg>Pro více informací přečtěte FAQ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Send OTR encrypted message</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204137Z" creationid="svetlemodry" creationdate="20141219T204137Z">
@@ -3854,6 +3934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There's a &lt;a href="http://davdroid.bitfire.at/configuration?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;Setup guide&lt;/a&gt;, too.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T144519Z" creationid="svetlemodry" creationdate="20150309T144519Z">
+        <seg>Najdete tam i &lt;a href="http://davdroid.bitfire.at/configuration?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;návod pro nastavení&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This account already exists</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112550Z" creationid="svetlemodry" creationdate="20150104T112550Z">
@@ -3954,6 +4042,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110314Z" creationid="svetlemodry" creationdate="20150208T110314Z">
         <seg>Tickmate je v podstatě jednoduchý deník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use it, just add a DAVdroid account for your CalDAV/CardDAV server and your contacts/events will be synchronized in both directions.&lt;/p&gt; &lt;p&gt;For more information, please see the &lt;a href="http://davdroid.bitfire.at?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;DAVdroid homepage&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T144415Z" creationid="svetlemodry" creationdate="20150309T144415Z">
+        <seg>Stačí přidat účet DAVdroid pro CalDAV/CardDAV server a vaše kontakty/události budou synchronizovány oběma směry.&lt;/p&gt; &lt;p&gt;Pro více informací se podívejte na domovskou stránku &lt;a href="http://davdroid.bitfire.at?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;aplikace DAVdroid&lt;/a&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4138,6 +4234,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190427Z" creationid="svetlemodry" creationdate="20150112T190427Z">
         <seg>Než opět změním</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untrusted certificate in certificate path.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143416Z" creationid="svetlemodry" creationdate="20150309T143416Z">
+        <seg>Nedůvěryhodný certifikát ve vybrané cestě.</seg>
       </tuv>
     </tu>
     <tu>
