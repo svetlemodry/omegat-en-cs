@@ -30,10 +30,90 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>%1$.3f %2$s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064800Z" creationid="svetlemodry" creationdate="20150310T064800Z">
+        <seg>%1$.3f %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$.3f %2$s (%3$.3f per month)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064756Z" creationid="svetlemodry" creationdate="20150310T064756Z">
+        <seg>%1$.3f %2$s (%3$.3f za měsíc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$d %2$s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064747Z" creationid="svetlemodry" creationdate="20150310T064747Z">
+        <seg>%1$d %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$d %2$s (%3$.0f per month)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064742Z" creationid="svetlemodry" creationdate="20150310T064742Z">
+        <seg>%1$d %2$s (%3$.0f za měsíc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s (%2$s %3$s)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064812Z" creationid="svetlemodry" creationdate="20150310T064812Z">
+        <seg>%1$s (%2$s %3$s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s (%2$s per month) (%3$s %4$s)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064809Z" creationid="svetlemodry" creationdate="20150310T064809Z">
+        <seg>%1$s (%2$s za měsíc) (%3$s %4$s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s Calculation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063606Z" creationid="svetlemodry" creationdate="20150310T063606Z">
+        <seg>%1$s kalkulace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s Correct?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063707Z" creationid="svetlemodry" creationdate="20150310T063707Z">
+        <seg>%1$s je správně?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s Estimate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063612Z" creationid="svetlemodry" creationdate="20150310T063612Z">
+        <seg>%1$s odhad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>%1$s%2$s</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150103T173638Z" creationid="svetlemodry" creationdate="20150103T173638Z">
         <seg>%1$s%2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s_statistics.html</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064817Z" creationid="svetlemodry" creationdate="20150310T064817Z">
+        <seg>%1$s_statistics.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +146,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185555Z" creationid="svetlemodry" creationdate="20150112T185555Z">
         <seg>%s nabídnuto ke stažení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'%1$s' exists.\nOverwrite it?"</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064313Z" creationid="svetlemodry" creationdate="20150310T064313Z">
+        <seg>'%1$s' existuje.\nPřepsat?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Fuel</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063452Z" creationid="svetlemodry" creationdate="20150310T063452Z">
+        <seg>Přidat palivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add account</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203957Z" creationid="svetlemodry" creationdate="20141219T203957Z">
@@ -854,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CSV file location…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063952Z" creationid="svetlemodry" creationdate="20150310T063952Z">
+        <seg>Umístění CSV souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calendars</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151020Z" creationid="svetlemodry" creationdate="20150309T151020Z">
@@ -882,6 +986,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204609Z" creationid="svetlemodry" creationdate="20141219T204609Z">
         <seg>Zrušit přenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot Estimate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063617Z" creationid="svetlemodry" creationdate="20150310T063617Z">
+        <seg>Nelze odhadnout</seg>
       </tuv>
     </tu>
     <tu>
@@ -1430,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data Entry Mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064237Z" creationid="svetlemodry" creationdate="20150310T064237Z">
+        <seg>Typ zadávání dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Database exported successfully.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110627Z" creationid="svetlemodry" creationdate="20150208T110627Z">
@@ -1442,6 +1562,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110619Z" creationid="svetlemodry" creationdate="20150208T110619Z">
         <seg>Databáze úspěšně importována.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064831Z" creationid="svetlemodry" creationdate="20150310T064831Z">
+        <seg>Datum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date/Time</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063548Z" creationid="svetlemodry" creationdate="20150310T063548Z">
+        <seg>Datum/Čas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1514,6 +1650,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204504Z" creationid="svetlemodry" creationdate="20141219T204504Z">
         <seg>Smazat identifikátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete Log Record</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063713Z" creationid="svetlemodry" creationdate="20150310T063713Z">
+        <seg>Smazat záznam logu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete Vehicle</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063817Z" creationid="svetlemodry" creationdate="20150310T063817Z">
+        <seg>Smazat vozidlo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1622,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distance Driven</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063850Z" creationid="svetlemodry" creationdate="20150310T063850Z">
+        <seg>Najetá vzdálenost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to add %s to your phones contact list?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204225Z" creationid="svetlemodry" creationdate="20141219T204225Z">
@@ -1634,6 +1794,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212847Z" creationid="svetlemodry" creationdate="20141219T212847Z">
         <seg>Chcete smazat všechny zprávy v této konverzaci?\n\n&lt;b0&gt;Varování:&lt;/b0&gt; Toto neovlivní zprávy uložené na jiných přístrojích nebo serverech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to share the exported CSV file?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064251Z" creationid="svetlemodry" creationdate="20150310T064251Z">
+        <seg>Chcete sdílet exportovaný CSV soubor?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2286,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export Complete</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063734Z" creationid="svetlemodry" creationdate="20150310T063734Z">
+        <seg>Export kompletní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export Confirmation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063723Z" creationid="svetlemodry" creationdate="20150310T063723Z">
+        <seg>Potvrzení exportu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FEB</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063135Z" creationid="svetlemodry" creationdate="20150310T063121Z">
@@ -2174,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FillUp</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063434Z" creationid="svetlemodry" creationdate="20150310T063434Z">
+        <seg>FillUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finish</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204600Z" creationid="svetlemodry" creationdate="20141219T204600Z">
@@ -2194,6 +2386,78 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204525Z" creationid="svetlemodry" creationdate="20141219T204525Z">
         <seg>Vynutit šifrování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuel Cost</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063914Z" creationid="svetlemodry" creationdate="20150310T063904Z">
+        <seg>Náklady na palivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuel Economy</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063838Z" creationid="svetlemodry" creationdate="20150310T063838Z">
+        <seg>Palivová úspora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuel Economy (avg)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064652Z" creationid="svetlemodry" creationdate="20150310T064652Z">
+        <seg>Palivová úspora (prům)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuel Economy (max)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064713Z" creationid="svetlemodry" creationdate="20150310T064713Z">
+        <seg>Palivová úspora (max)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuel Economy (min)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064701Z" creationid="svetlemodry" creationdate="20150310T064701Z">
+        <seg>Palivová úspora (min)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuel Log</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063443Z" creationid="svetlemodry" creationdate="20150310T063443Z">
+        <seg>Palivový log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuel Price</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063919Z" creationid="svetlemodry" creationdate="20150310T063919Z">
+        <seg>Cena paliva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuel Price (avg)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064725Z" creationid="svetlemodry" creationdate="20150310T064725Z">
+        <seg>Cena paliva (prům)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuel Purchased</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063900Z" creationid="svetlemodry" creationdate="20150310T063900Z">
+        <seg>Palivo zakoupeno</seg>
       </tuv>
     </tu>
     <tu>
@@ -2274,6 +2538,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
         <seg>Povolit aktualizace stavu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Viewer</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063543Z" creationid="svetlemodry" creationdate="20150310T063543Z">
+        <seg>HTML prohlížeč</seg>
       </tuv>
     </tu>
     <tu>
@@ -2458,6 +2730,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204659Z" creationid="svetlemodry" creationdate="20141219T204140Z">
         <seg>Instalovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insufficient Data</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064638Z" creationid="svetlemodry" creationdate="20150310T064638Z">
+        <seg>Nedostatečná data</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064918Z" creationid="svetlemodry" creationdate="20150310T064918Z">
+        <seg>Ne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No CalDAV-/CardDAV service is available at this location.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151807Z" creationid="svetlemodry" creationdate="20150309T150947Z">
@@ -3234,6 +3522,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204540Z" creationid="svetlemodry" creationdate="20141219T204540Z">
         <seg>OTR otisk zkopírován do schránky!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Odometer</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064841Z" creationid="svetlemodry" creationdate="20150310T064841Z">
+        <seg>Počítadlo kilometrů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Odometer (%1$s)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064851Z" creationid="svetlemodry" creationdate="20150310T064851Z">
+        <seg>Počítadlo kilometrů (%1$s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Odometer Correct?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063649Z" creationid="svetlemodry" creationdate="20150310T063649Z">
+        <seg>Počítadlo kilometrů je správně?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3566,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plots</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063535Z" creationid="svetlemodry" creationdate="20150310T063535Z">
+        <seg>Grafy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pre-emptive authentication</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150256Z" creationid="svetlemodry" creationdate="20150309T150256Z">
@@ -3634,6 +3954,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182541Z" creationid="svetlemodry" creationdate="20150201T182541Z">
         <seg>Předchozí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Price %1$s (avg)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063936Z" creationid="svetlemodry" creationdate="20150310T063936Z">
+        <seg>Cena %1$s (prům)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3934,6 +4262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SUMMARY:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064827Z" creationid="svetlemodry" creationdate="20150310T064827Z">
+        <seg>SHRNUTÍ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204039Z" creationid="svetlemodry" creationdate="20141219T204039Z">
@@ -4034,6 +4370,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143455Z" creationid="svetlemodry" creationdate="20150309T143455Z">
         <seg>Pro více informací přečtěte FAQ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select CSV file …</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063813Z" creationid="svetlemodry" creationdate="20150310T063813Z">
+        <seg>Vybrat CSV soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select File</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063554Z" creationid="svetlemodry" creationdate="20150310T063554Z">
+        <seg>Vybrat soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Units</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063624Z" creationid="svetlemodry" creationdate="20150310T063624Z">
+        <seg>Vybrat jednotky</seg>
       </tuv>
     </tu>
     <tu>
@@ -4206,6 +4566,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Share CSV via …</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063803Z" creationid="svetlemodry" creationdate="20150310T063742Z">
+        <seg>Sdílet CSV pomocí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share HTML via …</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063807Z" creationid="svetlemodry" creationdate="20150310T063747Z">
+        <seg>Sdílet HTML pomocí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Share image</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204547Z" creationid="svetlemodry" creationdate="20141219T204547Z">
@@ -4366,6 +4742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063550Z" creationid="svetlemodry" creationdate="20150310T063550Z">
+        <seg>Statistiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subscriptions</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204149Z" creationid="svetlemodry" creationdate="20141219T204149Z">
@@ -4442,6 +4826,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212253Z" creationid="svetlemodry" creationdate="20141219T204150Z">
         <seg>Vyfotit obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tank Full</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064914Z" creationid="svetlemodry" creationdate="20150310T064914Z">
+        <seg>Nádrž plná</seg>
       </tuv>
     </tu>
     <tu>
@@ -4682,6 +5074,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110314Z" creationid="svetlemodry" creationdate="20150208T110314Z">
         <seg>Tickmate je v podstatě jednoduchý deník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Time</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064833Z" creationid="svetlemodry" creationdate="20150310T064833Z">
+        <seg>Čas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4974,6 +5374,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Value is less than the current odometer value in the log for this vehicle (%1$s).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064520Z" creationid="svetlemodry" creationdate="20150310T064445Z">
+        <seg>Hodnota je nižší než aktuální hodnota logu počítadla kilometrů pro toto vozidlo (%1$s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Value is more than the vehicle tank size (%1$s).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064517Z" creationid="svetlemodry" creationdate="20150310T064517Z">
+        <seg>Hodnot je vyšší než velikost nádrže vozidla (%1$s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Verified!</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204600Z" creationid="svetlemodry" creationdate="20141219T204600Z">
@@ -5206,6 +5622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064916Z" creationid="svetlemodry" creationdate="20150310T064916Z">
+        <seg>Ano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204421Z" creationid="svetlemodry" creationdate="20141219T204421Z">
@@ -5322,6 +5746,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T113800Z" creationid="svetlemodry" creationdate="20150104T113800Z">
         <seg>Společně tajemství nemůže být nevyplněno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\nCalculations will begin after you fill your tank once to establish a starting point.\n</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064631Z" creationid="svetlemodry" creationdate="20150310T064631Z">
+        <seg>\nKalkulace se spustí po nastavení výchozího bodu po dalším natankování.\n</seg>
       </tuv>
     </tu>
     <tu>
