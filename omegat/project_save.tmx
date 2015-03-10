@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070845Z" creationid="svetlemodry" creationdate="20150310T070845Z">
+        <seg>O aplikaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About Conversations</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204531Z" creationid="svetlemodry" creationdate="20141219T204531Z">
@@ -806,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Application settings and information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070827Z" creationid="svetlemodry" creationdate="20150310T070827Z">
+        <seg>Informace a nastavení aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure that you want to import the selected database?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110705Z" creationid="svetlemodry" creationdate="20150208T110705Z">
@@ -978,6 +994,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112025Z" creationid="svetlemodry" creationdate="20150104T112025Z">
         <seg>Seznam blokovaných</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Build Date</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070912Z" creationid="svetlemodry" creationdate="20150310T070912Z">
+        <seg>Datum sestavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Currency</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T071114Z" creationid="svetlemodry" creationdate="20150310T071114Z">
+        <seg>Měna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current password</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114029Z" creationid="svetlemodry" creationdate="20150104T114029Z">
@@ -1630,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Database Version</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070916Z" creationid="svetlemodry" creationdate="20150310T070916Z">
+        <seg>Verze databáze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Database exported successfully.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110627Z" creationid="svetlemodry" creationdate="20150208T110627Z">
@@ -1642,6 +1682,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110619Z" creationid="svetlemodry" creationdate="20150208T110619Z">
         <seg>Databáze úspěšně importována.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Database update failed!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070441Z" creationid="svetlemodry" creationdate="20150310T070441Z">
+        <seg>Aktualizace databáze selhala!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1878,10 +1926,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display Cost in Log</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T071026Z" creationid="svetlemodry" creationdate="20150310T071026Z">
+        <seg>Zobrazit náklady v logu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display Notes in Log</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T071033Z" creationid="svetlemodry" creationdate="20150310T071033Z">
+        <seg>Zobrazi poznámky v logu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display application help information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T071055Z" creationid="svetlemodry" creationdate="20150310T071055Z">
+        <seg>Zobrazit pomoc v aplikaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display application version information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070858Z" creationid="svetlemodry" creationdate="20150310T070858Z">
+        <seg>Zobrazit informaci o verzi aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display read-only tags underneath contacts</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204613Z" creationid="svetlemodry" creationdate="20141219T204613Z">
         <seg>Zobrazit tagy pro čtení pod kontakty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display the software license</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070939Z" creationid="svetlemodry" creationdate="20150310T070939Z">
+        <seg>Zobrazit licenci softwaru</seg>
       </tuv>
     </tu>
     <tu>
@@ -1970,6 +2058,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070259Z" creationid="svetlemodry" creationdate="20150310T070259Z">
         <seg>Duplicitní jméno vozidla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ERROR</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070738Z" creationid="svetlemodry" creationdate="20150310T070738Z">
+        <seg>ERROR</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error occurred creating report file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070515Z" creationid="svetlemodry" creationdate="20150310T070515Z">
+        <seg>Došlo k chybě při vytváření souboru reportu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error saving data.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070055Z" creationid="svetlemodry" creationdate="20150310T070055Z">
@@ -2574,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font size for plots</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070842Z" creationid="svetlemodry" creationdate="20150310T070842Z">
+        <seg>Velikost písma grafů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For each day, you can specify whether something has occurred or not.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110328Z" creationid="svetlemodry" creationdate="20150208T110328Z">
@@ -2674,6 +2786,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063900Z" creationid="svetlemodry" creationdate="20150310T063900Z">
         <seg>Palivo zakoupeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gallons</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070757Z" creationid="svetlemodry" creationdate="20150310T070757Z">
+        <seg>Galonů</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid fuel price value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070554Z" creationid="svetlemodry" creationdate="20150310T070554Z">
+        <seg>Neplatná hodnota ceny paliva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid odometer value.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070356Z" creationid="svetlemodry" creationdate="20150310T070356Z">
@@ -3030,10 +3158,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid total cost value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070457Z" creationid="svetlemodry" creationdate="20150310T070457Z">
+        <seg>Neplatná hodnota celkových nákladů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid vehicle name.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070420Z" creationid="svetlemodry" creationdate="20150310T070420Z">
         <seg>Neplatné jméno vozidla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid vehicle tank size.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070431Z" creationid="svetlemodry" creationdate="20150310T070431Z">
+        <seg>Neplatná velikost nádrže vozidla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3134,6 +3278,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>KM/L</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070810Z" creationid="svetlemodry" creationdate="20150310T070810Z">
+        <seg>KM/L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>KPG</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070808Z" creationid="svetlemodry" creationdate="20150310T070808Z">
+        <seg>KPG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep service in foreground</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204603Z" creationid="svetlemodry" creationdate="20141219T204603Z">
@@ -3146,6 +3306,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204149Z" creationid="svetlemodry" creationdate="20141219T204149Z">
         <seg>Klíče</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kilometers</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070803Z" creationid="svetlemodry" creationdate="20150310T070803Z">
+        <seg>Kilometrů</seg>
       </tuv>
     </tu>
     <tu>
@@ -3198,10 +3366,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070920Z" creationid="svetlemodry" creationdate="20150310T070920Z">
+        <seg>Licence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Light</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182632Z" creationid="svetlemodry" creationdate="20150201T182632Z">
         <seg>Světlý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Liters</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070800Z" creationid="svetlemodry" creationdate="20150310T070800Z">
+        <seg>Litrů</seg>
       </tuv>
     </tu>
     <tu>
@@ -3266,6 +3450,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063145Z" creationid="svetlemodry" creationdate="20150310T063145Z">
         <seg>KVĚ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MPG</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070806Z" creationid="svetlemodry" creationdate="20150310T070806Z">
+        <seg>MPG</seg>
       </tuv>
     </tu>
     <tu>
@@ -3370,6 +3562,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204549Z" creationid="svetlemodry" creationdate="20141219T204549Z">
         <seg>Text zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Miles</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070801Z" creationid="svetlemodry" creationdate="20150310T070801Z">
+        <seg>Mil</seg>
       </tuv>
     </tu>
     <tu>
@@ -3998,6 +4198,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Package Name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070905Z" creationid="svetlemodry" creationdate="20150310T070905Z">
+        <seg>Jméno balíčku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Package Version</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070909Z" creationid="svetlemodry" creationdate="20150310T070909Z">
+        <seg>Verze balíčku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Participant</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204022Z" creationid="svetlemodry" creationdate="20141219T204022Z">
@@ -4482,6 +4698,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204503Z" creationid="svetlemodry" creationdate="20141219T204503Z">
         <seg>Ihned vyžádat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Require Cost</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070947Z" creationid="svetlemodry" creationdate="20150310T070947Z">
+        <seg>Vyžaduje náklady</seg>
       </tuv>
     </tu>
     <tu>
@@ -5318,6 +5542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are no suitable applications installed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070541Z" creationid="svetlemodry" creationdate="20150310T070541Z">
+        <seg>Nejsou nainstalované odpovídající aplikace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There's a &lt;a href="http://davdroid.bitfire.at/configuration?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;Setup guide&lt;/a&gt;, too.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T144519Z" creationid="svetlemodry" creationdate="20150309T144519Z">
@@ -5574,6 +5806,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to calculate fuel amount using these values</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070725Z" creationid="svetlemodry" creationdate="20150310T070725Z">
+        <seg>Pomocí těchto hodnot nelze spočítat množství paliva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to calculate fuel price using these values</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070734Z" creationid="svetlemodry" creationdate="20150310T070624Z">
+        <seg>Pomocí těchto hodnot nelze spočítat cenu paliva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to calculate total cost using these values</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070730Z" creationid="svetlemodry" creationdate="20150310T070705Z">
+        <seg>Pomocí těchto hodnot nelze spočítat celkové náklady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to connect to account</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204133Z" creationid="svetlemodry" creationdate="20141219T204133Z">
@@ -5634,6 +5890,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T111951Z" creationid="svetlemodry" creationdate="20150104T111951Z">
         <seg>Odblokovat doménu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Units</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070829Z" creationid="svetlemodry" creationdate="20150310T070829Z">
+        <seg>Jednotky</seg>
       </tuv>
     </tu>
     <tu>
@@ -5882,6 +6146,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125526Z" creationid="svetlemodry" creationdate="20150130T125526Z">
         <seg>Vítejte v aplikaci ownCloud SMS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When entering fuel purchase</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T071014Z" creationid="svetlemodry" creationdate="20150310T071014Z">
+        <seg>Při zadávání nákupu paliva</seg>
       </tuv>
     </tu>
     <tu>
@@ -6542,6 +6814,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>per gallon</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070742Z" creationid="svetlemodry" creationdate="20150310T070742Z">
+        <seg>za galon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>per km</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070750Z" creationid="svetlemodry" creationdate="20150310T070750Z">
+        <seg>na km</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>per liter</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070744Z" creationid="svetlemodry" creationdate="20150310T070744Z">
+        <seg>za litr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>per mile</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070748Z" creationid="svetlemodry" creationdate="20150310T070748Z">
+        <seg>na míli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>price %1$s</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065145Z" creationid="svetlemodry" creationdate="20150310T065145Z">
@@ -6626,6 +6930,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204243Z" creationid="svetlemodry" creationdate="20141219T204243Z">
         <seg>nedostupný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070815Z" creationid="svetlemodry" creationdate="20150310T070815Z">
+        <seg>neznámý</seg>
       </tuv>
     </tu>
     <tu>
