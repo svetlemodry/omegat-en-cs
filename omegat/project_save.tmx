@@ -5408,8 +5408,8 @@
       <tuv lang="EN">
         <seg>Tank is not full.\nAdjust gauge\nfor estimate.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065826Z" creationid="svetlemodry" creationdate="20150310T065826Z">
-        <seg>Nádrž není plná.\nUpravit měření\npro odhad.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150312T111752Z" creationid="svetlemodry" creationdate="20150310T065826Z">
+        <seg>Nádrž není plná.\nUpravte ukazatel\npro odhad.</seg>
       </tuv>
     </tu>
     <tu>
