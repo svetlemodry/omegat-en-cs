@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All clipboards</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172702Z" creationid="svetlemodry" creationdate="20150328T172702Z">
+        <seg>Všechny položky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All data</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063058Z" creationid="svetlemodry" creationdate="20150310T063058Z">
@@ -1362,6 +1370,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T170959Z" creationid="svetlemodry" creationdate="20150328T170959Z">
         <seg>Kliknout pro přidání textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click to copy.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172416Z" creationid="svetlemodry" creationdate="20150328T172416Z">
+        <seg>Kliknout pro zkopírování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click to edit.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172353Z" creationid="svetlemodry" creationdate="20150328T172353Z">
+        <seg>Kliknout pro upravení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3726,6 +3750,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Long click to copy.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172405Z" creationid="svetlemodry" creationdate="20150328T172405Z">
+        <seg>Dlouhý klik pro zkopírování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long click to edit.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172428Z" creationid="svetlemodry" creationdate="20150328T172428Z">
+        <seg>Dlouhý klik pro úpravu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MAR</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063139Z" creationid="svetlemodry" creationdate="20150310T063139Z">
@@ -3858,6 +3898,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204549Z" creationid="svetlemodry" creationdate="20141219T204549Z">
         <seg>Text zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Middle - with status bar icon.\nAt the middle of notifications.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172542Z" creationid="svetlemodry" creationdate="20150328T172542Z">
+        <seg>Střední - s ikonou ve stavovém řádku.\nUprostřed seznamu upozornění.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4442,6 +4490,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171248Z" creationid="svetlemodry" creationdate="20150328T171248Z">
         <seg>Zobrazit pouze při změně schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only starred clipboards</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172656Z" creationid="svetlemodry" creationdate="20150328T172656Z">
+        <seg>Pouze označené položky</seg>
       </tuv>
     </tu>
     <tu>
@@ -5166,6 +5222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resumed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172729Z" creationid="svetlemodry" creationdate="20150328T172729Z">
+        <seg>Spuštěno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reverse sort</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171943Z" creationid="svetlemodry" creationdate="20150328T171943Z">
@@ -5560,8 +5624,8 @@
       <tuv lang="EN">
         <seg>Set click &amp; long click actions.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172324Z" creationid="svetlemodry" creationdate="20150328T172324Z">
-        <seg>Nastavit akci pro normální a dlouhé kliknutí</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172329Z" creationid="svetlemodry" creationdate="20150328T172324Z">
+        <seg>Nastavit akci pro normální a dlouhé kliknutí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5946,6 +6010,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204152Z" creationid="svetlemodry" creationdate="20141219T204152Z">
         <seg>Dočasně vypnuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Temporary stopped</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172708Z" creationid="svetlemodry" creationdate="20150328T172708Z">
+        <seg>Dočasně pozastaveno</seg>
       </tuv>
     </tu>
     <tu>
@@ -7042,6 +7114,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064631Z" creationid="svetlemodry" creationdate="20150310T064631Z">
         <seg>\nKalkulace se spustí po nastavení výchozího bodu po dalším natankování.\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\nHigh - with status bar icon.\nAt the top of notifications.\n</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172634Z" creationid="svetlemodry" creationdate="20150328T172634Z">
+        <seg>\nVysoká - s ikonou ve stavovém řádku.\nNahoře v seznamu upozornění.\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\nLow - without status bar icon.\nAt the end of notifications.\n</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172638Z" creationid="svetlemodry" creationdate="20150328T172517Z">
+        <seg>\nNízká - bez ikony ve stavovém řádku.\nNa konci seznamu upozornění.\n</seg>
       </tuv>
     </tu>
     <tu>
