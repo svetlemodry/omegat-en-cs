@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Clip Stack Backup "</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171736Z" creationid="svetlemodry" creationdate="20150328T171736Z">
+        <seg>"Záloha Clip Stack"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Clip Stack"</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171013Z" creationid="svetlemodry" creationdate="20150328T171013Z">
+        <seg>"Clip Stack"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Clipping Now Backup "</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171839Z" creationid="svetlemodry" creationdate="20150328T171839Z">
+        <seg>"Provést zálohu "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"If you don't use encryption (HTTPS), other people may easily intercept your login details, contacts and events."</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150011Z" creationid="svetlemodry" creationdate="20150309T150011Z">
@@ -62,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>%1$s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T170855Z" creationid="svetlemodry" creationdate="20150328T170855Z">
+        <seg>%1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>%1$s (%2$s %3$s)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064812Z" creationid="svetlemodry" creationdate="20150310T064812Z">
@@ -102,6 +134,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>%1$s Swipe to delete.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171600Z" creationid="svetlemodry" creationdate="20150328T171600Z">
+        <seg>%1$s tažením smazat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s backups in %2$s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172024Z" creationid="svetlemodry" creationdate="20150328T172024Z">
+        <seg>%1$s záloh v %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s has copied</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T170936Z" creationid="svetlemodry" creationdate="20150328T170936Z">
+        <seg>%1$s zkopíroval</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>%1$s%2$s</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150103T173638Z" creationid="svetlemodry" creationdate="20150103T173638Z">
@@ -114,6 +170,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064817Z" creationid="svetlemodry" creationdate="20150310T064817Z">
         <seg>%1$s_statistics.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%2$s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171603Z" creationid="svetlemodry" creationdate="20150328T171603Z">
+        <seg>%2$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +266,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203918Z" creationid="svetlemodry" creationdate="20141219T203918Z">
         <seg>1 MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1 day</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172052Z" creationid="svetlemodry" creationdate="20150328T172052Z">
+        <seg>1 den</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3 days</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172057Z" creationid="svetlemodry" creationdate="20150328T172057Z">
+        <seg>3 dny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3 hours</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124949Z" creationid="svetlemodry" creationdate="20150130T124949Z">
@@ -370,6 +450,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125015Z" creationid="svetlemodry" creationdate="20150130T125015Z">
         <seg>30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>30 days</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172107Z" creationid="svetlemodry" creationdate="20150328T172107Z">
+        <seg>30 dnů</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +562,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065102Z" creationid="svetlemodry" creationdate="20150310T065102Z">
         <seg>6m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7 days</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172102Z" creationid="svetlemodry" creationdate="20150328T172102Z">
+        <seg>7 dnů</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always show.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171235Z" creationid="svetlemodry" creationdate="20150328T171235Z">
+        <seg>Vždy zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error has occurred</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
@@ -814,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>App Settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171146Z" creationid="svetlemodry" creationdate="20150328T171146Z">
+        <seg>Nastavení aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application settings and information</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070827Z" creationid="svetlemodry" creationdate="20150310T070827Z">
@@ -834,6 +946,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204612Z" creationid="svetlemodry" creationdate="20141219T204612Z">
         <seg>Opravdu si přejete ověřit OTR otisk kontaktu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to clear all?\nStarred items will be retained.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171714Z" creationid="svetlemodry" creationdate="20150328T171714Z">
+        <seg>Opravdu chcete vše smazat?\nPoložky označené hvězdičkou zůstanou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,10 +1038,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171935Z" creationid="svetlemodry" creationdate="20150328T171935Z">
+        <seg>Záloha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backup database</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110607Z" creationid="svetlemodry" creationdate="20150208T110607Z">
         <seg>Zálohovat databázi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backups</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172007Z" creationid="svetlemodry" creationdate="20150328T172007Z">
+        <seg>Zálohy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,10 +1326,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clear all</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171622Z" creationid="svetlemodry" creationdate="20150328T171622Z">
+        <seg>Smazat vše</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clear history</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204136Z" creationid="svetlemodry" creationdate="20141219T204136Z">
         <seg>Smazat historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click Action</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172252Z" creationid="svetlemodry" creationdate="20150328T172252Z">
+        <seg>Akce při kliknutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click here %1$s to edit.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171542Z" creationid="svetlemodry" creationdate="20150328T171542Z">
+        <seg>Klikněte sem %1$s pro úpravu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click to add text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T170959Z" creationid="svetlemodry" creationdate="20150328T170959Z">
+        <seg>Kliknout pro přidání textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click to show more.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172039Z" creationid="svetlemodry" creationdate="20150328T172039Z">
+        <seg>Kliknout pro zobrazení dalších.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clip Stack</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T170843Z" creationid="svetlemodry" creationdate="20150328T170843Z">
+        <seg>Clip Stack</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T170905Z" creationid="svetlemodry" creationdate="20150328T170905Z">
+        <seg>Kopírovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy OTR fingerprint to clipboard</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204618Z" creationid="svetlemodry" creationdate="20141219T204618Z">
@@ -1474,6 +1666,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204546Z" creationid="svetlemodry" creationdate="20141219T204546Z">
         <seg>Zkopírovat text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy to clipboard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171610Z" creationid="svetlemodry" creationdate="20150328T171610Z">
+        <seg>Zkopírovat do schránky</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleted.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171038Z" creationid="svetlemodry" creationdate="20150328T171038Z">
+        <seg>Smazáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110027Z" creationid="svetlemodry" creationdate="20150208T110027Z">
@@ -2006,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't show any notification.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171930Z" creationid="svetlemodry" creationdate="20150328T171930Z">
+        <seg>Nezobrazovat žádná upozornění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don’t save encrypted messages</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204526Z" creationid="svetlemodry" creationdate="20141219T204526Z">
@@ -2058,6 +2274,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070259Z" creationid="svetlemodry" creationdate="20150310T070259Z">
         <seg>Duplicitní jméno vozidla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EEE, MMM dd</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171024Z" creationid="svetlemodry" creationdate="20150328T171024Z">
+        <seg>EEE, MMM dd</seg>
       </tuv>
     </tu>
     <tu>
@@ -2550,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Expand to show more.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T170952Z" creationid="svetlemodry" creationdate="20150328T170952Z">
+        <seg>Zobrazit více.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Expert options</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204530Z" creationid="svetlemodry" creationdate="20141219T204530Z">
@@ -2594,6 +2826,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070242Z" creationid="svetlemodry" creationdate="20150310T070242Z">
         <seg>Export selhal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export success:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171848Z" creationid="svetlemodry" creationdate="20150328T171848Z">
+        <seg>Export úspěšný:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2698,6 +2938,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204525Z" creationid="svetlemodry" creationdate="20141219T204525Z">
         <seg>Vynutit šifrování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From date:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171909Z" creationid="svetlemodry" creationdate="20150328T171909Z">
+        <seg>Od data:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2874,6 +3122,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
         <seg>Povolit aktualizace stavu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HH:mm</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171025Z" creationid="svetlemodry" creationdate="20150328T171025Z">
+        <seg>HH:mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HH:mm:ss</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171027Z" creationid="svetlemodry" creationdate="20150328T171027Z">
+        <seg>HH:mm:ss</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,6 +3326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171956Z" creationid="svetlemodry" creationdate="20150328T171956Z">
+        <seg>Importuji...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In progress</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204557Z" creationid="svetlemodry" creationdate="20141219T204557Z">
@@ -3186,6 +3458,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204030Z" creationid="svetlemodry" creationdate="20141219T204030Z">
         <seg>Pozvat kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can show clipboard history in notification.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171522Z" creationid="svetlemodry" creationdate="20150328T171522Z">
+        <seg>Umí zobrazit historii schránky v upozorněních.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,6 +3662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listen system clipboard in background.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171210Z" creationid="svetlemodry" creationdate="20150328T171210Z">
+        <seg>Naslouchat systémové schránce na pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Liters</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070800Z" creationid="svetlemodry" creationdate="20150310T070800Z">
@@ -3506,6 +3794,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204612Z" creationid="svetlemodry" creationdate="20141219T204612Z">
         <seg>Ruční ověření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maybe no SD-card or it's full.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171904Z" creationid="svetlemodry" creationdate="20150328T171904Z">
+        <seg>Možná chybí SD karta nebo je plná.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3750,6 +4046,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New Backup</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172001Z" creationid="svetlemodry" creationdate="20150328T172001Z">
+        <seg>Nová záloha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Clip</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171452Z" creationid="svetlemodry" creationdate="20150328T171452Z">
+        <seg>Nový klip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New conversation</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203947Z" creationid="svetlemodry" creationdate="20141219T203947Z">
@@ -3838,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No backup</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172014Z" creationid="svetlemodry" creationdate="20150328T172014Z">
+        <seg>Žádná záloha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No backup databases have been found.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110638Z" creationid="svetlemodry" creationdate="20150208T110638Z">
@@ -3918,10 +4238,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not saved.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171050Z" creationid="svetlemodry" creationdate="20150328T171050Z">
+        <seg>Neuloženo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065034Z" creationid="svetlemodry" creationdate="20150310T065034Z">
         <seg>Poznámky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171219Z" creationid="svetlemodry" creationdate="20150328T171212Z">
+        <seg>Upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification Priority</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172231Z" creationid="svetlemodry" creationdate="20150328T172231Z">
+        <seg>Priorita upozornění</seg>
       </tuv>
     </tu>
     <tu>
@@ -4094,6 +4438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only show when clipboard changed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171248Z" creationid="svetlemodry" creationdate="20150328T171248Z">
+        <seg>Zobrazit pouze při změně schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open %s</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185542Z" creationid="svetlemodry" creationdate="20150112T185542Z">
@@ -4106,6 +4458,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204605Z" creationid="svetlemodry" creationdate="20141219T204605Z">
         <seg>Otevřít %s soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Source</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171123Z" creationid="svetlemodry" creationdate="20150328T171123Z">
+        <seg>Open Source</seg>
       </tuv>
     </tu>
     <tu>
@@ -4306,6 +4666,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203840Z" creationid="svetlemodry" creationdate="20141219T203840Z">
         <seg>Telefon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pin Notification</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171229Z" creationid="svetlemodry" creationdate="20150328T171229Z">
+        <seg>Připnout upozornění</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,6 +4934,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rate me</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172155Z" creationid="svetlemodry" creationdate="20150328T172155Z">
+        <seg>Ohodnoť mě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rate this app if you think it's useful.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172224Z" creationid="svetlemodry" creationdate="20150328T172224Z">
+        <seg>Ohodnoťte tuto aplikaci, pokud je užitečná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rate us !</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125337Z" creationid="svetlemodry" creationdate="20150130T125337Z">
@@ -4622,6 +5006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recent clipboards</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T170914Z" creationid="svetlemodry" creationdate="20150328T170914Z">
+        <seg>Nedávno ve schránce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reception failed</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204344Z" creationid="svetlemodry" creationdate="20141219T204344Z">
@@ -4634,6 +5026,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204158Z" creationid="svetlemodry" creationdate="20141219T204158Z">
         <seg>Nahrát hlas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171040Z" creationid="svetlemodry" creationdate="20150328T171040Z">
+        <seg>Obnovit</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +5058,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204154Z" creationid="svetlemodry" creationdate="20141219T204154Z">
         <seg>Registrace selhala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember clipboards for %d days.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171353Z" creationid="svetlemodry" creationdate="20150328T171353Z">
+        <seg>Pamatovat si schránku %d dny(ů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember clipboards for:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171117Z" creationid="svetlemodry" creationdate="20150328T171117Z">
+        <seg>Pamatovat si schránku pro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember clipboards forever.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171307Z" creationid="svetlemodry" creationdate="20150328T171307Z">
+        <seg>Pamatovat si schránku navždy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4742,6 +5166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reverse sort</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171943Z" creationid="svetlemodry" creationdate="20150328T171943Z">
+        <seg>Opačné řazení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Revoke admin privileges</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185636Z" creationid="svetlemodry" creationdate="20150112T185636Z">
@@ -4814,6 +5246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saved.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171045Z" creationid="svetlemodry" creationdate="20150328T171045Z">
+        <seg>Uloženo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scan QR code</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204551Z" creationid="svetlemodry" creationdate="20141219T204551Z">
@@ -4826,6 +5266,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204353Z" creationid="svetlemodry" creationdate="20141219T204353Z">
         <seg>Hledat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171020Z" creationid="svetlemodry" creationdate="20150328T171020Z">
+        <seg>Hledat...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5078,6 +5526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Service</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171150Z" creationid="svetlemodry" creationdate="20150328T171150Z">
+        <seg>Služba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service details will be auto-detected by domain name.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T145641Z" creationid="svetlemodry" creationdate="20150309T145641Z">
@@ -5098,6 +5554,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204035Z" creationid="svetlemodry" creationdate="20141219T204035Z">
         <seg>Nastavit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set click &amp; long click actions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172324Z" creationid="svetlemodry" creationdate="20150328T172324Z">
+        <seg>Nastavit akci pro normální a dlouhé kliknutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set clipboard history limit.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172143Z" creationid="svetlemodry" creationdate="20150328T172143Z">
+        <seg>Nastavit limit historie schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set notification priority.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172239Z" creationid="svetlemodry" creationdate="20150328T172239Z">
+        <seg>Nastavit prioritu upozornění</seg>
       </tuv>
     </tu>
     <tu>
@@ -5138,6 +5618,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204547Z" creationid="svetlemodry" creationdate="20141219T204547Z">
         <seg>Sdílet obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share text to…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171006Z" creationid="svetlemodry" creationdate="20150328T171006Z">
+        <seg>Sdílet text do...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5202,6 +5690,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180144Z" creationid="svetlemodry" creationdate="20150119T180144Z">
         <seg>Zobrazit klávesu enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show notification.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171923Z" creationid="svetlemodry" creationdate="20150328T171923Z">
+        <seg>Zobrazit upozornění.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5278,6 +5774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Starred</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172046Z" creationid="svetlemodry" creationdate="20150328T172046Z">
+        <seg>Označené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start Conversation</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204003Z" creationid="svetlemodry" creationdate="20141219T204003Z">
@@ -5306,6 +5810,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070346Z" creationid="svetlemodry" creationdate="20150310T070346Z">
         <seg>Zastavilo se na řádku %1$d csv souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Storage</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171055Z" creationid="svetlemodry" creationdate="20150328T171055Z">
+        <seg>Úložiště</seg>
       </tuv>
     </tu>
     <tu>
@@ -5550,6 +6062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no starred items.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172132Z" creationid="svetlemodry" creationdate="20150328T172132Z">
+        <seg>Nejsou žádné označené položky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There's a &lt;a href="http://davdroid.bitfire.at/configuration?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;Setup guide&lt;/a&gt;, too.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T144519Z" creationid="svetlemodry" creationdate="20150309T144519Z">
@@ -5666,6 +6186,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064833Z" creationid="svetlemodry" creationdate="20150310T064833Z">
         <seg>Čas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To date:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171916Z" creationid="svetlemodry" creationdate="20150328T171911Z">
+        <seg>Do data:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5894,6 +6422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171730Z" creationid="svetlemodry" creationdate="20150328T171730Z">
+        <seg>Vrátit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Units</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070829Z" creationid="svetlemodry" creationdate="20150310T070829Z">
@@ -6094,6 +6630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View source code on GitHub.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171141Z" creationid="svetlemodry" creationdate="20150328T171141Z">
+        <seg>Zobrazit zdrojový kód na GitHub.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Visitor</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204023Z" creationid="svetlemodry" creationdate="20141219T204023Z">
@@ -6138,6 +6682,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125513Z" creationid="svetlemodry" creationdate="20150130T125513Z">
         <seg>Vítejte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Welcome to Clip Stack.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171500Z" creationid="svetlemodry" creationdate="20150328T171500Z">
+        <seg>Vítejte v aplikaci Clip Stack.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6658,6 +7210,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110036Z" creationid="svetlemodry" creationdate="20150208T110036Z">
         <seg>neaktivní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infinite</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172123Z" creationid="svetlemodry" creationdate="20150328T172123Z">
+        <seg>bez omezení</seg>
       </tuv>
     </tu>
     <tu>
