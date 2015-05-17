@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -802,6 +802,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204446Z" creationid="svetlemodry" creationdate="20141219T204446Z">
         <seg>Dodatečné informace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Address book</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150517T093935Z" creationid="svetlemodry" creationdate="20150517T093935Z">
+        <seg>Adresář</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1626,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204031Z" creationid="svetlemodry" creationdate="20141219T204031Z">
         <seg>Kontakty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contacts are sent in VCard 3.0 format</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150517T094017Z" creationid="svetlemodry" creationdate="20150517T094017Z">
+        <seg>Kontakty jsou odesílány ve formátu VCard 3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contacts are sent in VCard 4.0 format</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150517T094009Z" creationid="svetlemodry" creationdate="20150517T094009Z">
+        <seg>Kontakty jsou odesílány ve formátu VCard 4.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -6610,6 +6634,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204154Z" creationid="svetlemodry" creationdate="20141219T204154Z">
         <seg>Uživatelské jméno se již používá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VCard 4.0 support</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20150517T093951Z" creationid="svetlemodry" creationdate="20150517T093951Z">
+        <seg>VCard 4.0 podpora</seg>
       </tuv>
     </tu>
     <tu>
