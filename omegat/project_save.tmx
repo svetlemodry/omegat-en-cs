@@ -718,6 +718,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active day and day before</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T172034Z" creationid="svetlemodry" creationdate="20151003T172000Z">
+        <seg>Den aktivity a předcházející den</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active day only</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T172009Z" creationid="svetlemodry" creationdate="20151003T171916Z">
+        <seg>Pouze den aktivity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204037Z" creationid="svetlemodry" creationdate="20141219T204037Z">
@@ -874,6 +890,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063058Z" creationid="svetlemodry" creationdate="20150310T063058Z">
         <seg>Všechna data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All days</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T172046Z" creationid="svetlemodry" creationdate="20151003T172046Z">
+        <seg>Všechny dny</seg>
       </tuv>
     </tu>
     <tu>
@@ -1274,6 +1298,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180205Z" creationid="svetlemodry" creationdate="20150119T180205Z">
         <seg>Změnit klávesu emotikon na klávesu enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing this tick is disabled.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T172118Z" creationid="svetlemodry" creationdate="20151003T172118Z">
+        <seg>Měnit tuto značku je vypnuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display later days at the top</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T171846Z" creationid="svetlemodry" creationdate="20151003T171846Z">
+        <seg>Zobrazit aktuální datum nahoře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display read-only tags underneath contacts</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204613Z" creationid="svetlemodry" creationdate="20141219T204613Z">
@@ -2410,6 +2450,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065554Z" creationid="svetlemodry" creationdate="20150310T065554Z">
         <seg>Upravit údaje o vozidle pokud\nje velikost nádrže nesprávná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editable days</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T171858Z" creationid="svetlemodry" creationdate="20151003T171858Z">
+        <seg>Upravitelné dny</seg>
       </tuv>
     </tu>
     <tu>
