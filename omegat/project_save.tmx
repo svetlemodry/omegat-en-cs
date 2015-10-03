@@ -6768,8 +6768,8 @@
       <tuv lang="EN">
         <seg>Tap OK to go to Accessibility settings.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184821Z" creationid="svetlemodry" creationdate="20151003T184821Z">
-        <seg>Ťukni na OK pro zobrazení nastavení to go to Accessibility settings.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184954Z" creationid="svetlemodry" creationdate="20151003T184821Z">
+        <seg>Ťukni na OK pro zobrazení nastavení přístupnosti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6938,6 +6938,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T144519Z" creationid="svetlemodry" creationdate="20150309T144519Z">
         <seg>Najdete tam i &lt;a href="http://davdroid.bitfire.at/configuration?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;návod pro nastavení&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There, tap Password Store under Services then tap the switch in the top right to turn it on or off.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185129Z" creationid="svetlemodry" creationdate="20151003T185129Z">
+        <seg>Tam poté ťuknout mezi službami na Password Store a přepínačem lze zapnout nebo vypnout.</seg>
       </tuv>
     </tu>
     <tu>
