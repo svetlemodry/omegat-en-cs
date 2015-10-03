@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically match</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190628Z" creationid="svetlemodry" creationdate="20151003T190628Z">
+        <seg>Automaticky spárovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatically match by default</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185727Z" creationid="svetlemodry" creationdate="20151003T185727Z">
@@ -2590,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Does not rely on the clipboard for Android versions 5.0 and up.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190536Z" creationid="svetlemodry" creationdate="20151003T190512Z">
+        <seg>Není závislé na schránce pro Android verze 5.0 a vyšší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don't show any notification.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171930Z" creationid="svetlemodry" creationdate="20150328T171930Z">
@@ -3322,6 +3338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204608Z" creationid="svetlemodry" creationdate="20141219T204608Z">
         <seg>Soubor nabídnut ke stažení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fill</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190542Z" creationid="svetlemodry" creationdate="20151003T190542Z">
+        <seg>Vyplnit</seg>
       </tuv>
     </tu>
     <tu>
@@ -4350,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match with…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190633Z" creationid="svetlemodry" creationdate="20151003T190633Z">
+        <seg>Spárovat s…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maybe no SD-card or it's full.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171904Z" creationid="svetlemodry" creationdate="20150328T171904Z">
@@ -4618,6 +4650,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204132Z" creationid="svetlemodry" creationdate="20141219T204132Z">
         <seg>Již se neptat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Never match</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190657Z" creationid="svetlemodry" creationdate="20151003T190657Z">
+        <seg>Nikdy nepárovat</seg>
       </tuv>
     </tu>
     <tu>
@@ -5078,6 +5118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only works for Android versions 4.3 and up.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190516Z" creationid="svetlemodry" creationdate="20151003T190434Z">
+        <seg>Funguje pouze pro verzi Androidu 4.3 a vyšší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Oops...</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190208Z" creationid="svetlemodry" creationdate="20151003T190208Z">
@@ -5168,8 +5216,8 @@
       <tuv lang="EN">
         <seg>Otherwise, 'Never match.'</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185847Z" creationid="svetlemodry" creationdate="20151003T185847Z">
-        <seg>Jinak, 'Nikdy nehledat.'</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190702Z" creationid="svetlemodry" creationdate="20151003T185847Z">
+        <seg>Jinak, 'Nikdy nepárovat.'</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,6 +7674,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190028Z" creationid="svetlemodry" creationdate="20151003T190028Z">
         <seg>Velká písmena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use default setting</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190554Z" creationid="svetlemodry" creationdate="20151003T190554Z">
+        <seg>Použít výchozí nastavení</seg>
       </tuv>
     </tu>
     <tu>
