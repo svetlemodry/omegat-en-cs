@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183949Z" creationid="svetlemodry" creationdate="20151003T183949Z">
+        <seg>Kategorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change app settings</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125504Z" creationid="svetlemodry" creationdate="20150130T125504Z">
@@ -1442,6 +1450,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204136Z" creationid="svetlemodry" creationdate="20141219T204136Z">
         <seg>Smazat historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184208Z" creationid="svetlemodry" creationdate="20151003T184208Z">
+        <seg>Vyčistit repozitář</seg>
       </tuv>
     </tu>
     <tu>
@@ -2254,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delete repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184159Z" creationid="svetlemodry" creationdate="20151003T184159Z">
+        <seg>Smazat repozitář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete track</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110220Z" creationid="svetlemodry" creationdate="20150208T110220Z">
@@ -2586,6 +2610,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070111Z" creationid="svetlemodry" creationdate="20150310T070111Z">
         <seg>Úprava selhala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit git server settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184049Z" creationid="svetlemodry" creationdate="20151003T184049Z">
+        <seg>Upravit nastavení git serveru</seg>
       </tuv>
     </tu>
     <tu>
@@ -3374,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generate SSH key pair</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184123Z" creationid="svetlemodry" creationdate="20151003T184123Z">
+        <seg>Generovat SSH klíč</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to Accounts and Sync</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125458Z" creationid="svetlemodry" creationdate="20150130T125458Z">
@@ -3594,6 +3634,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064928Z" creationid="svetlemodry" creationdate="20150310T064928Z">
         <seg>Import</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import SSH key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184100Z" creationid="svetlemodry" creationdate="20151003T184100Z">
+        <seg>Importovat SSH klíč</seg>
       </tuv>
     </tu>
     <tu>
@@ -5614,6 +5662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote location</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184013Z" creationid="svetlemodry" creationdate="20151003T184013Z">
+        <seg>Vzdálené umístění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove from conference</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185645Z" creationid="svetlemodry" creationdate="20150112T185645Z">
@@ -7366,6 +7422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View generated public SSH key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184151Z" creationid="svetlemodry" creationdate="20151003T184151Z">
+        <seg>Zobrazit vygenerovaný veřejný SSH klíč</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View source code on GitHub.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171141Z" creationid="svetlemodry" creationdate="20150328T171141Z">
@@ -8226,6 +8290,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183807Z" creationid="svetlemodry" creationdate="20151003T183807Z">
         <seg>cesta/k/heslům</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>path/to/repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184026Z" creationid="svetlemodry" creationdate="20151003T184026Z">
+        <seg>cesta/k/repozitáři</seg>
       </tuv>
     </tu>
     <tu>
