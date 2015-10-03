@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy Location</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180418Z" creationid="svetlemodry" creationdate="20151003T180418Z">
+        <seg>Zkopírovat umístění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy OTR fingerprint to clipboard</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204618Z" creationid="svetlemodry" creationdate="20141219T204618Z">
@@ -2194,6 +2202,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070202Z" creationid="svetlemodry" creationdate="20150310T070202Z">
         <seg>Nelze zapisovat do úložiště přístroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Directions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180335Z" creationid="svetlemodry" creationdate="20151003T180335Z">
+        <seg>Nasměrování</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fix position</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180354Z" creationid="svetlemodry" creationdate="20151003T180354Z">
+        <seg>Zamknout pozici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font size for plots</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070842Z" creationid="svetlemodry" creationdate="20150310T070842Z">
@@ -3842,6 +3866,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T062637Z" creationid="svetlemodry" creationdate="20150310T062637Z">
         <seg>Litrů na 100 kilometrů\n(L/100KM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Location sharing is disabled</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180441Z" creationid="svetlemodry" creationdate="20151003T180441Z">
+        <seg>Sdílení umístění je vypnuto</seg>
       </tuv>
     </tu>
     <tu>
@@ -4650,6 +4682,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204605Z" creationid="svetlemodry" creationdate="20141219T204605Z">
         <seg>Otevřít %s soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Share Location Plugin</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180242Z" creationid="svetlemodry" creationdate="20151003T180242Z">
+        <seg>Open Share Location Plugin</seg>
       </tuv>
     </tu>
     <tu>
@@ -5854,10 +5894,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Share Location</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180429Z" creationid="svetlemodry" creationdate="20151003T180429Z">
+        <seg>Sdílet umístění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Share image</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204547Z" creationid="svetlemodry" creationdate="20141219T204547Z">
         <seg>Sdílet obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share location</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180256Z" creationid="svetlemodry" creationdate="20151003T180256Z">
+        <seg>Sdílet umístění</seg>
       </tuv>
     </tu>
     <tu>
@@ -5930,6 +5986,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180144Z" creationid="svetlemodry" creationdate="20150119T180144Z">
         <seg>Zobrazit klávesu enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show location</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180308Z" creationid="svetlemodry" creationdate="20151003T180300Z">
+        <seg>Zobrazit umístění</seg>
       </tuv>
     </tu>
     <tu>
@@ -6494,6 +6558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tile provider</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180502Z" creationid="svetlemodry" creationdate="20151003T180502Z">
+        <seg>Mapové podklady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Time</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064833Z" creationid="svetlemodry" creationdate="20150310T064833Z">
@@ -6738,6 +6810,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171730Z" creationid="svetlemodry" creationdate="20150328T171730Z">
         <seg>Vrátit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfix position</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180405Z" creationid="svetlemodry" creationdate="20151003T180405Z">
+        <seg>Odemknout pozici</seg>
       </tuv>
     </tu>
     <tu>
