@@ -2718,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable autofill</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184634Z" creationid="svetlemodry" creationdate="20151003T184634Z">
+        <seg>Povolit zaplnění schránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable legacy SSL</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204528Z" creationid="svetlemodry" creationdate="20141219T204528Z">
@@ -5638,6 +5646,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recursive filtering</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184547Z" creationid="svetlemodry" creationdate="20151003T184547Z">
+        <seg>Rekurzivní filtrování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursively find passwords of the current directory.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184601Z" creationid="svetlemodry" creationdate="20151003T184601Z">
+        <seg>Rekurzivní hledání hesel v aktuálním adresáři.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171040Z" creationid="svetlemodry" creationdate="20150328T171040Z">
@@ -6738,6 +6762,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150312T111752Z" creationid="svetlemodry" creationdate="20150310T065826Z">
         <seg>Nádrž není plná.\nUpravte ukazatel\npro odhad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tap OK to go to Accessibility settings.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184821Z" creationid="svetlemodry" creationdate="20151003T184821Z">
+        <seg>Ťukni na OK pro zobrazení nastavení to go to Accessibility settings.</seg>
       </tuv>
     </tu>
     <tu>
