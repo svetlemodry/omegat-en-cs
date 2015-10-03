@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174801Z" creationid="svetlemodry" creationdate="20151003T174801Z">
+        <seg>Vybrat účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose an icon</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110305Z" creationid="svetlemodry" creationdate="20150208T110305Z">
@@ -1642,6 +1650,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T220028Z" creationid="svetlemodry" creationdate="20141219T203952Z">
         <seg>Detaily kontaktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact informations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T175043Z" creationid="svetlemodry" creationdate="20151003T175043Z">
+        <seg>Kontaktní informace</seg>
       </tuv>
     </tu>
     <tu>
@@ -2598,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure server version is at least 1.6.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T175024Z" creationid="svetlemodry" creationdate="20151003T175024Z">
+        <seg>Zajistěte verzi na serveru alespoň 1.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter 'Fuel Price' and 'Fuel Amount'</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063355Z" creationid="svetlemodry" creationdate="20150310T063355Z">
@@ -2706,6 +2730,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150215T150358Z" creationid="svetlemodry" creationdate="20150215T150358Z">
         <seg>Chyba #17: účet poškozený</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error #18: OcSMS app is not installed or ownCloud awaiting for an upgrade</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174854Z" creationid="svetlemodry" creationdate="20151003T174854Z">
+        <seg>Chyba #18: OcSMS aplikace není nainstalována nebo ownCloud čeká na aktualizaci</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,6 +3554,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070356Z" creationid="svetlemodry" creationdate="20150310T070356Z">
         <seg>Neplatná hodnota počítadla kilometrů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid phonelist received from server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174926Z" creationid="svetlemodry" creationdate="20151003T174926Z">
+        <seg>Přijat neplatný seznam telefoních čísel ze serveru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5246,6 +5286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174752Z" creationid="svetlemodry" creationdate="20151003T174752Z">
+        <seg>Vzdálený účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove from conference</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185645Z" creationid="svetlemodry" creationdate="20150112T185645Z">
@@ -5550,6 +5598,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174807Z" creationid="svetlemodry" creationdate="20151003T174807Z">
+        <seg>Vybrat účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174814Z" creationid="svetlemodry" creationdate="20151003T174814Z">
+        <seg>Vybrat kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select up to one address book (tap again to unselect):</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151711Z" creationid="svetlemodry" creationdate="20150309T151105Z">
@@ -5666,6 +5730,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204154Z" creationid="svetlemodry" creationdate="20141219T204154Z">
         <seg>Server nepodporuje registrace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server doesn't support this feature.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174952Z" creationid="svetlemodry" creationdate="20151003T174952Z">
+        <seg>Server nepodporuje tuto funkci.</seg>
       </tuv>
     </tu>
     <tu>
