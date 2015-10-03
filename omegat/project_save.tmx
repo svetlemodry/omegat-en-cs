@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/store/.git</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182748Z" creationid="svetlemodry" creationdate="20151003T182748Z">
+        <seg>/store/.git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>0</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203919Z" creationid="svetlemodry" creationdate="20141219T203919Z">
@@ -1002,6 +1010,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171714Z" creationid="svetlemodry" creationdate="20150328T171714Z">
         <seg>Opravdu chcete vše smazat?\nPoložky označené hvězdičkou zůstanou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to delete the password /"</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182901Z" creationid="svetlemodry" creationdate="20151003T182901Z">
+        <seg>Opravdu chcete smazat heslo /"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4430,6 +4446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No OpenPGP Provider selected!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182946Z" creationid="svetlemodry" creationdate="20151003T182946Z">
+        <seg>Nebyl vybrán poskytovatel OpenPGP!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No affiliation</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150106T201338Z" creationid="svetlemodry" creationdate="20150106T201338Z">
@@ -4918,6 +4942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Password copied to clipboard, you have</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183008Z" creationid="svetlemodry" creationdate="20151003T183008Z">
+        <seg>Heslo zkopírováno do schránky, máte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Password should not be empty</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114056Z" creationid="svetlemodry" creationdate="20150104T114056Z">
@@ -5026,6 +5058,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204530Z" creationid="svetlemodry" creationdate="20141219T204530Z">
         <seg>S tímto zacházejte velmi opatrně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please clone or create a new repository below before trying to add a password or any synchronization operation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182746Z" creationid="svetlemodry" creationdate="20151003T182746Z">
+        <seg>Naklonujte nebo vytvořte nový repozitář před pokusem přidat heslo nebo spustit synchronizaci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7158,6 +7198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Waiting for OpenKeychain...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182952Z" creationid="svetlemodry" creationdate="20151003T182952Z">
+        <seg>Čekání na OpenKeychain...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warning: SSLv3 is considered insecure.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204529Z" creationid="svetlemodry" creationdate="20141219T204529Z">
@@ -7234,6 +7282,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151012Z" creationid="svetlemodry" creationdate="20150309T151012Z">
         <seg>Které sbírky mají být synchronizovány?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Which connection method do you prefer?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182842Z" creationid="svetlemodry" creationdate="20151003T182842Z">
+        <seg>Jakou metodu připojení upřednostňujete?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7446,6 +7502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You have to select your "PGP-Key ID" before initializing the repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182814Z" creationid="svetlemodry" creationdate="20151003T182814Z">
+        <seg>Před inicializací repozitáře je třeba vybrat "ID PGP klíče"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your account</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204149Z" creationid="svetlemodry" creationdate="20141219T204149Z">
@@ -7506,6 +7570,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T113800Z" creationid="svetlemodry" creationdate="20150104T113800Z">
         <seg>Společně tajemství nemůže být nevyplněno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[ANDROID PwdStore] Initialized store with keyID:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182911Z" creationid="svetlemodry" creationdate="20151003T182911Z">
+        <seg>[ANDROID PwdStore] Initialized store with keyID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7994,6 +8066,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204554Z" creationid="svetlemodry" creationdate="20141219T204554Z">
         <seg>skenovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>seconds to paste it somewhere.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183025Z" creationid="svetlemodry" creationdate="20151003T183025Z">
+        <seg>sekund na jeho zkopírování.</seg>
       </tuv>
     </tu>
     <tu>
