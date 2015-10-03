@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically match by default</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185727Z" creationid="svetlemodry" creationdate="20151003T185727Z">
+        <seg>Automaticky hledat shodu ve výchozím nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Avatar has been published!</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180326Z" creationid="svetlemodry" creationdate="20150119T180326Z">
@@ -2030,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customize autofill settings for specific apps.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185646Z" creationid="svetlemodry" creationdate="20151003T185646Z">
+        <seg>Upravit automatické vyplňování u vybraných aplikací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cycle Map</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180518Z" creationid="svetlemodry" creationdate="20151003T180518Z">
@@ -2720,8 +2736,8 @@
       <tuv lang="EN">
         <seg>Enable autofill</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184634Z" creationid="svetlemodry" creationdate="20151003T184634Z">
-        <seg>Povolit zaplnění schránky</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185606Z" creationid="svetlemodry" creationdate="20151003T184634Z">
+        <seg>Povolit automatické vyplňování</seg>
       </tuv>
     </tu>
     <tu>
@@ -5210,6 +5226,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182517Z" creationid="svetlemodry" creationdate="20150201T182517Z">
         <seg>Pozastavit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Per-app settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185539Z" creationid="svetlemodry" creationdate="20151003T185539Z">
+        <seg>Nastavení jednotlivých aplikací</seg>
       </tuv>
     </tu>
     <tu>
@@ -7890,6 +7914,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190023Z" creationid="svetlemodry" creationdate="20150112T185923Z">
         <seg>Pokoušíte se vyhodit %s z veřejné konference.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change this default setting and also matching settings per-app.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185529Z" creationid="svetlemodry" creationdate="20151003T185529Z">
+        <seg>Toto výchozí nastavení spolu s nastavením pro jednotlivé aplikace lze změnit.</seg>
       </tuv>
     </tu>
     <tu>
