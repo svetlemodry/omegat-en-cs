@@ -7078,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can specify which days are editable in the settings.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T172215Z" creationid="svetlemodry" creationdate="20151003T172215Z">
+        <seg>Můžete určit možnosti úprav dnů v nastavení aplikace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can't have two accounts with the same name.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151351Z" creationid="svetlemodry" creationdate="20150309T151351Z">
