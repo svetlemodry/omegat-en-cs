@@ -1110,10 +1110,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically Copy Password</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184453Z" creationid="svetlemodry" creationdate="20151003T184453Z">
+        <seg>Automaticky kopírovat heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatically accept files smaller than…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204143Z" creationid="svetlemodry" creationdate="20141219T204143Z">
         <seg>Automaticky přijímat soubory menší než…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatically copy the password to the clipboard after decryption was successful.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184514Z" creationid="svetlemodry" creationdate="20151003T184514Z">
+        <seg>Automatické kopírování hesla do schránky po úspěšném dešifrování.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Crypto</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184310Z" creationid="svetlemodry" creationdate="20151003T184310Z">
+        <seg>Šifrování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Currency</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T071114Z" creationid="svetlemodry" creationdate="20150310T071114Z">
@@ -2480,8 +2504,8 @@
       <tuv lang="EN">
         <seg>Do you want to delete the current password store directory?</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182518Z" creationid="svetlemodry" creationdate="20151003T182518Z">
-        <seg>Opravdu smazat aktuální adresář úložiště?</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184243Z" creationid="svetlemodry" creationdate="20151003T182518Z">
+        <seg>Opravdu smazat aktuální adresář úložiště hesel?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3022,6 +3046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error while trying to import the ssh-key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184532Z" creationid="svetlemodry" creationdate="20151003T184532Z">
+        <seg>Chyba při importu SSH klíče</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Every %d minutes + immediately on local changes</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150503Z" creationid="svetlemodry" creationdate="20150309T150503Z">
@@ -3368,8 +3400,8 @@
       <tuv lang="EN">
         <seg>General</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204142Z" creationid="svetlemodry" creationdate="20141219T204142Z">
-        <seg>Obecné</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184414Z" creationid="svetlemodry" creationdate="20141219T204142Z">
+        <seg>Všeobecné</seg>
       </tuv>
     </tu>
     <tu>
@@ -4262,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Message : \n</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184537Z" creationid="svetlemodry" creationdate="20151003T184537Z">
+        <seg>Zpráva : \n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Message copied to clipboard</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204550Z" creationid="svetlemodry" creationdate="20141219T204550Z">
@@ -5058,6 +5098,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204159Z" creationid="svetlemodry" creationdate="20141219T204159Z">
         <seg>Heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password Show Time</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184426Z" creationid="svetlemodry" creationdate="20151003T184426Z">
+        <seg>Čas zobrazení hesla</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,6 +6038,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select OpenPGP Key id</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184401Z" creationid="svetlemodry" creationdate="20151003T184401Z">
+        <seg>Vybrat ID OpenPGP klíče</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select OpenPGP Provider</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184325Z" creationid="svetlemodry" creationdate="20151003T184325Z">
+        <seg>Vybrat poskytovatele OpenPGP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Units</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063624Z" creationid="svetlemodry" creationdate="20150310T063624Z">
@@ -6226,6 +6290,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172239Z" creationid="svetlemodry" creationdate="20150328T172239Z">
         <seg>Nastavit prioritu upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the time you want the password to be in clipboard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184444Z" creationid="svetlemodry" creationdate="20151003T184444Z">
+        <seg>Nastavení času po který bude heslo uloženo ve schránce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set your OpenPGP account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184338Z" creationid="svetlemodry" creationdate="20151003T184338Z">
+        <seg>Nastavit OpenPGP účet</seg>
       </tuv>
     </tu>
     <tu>
@@ -6914,6 +6994,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110535Z" creationid="svetlemodry" creationdate="20150208T110535Z">
         <seg>Touto cestou si můžete ulehčit překonání starých zlozvyků nebo se naučit nové návyky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will not clear your configuration.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184258Z" creationid="svetlemodry" creationdate="20151003T184258Z">
+        <seg>Toto neldstraní vaše nastavení.</seg>
       </tuv>
     </tu>
     <tu>
