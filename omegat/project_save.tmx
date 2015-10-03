@@ -1000,8 +1000,8 @@
       <tuv lang="EN">
         <seg>Are you sure you want to delete this track?</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110232Z" creationid="svetlemodry" creationdate="20150208T110232Z">
-        <seg>Opravdu chcete smazat tuto stopu?</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T173426Z" creationid="svetlemodry" creationdate="20150208T110232Z">
+        <seg>Opravdu si přejete smazat tuto stopu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6184,8 +6184,8 @@
       <tuv lang="EN">
         <seg>The occurrences can be arbitrary things, like flossing your teeth or having a drink.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110449Z" creationid="svetlemodry" creationdate="20150208T110449Z">
-        <seg>Tyto události mohou být jakkoliv triviální, jako použití zubní nitě při čištění zubů nebo vypití sklenice piva.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T173404Z" creationid="svetlemodry" creationdate="20150208T110449Z">
+        <seg>Tyto události mohou být velmi triviální, jako použití zubní nitě při čištění zubů nebo vypití sklenice piva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6272,8 +6272,8 @@
       <tuv lang="EN">
         <seg>This can not be undone and your ticks will be lost unless you made a backup.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T171415Z" creationid="svetlemodry" creationdate="20151003T171415Z">
-        <seg>Tuto akci nelze vrátit a pokud jste nevytvořili zálohu ztratíte svoje značky.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T173442Z" creationid="svetlemodry" creationdate="20151003T171415Z">
+        <seg>Toto nelze vrátit zpět a pokud nemáte vytvořenou zálohu, vaše značky budou navždy ztraceny.</seg>
       </tuv>
     </tu>
     <tu>
