@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Account name empty!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183137Z" creationid="svetlemodry" creationdate="20151003T183137Z">
+        <seg>Jméno účtu je prázdné!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Account name:</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151127Z" creationid="svetlemodry" creationdate="20150309T151127Z">
@@ -2262,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Did you forget to specify a username?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183329Z" creationid="svetlemodry" creationdate="20151003T183329Z">
+        <seg>Zapomněli jste uvést přihlašovací jméno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directions</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180335Z" creationid="svetlemodry" creationdate="20151003T180335Z">
@@ -3622,6 +3638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Internal exception occurred</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183245Z" creationid="svetlemodry" creationdate="20151003T183245Z">
+        <seg>Došlo k vnitřní výjimce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Internal storage</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063220Z" creationid="svetlemodry" creationdate="20150310T063220Z">
@@ -4146,6 +4170,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204550Z" creationid="svetlemodry" creationdate="20141219T204550Z">
         <seg>Zpráva zkopírována do schránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Message from jgit: \n</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183255Z" creationid="svetlemodry" creationdate="20151003T183255Z">
+        <seg>Zpráva od jgit: \n</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please provide a file name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183149Z" creationid="svetlemodry" creationdate="20151003T183149Z">
+        <seg>Zadejte prosím jméno souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please reconfigure it</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150215T150306Z" creationid="svetlemodry" creationdate="20150215T150306Z">
@@ -5114,6 +5154,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211924Z" creationid="svetlemodry" creationdate="20141219T204502Z">
         <seg>Nejdříve si prosím vyžádejte povolení o zasílání změn stavu kontaktu.\n\n&lt;s0&gt;To bude poté použito pro zjištění jakou aplikaci tento kontakt používá.&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please set your OpenKeychain account (email) in the preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183121Z" creationid="svetlemodry" creationdate="20151003T183121Z">
+        <seg>Zadejte si v nastavení svůj OpenKeychain účet (email)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please set your account name in settings whenever you can</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183105Z" creationid="svetlemodry" creationdate="20151003T183105Z">
+        <seg>Až to bude možné, tak si zadejte jméno účtu v nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -5586,6 +5642,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182601Z" creationid="svetlemodry" creationdate="20150201T182601Z">
         <seg>Tady jsou!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running command...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183235Z" creationid="svetlemodry" creationdate="20151003T183235Z">
+        <seg>Příkaz běží...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7454,6 +7518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are about to use a read-only repository, you will not be able to push to it</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183323Z" creationid="svetlemodry" creationdate="20151003T183323Z">
+        <seg>Chystáte se použít repozitář bez práva zápisu, nebudete schopni do něj ukládat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are banned from this conference</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204540Z" creationid="svetlemodry" creationdate="20141219T204540Z">
@@ -7490,6 +7562,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151351Z" creationid="svetlemodry" creationdate="20150309T151351Z">
         <seg>Nelze mít dva účty se stejným jménem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot use an empty password or empty extra content</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183200Z" creationid="svetlemodry" creationdate="20151003T183200Z">
+        <seg>Nelze zadat prázdné heslo nebo další obsah</seg>
       </tuv>
     </tu>
     <tu>
