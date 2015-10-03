@@ -1462,6 +1462,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clone</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182327Z" creationid="svetlemodry" creationdate="20151003T182327Z">
+        <seg>Klonování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clone a Git repo</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182212Z" creationid="svetlemodry" creationdate="20151003T182212Z">
+        <seg>Klonovat Git repozitář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cloud storage</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063228Z" creationid="svetlemodry" creationdate="20150310T063228Z">
@@ -2218,6 +2234,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180335Z" creationid="svetlemodry" creationdate="20151003T180335Z">
         <seg>Nasměrování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Directory already exist</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182419Z" creationid="svetlemodry" creationdate="20151003T182419Z">
+        <seg>Adresář již existuje</seg>
       </tuv>
     </tu>
     <tu>
@@ -4850,6 +4874,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204159Z" creationid="svetlemodry" creationdate="20141219T204159Z">
         <seg>Heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password Store</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182130Z" creationid="svetlemodry" creationdate="20151003T182130Z">
+        <seg>Password Store</seg>
       </tuv>
     </tu>
     <tu>
