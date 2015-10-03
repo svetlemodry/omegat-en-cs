@@ -1168,8 +1168,8 @@
       <tuv lang="EN">
         <seg>Automatically match by default</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185727Z" creationid="svetlemodry" creationdate="20151003T185727Z">
-        <seg>Automaticky hledat shodu ve výchozím nastavení</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190721Z" creationid="svetlemodry" creationdate="20151003T185727Z">
+        <seg>Automaticky párovat ve výchozím nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -2280,8 +2280,8 @@
       <tuv lang="EN">
         <seg>Default to 'Automatically match' for apps without custom settings.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185852Z" creationid="svetlemodry" creationdate="20151003T185829Z">
-        <seg>Ve výchozím nastavení 'Automaticky hledat' u aplikací bez vybraného nastavení.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190712Z" creationid="svetlemodry" creationdate="20151003T185829Z">
+        <seg>Ve výchozím nastavení 'Automaticky párovat' u aplikací bez vybraného nastavení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5080,8 +5080,8 @@
       <tuv lang="EN">
         <seg>Once the service is on, a dialog will appear when you click on a password field in an app if a matching password for the app exists.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185353Z" creationid="svetlemodry" creationdate="20151003T185353Z">
-        <seg>Jakmile bude služba zapnuta, po kliknutí na pole hesla bude zobrazeno dialogové okno pokud je pro používanou aplikaci dostupné heslo.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190742Z" creationid="svetlemodry" creationdate="20151003T185353Z">
+        <seg>Jakmile bude služba zapnuta, po kliknutí na pole hesla bude zobrazeno dialogové okno pokud je pro používanou aplikaci heslo dostupné.</seg>
       </tuv>
     </tu>
     <tu>
