@@ -4926,6 +4926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the service is on, a dialog will appear when you click on a password field in an app if a matching password for the app exists.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185353Z" creationid="svetlemodry" creationdate="20151003T185353Z">
+        <seg>Jakmile bude služba zapnuta, po kliknutí na pole hesla bude zobrazeno dialogové okno pokud je pro používanou aplikaci dostupné heslo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Online</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204152Z" creationid="svetlemodry" creationdate="20141219T204152Z">
@@ -5122,6 +5130,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182130Z" creationid="svetlemodry" creationdate="20151003T182130Z">
         <seg>Password Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password Store attempts to match apps with passwords automatically.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185434Z" creationid="svetlemodry" creationdate="20151003T185434Z">
+        <seg>Password Store se automaticky pokouší najít odpovídající heslo k aplikacím.</seg>
       </tuv>
     </tu>
     <tu>
