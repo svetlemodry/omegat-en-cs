@@ -1910,6 +1910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cycle Map</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180518Z" creationid="svetlemodry" creationdate="20151003T180518Z">
+        <seg>Cycle Map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DAVdroid</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143336Z" creationid="svetlemodry" creationdate="20150309T143336Z">
@@ -4006,6 +4014,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mapnik</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180506Z" creationid="svetlemodry" creationdate="20151003T180506Z">
+        <seg>Mapnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapquest (OSM)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180509Z" creationid="svetlemodry" creationdate="20151003T180509Z">
+        <seg>Mapquest (OSM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapquest Aerial</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180513Z" creationid="svetlemodry" creationdate="20151003T180513Z">
+        <seg>Mapquest Aerial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maybe no SD-card or it's full.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171904Z" creationid="svetlemodry" creationdate="20150328T171904Z">
@@ -6002,6 +6034,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171923Z" creationid="svetlemodry" creationdate="20150328T171923Z">
         <seg>Zobrazit upozornění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show public transport</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180535Z" creationid="svetlemodry" creationdate="20151003T180535Z">
+        <seg>Zobrazit veřejnou dopravu</seg>
       </tuv>
     </tu>
     <tu>
