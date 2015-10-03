@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ambiguous</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190038Z" creationid="svetlemodry" creationdate="20151003T190038Z">
+        <seg>Dvouznačné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error has occurred</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
@@ -1470,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clear clipboard 20 times</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185927Z" creationid="svetlemodry" creationdate="20151003T185927Z">
+        <seg>Zaplnit schránku 20krát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clear history</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204136Z" creationid="svetlemodry" creationdate="20141219T204136Z">
@@ -1578,6 +1594,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204537Z" creationid="svetlemodry" creationdate="20141219T204537Z">
         <seg>Obarvit tlačítko odesílání barvou indikující stavu kontaktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190100Z" creationid="svetlemodry" creationdate="20151003T190100Z">
+        <seg>Komentář</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2242,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065117Z" creationid="svetlemodry" creationdate="20150310T065117Z">
         <seg>Výchozí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default to 'Automatically match' for apps without custom settings.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185852Z" creationid="svetlemodry" creationdate="20151003T185829Z">
+        <seg>Ve výchozím nastavení 'Automaticky hledat' u aplikací bez vybraného nastavení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,6 +3774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190012Z" creationid="svetlemodry" creationdate="20151003T190012Z">
+        <seg>Vložit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Incompatible server</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204155Z" creationid="svetlemodry" creationdate="20141219T204155Z">
@@ -4066,6 +4106,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183610Z" creationid="svetlemodry" creationdate="20151003T183610Z">
         <seg>Nechte prázdné pokud je bez hesla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Length</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190042Z" creationid="svetlemodry" creationdate="20151003T190042Z">
+        <seg>Délka</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,6 +4902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Numerals</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190018Z" creationid="svetlemodry" creationdate="20151003T190018Z">
+        <seg>Čísla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OCT</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063207Z" creationid="svetlemodry" creationdate="20150310T063207Z">
@@ -5062,6 +5118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, 'Never match.'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185847Z" creationid="svetlemodry" creationdate="20151003T185847Z">
+        <seg>Jinak, 'Nikdy nehledat.'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, DAVdroid is not allowed to access and synchronize your contacts and events.&lt;/p&gt; &lt;p&gt;&lt;b&gt;In case of problems, please read the &lt;a href="http://davdroid.bitfire.at/configuration?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;FAQ&lt;/a&gt; first.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T144852Z" creationid="svetlemodry" creationdate="20150309T144852Z">
@@ -5122,6 +5186,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204022Z" creationid="svetlemodry" creationdate="20141219T204022Z">
         <seg>Účastník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Passphrase</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190052Z" creationid="svetlemodry" creationdate="20151003T190052Z">
+        <seg>Bezpečnostní fráze</seg>
       </tuv>
     </tu>
     <tu>
@@ -6646,6 +6718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Store nonsense in the clipboard 20 times instead of just once.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185945Z" creationid="svetlemodry" creationdate="20151003T185945Z">
+        <seg>Uložit dvacet náhodných textů do schránky namísto pouze jednoho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subscriptions</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204149Z" creationid="svetlemodry" creationdate="20141219T204149Z">
@@ -6658,6 +6738,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110822Z" creationid="svetlemodry" creationdate="20150208T110822Z">
         <seg>Symbol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Symbols</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190021Z" creationid="svetlemodry" creationdate="20151003T190021Z">
+        <seg>Symboly</seg>
       </tuv>
     </tu>
     <tu>
@@ -7430,6 +7518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uppercase</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190028Z" creationid="svetlemodry" creationdate="20151003T190028Z">
+        <seg>Velká písmena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use enter key to send message</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190505Z" creationid="svetlemodry" creationdate="20150112T190505Z">
@@ -7458,6 +7554,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065500Z" creationid="svetlemodry" creationdate="20150310T065500Z">
         <seg>Použito %1$s %2$s.\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Useful on Samsung phones that feature clipboard history.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190003Z" creationid="svetlemodry" creationdate="20151003T190003Z">
+        <seg>Užitečné pro telefony Samsung, které nabízejí funkci historie schránky.</seg>
       </tuv>
     </tu>
     <tu>
