@@ -3734,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch synchronization now</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174742Z" creationid="svetlemodry" creationdate="20151003T174742Z">
+        <seg>Spustit synchronizaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Leave</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204425Z" creationid="svetlemodry" creationdate="20141219T204425Z">
@@ -5046,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Push SMS on reception</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174534Z" creationid="svetlemodry" creationdate="20151003T174534Z">
+        <seg>Oznámit SMS při přijetí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quarters</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T111217Z" creationid="svetlemodry" creationdate="20150208T111217Z">
@@ -6018,6 +6034,62 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T153253Z" creationid="svetlemodry" creationdate="20150309T143304Z">
         <seg>Synchronizace selhala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronize all messages</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174721Z" creationid="svetlemodry" creationdate="20151003T174721Z">
+        <seg>Synchronizovat všechny zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronize in 2.5G (GPRS)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174631Z" creationid="svetlemodry" creationdate="20151003T174631Z">
+        <seg>Synchronizovat přes 2.5G (GPRS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronize in 2G</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174653Z" creationid="svetlemodry" creationdate="20151003T174653Z">
+        <seg>Synchronizovat přes 2G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronize in 3G</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174619Z" creationid="svetlemodry" creationdate="20151003T174619Z">
+        <seg>Synchronizovat přes 3G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronize in 4G</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174610Z" creationid="svetlemodry" creationdate="20151003T174610Z">
+        <seg>Synchronizovat přes 4G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronize in Wi-Fi</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174548Z" creationid="svetlemodry" creationdate="20151003T174548Z">
+        <seg>Synchronizovat přes Wi-Fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronize in other modes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174709Z" creationid="svetlemodry" creationdate="20151003T174709Z">
+        <seg>Synchronizovat přes jiná připojení</seg>
       </tuv>
     </tu>
     <tu>
