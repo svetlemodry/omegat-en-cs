@@ -7320,8 +7320,8 @@
       <tuv lang="EN">
         <seg>This will not clear your configuration.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184258Z" creationid="svetlemodry" creationdate="20151003T184258Z">
-        <seg>Toto neldstraní vaše nastavení.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T191306Z" creationid="svetlemodry" creationdate="20151003T184258Z">
+        <seg>Toto neodstraní vaše nastavení.</seg>
       </tuv>
     </tu>
     <tu>
