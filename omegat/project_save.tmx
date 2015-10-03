@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Category: "</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190334Z" creationid="svetlemodry" creationdate="20151003T190334Z">
+        <seg>"Kategorie: "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Clip Stack Backup "</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171736Z" creationid="svetlemodry" creationdate="20150328T171736Z">
@@ -1118,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autofills password fields in apps.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190402Z" creationid="svetlemodry" creationdate="20151003T190402Z">
+        <seg>Automaticky vyplňuje pole hesel v aplikacích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatically Copy Password</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184453Z" creationid="svetlemodry" creationdate="20151003T184453Z">
@@ -1834,6 +1850,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150419Z" creationid="svetlemodry" creationdate="20150309T150419Z">
         <seg>Interval synchronizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Control the visibility of the passwords once decrypted, this does not disable the password copy</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190311Z" creationid="svetlemodry" creationdate="20151003T190311Z">
+        <seg>Hlídat viditelnost hesel po dešifrování, toto nevypíná možnost kopírovat heslo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nah... later</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190203Z" creationid="svetlemodry" creationdate="20151003T190203Z">
+        <seg>Ne... později</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110809Z" creationid="svetlemodry" creationdate="20150208T110809Z">
@@ -4990,6 +5022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On my way...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190153Z" creationid="svetlemodry" creationdate="20151003T190153Z">
+        <seg>Je na cestě...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once a day</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150855Z" creationid="svetlemodry" creationdate="20150309T150855Z">
@@ -5034,6 +5074,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172656Z" creationid="svetlemodry" creationdate="20150328T172656Z">
         <seg>Pouze označené položky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oops...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190208Z" creationid="svetlemodry" creationdate="20151003T190208Z">
+        <seg>Ajaj...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5234,6 +5282,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112621Z" creationid="svetlemodry" creationdate="20150104T112621Z">
         <seg>Heslo změněno!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password copied into the clipboard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190327Z" creationid="svetlemodry" creationdate="20151003T190327Z">
+        <seg>Heslo zkopírováno do schránky</seg>
       </tuv>
     </tu>
     <tu>
@@ -5590,6 +5646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Provide this public key to your Git server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190121Z" creationid="svetlemodry" creationdate="20151003T190121Z">
+        <seg>Přidat tento veřejný klíč na Git server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publicly accessible conference</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190209Z" creationid="svetlemodry" creationdate="20150112T190209Z">
@@ -5630,10 +5694,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pull from remote</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190234Z" creationid="svetlemodry" creationdate="20151003T190234Z">
+        <seg>Stáhnout ze serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Push SMS on reception</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174534Z" creationid="svetlemodry" creationdate="20151003T174534Z">
         <seg>Oznámit SMS při přijetí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Push to remote</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190241Z" creationid="svetlemodry" creationdate="20151003T190241Z">
+        <seg>Uložit na server</seg>
       </tuv>
     </tu>
     <tu>
@@ -6590,10 +6670,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show passphrase</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190137Z" creationid="svetlemodry" creationdate="20151003T190137Z">
+        <seg>Zobrazit bezpečnostní frázi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show public transport</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180535Z" creationid="svetlemodry" creationdate="20151003T180535Z">
         <seg>Zobrazit veřejnou dopravu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show the password</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190249Z" creationid="svetlemodry" creationdate="20151003T190249Z">
+        <seg>Zobrazit heslo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6850,6 +6946,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124811Z" creationid="svetlemodry" creationdate="20150130T124811Z">
         <seg>Synchronizovat teď</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronize repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190224Z" creationid="svetlemodry" creationdate="20151003T190224Z">
+        <seg>Synchronizovat repozitář</seg>
       </tuv>
     </tu>
     <tu>
