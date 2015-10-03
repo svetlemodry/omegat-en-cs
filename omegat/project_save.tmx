@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Authentication Mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183838Z" creationid="svetlemodry" creationdate="20151003T183838Z">
+        <seg>Mód ověření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatically accept files smaller than…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204143Z" creationid="svetlemodry" creationdate="20141219T204143Z">
@@ -1510,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clone existing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183702Z" creationid="svetlemodry" creationdate="20151003T183702Z">
+        <seg>Klonovat existující</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cloud storage</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063228Z" creationid="svetlemodry" creationdate="20150310T063228Z">
@@ -1914,6 +1930,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204614Z" creationid="svetlemodry" creationdate="20141219T204614Z">
         <seg>Vytvořit konferenci s…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create new</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183708Z" creationid="svetlemodry" creationdate="20151003T183708Z">
+        <seg>Vytvořit nový</seg>
       </tuv>
     </tu>
     <tu>
@@ -5342,6 +5366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Protocol</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183717Z" creationid="svetlemodry" creationdate="20151003T183717Z">
+        <seg>Protokol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publicly accessible conference</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190209Z" creationid="svetlemodry" creationdate="20150112T190209Z">
@@ -5598,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repo path</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183751Z" creationid="svetlemodry" creationdate="20151003T183751Z">
+        <seg>Cesta k repozitáři</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository information</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182719Z" creationid="svetlemodry" creationdate="20151003T182719Z">
@@ -5650,6 +5690,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211029Z" creationid="svetlemodry" creationdate="20141219T204139Z">
         <seg>Restartovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resulting URL</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183826Z" creationid="svetlemodry" creationdate="20151003T183826Z">
+        <seg>Výsledná URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -6018,6 +6066,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180338Z" creationid="svetlemodry" creationdate="20150119T180338Z">
         <seg>Odesílám %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server URL</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183729Z" creationid="svetlemodry" creationdate="20151003T183729Z">
+        <seg>URL serveru</seg>
       </tuv>
     </tu>
     <tu>
@@ -7198,6 +7254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Username</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183815Z" creationid="svetlemodry" creationdate="20151003T183815Z">
+        <seg>Jméno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Username already in use</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204154Z" creationid="svetlemodry" creationdate="20141219T204154Z">
@@ -7374,6 +7438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Welcome to Password Store\n\n In this screen you can either create a new repository or clone your git repository onto your device.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183650Z" creationid="svetlemodry" creationdate="20151003T183650Z">
+        <seg>Vítejte v aplikaci Password Store\n\n Na této obrazovce můžete buď  vytvořit nový repozitář nebo klonovat dostupný repozitář na svůj přístroj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Welcome to ownCloud SMS application.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125526Z" creationid="svetlemodry" creationdate="20150130T125526Z">
@@ -7386,6 +7458,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T071014Z" creationid="svetlemodry" creationdate="20150310T071014Z">
         <seg>Při zadávání nákupu paliva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using custom ports, provide an absolute path (starts with "/")</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183931Z" creationid="svetlemodry" creationdate="20151003T183931Z">
+        <seg>Při použití vlastního portu, zadejte absolutní cestu (začíná "/")</seg>
       </tuv>
     </tu>
     <tu>
@@ -8070,6 +8150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183938Z" creationid="svetlemodry" creationdate="20151003T183938Z">
+        <seg>jméno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>never</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203908Z" creationid="svetlemodry" creationdate="20141219T203908Z">
@@ -8130,6 +8218,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150215T150608Z" creationid="svetlemodry" creationdate="20150215T150608Z">
         <seg>ownCloud vývojáři\n\ přispěvatelé a ti co hlásí chyby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>path/to/pass</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183807Z" creationid="svetlemodry" creationdate="20151003T183807Z">
+        <seg>cesta/k/heslům</seg>
       </tuv>
     </tu>
     <tu>
