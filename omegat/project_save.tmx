@@ -1926,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current version support only a single store.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182458Z" creationid="svetlemodry" creationdate="20151003T182458Z">
+        <seg>Aktuální verze podporuje pouze jedno úložiště.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cycle Map</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180518Z" creationid="svetlemodry" creationdate="20151003T180518Z">
@@ -2158,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delete directory</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182701Z" creationid="svetlemodry" creationdate="20151003T182701Z">
+        <seg>Smazat adresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete failed.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070116Z" creationid="svetlemodry" creationdate="20150310T070116Z">
@@ -2370,6 +2386,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212847Z" creationid="svetlemodry" creationdate="20141219T212847Z">
         <seg>Chcete smazat všechny zprávy v této konverzaci?\n\n&lt;b0&gt;Varování:&lt;/b0&gt; Toto neovlivní zprávy uložené na jiných přístrojích nebo serverech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to delete the current password store directory?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182518Z" creationid="svetlemodry" creationdate="20151003T182518Z">
+        <seg>Opravdu smazat aktuální adresář úložiště?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5422,6 +5446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182719Z" creationid="svetlemodry" creationdate="20151003T182719Z">
+        <seg>Informace repozitáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Request message receipts</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204536Z" creationid="svetlemodry" creationdate="20141219T204536Z">
@@ -6362,6 +6394,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110138Z" creationid="svetlemodry" creationdate="20150208T110138Z">
         <seg>Tapni sem pro otevření editoru seznamu stop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target directory already exist.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182439Z" creationid="svetlemodry" creationdate="20151003T182439Z">
+        <seg>Cílový adresář již existuje.</seg>
       </tuv>
     </tu>
     <tu>
