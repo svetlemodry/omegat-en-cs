@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Authenticate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183518Z" creationid="svetlemodry" creationdate="20151003T183518Z">
+        <seg>Ověření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150139Z" creationid="svetlemodry" creationdate="20150309T150139Z">
@@ -3334,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183512Z" creationid="svetlemodry" creationdate="20151003T183512Z">
+        <seg>Generovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to Accounts and Sync</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125458Z" creationid="svetlemodry" creationdate="20150130T125458Z">
@@ -3918,6 +3934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Leave it empty if there is no passphrase.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183610Z" creationid="svetlemodry" creationdate="20151003T183610Z">
+        <seg>Nechte prázdné pokud je bez hesla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Let your contact know when you have received and read a message</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
@@ -4482,6 +4506,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182946Z" creationid="svetlemodry" creationdate="20151003T182946Z">
         <seg>Nebyl vybrán poskytovatel OpenPGP!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No SSH key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183456Z" creationid="svetlemodry" creationdate="20151003T183456Z">
+        <seg>Žádný SSH klíč</seg>
       </tuv>
     </tu>
     <tu>
@@ -5118,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please import or generate your SSH key file in the preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183444Z" creationid="svetlemodry" creationdate="20151003T183444Z">
+        <seg>Importujte nebo si prosím vygenerujte svůj SSH klíč v nastavení aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please install OpenKeychain to decrypt.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204333Z" creationid="svetlemodry" creationdate="20141219T204333Z">
@@ -5138,6 +5178,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183149Z" creationid="svetlemodry" creationdate="20151003T183149Z">
         <seg>Zadejte prosím jméno souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please provide the passphrase for your SSH key.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183558Z" creationid="svetlemodry" creationdate="20151003T183558Z">
+        <seg>Zadejte prosím heslo pro svůj SSH klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please provide the password for this repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183621Z" creationid="svetlemodry" creationdate="20151003T183621Z">
+        <seg>Zadejte prosím heslo k tomuto repozitáři</seg>
       </tuv>
     </tu>
     <tu>
@@ -7586,6 +7642,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182814Z" creationid="svetlemodry" creationdate="20151003T182814Z">
         <seg>Před inicializací repozitáře je třeba vybrat "ID PGP klíče"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have to set the information about the server before synchronizing with the server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183353Z" creationid="svetlemodry" creationdate="20151003T183353Z">
+        <seg>Je třeba zadat informaci o serveru před vlastní synchronizací</seg>
       </tuv>
     </tu>
     <tu>
