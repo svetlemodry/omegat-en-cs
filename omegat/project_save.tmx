@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Audiobook Mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131359Z" creationid="svetlemodry" creationdate="20151101T131359Z">
+        <seg>Mód audioknih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authenticate</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183518Z" creationid="svetlemodry" creationdate="20151003T183518Z">
@@ -3582,6 +3590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full Screen Now Playing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131117Z" creationid="svetlemodry" creationdate="20151101T131117Z">
+        <seg>Celá obrazovka právě hraje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gallons</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070757Z" creationid="svetlemodry" creationdate="20150310T070757Z">
@@ -3726,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Headphone Disconnect Behavior</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131229Z" creationid="svetlemodry" creationdate="20151101T131229Z">
+        <seg>Akce při odpojení sluchátek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hello world!</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T130057Z" creationid="svetlemodry" creationdate="20150130T130057Z">
@@ -3818,6 +3842,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204506Z" creationid="svetlemodry" creationdate="20141219T204506Z">
         <seg>Ignorovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore Leading 'The' in Artist Names</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131148Z" creationid="svetlemodry" creationdate="20151101T131148Z">
+        <seg>Vypustit 'The' ze jmen umělců</seg>
       </tuv>
     </tu>
     <tu>
@@ -5526,6 +5558,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pause After One Second</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131253Z" creationid="svetlemodry" creationdate="20151101T131253Z">
+        <seg>Pozastavit po jedné sekundě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pause Immediately</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131238Z" creationid="svetlemodry" creationdate="20151101T131238Z">
+        <seg>Okamžitě pozastavit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Per-app settings</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185539Z" creationid="svetlemodry" creationdate="20151003T185539Z">
@@ -5602,6 +5650,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204145Z" creationid="svetlemodry" creationdate="20141219T204145Z">
         <seg>Přehrát zvuk společně s upozorněním</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Playback</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131155Z" creationid="svetlemodry" creationdate="20151101T131155Z">
+        <seg>Přehrávání</seg>
       </tuv>
     </tu>
     <tu>
@@ -5730,6 +5786,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063535Z" creationid="svetlemodry" creationdate="20150310T063535Z">
         <seg>Grafy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Podcasts and Audiobooks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131346Z" creationid="svetlemodry" creationdate="20151101T131346Z">
+        <seg>Podcasty a audioknihy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6218,6 +6282,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182625Z" creationid="svetlemodry" creationdate="20150201T182625Z">
         <seg>Pokračovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resume on Quick Reconnect</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131317Z" creationid="svetlemodry" creationdate="20151101T131317Z">
+        <seg>Pokračovat v přehrávání při rychlém připojení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resume on Reconnect</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131338Z" creationid="svetlemodry" creationdate="20151101T131338Z">
+        <seg>Pokračovat při připojení</seg>
       </tuv>
     </tu>
     <tu>
