@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Group</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T125000Z" creationid="svetlemodry" creationdate="20151101T125000Z">
+        <seg>Přidat skupinu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Vehicle</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064946Z" creationid="svetlemodry" creationdate="20150310T064946Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070106Z" creationid="svetlemodry" creationdate="20150310T070106Z">
         <seg>Přidání selhalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add group</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T125106Z" creationid="svetlemodry" creationdate="20151101T125106Z">
+        <seg>Přidat skupinu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1042,6 +1058,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182901Z" creationid="svetlemodry" creationdate="20151003T182901Z">
         <seg>Opravdu chcete smazat heslo /"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to delete this group?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T125046Z" creationid="svetlemodry" creationdate="20151101T125046Z">
+        <seg>Opravdu si přejete smazat tuto skupinu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delete group</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T125008Z" creationid="svetlemodry" creationdate="20151101T125008Z">
+        <seg>Smazat skupinu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete messages</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204655Z" creationid="svetlemodry" creationdate="20141219T204136Z">
@@ -2694,6 +2726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Groups</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T124948Z" creationid="svetlemodry" creationdate="20151101T124948Z">
+        <seg>Upravit skupiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Vehicle</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064950Z" creationid="svetlemodry" creationdate="20150310T064950Z">
@@ -2730,6 +2770,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184049Z" creationid="svetlemodry" creationdate="20151003T184049Z">
         <seg>Upravit nastavení git serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit group</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T125111Z" creationid="svetlemodry" creationdate="20151101T125111Z">
+        <seg>Upravit skupinu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4606,6 +4654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>My Groups</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T124953Z" creationid="svetlemodry" creationdate="20151101T124953Z">
+        <seg>Moje skupiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>My ticks</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T105918Z" creationid="svetlemodry" creationdate="20150208T105918Z">
@@ -4850,6 +4906,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150106T201309Z" creationid="svetlemodry" creationdate="20150106T201309Z">
         <seg>Bez role</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No tracks have been added for this group.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T124938Z" creationid="svetlemodry" creationdate="20151101T124938Z">
+        <seg>Do této skupiny nebyly přidány žádné stopy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7286,6 +7350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can not be undone.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T125100Z" creationid="svetlemodry" creationdate="20151101T125100Z">
+        <seg>Toto nelze vzít zpět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This conference is members only</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204541Z" creationid="svetlemodry" creationdate="20141219T204541Z">
@@ -7458,6 +7530,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110049Z" creationid="svetlemodry" creationdate="20150208T110049Z">
         <seg>Detaily stopy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tracks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T124942Z" creationid="svetlemodry" creationdate="20151101T124942Z">
+        <seg>Stopy</seg>
       </tuv>
     </tu>
     <tu>
