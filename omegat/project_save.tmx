@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accent Color</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130841Z" creationid="svetlemodry" creationdate="20151101T130841Z">
+        <seg>Barva zvýraznění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accept</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
@@ -1462,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose Music Directory</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130640Z" creationid="svetlemodry" creationdate="20151101T130640Z">
+        <seg>Vybrat adresář s hudbou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose account</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174801Z" creationid="svetlemodry" creationdate="20151003T174801Z">
@@ -2114,6 +2130,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182458Z" creationid="svetlemodry" creationdate="20151003T182458Z">
         <seg>Aktuální verze podporuje pouze jedno úložiště.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Accent Color (aarrggbb)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130855Z" creationid="svetlemodry" creationdate="20151101T130855Z">
+        <seg>Vlastní barva zvýraznění (aarrggbb)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3262,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130558Z" creationid="svetlemodry" creationdate="20151101T130558Z">
+        <seg>Ukončit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Expand to show more.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T170952Z" creationid="svetlemodry" creationdate="20150328T170952Z">
@@ -3370,6 +3402,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204619Z" creationid="svetlemodry" creationdate="20141219T204619Z">
         <seg>Načíst historii ze serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130628Z" creationid="svetlemodry" creationdate="20151101T130628Z">
+        <seg>Nastavení souboru</seg>
       </tuv>
     </tu>
     <tu>
@@ -4966,6 +5006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing Playing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130553Z" creationid="svetlemodry" creationdate="20151101T130553Z">
+        <seg>Nic nehraje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171219Z" creationid="svetlemodry" creationdate="20150328T171212Z">
@@ -5498,6 +5546,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203840Z" creationid="svetlemodry" creationdate="20141219T203840Z">
         <seg>Telefon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick the Directory Containing Your Artists</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130733Z" creationid="svetlemodry" creationdate="20151101T130733Z">
+        <seg>Vybrat adresář obsahující hudební umělce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick the text size for the Music Player</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130926Z" creationid="svetlemodry" creationdate="20151101T130926Z">
+        <seg>Vybrat velikost písma pro Music Player</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick the theme for the Music Player</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130812Z" creationid="svetlemodry" creationdate="20151101T130812Z">
+        <seg>Vybrat vzhled pro Music Player</seg>
       </tuv>
     </tu>
     <tu>
@@ -6942,6 +7014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Style Preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130756Z" creationid="svetlemodry" creationdate="20151101T130756Z">
+        <seg>Nastavení vzhledu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subscriptions</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204149Z" creationid="svetlemodry" creationdate="20141219T204149Z">
@@ -7166,6 +7246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Size</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130902Z" creationid="svetlemodry" creationdate="20151101T130902Z">
+        <seg>Velikost písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thanks to</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125405Z" creationid="svetlemodry" creationdate="20150130T125405Z">
@@ -7266,6 +7354,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204434Z" creationid="svetlemodry" creationdate="20141219T204434Z">
         <seg>Server odmítl toto zveřejnění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130741Z" creationid="svetlemodry" creationdate="20151101T130741Z">
+        <seg>Vzhled</seg>
       </tuv>
     </tu>
     <tu>
