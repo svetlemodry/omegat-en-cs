@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -638,6 +638,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b&gt;Indicator&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204652Z" creationid="svetlemodry" creationdate="20151113T204652Z">
+        <seg>&lt;b&gt;Indikátor&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b&gt;Timers&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204613Z" creationid="svetlemodry" creationdate="20151113T204613Z">
+        <seg>&lt;b&gt;Časování&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h1&gt;Welcome to DAVdroid/%s!&lt;/h1&gt; &lt;p&gt;DAVdroid is an Android 4+ sync adapter for CalDAV/CardDAV.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143803Z" creationid="svetlemodry" creationdate="20150309T143803Z">
@@ -986,6 +1002,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171235Z" creationid="svetlemodry" creationdate="20150328T171235Z">
         <seg>Vždy zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always visible</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204705Z" creationid="svetlemodry" creationdate="20151113T204705Z">
+        <seg>Vždy viditelný</seg>
       </tuv>
     </tu>
     <tu>
@@ -1466,6 +1490,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204545Z" creationid="svetlemodry" creationdate="20141219T204545Z">
         <seg>Ověřit velikost obrázku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check now</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204304Z" creationid="svetlemodry" creationdate="20151113T204304Z">
+        <seg>Zkontrolovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checking</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204500Z" creationid="svetlemodry" creationdate="20151113T204500Z">
+        <seg>Kontroluji</seg>
       </tuv>
     </tu>
     <tu>
@@ -3054,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204430Z" creationid="svetlemodry" creationdate="20151113T204430Z">
+        <seg>Chyba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error #11: Unable to perform a connection to ownCloud instance</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125907Z" creationid="svetlemodry" creationdate="20150130T125907Z">
@@ -4014,6 +4062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Interval between updates check (minutes)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204646Z" creationid="svetlemodry" creationdate="20151113T204646Z">
+        <seg>Časový interval mezi aktualizacemi (minuty)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid %1$s value.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070407Z" creationid="svetlemodry" creationdate="20150310T070407Z">
@@ -4802,6 +4858,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204146Z" creationid="svetlemodry" creationdate="20141219T204146Z">
         <seg>Neodesílat detaily o pádu aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Arch Linux Updates</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204514Z" creationid="svetlemodry" creationdate="20151113T204514Z">
+        <seg>Nové aktualizace pro Arch Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -7622,6 +7686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Time to wait before first check (seconds)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204632Z" creationid="svetlemodry" creationdate="20151113T204632Z">
+        <seg>Čas zpoždění před první kontrolou (sekundy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To date:</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171916Z" creationid="svetlemodry" creationdate="20150328T171911Z">
@@ -7918,6 +7990,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Up to date :)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204443Z" creationid="svetlemodry" creationdate="20151113T204443Z">
+        <seg>Vše aktualizováno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update now</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204356Z" creationid="svetlemodry" creationdate="20151113T204356Z">
+        <seg>Aktualizovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Update the password according to your server.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150228Z" creationid="svetlemodry" creationdate="20150309T150228Z">
@@ -8138,6 +8226,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204023Z" creationid="svetlemodry" creationdate="20141219T204023Z">
         <seg>Návštěvník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Waiting first check</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204253Z" creationid="svetlemodry" creationdate="20151113T204253Z">
+        <seg>Čekání na první kontrolu</seg>
       </tuv>
     </tu>
     <tu>
@@ -9154,6 +9250,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203936Z" creationid="svetlemodry" creationdate="20141219T203936Z">
         <seg>než opět změním</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>updates pending</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204427Z" creationid="svetlemodry" creationdate="20151113T204427Z">
+        <seg>čekajících aktualizací</seg>
       </tuv>
     </tu>
     <tu>
