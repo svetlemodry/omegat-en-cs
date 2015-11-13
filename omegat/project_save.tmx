@@ -638,10 +638,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b&gt;Advanced settings&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204936Z" creationid="svetlemodry" creationdate="20151113T204936Z">
+        <seg>&lt;b&gt;Další možnosti&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b&gt;Indicator&lt;/b&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204652Z" creationid="svetlemodry" creationdate="20151113T204652Z">
         <seg>&lt;b&gt;Indikátor&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b&gt;Notification&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204746Z" creationid="svetlemodry" creationdate="20151113T204746Z">
+        <seg>&lt;b&gt;Upozornění&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1710,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command to update packages</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204951Z" creationid="svetlemodry" creationdate="20151113T204951Z">
+        <seg>Příkaz pro aktualizaci balíčků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comment</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190100Z" creationid="svetlemodry" creationdate="20151003T190100Z">
@@ -2090,6 +2114,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204611Z" creationid="svetlemodry" creationdate="20141219T204611Z">
         <seg>Ověření otisku se nezdařilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Count only</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204853Z" creationid="svetlemodry" creationdate="20151113T204853Z">
+        <seg>Pouze počet</seg>
       </tuv>
     </tu>
     <tu>
@@ -3838,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How much information to show on notifications</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204845Z" creationid="svetlemodry" creationdate="20151113T204845Z">
+        <seg>Množství zobrazovaných informací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I/O Error decrypting file</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
@@ -5494,6 +5534,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Packages names</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204910Z" creationid="svetlemodry" creationdate="20151113T204910Z">
+        <seg>Jména balíčků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pacman local directory path - To detect when new packages are installed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T205115Z" creationid="svetlemodry" creationdate="20151113T205115Z">
+        <seg>Cesta k místnímu pacman adresáři - Pro detekci instalace nových balíčků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Participant</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204022Z" creationid="svetlemodry" creationdate="20141219T204022Z">
@@ -6678,6 +6734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Send a notification when new updates are available</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204812Z" creationid="svetlemodry" creationdate="20151113T204812Z">
+        <seg>Zobrazit upozornění při dostupných aktualizacích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Send again</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204548Z" creationid="svetlemodry" creationdate="20141219T204548Z">
@@ -7026,6 +7090,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190249Z" creationid="svetlemodry" creationdate="20151003T190249Z">
         <seg>Zobrazit heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show updates count on indicator</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204729Z" creationid="svetlemodry" creationdate="20151113T204729Z">
+        <seg>Zobrazovat u indikátoru počet aktualizací</seg>
       </tuv>
     </tu>
     <tu>
