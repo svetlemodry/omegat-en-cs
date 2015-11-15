@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"What if?" offline mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203614Z" creationid="svetlemodry" creationdate="20151115T203614Z">
+        <seg>"Co kdyby?" offline mód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>%1$.3f %2$s</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064800Z" creationid="svetlemodry" creationdate="20150310T064800Z">
@@ -1182,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203239Z" creationid="svetlemodry" creationdate="20151115T203239Z">
+        <seg>Vzhled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application settings and information</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070827Z" creationid="svetlemodry" creationdate="20150310T070827Z">
@@ -1626,6 +1642,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125504Z" creationid="svetlemodry" creationdate="20150130T125504Z">
         <seg>Změnit nastavení aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change how the app looks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203256Z" creationid="svetlemodry" creationdate="20151115T203256Z">
+        <seg>Změnit vzhled aplikace</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download all comics to external storage.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203524Z" creationid="svetlemodry" creationdate="20151115T203524Z">
+        <seg>Stáhnout všechny komixy do externího úložiště</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Downloading Comics…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191416Z" creationid="svetlemodry" creationdate="20151115T191416Z">
@@ -3250,6 +3282,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204614Z" creationid="svetlemodry" creationdate="20141219T204614Z">
         <seg>Povolit upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable offline mode &amp; notifications, screen orientation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203219Z" creationid="svetlemodry" creationdate="20151115T203219Z">
+        <seg>Povolit offline mód &amp; upozornění, orientaci obrazovky</seg>
       </tuv>
     </tu>
     <tu>
@@ -4766,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Large comic images</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203350Z" creationid="svetlemodry" creationdate="20151115T203350Z">
+        <seg>Velké obrázky komixu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latest comic</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192454Z" creationid="svetlemodry" creationdate="20151115T192454Z">
@@ -4858,6 +4906,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T062637Z" creationid="svetlemodry" creationdate="20150310T062637Z">
         <seg>Litrů na 100 kilometrů\n(L/100KM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load large images if available (e.g. #657).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203416Z" creationid="svetlemodry" creationdate="20151115T203416Z">
+        <seg>Načítat velké obrázky pokud jsou dostupné (např. #657).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,6 +5138,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190633Z" creationid="svetlemodry" creationdate="20151003T190633Z">
         <seg>Spárovat s…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May decrease performance on older devices</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203451Z" creationid="svetlemodry" creationdate="20151115T203451Z">
+        <seg>Může snížit výkon na starších přístrojích</seg>
       </tuv>
     </tu>
     <tu>
@@ -5426,6 +5490,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193623Z" creationid="svetlemodry" creationdate="20151115T193623Z">
         <seg>Nové Co kdyby!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New comics will be added automatically</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203554Z" creationid="svetlemodry" creationdate="20151115T203554Z">
+        <seg>Nové komixy budou přidány automaticky</seg>
       </tuv>
     </tu>
     <tu>
@@ -5850,6 +5922,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204153Z" creationid="svetlemodry" creationdate="20141219T204153Z">
         <seg>Offline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Offline mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203458Z" creationid="svetlemodry" creationdate="20151115T203458Z">
+        <seg>Offline mód</seg>
       </tuv>
     </tu>
     <tu>
