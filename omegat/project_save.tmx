@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add to Favorites</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192403Z" creationid="svetlemodry" creationdate="20151115T192403Z">
+        <seg>Přidat k oblíbeným</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add to phone book</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203959Z" creationid="svetlemodry" creationdate="20141219T203959Z">
@@ -1766,10 +1774,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comic added to favorites</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192250Z" creationid="svetlemodry" creationdate="20151115T192250Z">
+        <seg>Komix přidán k oblíbeným</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comic not available</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191138Z" creationid="svetlemodry" creationdate="20151115T191138Z">
         <seg>Komix není dostupný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comic removed from favorites</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192214Z" creationid="svetlemodry" creationdate="20151115T192214Z">
+        <seg>Komix odstraněn z oblíbených</seg>
       </tuv>
     </tu>
     <tu>
@@ -2578,6 +2602,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171038Z" creationid="svetlemodry" creationdate="20150328T171038Z">
         <seg>Smazáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting Comics…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192147Z" creationid="svetlemodry" creationdate="20151115T192147Z">
+        <seg>Mazání komixů…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting articles…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192157Z" creationid="svetlemodry" creationdate="20151115T192157Z">
+        <seg>Mazání článků…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3470,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Explain Comic</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192534Z" creationid="svetlemodry" creationdate="20151115T192534Z">
+        <seg>Vysvětlit komix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064929Z" creationid="svetlemodry" creationdate="20150310T064929Z">
@@ -3938,6 +3986,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150125T151710Z" creationid="svetlemodry" creationdate="20150125T151710Z">
         <seg>Skrýt nepřipojené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide read articles</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192355Z" creationid="svetlemodry" creationdate="20151115T192355Z">
+        <seg>Skrýt přečtené články</seg>
       </tuv>
     </tu>
     <tu>
@@ -4446,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest comic</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192454Z" creationid="svetlemodry" creationdate="20151115T192454Z">
+        <seg>Nejnovější komix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launch synchronization now</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174742Z" creationid="svetlemodry" creationdate="20151003T174742Z">
@@ -4722,6 +4786,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180513Z" creationid="svetlemodry" creationdate="20151003T180513Z">
         <seg>Mapquest Aerial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark all as unread</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192343Z" creationid="svetlemodry" creationdate="20151115T192343Z">
+        <seg>Označit vše jako nepřečtené</seg>
       </tuv>
     </tu>
     <tu>
@@ -5090,6 +5162,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204018Z" creationid="svetlemodry" creationdate="20141219T204018Z">
         <seg>Přezdívka se již používá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Night mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192554Z" creationid="svetlemodry" creationdate="20151115T192554Z">
+        <seg>Noční mód</seg>
       </tuv>
     </tu>
     <tu>
@@ -5578,6 +5658,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171123Z" creationid="svetlemodry" creationdate="20150328T171123Z">
         <seg>Open Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open in browser</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192604Z" creationid="svetlemodry" creationdate="20151115T192604Z">
+        <seg>Otevřít v prohlížeči</seg>
       </tuv>
     </tu>
     <tu>
@@ -6274,6 +6362,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204532Z" creationid="svetlemodry" creationdate="20141219T204532Z">
         <seg>Tichý režim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Random Comic</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192511Z" creationid="svetlemodry" creationdate="20151115T192511Z">
+        <seg>Náhodný komix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Random article</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192519Z" creationid="svetlemodry" creationdate="20151115T192519Z">
+        <seg>Náhodný článek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192317Z" creationid="svetlemodry" creationdate="20151115T192317Z">
+        <seg>Ohodnotit</seg>
       </tuv>
     </tu>
     <tu>
@@ -7118,6 +7230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Share Comic</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192459Z" creationid="svetlemodry" creationdate="20151115T192459Z">
+        <seg>Sdílet komix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Share HTML via …</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063807Z" creationid="svetlemodry" creationdate="20150310T063747Z">
@@ -7130,6 +7250,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180429Z" creationid="svetlemodry" creationdate="20151003T180429Z">
         <seg>Sdílet umístění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share article</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192505Z" creationid="svetlemodry" creationdate="20151115T192505Z">
+        <seg>Sdílet článek</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,6 +7450,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182645Z" creationid="svetlemodry" creationdate="20150201T182645Z">
         <seg>Malý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So you like Easy xkcd?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192310Z" creationid="svetlemodry" creationdate="20151115T192310Z">
+        <seg>Takže se ti Easy xkcd líbí?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8454,6 +8590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View Alt Text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192545Z" creationid="svetlemodry" creationdate="20151115T192545Z">
+        <seg>Zobrazit jako text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View Favorites</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191122Z" creationid="svetlemodry" creationdate="20151115T191122Z">
@@ -8890,6 +9034,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183353Z" creationid="svetlemodry" creationdate="20151003T183353Z">
         <seg>Je třeba zadat informaci o serveru před vlastní synchronizací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should have seen your face!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192136Z" creationid="svetlemodry" creationdate="20151115T192136Z">
+        <seg>Měl jsi se vidět!</seg>
       </tuv>
     </tu>
     <tu>
