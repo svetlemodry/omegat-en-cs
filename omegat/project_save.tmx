@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Behavior</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203146Z" creationid="svetlemodry" creationdate="20151115T203146Z">
+        <seg>Chování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Black</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195119Z" creationid="svetlemodry" creationdate="20151115T195119Z">
@@ -2974,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't ask me to decide between sharing the comic's image and sharing its URL</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T202851Z" creationid="svetlemodry" creationdate="20151115T202851Z">
+        <seg>Neptat se jestli se má sdílet obrázek nebo jeho URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don't show any notification.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171930Z" creationid="svetlemodry" creationdate="20150328T171930Z">
@@ -4402,6 +4418,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190012Z" creationid="svetlemodry" creationdate="20151003T190012Z">
         <seg>Vložit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include alt text when sharing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203135Z" creationid="svetlemodry" creationdate="20151115T203135Z">
+        <seg>Vložit alternativní text při sdílení</seg>
       </tuv>
     </tu>
     <tu>
@@ -7722,6 +7746,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204556Z" creationid="svetlemodry" creationdate="20141219T204556Z">
         <seg>Sdílené tajemství</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sharing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203141Z" creationid="svetlemodry" creationdate="20151115T203141Z">
+        <seg>Sdílet</seg>
       </tuv>
     </tu>
     <tu>
