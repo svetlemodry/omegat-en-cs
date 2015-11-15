@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checks on Monday, Wednesday and Friday for new comics, checks on Tuesday for new What If.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204221Z" creationid="svetlemodry" creationdate="20151115T204221Z">
+        <seg>Kontroluje nové komixy v pondělí, ve středu a v pátek, kontroluje nové Co kdyby v úterý.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose Music Directory</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130640Z" creationid="svetlemodry" creationdate="20151101T130640Z">
@@ -7886,6 +7894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show alt text by default</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204502Z" creationid="svetlemodry" creationdate="20151115T204502Z">
+        <seg>Zobrazit alternativní text ve výchozím nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show block list</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112603Z" creationid="svetlemodry" creationdate="20150104T112603Z">
@@ -8338,6 +8354,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130902Z" creationid="svetlemodry" creationdate="20151101T130902Z">
         <seg>Velikost písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Zoom</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204714Z" creationid="svetlemodry" creationdate="20151115T204714Z">
+        <seg>Zvětšení textu</seg>
       </tuv>
     </tu>
     <tu>
@@ -9334,6 +9358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What If?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204704Z" creationid="svetlemodry" creationdate="20151115T204704Z">
+        <seg>Co kdyby?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When entering fuel purchase</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T071014Z" creationid="svetlemodry" creationdate="20150310T071014Z">
@@ -9634,6 +9666,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183353Z" creationid="svetlemodry" creationdate="20151003T183353Z">
         <seg>Je třeba zadat informaci o serveru před vlastní synchronizací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to restart the app in order for the theme to be applied</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204700Z" creationid="svetlemodry" creationdate="20151115T204700Z">
+        <seg>Musíte restartovat aplikaci aby bylo použito nové téma vzhledu</seg>
       </tuv>
     </tu>
     <tu>
