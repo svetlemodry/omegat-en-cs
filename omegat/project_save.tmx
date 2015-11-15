@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(interactive)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195256Z" creationid="svetlemodry" creationdate="20151115T195256Z">
+        <seg>(interaktivní)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(or touch phones)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204554Z" creationid="svetlemodry" creationdate="20141219T204554Z">
@@ -310,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>100%</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195224Z" creationid="svetlemodry" creationdate="20151115T195224Z">
+        <seg>100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1048576</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203921Z" creationid="svetlemodry" creationdate="20141219T203921Z">
@@ -330,6 +346,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065104Z" creationid="svetlemodry" creationdate="20150310T065104Z">
         <seg>12m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>130%</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195227Z" creationid="svetlemodry" creationdate="20151115T195227Z">
+        <seg>130%</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +386,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124938Z" creationid="svetlemodry" creationdate="20150130T124938Z">
         <seg>15 minut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>170%</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195230Z" creationid="svetlemodry" creationdate="20151115T195230Z">
+        <seg>170%</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +434,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203932Z" creationid="svetlemodry" creationdate="20141219T203932Z">
         <seg>2 hodiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>200%</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195233Z" creationid="svetlemodry" creationdate="20151115T195233Z">
+        <seg>200%</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>40%</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195218Z" creationid="svetlemodry" creationdate="20151115T195218Z">
+        <seg>40%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>5</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125009Z" creationid="svetlemodry" creationdate="20150130T125009Z">
@@ -586,6 +634,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172102Z" creationid="svetlemodry" creationdate="20150328T172102Z">
         <seg>7 dnů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>70%</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195221Z" creationid="svetlemodry" creationdate="20151115T195221Z">
+        <seg>70%</seg>
       </tuv>
     </tu>
     <tu>
@@ -1802,6 +1858,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204537Z" creationid="svetlemodry" creationdate="20141219T204537Z">
         <seg>Obarvit tlačítko odesílání barvou indikující stavu kontaktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comic Browser</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195306Z" creationid="svetlemodry" creationdate="20151115T195306Z">
+        <seg>Prohlížeč komixu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3646,10 +3710,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Favorites</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195310Z" creationid="svetlemodry" creationdate="20151115T195310Z">
+        <seg>Oblíbené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Favorites cleared</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190736Z" creationid="svetlemodry" creationdate="20151115T190736Z">
         <seg>Oblíbené vymazány</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feedback</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195319Z" creationid="svetlemodry" creationdate="20151115T195319Z">
+        <seg>Zpětná vazba</seg>
       </tuv>
     </tu>
     <tu>
@@ -3946,6 +4026,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
         <seg>Povolit aktualizace stavu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Green</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195208Z" creationid="svetlemodry" creationdate="20151115T195208Z">
+        <seg>Zelená</seg>
       </tuv>
     </tu>
     <tu>
@@ -4614,6 +4702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lime</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195203Z" creationid="svetlemodry" creationdate="20151115T195203Z">
+        <seg>Citrónová</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Listen system clipboard in background.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171210Z" creationid="svetlemodry" creationdate="20150328T171210Z">
@@ -5226,6 +5322,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204018Z" creationid="svetlemodry" creationdate="20141219T204018Z">
         <seg>Přezdívka se již používá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Night Theme</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195527Z" creationid="svetlemodry" creationdate="20151115T195527Z">
+        <seg>Noční vzheld</seg>
       </tuv>
     </tu>
     <tu>
@@ -6414,6 +6518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Purple</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195149Z" creationid="svetlemodry" creationdate="20151115T195149Z">
+        <seg>Fialová</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Push SMS on reception</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174534Z" creationid="svetlemodry" creationdate="20151003T174534Z">
@@ -7162,6 +7274,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204536Z" creationid="svetlemodry" creationdate="20141219T204536Z">
         <seg>Tlačítko pro odeslání zobrazuje stav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send email with…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195428Z" creationid="svetlemodry" creationdate="20151115T195428Z">
+        <seg>Odeslat email s…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8866,6 +8986,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204527Z" creationid="svetlemodry" creationdate="20141219T204527Z">
         <seg>Varování: Toto může vést ke ztrátě zpráv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WebView default</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195250Z" creationid="svetlemodry" creationdate="20151115T195250Z">
+        <seg>WebView výchozí</seg>
       </tuv>
     </tu>
     <tu>
