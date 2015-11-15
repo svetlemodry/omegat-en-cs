@@ -4150,6 +4150,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide FAB in Comics Screen</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201927Z" creationid="svetlemodry" creationdate="20151115T201927Z">
+        <seg>Skrýt FAB na obrazovce komixů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide FAB in Favorites Screen</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201903Z" creationid="svetlemodry" creationdate="20151115T201903Z">
+        <seg>Skrýt FAB na obrazovce oblíbených</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide FAB in…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T200852Z" creationid="svetlemodry" creationdate="20151115T200852Z">
@@ -4186,6 +4202,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192355Z" creationid="svetlemodry" creationdate="20151115T192355Z">
         <seg>Skrýt přečtené články</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hides the Floating Action Button.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201959Z" creationid="svetlemodry" creationdate="20151115T201959Z">
+        <seg>Skryje plovoucí tlačítko akcí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7538,6 +7562,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184338Z" creationid="svetlemodry" creationdate="20151003T184338Z">
         <seg>Nastavit OpenPGP účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets the current comic number as Action Bar Subtitle</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201739Z" creationid="svetlemodry" creationdate="20151115T201739Z">
+        <seg>Nastaví číslo aktuálního komixu jako titulek akčního panelu</seg>
       </tuv>
     </tu>
     <tu>
