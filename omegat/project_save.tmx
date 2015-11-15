@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt text &amp; sharing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205547Z" creationid="svetlemodry" creationdate="20151115T205547Z">
+        <seg>Alternativní text a sdílení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always notify when a new conference message arrives instead of only when highlighted</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204145Z" creationid="svetlemodry" creationdate="20141219T204145Z">
@@ -1946,6 +1954,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063228Z" creationid="svetlemodry" creationdate="20150310T063228Z">
         <seg>Cloudové úložiště</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Colored Navigation Bar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205309Z" creationid="svetlemodry" creationdate="20151115T205309Z">
+        <seg>Barevná navigační lišta</seg>
       </tuv>
     </tu>
     <tu>
@@ -4150,6 +4166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Got a few minutes and want to help improve this app?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205229Z" creationid="svetlemodry" creationdate="20151115T205229Z">
+        <seg>Máte minutku a chcete pomoci vylepšit tuto aplikac?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Grant admin privileges</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185627Z" creationid="svetlemodry" creationdate="20150112T185627Z">
@@ -5602,6 +5626,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192554Z" creationid="svetlemodry" creationdate="20151115T192554Z">
         <seg>Noční mód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Night options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205703Z" creationid="svetlemodry" creationdate="20151115T205703Z">
+        <seg>Noční nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -7766,6 +7798,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setup alt text and sharing behavior</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205654Z" creationid="svetlemodry" creationdate="20151115T205654Z">
+        <seg>Nastavit chování sdílení a alternativního textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setup the night theme</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205715Z" creationid="svetlemodry" creationdate="20151115T205715Z">
+        <seg>Nastavit noční téma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Share</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065053Z" creationid="svetlemodry" creationdate="20150310T065053Z">
@@ -8330,6 +8378,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212253Z" creationid="svetlemodry" creationdate="20141219T204150Z">
         <seg>Vyfotit obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take survey</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205245Z" creationid="svetlemodry" creationdate="20151115T205245Z">
+        <seg>Vyplňte dotazník</seg>
       </tuv>
     </tu>
     <tu>
@@ -9070,6 +9126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Update on mobile data</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205323Z" creationid="svetlemodry" creationdate="20151115T205323Z">
+        <seg>Aktualizovat přes mobilní data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Update the password according to your server.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150228Z" creationid="svetlemodry" creationdate="20150309T150228Z">
@@ -9418,6 +9482,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204704Z" creationid="svetlemodry" creationdate="20151115T204704Z">
         <seg>Co kdyby?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When disabled, offline comics and what-if articles are only updated on Wifi</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205504Z" creationid="svetlemodry" creationdate="20151115T205504Z">
+        <seg>Pokud vypnuto, offline komixy a co kdyby články budou aktualizovány pouze přes wifi</seg>
       </tuv>
     </tu>
     <tu>
