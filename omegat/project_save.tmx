@@ -2654,6 +2654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default, Portrait or Landscape</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204000Z" creationid="svetlemodry" creationdate="20151115T204000Z">
+        <seg>Výchozí, na výšku nebo na šířku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204038Z" creationid="svetlemodry" creationdate="20141219T204038Z">
@@ -7254,6 +7262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Screen Orientation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203937Z" creationid="svetlemodry" creationdate="20151115T203937Z">
+        <seg>Orientace obrazovky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204353Z" creationid="svetlemodry" creationdate="20141219T204353Z">
@@ -7778,6 +7794,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180256Z" creationid="svetlemodry" creationdate="20151003T180256Z">
         <seg>Sdílet umístění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share m.xkcd.com links instead of xkcd.com</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203739Z" creationid="svetlemodry" creationdate="20151115T203739Z">
+        <seg>Sdílet m.xkcd.com odkazy místo xkcd.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share mobile links</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203723Z" creationid="svetlemodry" creationdate="20151115T203723Z">
+        <seg>Sdílet mobilní odkazy</seg>
       </tuv>
     </tu>
     <tu>
@@ -8938,6 +8970,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204443Z" creationid="svetlemodry" creationdate="20151113T204443Z">
         <seg>Vše aktualizováno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update interval for notifications</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204027Z" creationid="svetlemodry" creationdate="20151115T204027Z">
+        <seg>Interval aktualizace pro upozornění</seg>
       </tuv>
     </tu>
     <tu>
