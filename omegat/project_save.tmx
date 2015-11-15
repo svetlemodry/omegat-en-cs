@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204823Z" creationid="svetlemodry" creationdate="20151115T204823Z">
+        <seg>Rozšířené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced Options</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204146Z" creationid="svetlemodry" creationdate="20141219T204146Z">
@@ -1090,6 +1098,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201359Z" creationid="svetlemodry" creationdate="20151115T201359Z">
         <seg>Hmatová zpětná vazba alternativního textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205201Z" creationid="svetlemodry" creationdate="20151115T205201Z">
+        <seg>Alternativní text</seg>
       </tuv>
     </tu>
     <tu>
@@ -4270,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide donation button</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205153Z" creationid="svetlemodry" creationdate="20151115T205153Z">
+        <seg>Skrýt tlačítko pro darování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide offline</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150125T151710Z" creationid="svetlemodry" creationdate="20150125T151710Z">
@@ -4354,6 +4378,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125438Z" creationid="svetlemodry" creationdate="20150130T125438Z">
         <seg>Pokud se vám tato aplikace líbí, ohodnoťte ji v Obchodě Google Play</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you see some blank comics, this option should fix it by re-downloading them</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204948Z" creationid="svetlemodry" creationdate="20151115T204948Z">
+        <seg>Pokud vidíte prázdné komixy, tato možnost je napraví novým stažením</seg>
       </tuv>
     </tu>
     <tu>
@@ -5162,6 +5194,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203451Z" creationid="svetlemodry" creationdate="20151115T203451Z">
         <seg>Může snížit výkon na starších přístrojích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May fix layout issues on some devices</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204814Z" creationid="svetlemodry" creationdate="20151115T204814Z">
+        <seg>Může spravit problémy s rozvržením na některých přístrojích</seg>
       </tuv>
     </tu>
     <tu>
@@ -7046,6 +7086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repair offline comics</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204838Z" creationid="svetlemodry" creationdate="20151115T204838Z">
+        <seg>Opravit offline komixy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repo path</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183751Z" creationid="svetlemodry" creationdate="20151003T183751Z">
@@ -8106,6 +8154,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185945Z" creationid="svetlemodry" creationdate="20151003T185945Z">
         <seg>Uložit dvacet náhodných textů do schránky namísto pouze jednoho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Style</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205204Z" creationid="svetlemodry" creationdate="20151115T205204Z">
+        <seg>Styl</seg>
       </tuv>
     </tu>
     <tu>
