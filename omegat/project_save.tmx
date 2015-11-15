@@ -5694,6 +5694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open in Browser</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T194216Z" creationid="svetlemodry" creationdate="20151115T194216Z">
+        <seg>Otevřít v prohlížeči</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open in browser</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192604Z" creationid="svetlemodry" creationdate="20151115T192604Z">
@@ -6622,6 +6630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove from Favorites</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T194236Z" creationid="svetlemodry" creationdate="20151115T194236Z">
+        <seg>Odstranit z oblíbených</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove from conference</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185645Z" creationid="svetlemodry" creationdate="20150112T185645Z">
@@ -6698,6 +6714,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211029Z" creationid="svetlemodry" creationdate="20141219T204139Z">
         <seg>Restartovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restart now to apply new theme?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T194156Z" creationid="svetlemodry" creationdate="20151115T194156Z">
+        <seg>Restartovat a použít nový vzhled?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7302,10 +7326,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Share Image</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T194202Z" creationid="svetlemodry" creationdate="20151115T194202Z">
+        <seg>Sdílet obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Share Location</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180429Z" creationid="svetlemodry" creationdate="20151003T180429Z">
         <seg>Sdílet umístění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share URL</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T194205Z" creationid="svetlemodry" creationdate="20151115T194205Z">
+        <seg>Sdílet URL</seg>
       </tuv>
     </tu>
     <tu>
