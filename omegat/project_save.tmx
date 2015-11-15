@@ -846,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195713Z" creationid="svetlemodry" creationdate="20151115T195713Z">
+        <seg>Aktivace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Active day and day before</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T172034Z" creationid="svetlemodry" creationdate="20151003T172000Z">
@@ -1082,6 +1090,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204525Z" creationid="svetlemodry" creationdate="20141219T204525Z">
         <seg>Vždy zasílat šifrované zprávy (mimo konference)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always show alt text, share alt text, haptic feedback</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T200032Z" creationid="svetlemodry" creationdate="20151115T200032Z">
+        <seg>Vždy zobrazovat alternativní text, sdílet text, haptická zpětná vazba</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,6 +3966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195905Z" creationid="svetlemodry" creationdate="20151115T195905Z">
+        <seg>Všeobecná nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General Settings</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124927Z" creationid="svetlemodry" creationdate="20150130T124927Z">
@@ -4098,6 +4122,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143347Z" creationid="svetlemodry" creationdate="20150309T143347Z">
         <seg>Pomoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide Floating Action Button</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T200051Z" creationid="svetlemodry" creationdate="20151115T200051Z">
+        <seg>Skrýt plovoucí tlačítko akcí</seg>
       </tuv>
     </tu>
     <tu>
@@ -4442,6 +4474,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070431Z" creationid="svetlemodry" creationdate="20150310T070431Z">
         <seg>Neplatná velikost nádrže vozidla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invert comic colors</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195707Z" creationid="svetlemodry" creationdate="20151115T195707Z">
+        <seg>Obrátit barvy komixu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4834,6 +4874,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172428Z" creationid="svetlemodry" creationdate="20150328T172428Z">
         <seg>Dlouhý klik pro úpravu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long tap or single tap</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195841Z" creationid="svetlemodry" creationdate="20151115T195841Z">
+        <seg>Dlouze podržet nebo jednou ťuknout</seg>
       </tuv>
     </tu>
     <tu>
