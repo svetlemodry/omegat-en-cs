@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Almost there…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191640Z" creationid="svetlemodry" creationdate="20151115T191640Z">
+        <seg>Skoro hotovo…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also vibrate when a new message arrives</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204144Z" creationid="svetlemodry" creationdate="20141219T204144Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
         <seg>Došlo k chybě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191649Z" creationid="svetlemodry" creationdate="20151115T191649Z">
+        <seg>Došlo k chybě!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4338,6 +4354,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110249Z" creationid="svetlemodry" creationdate="20150208T110249Z">
         <seg>Přeskočit na dnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Just kidding.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191710Z" creationid="svetlemodry" creationdate="20151115T191710Z">
+        <seg>Si dělám legraci.</seg>
       </tuv>
     </tu>
     <tu>
