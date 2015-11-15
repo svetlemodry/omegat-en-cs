@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to delete all your Favorites?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190721Z" creationid="svetlemodry" creationdate="20151115T190721Z">
+        <seg>Opravdu chcete smazat všechny své oblíbené?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to delete the password /"</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182901Z" creationid="svetlemodry" creationdate="20151003T182901Z">
@@ -1122,6 +1130,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T173426Z" creationid="svetlemodry" creationdate="20150208T110232Z">
         <seg>Opravdu si přejete smazat tuto stopu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to disable Offline Mode?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190844Z" creationid="svetlemodry" creationdate="20151115T190802Z">
+        <seg>Opravdu chcete vypnout offline mód?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Favorites cleared</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190736Z" creationid="svetlemodry" creationdate="20151115T190736Z">
+        <seg>Oblíbené vymazány</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fetching history from server</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204619Z" creationid="svetlemodry" creationdate="20141219T204619Z">
@@ -4446,6 +4470,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading Comics…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191019Z" creationid="svetlemodry" creationdate="20151115T191019Z">
+        <seg>Načítání komixů…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading Random Comic…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190941Z" creationid="svetlemodry" creationdate="20151115T190941Z">
+        <seg>Načíst náhodný komix…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading Search Results…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191043Z" creationid="svetlemodry" creationdate="20151115T191043Z">
+        <seg>Načítání výsledků vyhledávání…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading articles…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191028Z" creationid="svetlemodry" creationdate="20151115T191028Z">
+        <seg>Načítání článků…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location sharing is disabled</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180441Z" creationid="svetlemodry" creationdate="20151003T180441Z">
@@ -5058,6 +5114,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204615Z" creationid="svetlemodry" creationdate="20141219T204615Z">
         <seg>Nebyl nalezen konferenční server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No connection…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191051Z" creationid="svetlemodry" creationdate="20151115T191051Z">
+        <seg>Bez připojení…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6990,6 +7054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Share image with…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190929Z" creationid="svetlemodry" creationdate="20151115T190929Z">
+        <seg>Sdílet obrázek s…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Share location</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180256Z" creationid="svetlemodry" creationdate="20151003T180256Z">
@@ -7002,6 +7074,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171006Z" creationid="svetlemodry" creationdate="20150328T171006Z">
         <seg>Sdílet text do...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share url with…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190921Z" creationid="svetlemodry" creationdate="20151115T190921Z">
+        <seg>Sdílet url s…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7722,6 +7802,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110535Z" creationid="svetlemodry" creationdate="20150208T110535Z">
         <seg>Touto cestou si můžete ulehčit překonání starých zlozvyků nebo se naučit nové návyky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will delete all saved articles</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190902Z" creationid="svetlemodry" creationdate="20151115T190902Z">
+        <seg>Toto smaže všechny uložené články</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will delete all saved images(except favorites)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190831Z" creationid="svetlemodry" creationdate="20151115T190831Z">
+        <seg>Toto smaže všechny uložené obrázky (kromě oblíbených)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8658,6 +8754,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183200Z" creationid="svetlemodry" creationdate="20151003T183200Z">
         <seg>Nelze zadat prázdné heslo nebo další obsah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You didn't add any Favorites yet!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191003Z" creationid="svetlemodry" creationdate="20151115T191003Z">
+        <seg>Zatím jste neuložili žádné oblíbené!</seg>
       </tuv>
     </tu>
     <tu>
