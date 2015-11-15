@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto night theme</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205724Z" creationid="svetlemodry" creationdate="20151115T205724Z">
+        <seg>Automatické noční téma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autofills password fields in apps.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190402Z" creationid="svetlemodry" creationdate="20151003T190402Z">
@@ -1718,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check it out</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205810Z" creationid="svetlemodry" creationdate="20151115T205810Z">
+        <seg>Vyzkoušejte ji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check now</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204304Z" creationid="svetlemodry" creationdate="20151113T204304Z">
@@ -1978,6 +1994,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195306Z" creationid="svetlemodry" creationdate="20151115T195306Z">
         <seg>Prohlížeč komixu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comic Overview</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205959Z" creationid="svetlemodry" creationdate="20151115T205959Z">
+        <seg>Přehled komixů</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,6 +2710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default is root directory of external storage.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205902Z" creationid="svetlemodry" creationdate="20151115T205902Z">
+        <seg>Výchozí je kořenový adresář na externím úložišti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default to 'Automatically match' for apps without custom settings.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190712Z" creationid="svetlemodry" creationdate="20151003T185829Z">
@@ -2938,6 +2970,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204456Z" creationid="svetlemodry" creationdate="20141219T204456Z">
         <seg>Vypnout upozornění pro tuto konverzaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable scrolling while zoomed into comic image</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210133Z" creationid="svetlemodry" creationdate="20151115T210133Z">
+        <seg>Vypnout posun při přihlížení zvětšených obrázků komixu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5422,6 +5462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving folders and files …</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205951Z" creationid="svetlemodry" creationdate="20151115T205951Z">
+        <seg>Přesouvám adresáře a soubory …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple entries per day</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110157Z" creationid="svetlemodry" creationdate="20150208T110157Z">
@@ -5586,6 +5634,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203947Z" creationid="svetlemodry" creationdate="20141219T203947Z">
         <seg>Nová konverzace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New feature: Auto night mode!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205757Z" creationid="svetlemodry" creationdate="20151115T205757Z">
+        <seg>Nová možnost: Automatický noční mód!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6238,6 +6294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overview</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205814Z" creationid="svetlemodry" creationdate="20151115T205814Z">
+        <seg>Přehled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Owner</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204020Z" creationid="svetlemodry" creationdate="20141219T204020Z">
@@ -6402,6 +6466,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T062746Z" creationid="svetlemodry" creationdate="20150310T062746Z">
         <seg>Minulý měsíc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Path for offline data (Experimental)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205841Z" creationid="svetlemodry" creationdate="20151115T205841Z">
+        <seg>Cesta pro offline data (experimentální)</seg>
       </tuv>
     </tu>
     <tu>
