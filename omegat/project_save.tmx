@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always share comic image</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T202520Z" creationid="svetlemodry" creationdate="20151115T202520Z">
+        <seg>Vždy sdílet obrázek komixu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always show alt text, share alt text, haptic feedback</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T200032Z" creationid="svetlemodry" creationdate="20151115T200032Z">
@@ -9178,6 +9186,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T071014Z" creationid="svetlemodry" creationdate="20150310T071014Z">
         <seg>Při zadávání nákupu paliva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When hidden, there will be a button in the overflow menu instead</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T202449Z" creationid="svetlemodry" creationdate="20151115T202449Z">
+        <seg>Pokud skryté, bude místo toho zobrazeno tlačítko v náhledovém menu</seg>
       </tuv>
     </tu>
     <tu>
