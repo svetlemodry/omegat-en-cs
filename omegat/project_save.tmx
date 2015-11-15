@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Donate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192850Z" creationid="svetlemodry" creationdate="20151115T192850Z">
+        <seg>Darovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don’t save encrypted messages</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204526Z" creationid="svetlemodry" creationdate="20141219T204526Z">
@@ -7566,6 +7574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Swipe to navigate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192753Z" creationid="svetlemodry" creationdate="20151115T192753Z">
+        <seg>Potáhnout pro navigaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Symbol</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110822Z" creationid="svetlemodry" creationdate="20150208T110822Z">
@@ -8610,6 +8626,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064923Z" creationid="svetlemodry" creationdate="20150310T064923Z">
         <seg>Zobrazit log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Transcript</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192859Z" creationid="svetlemodry" creationdate="20151115T192859Z">
+        <seg>Zobrazit transkript</seg>
       </tuv>
     </tu>
     <tu>
