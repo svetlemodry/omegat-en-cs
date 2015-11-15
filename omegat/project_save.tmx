@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt Text haptic feedback</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201359Z" creationid="svetlemodry" creationdate="20151115T201359Z">
+        <seg>Hmatová zpětná vazba alternativního textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always notify when a new conference message arrives instead of only when highlighted</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204145Z" creationid="svetlemodry" creationdate="20141219T204145Z">
@@ -3242,6 +3250,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204528Z" creationid="svetlemodry" creationdate="20141219T204528Z">
         <seg>Povolí SSLv3 podporu pro zastaralé servery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables the haptic feedback when long pressing images</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201431Z" creationid="svetlemodry" creationdate="20151115T201431Z">
+        <seg>Povolit hmatovou zpětnou vazbu při dlouhém podržení obrázku</seg>
       </tuv>
     </tu>
     <tu>
@@ -7294,6 +7310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select your preferred style</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201209Z" creationid="svetlemodry" creationdate="20151115T201209Z">
+        <seg>Vyberte svůj oblíbený styl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Send OTR encrypted message</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204137Z" creationid="svetlemodry" creationdate="20141219T204137Z">
@@ -7658,6 +7682,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204556Z" creationid="svetlemodry" creationdate="20141219T204556Z">
         <seg>Sdílené tajemství</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Action Bar Subtitle</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201456Z" creationid="svetlemodry" creationdate="20151115T201456Z">
+        <seg>Zobrazit titulek akčního panelu</seg>
       </tuv>
     </tu>
     <tu>
