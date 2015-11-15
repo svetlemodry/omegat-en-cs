@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1610,6 +1610,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185927Z" creationid="svetlemodry" creationdate="20151003T185927Z">
         <seg>Zaplnit schránku 20krát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear favorites</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T184717Z" creationid="svetlemodry" creationdate="20151115T184717Z">
+        <seg>Smazat oblíbené</seg>
       </tuv>
     </tu>
     <tu>
@@ -6394,6 +6402,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183826Z" creationid="svetlemodry" creationdate="20151003T183826Z">
         <seg>Výsledná URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Results for</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T184710Z" creationid="svetlemodry" creationdate="20151115T184710Z">
+        <seg>Výsledky pro</seg>
       </tuv>
     </tu>
     <tu>
