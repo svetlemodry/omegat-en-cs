@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close navigation drawer</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193559Z" creationid="svetlemodry" creationdate="20151115T193559Z">
+        <seg>Zavřít navigaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cloud storage</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063228Z" creationid="svetlemodry" creationdate="20150310T063228Z">
@@ -5142,6 +5150,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New Comic!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193604Z" creationid="svetlemodry" creationdate="20151115T193604Z">
+        <seg>Nový komix!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New What If!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193623Z" creationid="svetlemodry" creationdate="20151115T193623Z">
+        <seg>Nové Co kdyby!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New conversation</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203947Z" creationid="svetlemodry" creationdate="20141219T203947Z">
@@ -5674,6 +5698,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192604Z" creationid="svetlemodry" creationdate="20151115T192604Z">
         <seg>Otevřít v prohlížeči</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open navigation drawer</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193550Z" creationid="svetlemodry" creationdate="20151115T193550Z">
+        <seg>Otevřít navigaci</seg>
       </tuv>
     </tu>
     <tu>
@@ -6826,6 +6858,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204353Z" creationid="svetlemodry" creationdate="20141219T204353Z">
         <seg>Hledat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search a Comic</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193216Z" creationid="svetlemodry" creationdate="20151115T193216Z">
+        <seg>Hledat komix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search an Article</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193224Z" creationid="svetlemodry" creationdate="20151115T193224Z">
+        <seg>Hledat článek</seg>
       </tuv>
     </tu>
     <tu>
@@ -8126,6 +8174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tip: You can also view the alt text by long pressing the comic image.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193206Z" creationid="svetlemodry" creationdate="20151115T193206Z">
+        <seg>Tip: Můžete si nechat zobrazit alternativní text dlouhým podržením obrázku komixu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To date:</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171916Z" creationid="svetlemodry" creationdate="20150328T171911Z">
@@ -8602,6 +8658,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204144Z" creationid="svetlemodry" creationdate="20141219T204144Z">
         <seg>Vibrovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193609Z" creationid="svetlemodry" creationdate="20151115T193609Z">
+        <seg>Zobrazit</seg>
       </tuv>
     </tu>
     <tu>
