@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always show alt text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210537Z" creationid="svetlemodry" creationdate="20151115T210537Z">
+        <seg>Vždy zobrazovat alternativní text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always show alt text, share alt text, haptic feedback</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T200032Z" creationid="svetlemodry" creationdate="20151115T200032Z">
@@ -1818,6 +1826,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204137Z" creationid="svetlemodry" creationdate="20141219T204137Z">
         <seg>Vybrat aktualizaci stavu pro kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Classic</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210517Z" creationid="svetlemodry" creationdate="20151115T210517Z">
+        <seg>Klasický</seg>
       </tuv>
     </tu>
     <tu>
@@ -4286,6 +4302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Haptic feedback</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210549Z" creationid="svetlemodry" creationdate="20151115T210549Z">
+        <seg>Hmatová zpětná vazba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Headphone Disconnect Behavior</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131229Z" creationid="svetlemodry" creationdate="20151101T131229Z">
@@ -4394,6 +4418,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204845Z" creationid="svetlemodry" creationdate="20151113T204845Z">
         <seg>Množství zobrazovaných informací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How much would you like to donate?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210458Z" creationid="svetlemodry" creationdate="20151115T210423Z">
+        <seg>Kolik chcete přispět?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5130,6 +5162,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172428Z" creationid="svetlemodry" creationdate="20150328T172428Z">
         <seg>Dlouhý klik pro úpravu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long tap</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210610Z" creationid="svetlemodry" creationdate="20151115T210610Z">
+        <seg>Dlouhé stlačení</seg>
       </tuv>
     </tu>
     <tu>
@@ -8166,6 +8206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Single Tap</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210603Z" creationid="svetlemodry" creationdate="20151115T210603Z">
+        <seg>Krátké ťuknutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204453Z" creationid="svetlemodry" creationdate="20141219T204446Z">
@@ -9210,6 +9258,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150228Z" creationid="svetlemodry" creationdate="20150309T150228Z">
         <seg>Aktualizovat heslo dle svého serveru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating database…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210508Z" creationid="svetlemodry" creationdate="20151115T210508Z">
+        <seg>Aktualizace databáze…</seg>
       </tuv>
     </tu>
     <tu>
