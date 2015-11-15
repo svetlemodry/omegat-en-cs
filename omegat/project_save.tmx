@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Classic or pop-up</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T200904Z" creationid="svetlemodry" creationdate="20151115T200904Z">
+        <seg>Klasický nebo pop-up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clear Conversation History</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204651Z" creationid="svetlemodry" creationdate="20141219T204136Z">
@@ -4122,6 +4130,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143347Z" creationid="svetlemodry" creationdate="20150309T143347Z">
         <seg>Pomoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide FAB in…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T200852Z" creationid="svetlemodry" creationdate="20151115T200852Z">
+        <seg>Skrýt FAB v…</seg>
       </tuv>
     </tu>
     <tu>
