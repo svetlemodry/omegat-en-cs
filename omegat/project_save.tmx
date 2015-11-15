@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Black</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195119Z" creationid="svetlemodry" creationdate="20151115T195119Z">
+        <seg>Černá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Block</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112309Z" creationid="svetlemodry" creationdate="20150104T112309Z">
@@ -1394,6 +1402,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112025Z" creationid="svetlemodry" creationdate="20150104T112025Z">
         <seg>Seznam blokovaných</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blue/Grey (Default)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195044Z" creationid="svetlemodry" creationdate="20151115T195044Z">
+        <seg>Modrá/Šedivá (Výchozí)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bright Blue</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195114Z" creationid="svetlemodry" creationdate="20151115T195114Z">
+        <seg>Světlemodrá</seg>
       </tuv>
     </tu>
     <tu>
@@ -4510,6 +4534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Landscape</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195017Z" creationid="svetlemodry" creationdate="20151115T195017Z">
+        <seg>Na šířku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Large</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182650Z" creationid="svetlemodry" creationdate="20150201T182650Z">
@@ -6214,6 +6246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Portrait</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195004Z" creationid="svetlemodry" creationdate="20151115T195004Z">
+        <seg>Na výšku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pre-emptive authentication</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150256Z" creationid="svetlemodry" creationdate="20150309T150256Z">
@@ -6546,6 +6586,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184601Z" creationid="svetlemodry" creationdate="20151003T184601Z">
         <seg>Rekurzivní hledání hesel v aktuálním adresáři.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Red</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195052Z" creationid="svetlemodry" creationdate="20151115T195052Z">
+        <seg>Červená</seg>
       </tuv>
     </tu>
     <tu>
