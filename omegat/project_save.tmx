@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1074,6 +1074,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T172046Z" creationid="svetlemodry" creationdate="20151003T172046Z">
         <seg>Všechny dny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All updates names</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151117T183143Z" creationid="svetlemodry" creationdate="20151117T183143Z">
+        <seg>Jména všech aktualizací</seg>
       </tuv>
     </tu>
     <tu>
@@ -5694,6 +5702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New updates names</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151117T183128Z" creationid="svetlemodry" creationdate="20151117T183128Z">
+        <seg>Jména nových aktualizací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204444Z" creationid="svetlemodry" creationdate="20141219T204444Z">
@@ -9314,6 +9330,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204539Z" creationid="svetlemodry" creationdate="20141219T204539Z">
         <seg>Pro identifikaci konferencí použít téma místnosti místo jejího JID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use transient notifications (auto dismiss)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151117T183115Z" creationid="svetlemodry" creationdate="20151117T183115Z">
+        <seg>Používat dočasná upozornění (samozavírací)</seg>
       </tuv>
     </tu>
     <tu>
