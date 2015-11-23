@@ -3094,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to delete the current password store directory:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151123T184344Z" creationid="svetlemodry" creationdate="20151123T184344Z">
+        <seg>Opravdu smazat aktuální adresář úložiště hesel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to delete the current password store directory?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184243Z" creationid="svetlemodry" creationdate="20151003T182518Z">
@@ -4202,6 +4210,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184123Z" creationid="svetlemodry" creationdate="20151003T184123Z">
         <seg>Generovat SSH klíč</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151123T184410Z" creationid="svetlemodry" creationdate="20151123T184410Z">
+        <seg>Git</seg>
       </tuv>
     </tu>
     <tu>
@@ -7786,6 +7802,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180338Z" creationid="svetlemodry" creationdate="20150119T180338Z">
         <seg>Odesílám %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151123T184416Z" creationid="svetlemodry" creationdate="20151123T184416Z">
+        <seg>Server</seg>
       </tuv>
     </tu>
     <tu>
