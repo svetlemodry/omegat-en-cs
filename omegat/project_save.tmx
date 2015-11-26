@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Contact phones</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151126T195038Z" creationid="svetlemodry" creationdate="20151126T195038Z">
+        <seg>- Telefony kontaktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-1</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203941Z" creationid="svetlemodry" creationdate="20141219T203941Z">
@@ -2262,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contact list</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151126T195123Z" creationid="svetlemodry" creationdate="20151126T195123Z">
+        <seg>Adresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contact requested SMP verification</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204601Z" creationid="svetlemodry" creationdate="20141219T204601Z">
@@ -3798,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Every SMS not synced</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151126T194758Z" creationid="svetlemodry" creationdate="20151126T194758Z">
+        <seg>Všechny nesynchronizované SMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Every hour</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150838Z" creationid="svetlemodry" creationdate="20150309T150838Z">
@@ -5314,6 +5338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190633Z" creationid="svetlemodry" creationdate="20151003T190633Z">
         <seg>Spárovat s…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Max messages to send per sync</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151126T195118Z" creationid="svetlemodry" creationdate="20151126T195118Z">
+        <seg>Maximální počet zpráv pro odeslání na synchronizaci</seg>
       </tuv>
     </tu>
     <tu>
@@ -7434,6 +7466,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063201Z" creationid="svetlemodry" creationdate="20150310T063201Z">
         <seg>ZÁŘ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SMS</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151126T194705Z" creationid="svetlemodry" creationdate="20151126T194705Z">
+        <seg>SMS</seg>
       </tuv>
     </tu>
     <tu>
