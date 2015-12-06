@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>10 hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164924Z" creationid="svetlemodry" creationdate="20151206T164924Z">
+        <seg>10 hodin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>100%</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195224Z" creationid="svetlemodry" creationdate="20151115T195224Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125009Z" creationid="svetlemodry" creationdate="20150130T125009Z">
         <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5 hours</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164920Z" creationid="svetlemodry" creationdate="20151206T164920Z">
+        <seg>5 hodin</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adv.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164634Z" creationid="svetlemodry" creationdate="20151206T164634Z">
+        <seg>Roz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204823Z" creationid="svetlemodry" creationdate="20151115T204823Z">
@@ -1114,6 +1138,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191640Z" creationid="svetlemodry" creationdate="20151115T191640Z">
         <seg>Skoro hotovo…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also ignores the \"when screen is off\" setting while charging</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164910Z" creationid="svetlemodry" creationdate="20151206T164832Z">
+        <seg>Také ignorovat nastavení \"vypnutý displej\" při napájení</seg>
       </tuv>
     </tu>
     <tu>
@@ -4366,6 +4398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164942Z" creationid="svetlemodry" creationdate="20151206T164942Z">
+        <seg>Hlavní nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generate</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183512Z" creationid="svetlemodry" creationdate="20151003T183512Z">
@@ -4922,6 +4962,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070554Z" creationid="svetlemodry" creationdate="20150310T070554Z">
         <seg>Neplatná hodnota ceny paliva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid input: Number has to be &gt;= %1$d and &lt;= %2$d</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164803Z" creationid="svetlemodry" creationdate="20151206T164803Z">
+        <seg>Neplatný vstup: Číslo musí být &gt;= %1$d a &lt;= %2$d</seg>
       </tuv>
     </tu>
     <tu>
@@ -5682,6 +5730,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T062607Z" creationid="svetlemodry" creationdate="20150310T062607Z">
         <seg>Mil na galon\n(MPG)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minutes before turning off WiFi:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164659Z" creationid="svetlemodry" creationdate="20151206T164659Z">
+        <seg>Minut před vypnutím WiFi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8318,6 +8374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Settings not found!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164648Z" creationid="svetlemodry" creationdate="20151206T164648Z">
+        <seg>Nastavení nenalezeno!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setup alt text and sharing behavior</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205654Z" creationid="svetlemodry" creationdate="20151115T205654Z">
@@ -9526,10 +9590,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Turn WiFi off at:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164721Z" creationid="svetlemodry" creationdate="20151206T164721Z">
+        <seg>Vypnout WiFi v:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Turn WiFi off when…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163944Z" creationid="svetlemodry" creationdate="20151206T163944Z">
         <seg>Vypnout WiFi pokud…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turn WiFi on at:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164711Z" creationid="svetlemodry" creationdate="20151206T164711Z">
+        <seg>Zapnout WiFi v:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turn WiFi on every …</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164737Z" creationid="svetlemodry" creationdate="20151206T164737Z">
+        <seg>Zapnout WiFi každé …</seg>
       </tuv>
     </tu>
     <tu>
@@ -10182,6 +10270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WiFi settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164641Z" creationid="svetlemodry" creationdate="20151206T164641Z">
+        <seg>WiFi nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Widget Mode</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152325Z" creationid="svetlemodry" creationdate="20151206T152325Z">
@@ -10390,6 +10486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the policy in the Android 'Advanced WiFi settings'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164629Z" creationid="svetlemodry" creationdate="20151206T164629Z">
+        <seg>Toto nastavení lze změnit v 'Rozšířeném nastavení WiFi' Androidu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change this default setting and also matching settings per-app.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185529Z" creationid="svetlemodry" creationdate="20151003T185529Z">
@@ -10466,6 +10570,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192136Z" creationid="svetlemodry" creationdate="20151115T192136Z">
         <seg>Měl jsi se vidět!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your WiFi sleep policy is set to automatically disable WiFi as soon as the display goes off.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164546Z" creationid="svetlemodry" creationdate="20151206T164546Z">
+        <seg>WiFi připojení je nastaveno na automatické vypnutí při vypnutí displeje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11218,6 +11330,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204140Z" creationid="svetlemodry" creationdate="20141219T204140Z">
         <seg>čekám…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>when charging</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164811Z" creationid="svetlemodry" creationdate="20151206T164811Z">
+        <seg>při napájení</seg>
       </tuv>
     </tu>
     <tu>
