@@ -9918,6 +9918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use cell location information to turn WiFi on at specified locations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T175900Z" creationid="svetlemodry" creationdate="20151206T175900Z">
+        <seg>Používat informace telefonních ústředen pro zapnutí WiFi ve specifických lokacích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use default setting</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190554Z" creationid="svetlemodry" creationdate="20151003T190554Z">
