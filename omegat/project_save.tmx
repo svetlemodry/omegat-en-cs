@@ -6456,8 +6456,8 @@
       <tuv lang="EN">
         <seg>Override alarm volume.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143930Z" creationid="svetlemodry" creationdate="20151206T143930Z">
-        <seg>Potlačit hlasitost alarmu.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T144935Z" creationid="svetlemodry" creationdate="20151206T143930Z">
+        <seg>Vlastní hlasitost alarmu.</seg>
       </tuv>
     </tu>
     <tu>
