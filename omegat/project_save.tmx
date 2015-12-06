@@ -4478,6 +4478,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Highest</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T150423Z" creationid="svetlemodry" creationdate="20151206T150423Z">
+        <seg>Nejvyšší</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hight</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T150435Z" creationid="svetlemodry" creationdate="20151206T150435Z">
+        <seg>Vysoká</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hint or Question</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204555Z" creationid="svetlemodry" creationdate="20141219T204555Z">
@@ -5250,6 +5266,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195841Z" creationid="svetlemodry" creationdate="20151115T195841Z">
         <seg>Dlouze podržet nebo jednou ťuknout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Low</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T150445Z" creationid="svetlemodry" creationdate="20151206T150445Z">
+        <seg>Nízká</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lowest</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T150455Z" creationid="svetlemodry" creationdate="20151206T150455Z">
+        <seg>Nejnižší</seg>
       </tuv>
     </tu>
     <tu>
@@ -6034,6 +6066,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T145455Z" creationid="svetlemodry" creationdate="20151206T143705Z">
         <seg>Žádný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T150440Z" creationid="svetlemodry" creationdate="20151206T150440Z">
+        <seg>Normální</seg>
       </tuv>
     </tu>
     <tu>
