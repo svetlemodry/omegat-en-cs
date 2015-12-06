@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CAUTION: Do not use NFC Tags which change their id every time they get reed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T144054Z" creationid="svetlemodry" creationdate="20151206T144054Z">
+        <seg>VAROVÁNÍ: Nepoužívejte NFC tagy měnící ID při každém přečtení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CSV file location…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063952Z" creationid="svetlemodry" creationdate="20150310T063952Z">
@@ -8054,6 +8062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets the alarm to full value when it's triggered.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T144005Z" creationid="svetlemodry" creationdate="20151206T144005Z">
+        <seg>Nastaví alarm na plnou hodnotu při zvonění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sets the current comic number as Action Bar Subtitle</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201739Z" creationid="svetlemodry" creationdate="20151115T201739Z">
@@ -9378,6 +9394,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204340Z" creationid="svetlemodry" creationdate="20141219T204340Z">
         <seg>Neznámý OTR identifikátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unlock screen, and enable NFC.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T144110Z" creationid="svetlemodry" creationdate="20151206T144110Z">
+        <seg>Odemknout obrazovku a povolit NFC.</seg>
       </tuv>
     </tu>
     <tu>
