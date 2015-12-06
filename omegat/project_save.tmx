@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Button arrangement</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153147Z" creationid="svetlemodry" creationdate="20151206T153147Z">
+        <seg>Zarovnání tlačítek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By sending in stack traces you are helping the ongoing development of Conversations</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204146Z" creationid="svetlemodry" creationdate="20141219T204146Z">
@@ -2058,6 +2066,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063228Z" creationid="svetlemodry" creationdate="20150310T063228Z">
         <seg>Cloudové úložiště</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color filter</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153219Z" creationid="svetlemodry" creationdate="20151206T153219Z">
+        <seg>Barevný filtr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color picker</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153228Z" creationid="svetlemodry" creationdate="20151206T153228Z">
+        <seg>Kapátko barev</seg>
       </tuv>
     </tu>
     <tu>
@@ -3934,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude app</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153236Z" creationid="svetlemodry" creationdate="20151206T153236Z">
+        <seg>Vyjmout aplikaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exit</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130558Z" creationid="svetlemodry" creationdate="20151101T130558Z">
@@ -4546,6 +4578,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192355Z" creationid="svetlemodry" creationdate="20151115T192355Z">
         <seg>Skrýt přečtené články</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide status bar icon</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153057Z" creationid="svetlemodry" creationdate="20151206T153057Z">
+        <seg>Skrýt stavovou ikonu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5330,6 +5370,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172428Z" creationid="svetlemodry" creationdate="20150328T172428Z">
         <seg>Dlouhý klik pro úpravu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long press button to change position.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153208Z" creationid="svetlemodry" creationdate="20151206T153208Z">
+        <seg>Dlouze stlačit tlačítko pro změnu pozice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7270,6 +7318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Range of adjustment</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153137Z" creationid="svetlemodry" creationdate="20151206T153137Z">
+        <seg>Rozsah změny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rate</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192317Z" creationid="svetlemodry" creationdate="20151115T192317Z">
@@ -8642,6 +8698,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063550Z" creationid="svetlemodry" creationdate="20150310T063550Z">
         <seg>Statistiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step of adjustment</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153129Z" creationid="svetlemodry" creationdate="20151206T153129Z">
+        <seg>Krok změny</seg>
       </tuv>
     </tu>
     <tu>
