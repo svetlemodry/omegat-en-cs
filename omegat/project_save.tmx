@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto Mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T151208Z" creationid="svetlemodry" creationdate="20151206T151208Z">
+        <seg>Automatický mód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto night theme</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205724Z" creationid="svetlemodry" creationdate="20151115T205724Z">
@@ -1442,6 +1450,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184514Z" creationid="svetlemodry" creationdate="20151003T184514Z">
         <seg>Automatické kopírování hesla do schránky po úspěšném dešifrování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatically dim and brighten with environment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T151235Z" creationid="svetlemodry" creationdate="20151206T151235Z">
+        <seg>Automaticky měnit jas podle prostředí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2546,6 +2562,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T071114Z" creationid="svetlemodry" creationdate="20150310T071114Z">
         <seg>Měna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current ambient light:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T151321Z" creationid="svetlemodry" creationdate="20151206T151321Z">
+        <seg>Aktuální okolní světlo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8782,6 +8806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tap up and down to adjust brightness.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T151159Z" creationid="svetlemodry" creationdate="20151206T151159Z">
+        <seg>Měnit jas posuvem nahoru a dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target directory already exist.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182439Z" creationid="svetlemodry" creationdate="20151003T182439Z">
@@ -9042,6 +9074,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204541Z" creationid="svetlemodry" creationdate="20141219T204541Z">
         <seg>Tato konference je pouze pro členy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This device doesn't have an ambient light sensor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T151345Z" creationid="svetlemodry" creationdate="20151206T151345Z">
+        <seg>Tento přístoj nemá senzor okolního osvětlení.</seg>
       </tuv>
     </tu>
     <tu>
