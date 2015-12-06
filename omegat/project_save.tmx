@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r7969:7974" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1042,6 +1042,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150106T201237Z" creationid="svetlemodry" creationdate="20150106T201237Z">
         <seg>Pokročilý mód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alarm</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143719Z" creationid="svetlemodry" creationdate="20151206T143719Z">
+        <seg>Alarm</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,6 +3058,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070858Z" creationid="svetlemodry" creationdate="20150310T070858Z">
         <seg>Zobrazit informaci o verzi aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display in 24 Hours.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143811Z" creationid="svetlemodry" creationdate="20151206T143811Z">
+        <seg>24 hodinové zobrazení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5774,6 +5790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Night Killer</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143749Z" creationid="svetlemodry" creationdate="20151206T143749Z">
+        <seg>Zabiják noci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Night Theme</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195527Z" creationid="svetlemodry" creationdate="20151115T195527Z">
@@ -5822,6 +5846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Nfc tag set.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143641Z" creationid="svetlemodry" creationdate="20151206T143641Z">
+        <seg>NFC tag nenastaven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No OpenPGP Key found</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204703Z" creationid="svetlemodry" creationdate="20141219T204140Z">
@@ -5850,6 +5882,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183456Z" creationid="svetlemodry" creationdate="20151003T183456Z">
         <seg>Žádný SSH klíč</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Tag set</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143631Z" creationid="svetlemodry" creationdate="20151206T143631Z">
+        <seg>Tag nenastaven</seg>
       </tuv>
     </tu>
     <tu>
@@ -5970,6 +6010,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190258Z" creationid="svetlemodry" creationdate="20150112T190258Z">
         <seg>Neanonymní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143705Z" creationid="svetlemodry" creationdate="20151206T143705Z">
+        <seg>Źádný</seg>
       </tuv>
     </tu>
     <tu>
@@ -6398,6 +6446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Override alarm volume.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143930Z" creationid="svetlemodry" creationdate="20151206T143930Z">
+        <seg>Potlačit hlasitost alarmu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Overview</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205814Z" creationid="svetlemodry" creationdate="20151115T205814Z">
@@ -6786,6 +6842,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211924Z" creationid="svetlemodry" creationdate="20141219T204502Z">
         <seg>Nejdříve si prosím vyžádejte povolení o zasílání změn stavu kontaktu.\n\n&lt;s0&gt;To bude poté použito pro zjištění jakou aplikaci tento kontakt používá.&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please set one.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143651Z" creationid="svetlemodry" creationdate="20151206T143651Z">
+        <seg>Nějaký prosím nastavte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7298,6 +7362,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204838Z" creationid="svetlemodry" creationdate="20151115T204838Z">
         <seg>Opravit offline komixy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeat</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143600Z" creationid="svetlemodry" creationdate="20151206T143600Z">
+        <seg>Opakování</seg>
       </tuv>
     </tu>
     <tu>
@@ -7930,6 +8002,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204035Z" creationid="svetlemodry" creationdate="20141219T204035Z">
         <seg>Nastavit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Tag</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143612Z" creationid="svetlemodry" creationdate="20151206T143612Z">
+        <seg>Nastavit tag</seg>
       </tuv>
     </tu>
     <tu>
@@ -8630,6 +8710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tap to Cancel</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143625Z" creationid="svetlemodry" creationdate="20151206T143625Z">
+        <seg>Dotykem zrušit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target directory already exist.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182439Z" creationid="svetlemodry" creationdate="20151003T182439Z">
@@ -8658,6 +8746,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172708Z" creationid="svetlemodry" creationdate="20150328T172708Z">
         <seg>Dočasně pozastaveno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminightor</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143504Z" creationid="svetlemodry" creationdate="20151206T143504Z">
+        <seg>Terminightor</seg>
       </tuv>
     </tu>
     <tu>
@@ -9798,6 +9894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wrong Tag.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143658Z" creationid="svetlemodry" creationdate="20151206T143658Z">
+        <seg>Chybný tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>X-Large</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063111Z" creationid="svetlemodry" creationdate="20150310T063111Z">
@@ -10378,6 +10482,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204009Z" creationid="svetlemodry" creationdate="20141219T204009Z">
         <seg>právě teď</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>label</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143607Z" creationid="svetlemodry" creationdate="20151206T143607Z">
+        <seg>popisek</seg>
       </tuv>
     </tu>
     <tu>
