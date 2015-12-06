@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Airplane mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T165007Z" creationid="svetlemodry" creationdate="20151206T165007Z">
+        <seg>Mód Letadlo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alarm</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143719Z" creationid="svetlemodry" creationdate="20151206T143719Z">
@@ -3294,6 +3302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to upgrade to the pro version now?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T165145Z" creationid="svetlemodry" creationdate="20151206T165145Z">
+        <seg>Chcete nyní aktualizovat na pro verzi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Does not rely on the clipboard for Android versions 5.0 and up.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190536Z" creationid="svetlemodry" creationdate="20151003T190512Z">
@@ -3306,6 +3322,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T202851Z" creationid="svetlemodry" creationdate="20151115T202851Z">
         <seg>Neptat se jestli se má sdílet obrázek nebo jeho URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't enable WiFi when in airplane mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T165030Z" creationid="svetlemodry" creationdate="20151206T165030Z">
+        <seg>Nezapínat WiFi v módu Letadlo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6542,6 +6566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only one location is support in the free version of the app.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T165122Z" creationid="svetlemodry" creationdate="20151206T165122Z">
+        <seg>Ve volné verzi této aplikaci je podporována pouze jedna lokace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only one more half to go!</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191601Z" creationid="svetlemodry" creationdate="20151115T191601Z">
@@ -9630,6 +9662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Turn on WiFi when entering these locations:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T165204Z" creationid="svetlemodry" creationdate="20151206T165204Z">
+        <seg>Zapnout WiFi při vstupu do těchto lokací:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>UI Options</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
@@ -11346,6 +11386,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163925Z" creationid="svetlemodry" creationdate="20151206T163925Z">
         <seg>po odemčení přístroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>when entering these locations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T165053Z" creationid="svetlemodry" creationdate="20151206T165053Z">
+        <seg>při vstupu do těchto lokací</seg>
       </tuv>
     </tu>
     <tu>
