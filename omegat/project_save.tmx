@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'No network timeout' setting might be too short for the locations feature to work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180021Z" creationid="svetlemodry" creationdate="20151206T180021Z">
+        <seg>Hodnota nastavení 'vypršení času bez sítě' je nejspíše příliš krátká, aby tato možnost fungovala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Or long press to bring back default)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204436Z" creationid="svetlemodry" creationdate="20141219T204436Z">
@@ -902,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active location scanning</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180259Z" creationid="svetlemodry" creationdate="20151206T180259Z">
+        <seg>Aktivní skenování umístění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204037Z" creationid="svetlemodry" creationdate="20141219T204037Z">
@@ -1306,6 +1322,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171146Z" creationid="svetlemodry" creationdate="20150328T171146Z">
         <seg>Nastavení aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>App does not have permission to access your location</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180337Z" creationid="svetlemodry" creationdate="20151206T180337Z">
+        <seg>Aplikace nemá oprávnění pro zjištění vašeho umístění</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change to 5 min now?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180400Z" creationid="svetlemodry" creationdate="20151206T180041Z">
+        <seg>Změnit hned na 5 min?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing this tick is disabled.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T172118Z" creationid="svetlemodry" creationdate="20151003T172118Z">
@@ -2062,10 +2094,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click to select WiFi network</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180103Z" creationid="svetlemodry" creationdate="20151206T180103Z">
+        <seg>Kliknout pro výběr WiFi sítě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click to show more.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172039Z" creationid="svetlemodry" creationdate="20150328T172039Z">
         <seg>Kliknout pro zobrazení dalších.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click to turn on</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180154Z" creationid="svetlemodry" creationdate="20151206T180154Z">
+        <seg>Kliknutím zapnout</seg>
       </tuv>
     </tu>
     <tu>
@@ -4966,6 +5014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Interval:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180245Z" creationid="svetlemodry" creationdate="20151206T180245Z">
+        <seg>Interval:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid %1$s value.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070407Z" creationid="svetlemodry" creationdate="20150310T070407Z">
@@ -5826,6 +5882,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163848Z" creationid="svetlemodry" creationdate="20151206T163848Z">
         <seg>Další aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More info</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180309Z" creationid="svetlemodry" creationdate="20151206T180309Z">
+        <seg>Více informací</seg>
       </tuv>
     </tu>
     <tu>
@@ -10318,6 +10382,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WiFi disabled</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180109Z" creationid="svetlemodry" creationdate="20151206T180109Z">
+        <seg>WiFi vypnuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WiFi disconnected</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180047Z" creationid="svetlemodry" creationdate="20151206T180047Z">
+        <seg>WiFi odpojeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WiFi settings</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164641Z" creationid="svetlemodry" creationdate="20151206T164641Z">
@@ -10682,6 +10762,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204437Z" creationid="svetlemodry" creationdate="20141219T204437Z">
         <seg>Váš server nepodporuje zveřejňování avataru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your settings prevent the app from detect your location</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180239Z" creationid="svetlemodry" creationdate="20151206T180239Z">
+        <seg>Nastavení zamezuje aplikaci detekovat vaše umístění</seg>
       </tuv>
     </tu>
     <tu>
