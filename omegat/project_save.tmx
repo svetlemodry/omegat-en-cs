@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advanced WiFi settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163831Z" creationid="svetlemodry" creationdate="20151206T163831Z">
+        <seg>Rozšířené WiFi nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced mode</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150106T201237Z" creationid="svetlemodry" creationdate="20150106T201237Z">
@@ -5734,6 +5742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More apps</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163848Z" creationid="svetlemodry" creationdate="20151206T163848Z">
+        <seg>Další aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mostly used for self-hosted services.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T145830Z" creationid="svetlemodry" creationdate="20150309T145830Z">
@@ -9510,6 +9526,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Turn WiFi off when…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163944Z" creationid="svetlemodry" creationdate="20151206T163944Z">
+        <seg>Vypnout WiFi pokud…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turn WiFi on…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163916Z" creationid="svetlemodry" creationdate="20151206T163916Z">
+        <seg>Zapnout WiFi…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>UI Options</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
@@ -10686,6 +10718,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>every %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163816Z" creationid="svetlemodry" creationdate="20151206T163816Z">
+        <seg>každé %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>everyday at %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163758Z" creationid="svetlemodry" creationdate="20151206T163758Z">
+        <seg>každý den v %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>extended away</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204227Z" creationid="svetlemodry" creationdate="20141219T204227Z">
@@ -10706,6 +10754,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204609Z" creationid="svetlemodry" creationdate="20141219T204609Z">
         <seg>přenos souboru selhal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for at least %d min</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163738Z" creationid="svetlemodry" creationdate="20151206T163738Z">
+        <seg>alespoň %d min</seg>
       </tuv>
     </tu>
     <tu>
@@ -11146,6 +11202,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204140Z" creationid="svetlemodry" creationdate="20141219T204140Z">
         <seg>čekám…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>when device gets unlocked</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163925Z" creationid="svetlemodry" creationdate="20151206T163925Z">
+        <seg>po odemčení přístroje</seg>
       </tuv>
     </tu>
     <tu>
