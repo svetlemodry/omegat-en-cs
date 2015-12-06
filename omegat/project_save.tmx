@@ -10942,6 +10942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>not connected to any network</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164024Z" creationid="svetlemodry" creationdate="20151206T164024Z">
+        <seg>bez připojení k jakékoliv síti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>notes</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065134Z" creationid="svetlemodry" creationdate="20150310T065134Z">
@@ -11082,6 +11090,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204554Z" creationid="svetlemodry" creationdate="20141219T204554Z">
         <seg>skenovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>screen is off</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163958Z" creationid="svetlemodry" creationdate="20151206T163958Z">
+        <seg>je vypnutý displej</seg>
       </tuv>
     </tu>
     <tu>
