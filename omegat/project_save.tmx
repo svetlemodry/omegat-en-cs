@@ -1198,6 +1198,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ambient light</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152624Z" creationid="svetlemodry" creationdate="20151206T152624Z">
+        <seg>Okolní osvětlení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ambient light difference</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152645Z" creationid="svetlemodry" creationdate="20151206T152645Z">
+        <seg>Rozdíl okolního osvětlení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ambiguous</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190038Z" creationid="svetlemodry" creationdate="20151003T190038Z">
@@ -2974,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detect lowest ambient light.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152559Z" creationid="svetlemodry" creationdate="20151206T152559Z">
+        <seg>Detekovat nejnižší okolní osvětlení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Device storage not readable.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070207Z" creationid="svetlemodry" creationdate="20150310T070147Z">
@@ -2994,6 +3018,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183329Z" creationid="svetlemodry" creationdate="20151003T183329Z">
         <seg>Zapomněli jste uvést přihlašovací jméno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dim screen at</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152834Z" creationid="svetlemodry" creationdate="20151206T152834Z">
+        <seg>Ztmavit obrazovku při</seg>
       </tuv>
     </tu>
     <tu>
@@ -3602,6 +3634,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063311Z" creationid="svetlemodry" creationdate="20150310T063311Z">
         <seg>Zadat 'Celkové náklady' a 'Množství paliva'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter dim</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152532Z" creationid="svetlemodry" creationdate="20151206T152532Z">
+        <seg>Zadat jas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4298,6 +4338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151123T184410Z" creationid="svetlemodry" creationdate="20151123T184410Z">
         <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go back to bright at</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152924Z" creationid="svetlemodry" creationdate="20151206T152924Z">
+        <seg>Přejít zpět na jas při</seg>
       </tuv>
     </tu>
     <tu>
@@ -6238,6 +6286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OFF</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152936Z" creationid="svetlemodry" creationdate="20151206T152936Z">
+        <seg>Vypnout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OK</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204042Z" creationid="svetlemodry" creationdate="20141219T204042Z">
@@ -7582,6 +7638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Return bright</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152633Z" creationid="svetlemodry" creationdate="20151206T152633Z">
+        <seg>Vrátit jas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reverse sort</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171943Z" creationid="svetlemodry" creationdate="20150328T171943Z">
@@ -8118,6 +8182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set lowest lux</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152616Z" creationid="svetlemodry" creationdate="20151206T152616Z">
+        <seg>Nastavit nenižší osvětlení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set notification priority.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172239Z" creationid="svetlemodry" creationdate="20150328T172239Z">
@@ -8522,6 +8594,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204144Z" creationid="svetlemodry" creationdate="20141219T204144Z">
         <seg>Zvuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Speed of bright response</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152723Z" creationid="svetlemodry" creationdate="20151206T152723Z">
+        <seg>Rychlost změny rozjasnění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Speed of dim response</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152712Z" creationid="svetlemodry" creationdate="20151206T152712Z">
+        <seg>Rychlost změny ztmavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -9202,6 +9290,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064833Z" creationid="svetlemodry" creationdate="20150310T064833Z">
         <seg>Čas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Time Mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152731Z" creationid="svetlemodry" creationdate="20151206T152731Z">
+        <seg>Časový mód</seg>
       </tuv>
     </tu>
     <tu>
