@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click notification to enter app.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152457Z" creationid="svetlemodry" creationdate="20151206T152457Z">
+        <seg>Kliknutím na upozornění spustit aplikaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click to add text.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T170959Z" creationid="svetlemodry" creationdate="20150328T170959Z">
@@ -8798,6 +8806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tap the icon to switch between dim and bright.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152427Z" creationid="svetlemodry" creationdate="20151206T152427Z">
+        <seg>Dotykem na ikonu přepínat jas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tap to Cancel</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143625Z" creationid="svetlemodry" creationdate="20151206T143625Z">
@@ -9962,6 +9978,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182842Z" creationid="svetlemodry" creationdate="20151003T182842Z">
         <seg>Jakou metodu připojení upřednostňujete?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Widget Mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152325Z" creationid="svetlemodry" creationdate="20151206T152325Z">
+        <seg>Widget mód</seg>
       </tuv>
     </tu>
     <tu>
