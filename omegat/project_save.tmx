@@ -198,10 +198,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>%d failure</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171544Z" creationid="svetlemodry" creationdate="20151208T171544Z">
+        <seg>%d chyba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%d failures</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171549Z" creationid="svetlemodry" creationdate="20151208T171549Z">
+        <seg>%d chyby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>%d mins ago</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204014Z" creationid="svetlemodry" creationdate="20141219T204014Z">
         <seg>před %d minutami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%d on your server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T172138Z" creationid="svetlemodry" creationdate="20151208T171536Z">
+        <seg>%d na vlastním serveru</seg>
       </tuv>
     </tu>
     <tu>
@@ -5344,8 +5368,8 @@
       <tuv lang="EN">
         <seg>Launch the service to access the journal.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170951Z" creationid="svetlemodry" creationdate="20151208T170951Z">
-        <seg>Spustit servis pro přístup k logu.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171842Z" creationid="svetlemodry" creationdate="20151208T170951Z">
+        <seg>Spustit službu pro přístup k logu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5650,6 +5674,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143608Z" creationid="svetlemodry" creationdate="20150309T143608Z">
         <seg>Spravovat synchronizované účty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manual backup</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171623Z" creationid="svetlemodry" creationdate="20151208T171623Z">
+        <seg>Manuální záloha</seg>
       </tuv>
     </tu>
     <tu>
@@ -6026,6 +6058,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110809Z" creationid="svetlemodry" creationdate="20150208T110809Z">
         <seg>Jméno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of the photo</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171559Z" creationid="svetlemodry" creationdate="20151208T171559Z">
+        <seg>Jméno fotografie</seg>
       </tuv>
     </tu>
     <tu>
@@ -8070,6 +8110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save this picture now!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171641Z" creationid="svetlemodry" creationdate="20151208T171641Z">
+        <seg>Ihned uložit fotografii!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saved</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170957Z" creationid="svetlemodry" creationdate="20151208T170957Z">
@@ -9030,6 +9078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stop the service</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171614Z" creationid="svetlemodry" creationdate="20151208T171614Z">
+        <seg>Ukončit službu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Stopped at csv line %1$d.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070346Z" creationid="svetlemodry" creationdate="20150310T070346Z">
@@ -9702,6 +9758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thumbnail of the photo</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171607Z" creationid="svetlemodry" creationdate="20151208T171607Z">
+        <seg>Náhled fotografie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tickmate</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T105908Z" creationid="svetlemodry" creationdate="20150208T105908Z">
@@ -9762,6 +9826,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171916Z" creationid="svetlemodry" creationdate="20150328T171911Z">
         <seg>Do data:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install and configure a server, see:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T172115Z" creationid="svetlemodry" creationdate="20151208T171419Z">
+        <seg>Jak nainstalovat a nastavit server si prečtěte zde:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10962,6 +11034,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204138Z" creationid="svetlemodry" creationdate="20141219T204138Z">
         <seg>Přezdívka byla změněna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your photo is being backed up on your server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T172125Z" creationid="svetlemodry" creationdate="20151208T171523Z">
+        <seg>Vaše fotografie jsou zálohovány na vlastní server.</seg>
       </tuv>
     </tu>
     <tu>
