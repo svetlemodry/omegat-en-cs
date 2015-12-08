@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All pictures of the device</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170703Z" creationid="svetlemodry" creationdate="20151208T170703Z">
+        <seg>Všechny obrázky v přístroji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All updates names</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151117T183143Z" creationid="svetlemodry" creationdate="20151117T183143Z">
@@ -6118,6 +6126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Newly taken only</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170646Z" creationid="svetlemodry" creationdate="20151208T170646Z">
+        <seg>Pouze nové</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204444Z" creationid="svetlemodry" creationdate="20141219T204444Z">
@@ -6814,6 +6830,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Over Wi-Fi only</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170551Z" creationid="svetlemodry" creationdate="20151208T170551Z">
+        <seg>Pouze přes Wi-Fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Over Wi-Fi or mobile network</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170610Z" creationid="svetlemodry" creationdate="20151208T170610Z">
+        <seg>Přes Wi-Fi nebo mobilní připojení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Override alarm volume.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T144935Z" creationid="svetlemodry" creationdate="20151206T143930Z">
@@ -7054,6 +7086,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PhotoBackup cannot work properly without the permission to read your pictures.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170901Z" creationid="svetlemodry" creationdate="20151208T170901Z">
+        <seg>Bez oprávnění číst obrázky nemůže PhotoBackup správně pracovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PhotoBackup has stopped.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170448Z" creationid="svetlemodry" creationdate="20151208T170448Z">
+        <seg>PhotoBackup byl zastaven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PhotoBackup is not running.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170439Z" creationid="svetlemodry" creationdate="20151208T170439Z">
+        <seg>PhotoBackup neběží.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PhotoBackup is running.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170430Z" creationid="svetlemodry" creationdate="20151208T170430Z">
+        <seg>PhotoBackup běží.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pick the Directory Containing Your Artists</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130733Z" creationid="svetlemodry" creationdate="20151101T130733Z">
@@ -7074,6 +7138,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130812Z" creationid="svetlemodry" creationdate="20151101T130812Z">
         <seg>Vybrat vzhled pro Music Player</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pictures to upload</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170631Z" creationid="svetlemodry" creationdate="20151208T170631Z">
+        <seg>Nahrávat obrázky</seg>
       </tuv>
     </tu>
     <tu>
@@ -8326,6 +8398,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server configuration</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170455Z" creationid="svetlemodry" creationdate="20151208T170455Z">
+        <seg>Nastavení serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server configuration is valid, great!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170806Z" creationid="svetlemodry" creationdate="20151208T170806Z">
+        <seg>Výborně, nastavení serveru je funkční!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server does not support registration</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204154Z" creationid="svetlemodry" creationdate="20141219T204154Z">
@@ -8354,6 +8442,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212314Z" creationid="svetlemodry" creationdate="20141219T204153Z">
         <seg>Server nenalezen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server password</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170522Z" creationid="svetlemodry" creationdate="20151208T170522Z">
+        <seg>Heslo serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server test failed, please verify your configuration.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170827Z" creationid="svetlemodry" creationdate="20151208T170827Z">
+        <seg>Test serveru selhal, ověřte prosím svou konfiguraci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9206,6 +9310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Testing server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170743Z" creationid="svetlemodry" creationdate="20151208T170743Z">
+        <seg>Testování serveru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Size</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T130902Z" creationid="svetlemodry" creationdate="20151101T130902Z">
@@ -9226,6 +9338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125405Z" creationid="svetlemodry" creationdate="20150130T125405Z">
         <seg>Poděkování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The address of the server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170509Z" creationid="svetlemodry" creationdate="20151208T170509Z">
+        <seg>Adresa serveru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9314,6 +9434,38 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190113Z" creationid="svetlemodry" creationdate="20150112T185954Z">
         <seg>Lze to provést jedině trvalým vypovězením uživatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password cannot be empty!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170737Z" creationid="svetlemodry" creationdate="20151208T170737Z">
+        <seg>Heslo nesmí být prázdné!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password is set.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170542Z" creationid="svetlemodry" creationdate="20151208T170542Z">
+        <seg>Heslo je nastaveno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password of the server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170534Z" creationid="svetlemodry" creationdate="20151208T170534Z">
+        <seg>Heslo serveru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The server address is invalid!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170725Z" creationid="svetlemodry" creationdate="20151208T170725Z">
+        <seg>Neplatná adresa serveru!</seg>
       </tuv>
     </tu>
     <tu>
