@@ -4974,6 +4974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Informations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170906Z" creationid="svetlemodry" creationdate="20151208T170906Z">
+        <seg>Informace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Input options</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190447Z" creationid="svetlemodry" creationdate="20150112T190447Z">
@@ -5330,6 +5338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174742Z" creationid="svetlemodry" creationdate="20151003T174742Z">
         <seg>Spustit synchronizaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch the service to access the journal.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170951Z" creationid="svetlemodry" creationdate="20151208T170951Z">
+        <seg>Spustit servis pro přístup k logu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7094,6 +7110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PhotoBackup for Android backups the pictures of this device on your home server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171255Z" creationid="svetlemodry" creationdate="20151208T171255Z">
+        <seg>PhotoBackup pro Android zálohuje obrázky z tohoto přístroje na váš domácí server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PhotoBackup has stopped.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170448Z" creationid="svetlemodry" creationdate="20151208T170448Z">
@@ -8042,6 +8066,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204416Z" creationid="svetlemodry" creationdate="20141219T204407Z">
         <seg>Uložit jako záložku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saved</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170957Z" creationid="svetlemodry" creationdate="20151208T170957Z">
+        <seg>Uloženo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9630,6 +9662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This way, you are the unique owner and user of your pictures.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171335Z" creationid="svetlemodry" creationdate="20151208T171335Z">
+        <seg>Tímto způsobem zůstáváte jediným vlastníkem a uživatelem svých fotografií.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will delete all saved articles</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190902Z" creationid="svetlemodry" creationdate="20151115T190902Z">
@@ -10126,6 +10166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Upload journal</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170923Z" creationid="svetlemodry" creationdate="20151208T170923Z">
+        <seg>Log nahrávání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uppercase</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190028Z" creationid="svetlemodry" creationdate="20151003T190028Z">
@@ -10378,6 +10426,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204023Z" creationid="svetlemodry" creationdate="20141219T204023Z">
         <seg>Návštěvník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Waiting</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171005Z" creationid="svetlemodry" creationdate="20151208T171005Z">
+        <seg>Čekání</seg>
       </tuv>
     </tu>
     <tu>
