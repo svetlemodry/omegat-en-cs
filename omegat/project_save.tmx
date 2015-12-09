@@ -64,8 +64,8 @@
       <tuv lang="EN">
         <seg>"What if?" offline mode</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203614Z" creationid="svetlemodry" creationdate="20151115T203614Z">
-        <seg>"Co kdyby?" offline mód</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151209T192446Z" creationid="svetlemodry" creationdate="20151115T203614Z">
+        <seg>"What if?" offline mód</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,8 +1952,8 @@
       <tuv lang="EN">
         <seg>Checks on Monday, Wednesday and Friday for new comics, checks on Tuesday for new What If.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204221Z" creationid="svetlemodry" creationdate="20151115T204221Z">
-        <seg>Kontroluje nové komixy v pondělí, ve středu a v pátek, kontroluje nové Co kdyby v úterý.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151209T192459Z" creationid="svetlemodry" creationdate="20151115T204221Z">
+        <seg>Kontroluje nové komixy v pondělí, ve středu a v pátek, kontroluje nové What If v úterý.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3426,6 +3426,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T162834Z" creationid="svetlemodry" creationdate="20151115T192850Z">
         <seg>Podpořit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Done.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151209T192310Z" creationid="svetlemodry" creationdate="20151209T192310Z">
+        <seg>Hotovo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6136,8 +6144,8 @@
       <tuv lang="EN">
         <seg>New What If!</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193623Z" creationid="svetlemodry" creationdate="20151115T193623Z">
-        <seg>Nové Co kdyby!</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151209T192436Z" creationid="svetlemodry" creationdate="20151115T193623Z">
+        <seg>Nové What If!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9350,6 +9358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tap to restart the app.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151209T192323Z" creationid="svetlemodry" creationdate="20151209T192323Z">
+        <seg>Dotykem restartovat aplikaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tap up and down to adjust brightness.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T151159Z" creationid="svetlemodry" creationdate="20151206T151159Z">
@@ -10598,18 +10614,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>What If?</seg>
-      </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204704Z" creationid="svetlemodry" creationdate="20151115T204704Z">
-        <seg>Co kdyby?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>When disabled, offline comics and what-if articles are only updated on Wifi</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205504Z" creationid="svetlemodry" creationdate="20151115T205504Z">
-        <seg>Pokud vypnuto, offline komixy a co kdyby články budou aktualizovány pouze přes wifi</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151209T192407Z" creationid="svetlemodry" creationdate="20151115T205504Z">
+        <seg>Pokud vypnuto, offline komixy a what-if články budou aktualizovány pouze přes wifi</seg>
       </tuv>
     </tu>
     <tu>
