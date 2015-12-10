@@ -8142,6 +8142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scale tiles</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151210T171006Z" creationid="svetlemodry" creationdate="20151210T171006Z">
+        <seg>Zvětšit mapové podklady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scan QR code</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204551Z" creationid="svetlemodry" creationdate="20141219T204551Z">
