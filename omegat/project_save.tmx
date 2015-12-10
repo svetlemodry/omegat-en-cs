@@ -8150,6 +8150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scale tiles up for the hard of seeing or on high DPI displays</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151210T171611Z" creationid="svetlemodry" creationdate="20151210T171611Z">
+        <seg>Zvětšit mapu pro lepší čitelnost a na displejích s vysokým rozlišením</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scan QR code</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204551Z" creationid="svetlemodry" creationdate="20141219T204551Z">
