@@ -5438,6 +5438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151214T202527Z" creationid="svetlemodry" creationdate="20151214T202527Z">
+        <seg>Seznam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Listen system clipboard in background.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171210Z" creationid="svetlemodry" creationdate="20150328T171210Z">
@@ -5584,8 +5592,8 @@
       <tuv lang="EN">
         <seg>Long tap</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210610Z" creationid="svetlemodry" creationdate="20151115T210610Z">
-        <seg>Dlouhé stlačení</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151214T202600Z" creationid="svetlemodry" creationdate="20151115T210610Z">
+        <seg>Dlouhý dotyk</seg>
       </tuv>
     </tu>
     <tu>
@@ -7214,6 +7222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pick your preferred style</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151214T202518Z" creationid="svetlemodry" creationdate="20151214T202518Z">
+        <seg>Vyberte upřednostňovaný styl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pictures to upload</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170631Z" creationid="svetlemodry" creationdate="20151208T170631Z">
@@ -8142,6 +8158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scale comic images to fit device screen size by default</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151214T202431Z" creationid="svetlemodry" creationdate="20151214T202431Z">
+        <seg>Upravit velikost obrázku komixu na velikost displeje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scale tiles</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151210T171006Z" creationid="svetlemodry" creationdate="20151210T171006Z">
@@ -8984,8 +9008,8 @@
       <tuv lang="EN">
         <seg>Single Tap</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210603Z" creationid="svetlemodry" creationdate="20151115T210603Z">
-        <seg>Krátké ťuknutí</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151214T202553Z" creationid="svetlemodry" creationdate="20151115T210603Z">
+        <seg>Krátký dotyk</seg>
       </tuv>
     </tu>
     <tu>
@@ -9002,6 +9026,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182645Z" creationid="svetlemodry" creationdate="20150201T182645Z">
         <seg>Malý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Small Cards</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151214T202540Z" creationid="svetlemodry" creationdate="20151214T202540Z">
+        <seg>Malé karty</seg>
       </tuv>
     </tu>
     <tu>
@@ -10626,6 +10658,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125526Z" creationid="svetlemodry" creationdate="20150130T125526Z">
         <seg>Vítejte v aplikaci ownCloud SMS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When disabled, comics may look better on large devices</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20151214T202500Z" creationid="svetlemodry" creationdate="20151214T202500Z">
+        <seg>Pokud vypnuto, mohou komixy vypadat lépe na větších přístrojích</seg>
       </tuv>
     </tu>
     <tu>
