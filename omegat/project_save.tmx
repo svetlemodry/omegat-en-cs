@@ -5430,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch to Overview Mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200721Z" creationid="svetlemodry" creationdate="20160120T200721Z">
+        <seg>Spustit mód Náhledu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Leave</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204425Z" creationid="svetlemodry" creationdate="20141219T204425Z">
@@ -10738,6 +10746,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T202449Z" creationid="svetlemodry" creationdate="20151115T202449Z">
         <seg>Pokud skryté, bude místo toho zobrazeno tlačítko v náhledovém menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When launching the app, show Overview Mode by default</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200809Z" creationid="svetlemodry" creationdate="20160120T200809Z">
+        <seg>Při spuštění aplikace zobrazit jako výchozí mód Náhledu</seg>
       </tuv>
     </tu>
     <tu>
