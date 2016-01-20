@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add bookmark</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200240Z" creationid="svetlemodry" creationdate="20160120T200240Z">
+        <seg>Přidat záložku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add contact</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210735Z" creationid="svetlemodry" creationdate="20141219T204135Z">
@@ -1722,6 +1730,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195044Z" creationid="svetlemodry" creationdate="20151115T195044Z">
         <seg>Modrá/Šedivá (Výchozí)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bookmark added</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200412Z" creationid="svetlemodry" creationdate="20160120T200412Z">
+        <seg>Záložka přidána</seg>
       </tuv>
     </tu>
     <tu>
@@ -4182,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export Favorites</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200615Z" creationid="svetlemodry" creationdate="20160120T200615Z">
+        <seg>Exportovat oblíbené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export complete.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070249Z" creationid="svetlemodry" creationdate="20150310T070249Z">
@@ -4202,6 +4226,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171848Z" creationid="svetlemodry" creationdate="20150328T171848Z">
         <seg>Export úspěšný:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export your Favorites list as text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200645Z" creationid="svetlemodry" creationdate="20160120T200645Z">
+        <seg>Exportovat seznam oblíbených jako text</seg>
       </tuv>
     </tu>
     <tu>
@@ -4562,6 +4594,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125510Z" creationid="svetlemodry" creationdate="20150130T125510Z">
         <seg>Přejít do Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to bookmark</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200249Z" creationid="svetlemodry" creationdate="20160120T200249Z">
+        <seg>Přejít na záložku</seg>
       </tuv>
     </tu>
     <tu>
@@ -5170,6 +5210,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171522Z" creationid="svetlemodry" creationdate="20150328T171522Z">
         <seg>Umí zobrazit historii schránky v upozorněních.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will also be highlighted in the comic list</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200404Z" creationid="svetlemodry" creationdate="20160120T200404Z">
+        <seg>Bude také zvýrazněna v seznamu komixů</seg>
       </tuv>
     </tu>
     <tu>
@@ -10958,6 +11006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add one in the Comic Browser or by long pressing a comic in this list</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200551Z" creationid="svetlemodry" creationdate="20160120T200551Z">
+        <seg>Můžete ji přidat z prohlížeče komixů nebo dlouhým označením komixu v tomto seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change the policy in the Android 'Advanced WiFi settings'</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164629Z" creationid="svetlemodry" creationdate="20151206T164629Z">
@@ -10970,6 +11026,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185529Z" creationid="svetlemodry" creationdate="20151003T185529Z">
         <seg>Toto výchozí nastavení spolu s nastavením pro jednotlivé aplikace lze změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can return to your bookmark from overview mode.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200332Z" creationid="svetlemodry" creationdate="20160120T200332Z">
+        <seg>Ke své záložce se můžete vrátit i z módu náhledu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10994,6 +11058,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183200Z" creationid="svetlemodry" creationdate="20151003T183200Z">
         <seg>Nelze zadat prázdné heslo nebo další obsah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You didn't add a bookmark yet!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200429Z" creationid="svetlemodry" creationdate="20160120T200429Z">
+        <seg>Zatím nebyla přidána žádná záložka!</seg>
       </tuv>
     </tu>
     <tu>
