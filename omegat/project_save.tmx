@@ -3390,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to open the group editor?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160223T172151Z" creationid="svetlemodry" creationdate="20160223T172151Z">
+        <seg>Má se otevřít editor skupin?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to share the exported CSV file?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064251Z" creationid="svetlemodry" creationdate="20150310T064251Z">
@@ -6450,6 +6458,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070216Z" creationid="svetlemodry" creationdate="20150310T070216Z">
         <seg>Žádná data pro export.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No groups have been found.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160223T172132Z" creationid="svetlemodry" creationdate="20160223T172132Z">
+        <seg>Nebyly nalezeny žádné skupiny.</seg>
       </tuv>
     </tu>
     <tu>
