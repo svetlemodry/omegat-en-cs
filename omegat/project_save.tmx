@@ -3222,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Did you know?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T105705Z" creationid="svetlemodry" creationdate="20160618T105705Z">
+        <seg>Náš tip?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dim screen at</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152834Z" creationid="svetlemodry" creationdate="20151206T152834Z">
@@ -5784,8 +5792,8 @@
       <tuv lang="EN">
         <seg>Long press the button to get to the previous comic!</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104032Z" creationid="svetlemodry" creationdate="20160618T104032Z">
-        <seg>Stisknout dlouze tlačítko pro zobrazení předchozího komixu!</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T105753Z" creationid="svetlemodry" creationdate="20160618T104032Z">
+        <seg>Stiskněte dlouze tlačítko pro zobrazení předchozího komixu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9672,8 +9680,8 @@
       <tuv lang="EN">
         <seg>Tap an image to view its mouseover text!</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T103954Z" creationid="svetlemodry" creationdate="20160618T103954Z">
-        <seg>Dotykem na obrázek zobrazit jeho text při přejetí myši!</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T105746Z" creationid="svetlemodry" creationdate="20160618T103954Z">
+        <seg>Dotykem na obrázek lze zobrazit jeho text zobrazovaný při přejetí myši!</seg>
       </tuv>
     </tu>
     <tu>
