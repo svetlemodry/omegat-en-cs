@@ -3518,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downloading new articles…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T103807Z" creationid="svetlemodry" creationdate="20160618T103807Z">
+        <seg>Stahování nových článků…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drove %1$d %2$s.\n</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065451Z" creationid="svetlemodry" creationdate="20150310T065451Z">
@@ -4798,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide read comics</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T103849Z" creationid="svetlemodry" creationdate="20160618T103849Z">
+        <seg>Skrýt přečtené komixy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide status bar icon</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153057Z" creationid="svetlemodry" creationdate="20151206T153057Z">
@@ -5582,6 +5598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading article…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T103822Z" creationid="svetlemodry" creationdate="20160618T103817Z">
+        <seg>Načítání článku…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location sharing is disabled</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180441Z" creationid="svetlemodry" creationdate="20151003T180441Z">
@@ -5650,6 +5674,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153208Z" creationid="svetlemodry" creationdate="20151206T153208Z">
         <seg>Dlouze stlačit tlačítko pro změnu pozice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long press the button to get to the previous comic!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104032Z" creationid="svetlemodry" creationdate="20160618T104032Z">
+        <seg>Stisknout dlouze tlačítko pro zobrazení předchozího komixu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5798,10 +5830,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark all as read</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T103838Z" creationid="svetlemodry" creationdate="20160618T103838Z">
+        <seg>Označit vše jako přečtené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark all as unread</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192343Z" creationid="svetlemodry" creationdate="20151115T192343Z">
         <seg>Označit vše jako nepřečtené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark as read</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104043Z" creationid="svetlemodry" creationdate="20160618T104043Z">
+        <seg>Označit jako přečtené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark as unread</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104056Z" creationid="svetlemodry" creationdate="20160618T104056Z">
+        <seg>Označit jako nepřečtené</seg>
       </tuv>
     </tu>
     <tu>
@@ -9450,6 +9506,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184954Z" creationid="svetlemodry" creationdate="20151003T184821Z">
         <seg>Ťukni na OK pro zobrazení nastavení přístupnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tap an image to view its mouseover text!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T103954Z" creationid="svetlemodry" creationdate="20160618T103954Z">
+        <seg>Dotykem na obrázek zobrazit jeho text při přejetí myši!</seg>
       </tuv>
     </tu>
     <tu>
