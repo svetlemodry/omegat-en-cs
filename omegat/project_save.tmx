@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back Button to show alt text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104955Z" creationid="svetlemodry" creationdate="20160618T104955Z">
+        <seg>Tlačítkem zpět zobrazit alternativní text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backup</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171935Z" creationid="svetlemodry" creationdate="20150328T171935Z">
@@ -3590,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Earliest unread</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104754Z" creationid="svetlemodry" creationdate="20160618T104754Z">
+        <seg>Nejnovější nepřečtené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204038Z" creationid="svetlemodry" creationdate="20141219T204038Z">
@@ -4726,6 +4742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Grid (works best in offline mode)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104925Z" creationid="svetlemodry" creationdate="20160618T104925Z">
+        <seg>Mřížka (pracuje nejlépe v offline módu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Groups</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T124800Z" creationid="svetlemodry" creationdate="20151101T124800Z">
@@ -5494,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest Comic</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104852Z" creationid="svetlemodry" creationdate="20160618T104852Z">
+        <seg>Nejnovější komix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latest comic</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192454Z" creationid="svetlemodry" creationdate="20151115T192454Z">
@@ -5666,6 +5698,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160618T103822Z" creationid="svetlemodry" creationdate="20160618T103817Z">
         <seg>Načítání článku…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading thread…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104843Z" creationid="svetlemodry" creationdate="20160618T104843Z">
+        <seg>Načítání vlákna…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6986,6 +7026,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204605Z" creationid="svetlemodry" creationdate="20141219T204605Z">
         <seg>Otevřít %s soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Reddit/Forum thread</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104820Z" creationid="svetlemodry" creationdate="20160618T104820Z">
+        <seg>Otevřít Reddit/vlákno fóra</seg>
       </tuv>
     </tu>
     <tu>
@@ -10066,6 +10114,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110718Z" creationid="svetlemodry" creationdate="20150208T110718Z">
         <seg>Všechny stopy a značky budou nahrazeny a NEBUDE možné je vrátit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thread not found!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104831Z" creationid="svetlemodry" creationdate="20160618T104831Z">
+        <seg>Vlákno nenalezeno!</seg>
       </tuv>
     </tu>
     <tu>
