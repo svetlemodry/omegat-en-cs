@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accent color</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104706Z" creationid="svetlemodry" creationdate="20160618T104706Z">
+        <seg>Barva zvýraznění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accept</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
@@ -1210,6 +1218,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164910Z" creationid="svetlemodry" creationdate="20151206T164832Z">
         <seg>Také ignorovat nastavení \"vypnutý displej\" při napájení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also include the link to the comic when sharing an image</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104334Z" creationid="svetlemodry" creationdate="20160618T104334Z">
+        <seg>Také vložit odkaz na komix při sdílení jeho obrázku</seg>
       </tuv>
     </tu>
     <tu>
@@ -2806,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customize theme</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104733Z" creationid="svetlemodry" creationdate="20160618T104733Z">
+        <seg>Upravit vzhled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cycle Map</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180518Z" creationid="svetlemodry" creationdate="20151003T180518Z">
@@ -3734,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable offline mode, notifications</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104347Z" creationid="svetlemodry" creationdate="20160618T104347Z">
+        <seg>Povolit offline mód, upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable quiet hours</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204534Z" creationid="svetlemodry" creationdate="20141219T204534Z">
@@ -4246,10 +4278,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export your Favorites</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104445Z" creationid="svetlemodry" creationdate="20160618T104445Z">
+        <seg>Exportuje vaše oblíbené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export your Favorites list as text</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200645Z" creationid="svetlemodry" creationdate="20160120T200645Z">
         <seg>Exportovat seznam oblíbených jako text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export/Import Favorites</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104431Z" creationid="svetlemodry" creationdate="20160618T104431Z">
+        <seg>Exportovat/Importovat oblíbené</seg>
       </tuv>
     </tu>
     <tu>
@@ -4306,6 +4354,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190736Z" creationid="svetlemodry" creationdate="20151115T190736Z">
         <seg>Oblíbené vymazány</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Favorites imported!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104454Z" creationid="svetlemodry" creationdate="20160618T104454Z">
+        <seg>Oblíbené importovány!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5050,6 +5106,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203135Z" creationid="svetlemodry" creationdate="20151115T203135Z">
         <seg>Vložit alternativní text při sdílení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include comic link</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104304Z" creationid="svetlemodry" creationdate="20160618T104304Z">
+        <seg>Vložit odkaz komixu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6286,6 +6350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New comics will be added automatically.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104404Z" creationid="svetlemodry" creationdate="20160618T104404Z">
+        <seg>Nové komixy budou přidány automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New conversation</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203947Z" creationid="svetlemodry" creationdate="20141219T203947Z">
@@ -6298,6 +6370,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205757Z" creationid="svetlemodry" creationdate="20151115T205757Z">
         <seg>Nová možnost: Automatický noční mód!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New feature: Custom themes!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104612Z" creationid="svetlemodry" creationdate="20160618T104612Z">
+        <seg>Nová možnost: Vlastní vzhledy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7638,6 +7718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Primary color</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104620Z" creationid="svetlemodry" creationdate="20160618T104620Z">
+        <seg>Výchozí barva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Private (Members only)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190246Z" creationid="svetlemodry" creationdate="20150112T190246Z">
@@ -8478,6 +8566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a primary color</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104627Z" creationid="svetlemodry" creationdate="20160618T104627Z">
+        <seg>Vybrat výchozí barvu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a vehicle.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070103Z" creationid="svetlemodry" creationdate="20150310T070103Z">
@@ -8490,6 +8586,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T174807Z" creationid="svetlemodry" creationdate="20151003T174807Z">
         <seg>Vybrat účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select an accent color</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104725Z" creationid="svetlemodry" creationdate="20160618T104725Z">
+        <seg>Vybrat barvu zvýraznění</seg>
       </tuv>
     </tu>
     <tu>
@@ -9474,6 +9578,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205245Z" creationid="svetlemodry" creationdate="20151115T205245Z">
         <seg>Vyplňte dotazník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Takes up ~150MB.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104416Z" creationid="svetlemodry" creationdate="20160618T104416Z">
+        <seg>Zabere až ~150MB.</seg>
       </tuv>
     </tu>
     <tu>
