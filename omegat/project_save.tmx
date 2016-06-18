@@ -1302,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always show dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T190615Z" creationid="svetlemodry" creationdate="20160618T190615Z">
+        <seg>Vždy zobrazit dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always show.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171235Z" creationid="svetlemodry" creationdate="20150328T171235Z">
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171146Z" creationid="svetlemodry" creationdate="20150328T171146Z">
         <seg>Nastavení aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>App and website settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T190606Z" creationid="svetlemodry" creationdate="20160618T190606Z">
+        <seg>Nastavení aplikace a webové stránky</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2234,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183702Z" creationid="svetlemodry" creationdate="20151003T183702Z">
         <seg>Klonovat existující</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clone from server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T190513Z" creationid="svetlemodry" creationdate="20160618T190513Z">
+        <seg>Klonovat ze serveru</seg>
       </tuv>
     </tu>
     <tu>
@@ -5970,6 +5994,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104056Z" creationid="svetlemodry" creationdate="20160618T104056Z">
         <seg>Označit jako nepřečtené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match with</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T190634Z" creationid="svetlemodry" creationdate="20160618T190634Z">
+        <seg>Spárovat s</seg>
       </tuv>
     </tu>
     <tu>
@@ -10658,6 +10690,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204535Z" creationid="svetlemodry" creationdate="20141219T204535Z">
         <seg>Používat v celé aplikaci větší velikost písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use local directory</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160618T190523Z" creationid="svetlemodry" creationdate="20160618T190523Z">
+        <seg>Použít místní adresář</seg>
       </tuv>
     </tu>
     <tu>
