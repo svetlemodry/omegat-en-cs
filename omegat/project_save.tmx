@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>+15 mins</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090841Z" creationid="svetlemodry" creationdate="20160626T090841Z">
+        <seg>+15 min</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Contact phones</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151126T195038Z" creationid="svetlemodry" creationdate="20151126T195038Z">
@@ -1534,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Audio player</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091101Z" creationid="svetlemodry" creationdate="20160626T091101Z">
+        <seg>Audiopřehrávač</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Audiobook Mode</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131359Z" creationid="svetlemodry" creationdate="20151101T131359Z">
@@ -1774,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bookmark</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090740Z" creationid="svetlemodry" creationdate="20160626T090740Z">
+        <seg>Záložka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bookmark added</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200412Z" creationid="svetlemodry" creationdate="20160120T200412Z">
@@ -1786,6 +1810,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195114Z" creationid="svetlemodry" creationdate="20151115T195114Z">
         <seg>Světlemodrá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Broken stations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090947Z" creationid="svetlemodry" creationdate="20160626T090947Z">
+        <seg>Rozbité stanice</seg>
       </tuv>
     </tu>
     <tu>
@@ -3458,6 +3490,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191450Z" creationid="svetlemodry" creationdate="20151115T191450Z">
         <seg>Nechat aplikaci otevřenou!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not show broken stations in lists</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091016Z" creationid="svetlemodry" creationdate="20160626T091016Z">
+        <seg>Nezobrazovat rozbité stanice v seznamech</seg>
       </tuv>
     </tu>
     <tu>
@@ -5806,6 +5846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090748Z" creationid="svetlemodry" creationdate="20160626T090748Z">
+        <seg>Načítání...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location sharing is disabled</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180441Z" creationid="svetlemodry" creationdate="20151003T180441Z">
@@ -7158,6 +7206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open external</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091031Z" creationid="svetlemodry" creationdate="20160626T091031Z">
+        <seg>Otevřít externě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open in Browser</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T194216Z" creationid="svetlemodry" creationdate="20151115T194216Z">
@@ -7178,6 +7234,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193550Z" creationid="svetlemodry" creationdate="20151115T193550Z">
         <seg>Otevřít navigaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the alarm with default external app</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091052Z" creationid="svetlemodry" creationdate="20160626T091052Z">
+        <seg>Otevřít alarm s výchozí externí aplikací</seg>
       </tuv>
     </tu>
     <tu>
@@ -7634,6 +7698,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131155Z" creationid="svetlemodry" creationdate="20151101T131155Z">
         <seg>Přehrávání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Player</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091137Z" creationid="svetlemodry" creationdate="20160626T091137Z">
+        <seg>Přehrávač</seg>
       </tuv>
     </tu>
     <tu>
@@ -9342,6 +9414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show broken stations in lists</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091023Z" creationid="svetlemodry" creationdate="20160626T091002Z">
+        <seg>Zobrazovat rozbité stanice v seznamech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show dynamic tags</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204613Z" creationid="svetlemodry" creationdate="20141219T204613Z">
@@ -9386,6 +9466,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180535Z" creationid="svetlemodry" creationdate="20151003T180535Z">
         <seg>Zobrazit veřejnou dopravu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show single use tags</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090909Z" creationid="svetlemodry" creationdate="20160626T090909Z">
+        <seg>Zobrazit tagy použité jednou</seg>
       </tuv>
     </tu>
     <tu>
@@ -9438,10 +9526,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Single use tags will be shown</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090941Z" creationid="svetlemodry" creationdate="20160626T090941Z">
+        <seg>Tagy použité pouze jednou budou zobrazeny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Single use tags will not be shown</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090927Z" creationid="svetlemodry" creationdate="20160626T090927Z">
+        <seg>Tagy použité pouze jednou nebudou zobrazeny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204453Z" creationid="svetlemodry" creationdate="20141219T204446Z">
         <seg>Přeskočit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sleep timer</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091112Z" creationid="svetlemodry" creationdate="20160626T091112Z">
+        <seg>Časovač před spaním</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sleep timer: %1$02d:%2$02d</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090837Z" creationid="svetlemodry" creationdate="20160626T090837Z">
+        <seg>Časovač před spaním: %1$02d:%2$02d</seg>
       </tuv>
     </tu>
     <tu>
@@ -9570,6 +9690,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090239Z" creationid="svetlemodry" creationdate="20160626T090239Z">
         <seg>Zastavit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stop playing after %1$s minutes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091132Z" creationid="svetlemodry" creationdate="20160626T091132Z">
+        <seg>Ukončit přehrávání po %1$s minutách</seg>
       </tuv>
     </tu>
     <tu>
@@ -10146,6 +10274,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204444Z" creationid="svetlemodry" creationdate="20141219T204444Z">
         <seg>Tento účet již existuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This app uses the free radio station directory at\nhttp://www.radio-browser.info\nEveryone can add stations to it or edit existing stations.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090732Z" creationid="svetlemodry" creationdate="20160626T090732Z">
+        <seg>Tato aplikace používá volně dostupný adresář rádií na\nhttp://www.radio-browser.info\nKaždý může přidávat nové nebo měnit existující staniceU.</seg>
       </tuv>
     </tu>
     <tu>
