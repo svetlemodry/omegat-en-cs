@@ -5470,6 +5470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It works like a wiki for online(streaming) radio stations.\n\nContact:\nsegler_alex@web.de\n\nBugtracker:\nhttps://github.com/segler-alex/RadioDroid/issues\n\nIf you like this software and want to help, feel free to send me an email.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T092005Z" creationid="svetlemodry" creationdate="20160626T092005Z">
+        <seg>Funguje ve stylu wiki pro online(streamované) radiostanice.\n\nKontakt:\nsegler_alex@web.de\n\nHlášení chyb:\nhttps://github.com/segler-alex/RadioDroid/issues\n\nPokud se vám tento software líbí a chtěli byste pomoci, můžete mi poslat email.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Its domain name will be used to auto-detect service settings.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T145909Z" creationid="svetlemodry" creationdate="20150309T145909Z">
@@ -10392,8 +10400,8 @@
       <tuv lang="EN">
         <seg>This app uses the free radio station directory at\nhttp://www.radio-browser.info\nEveryone can add stations to it or edit existing stations.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090732Z" creationid="svetlemodry" creationdate="20160626T090732Z">
-        <seg>Tato aplikace používá volně dostupný adresář rádií na\nhttp://www.radio-browser.info\nKaždý může přidávat nové nebo měnit existující staniceU.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091817Z" creationid="svetlemodry" creationdate="20160626T090732Z">
+        <seg>Tato aplikace používá volně dostupný adresář rádií na\nhttp://www.radio-browser.info\nKaždý může přidávat nové nebo měnit existující stanice.</seg>
       </tuv>
     </tu>
     <tu>
