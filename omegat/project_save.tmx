@@ -2014,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Car Report will store its data inside this folder, it won't touch anything outside of it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T125736Z" creationid="svetlemodry" creationdate="20160626T125736Z">
+        <seg>Car Report bude ukládat svoje data uvnitř tohoto adresáře, nebude měnit nic vně tohoto adresáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Carefully compare the fingerprint shown below with the fingerprint of your contact.\nYou can use any trusted form of communication like an encrypted e-mail or a telephone call to exchange those.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114012Z" creationid="svetlemodry" creationdate="20150104T114012Z">
@@ -3802,6 +3810,46 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065451Z" creationid="svetlemodry" creationdate="20150310T065451Z">
         <seg>Najeto %1$d %2$s.\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Due</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T125434Z" creationid="svetlemodry" creationdate="20160626T125434Z">
+        <seg>Termín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Due in %1$s or %2$s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T125515Z" creationid="svetlemodry" creationdate="20160626T125515Z">
+        <seg>Termín v %1$s nebo %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Due in %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T125519Z" creationid="svetlemodry" creationdate="20160626T125519Z">
+        <seg>Termín v %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Due, notification dismissed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T125502Z" creationid="svetlemodry" creationdate="20160626T125502Z">
+        <seg>Termín, upozornění zamítnuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Due, snoozed until %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T125445Z" creationid="svetlemodry" creationdate="20160626T125445Z">
+        <seg>Termín, uspat do %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -8026,6 +8074,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125319Z" creationid="svetlemodry" creationdate="20150130T125319Z">
         <seg>Ujistěte se, že je webový server dostupný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter the URL to a special folder for Car Report on your WebDAV server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T125644Z" creationid="svetlemodry" creationdate="20160626T125644Z">
+        <seg>Zadejte prosím URL ke speciálnímu adresáři pro Car Report na vlastním WebDAV serveru.</seg>
       </tuv>
     </tu>
     <tu>
