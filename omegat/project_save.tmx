@@ -4454,6 +4454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Examples: Petrol, Diesel, Gas.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T125133Z" creationid="svetlemodry" creationdate="20160626T125133Z">
+        <seg>Příklady: Benzín, Diesl, Plyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exclude app</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153236Z" creationid="svetlemodry" creationdate="20151206T153236Z">
@@ -8602,6 +8610,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T122721Z" creationid="svetlemodry" creationdate="20160626T122721Z">
         <seg>Dotankování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refuelings are grouped by this category for different reports.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T125111Z" creationid="svetlemodry" creationdate="20160626T125111Z">
+        <seg>Dotankování jsou seskupena v této kategorii pro různé reporty.</seg>
       </tuv>
     </tu>
     <tu>
