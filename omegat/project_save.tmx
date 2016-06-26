@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed lately</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090320Z" creationid="svetlemodry" creationdate="20160626T090320Z">
+        <seg>Nedávno změněné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing this tick is disabled.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T172118Z" creationid="svetlemodry" creationdate="20151003T172118Z">
@@ -2710,6 +2718,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not connect to radio browser server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090447Z" creationid="svetlemodry" creationdate="20160626T090447Z">
+        <seg>Nelze připojit k serveru prohlížeče rádií</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not connect to station</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090408Z" creationid="svetlemodry" creationdate="20160626T090408Z">
+        <seg>Nelze připojit ke stanici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not modify conference options</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190334Z" creationid="svetlemodry" creationdate="20150112T190334Z">
@@ -2738,6 +2762,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204853Z" creationid="svetlemodry" creationdate="20151113T204853Z">
         <seg>Pouze počet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Countries</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090355Z" creationid="svetlemodry" creationdate="20160626T090355Z">
+        <seg>Země</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Country</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090209Z" creationid="svetlemodry" creationdate="20160626T090209Z">
+        <seg>Země</seg>
       </tuv>
     </tu>
     <tu>
@@ -4966,6 +5006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090533Z" creationid="svetlemodry" creationdate="20160626T090533Z">
+        <seg>Historie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How much information to show on notifications</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204845Z" creationid="svetlemodry" creationdate="20151113T204845Z">
@@ -5530,6 +5578,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195017Z" creationid="svetlemodry" creationdate="20151115T195017Z">
         <seg>Na šířku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090214Z" creationid="svetlemodry" creationdate="20160626T090214Z">
+        <seg>Jazyk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090359Z" creationid="svetlemodry" creationdate="20160626T090359Z">
+        <seg>Jazyky</seg>
       </tuv>
     </tu>
     <tu>
@@ -7574,6 +7638,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Player Status</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090553Z" creationid="svetlemodry" creationdate="20160626T090553Z">
+        <seg>Stav přehrávače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Playing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090349Z" creationid="svetlemodry" creationdate="20160626T090349Z">
+        <seg>Hrající</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please be careful with these</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204530Z" creationid="svetlemodry" creationdate="20141219T204530Z">
@@ -7942,6 +8022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RadioDroid</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090156Z" creationid="svetlemodry" creationdate="20160626T090156Z">
+        <seg>RadioDroid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Random Comic</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192511Z" creationid="svetlemodry" creationdate="20151115T192511Z">
@@ -8066,6 +8154,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204158Z" creationid="svetlemodry" creationdate="20141219T204158Z">
         <seg>Nahrát hlas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recordings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090541Z" creationid="svetlemodry" creationdate="20160626T090541Z">
+        <seg>Nahrávky</seg>
       </tuv>
     </tu>
     <tu>
@@ -9150,6 +9246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Share station link with..</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090525Z" creationid="svetlemodry" creationdate="20160626T090506Z">
+        <seg>Sdílet odkaz stanice s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Share text to…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171006Z" creationid="svetlemodry" creationdate="20150328T171006Z">
@@ -9438,6 +9542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090529Z" creationid="svetlemodry" creationdate="20160626T090529Z">
+        <seg>Stanice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063550Z" creationid="svetlemodry" creationdate="20150310T063550Z">
@@ -9450,6 +9562,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153129Z" creationid="svetlemodry" creationdate="20151206T153129Z">
         <seg>Krok změny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090239Z" creationid="svetlemodry" creationdate="20160626T090239Z">
+        <seg>Zastavit</seg>
       </tuv>
     </tu>
     <tu>
@@ -9650,6 +9770,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203842Z" creationid="svetlemodry" creationdate="20141219T203842Z">
         <seg>Tablet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090205Z" creationid="svetlemodry" creationdate="20160626T090205Z">
+        <seg>Tagy</seg>
       </tuv>
     </tu>
     <tu>
@@ -10250,6 +10378,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T144415Z" creationid="svetlemodry" creationdate="20150309T144415Z">
         <seg>Stačí přidat účet DAVdroid pro CalDAV/CardDAV server a vaše kontakty/události budou synchronizovány oběma směry.&lt;/p&gt; &lt;p&gt;Pro více informací se podívejte na domovskou stránku &lt;a href="http://davdroid.bitfire.at?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity"&gt;aplikace DAVdroid&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TopClick</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090300Z" creationid="svetlemodry" creationdate="20160626T090300Z">
+        <seg>Nejotvíranější</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TopVote</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090312Z" creationid="svetlemodry" creationdate="20160626T090312Z">
+        <seg>Nejvolenější</seg>
       </tuv>
     </tu>
     <tu>
@@ -10962,6 +11106,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195250Z" creationid="svetlemodry" creationdate="20151115T195250Z">
         <seg>WebView výchozí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Weblink</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090222Z" creationid="svetlemodry" creationdate="20160626T090222Z">
+        <seg>Web</seg>
       </tuv>
     </tu>
     <tu>
