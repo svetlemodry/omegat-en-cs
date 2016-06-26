@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>BROKEN</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091621Z" creationid="svetlemodry" creationdate="20160626T091621Z">
+        <seg>ROZBITÉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Back Button to show alt text</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104955Z" creationid="svetlemodry" creationdate="20160618T104955Z">
@@ -3346,6 +3354,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182419Z" creationid="svetlemodry" creationdate="20151003T182419Z">
         <seg>Adresář již existuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091631Z" creationid="svetlemodry" creationdate="20160626T091631Z">
+        <seg>Vypnout</seg>
       </tuv>
     </tu>
     <tu>
@@ -6326,6 +6342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091639Z" creationid="svetlemodry" creationdate="20160626T091639Z">
+        <seg>Více</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More apps</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163848Z" creationid="svetlemodry" creationdate="20151206T163848Z">
@@ -6458,6 +6482,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171559Z" creationid="svetlemodry" creationdate="20151208T171559Z">
         <seg>Jméno fotografie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Need write permission for recording!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091546Z" creationid="svetlemodry" creationdate="20160626T091546Z">
+        <seg>Pro nahrávání jsou nutná práva pro zápis!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7926,6 +7958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preparing stream..</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091345Z" creationid="svetlemodry" creationdate="20160626T091345Z">
+        <seg>Připravování streamu..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pretty Good Music Player</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182425Z" creationid="svetlemodry" creationdate="20150201T182425Z">
@@ -8222,10 +8262,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Record</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091635Z" creationid="svetlemodry" creationdate="20160626T091635Z">
+        <seg>Nahrát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Record voice</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204158Z" creationid="svetlemodry" creationdate="20141219T204158Z">
         <seg>Nahrát hlas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recording to: %1$s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091611Z" creationid="svetlemodry" creationdate="20160626T091611Z">
+        <seg>Nahrává se do: %1$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -8578,6 +8634,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T124729Z" creationid="svetlemodry" creationdate="20150130T124729Z">
         <seg>SMS - pomalu a bezpečně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STATUS:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091550Z" creationid="svetlemodry" creationdate="20160626T091550Z">
+        <seg>STAV:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9382,6 +9446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should a single click on stations open external</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091248Z" creationid="svetlemodry" creationdate="20160626T091248Z">
+        <seg>Má dotyk na stanice otevřít externí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Action Bar Subtitle</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201456Z" creationid="svetlemodry" creationdate="20151115T201456Z">
@@ -9662,6 +9734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Starting proxy..</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091305Z" creationid="svetlemodry" creationdate="20160626T091305Z">
+        <seg>Spouštění proxy..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Stations</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090529Z" creationid="svetlemodry" creationdate="20160626T090529Z">
@@ -9694,6 +9774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stop old player..</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091335Z" creationid="svetlemodry" creationdate="20160626T091335Z">
+        <seg>Ukončení starého přehrávače..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Stop playing after %1$s minutes</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091132Z" creationid="svetlemodry" creationdate="20160626T091132Z">
@@ -9706,6 +9794,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T171614Z" creationid="svetlemodry" creationdate="20151208T171614Z">
         <seg>Ukončit službu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stopped</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091555Z" creationid="svetlemodry" creationdate="20160626T091555Z">
+        <seg>Zastaveno</seg>
       </tuv>
     </tu>
     <tu>
@@ -9730,6 +9826,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185945Z" creationid="svetlemodry" creationdate="20151003T185945Z">
         <seg>Uložit dvacet náhodných textů do schránky namísto pouze jednoho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stream caching problem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091509Z" creationid="svetlemodry" creationdate="20160626T091509Z">
+        <seg>Problém s cache streamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stream url problem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091429Z" creationid="svetlemodry" creationdate="20160626T091429Z">
+        <seg>Problém s URL streamu</seg>
       </tuv>
     </tu>
     <tu>
@@ -10614,6 +10726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Transfered data: %1$s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091603Z" creationid="svetlemodry" creationdate="20160626T091603Z">
+        <seg>Přenesená data: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translations to other languages have been contributed by various people which are mentioned in their respective language version.&lt;/p&gt; &lt;h2&gt;Used third-party libraries&lt;/h2&gt; &lt;p&gt; * &lt;a href="http://hc.apache.org"&gt;Apache HttpClient&lt;/a&gt; (Android port) – &lt;a href="http://www.apache.org/licenses/"&gt;Apache License, Version 2.0&lt;/a&gt;&lt;br/&gt; * &lt;a href="http://ical4j.sourceforge.net/"&gt;iCal4j&lt;a&gt; – &lt;a href="http://sourceforge.net/p/ical4j/ical4j/ci/default/tree/LICENSE"&gt;New BSD License&lt;/a&gt;)&lt;br/&gt; * &lt;a href="https://code.google.com/p/ez-vcard/"&gt;ez-vcard&lt;/a&gt; – &lt;a href="http://opensource.org/licenses/BSD-3-Clause"&gt;New BSD License&lt;/a&gt;&lt;br/&gt; * &lt;a href="http://simple.sourceforge.net/"&gt;Simple XML Serialization&lt;/a&gt; – &lt;a href="http://www.apache.org/licenses/LICENSE-2.0"&gt;Apache License, Version 2.0&lt;/a&gt;&lt;br/&gt; * &lt;a href="http://projectlombok.org/"&gt;Project Lombok&lt;/a&gt; – &lt;a href="http://opensource.org/licenses/mit-license.php"&gt;MIT License&lt;/a&gt;&lt;br/&gt; * &lt;a href="http://www.xbill.org/dnsjava/"&gt;dnsjava&lt;/a&gt; – &lt;a href="http://www.xbill.org/dnsjava/dnsjava-current/LICENSE"&gt;BSD License&lt;/a&gt;&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T145557Z" creationid="svetlemodry" creationdate="20150309T145557Z">
@@ -10634,6 +10754,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204544Z" creationid="svetlemodry" creationdate="20141219T204544Z">
         <seg>Zkus znovu později</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Try playing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091412Z" creationid="svetlemodry" creationdate="20160626T091412Z">
+        <seg>Zkus přehrát</seg>
       </tuv>
     </tu>
     <tu>
@@ -10762,6 +10890,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125241Z" creationid="svetlemodry" creationdate="20150130T125241Z">
         <seg>Nelze provést připojení přes HTTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to play stream</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091524Z" creationid="svetlemodry" creationdate="20160626T091524Z">
+        <seg>Nelze přehrát stream</seg>
       </tuv>
     </tu>
     <tu>
