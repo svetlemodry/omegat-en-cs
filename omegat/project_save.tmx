@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also the reports by default zoom to active cars only.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124801Z" creationid="svetlemodry" creationdate="20160626T124801Z">
+        <seg>Reporty budou také přednostně zobrazovat data aktivních vozidel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also vibrate when a new message arrives</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204144Z" creationid="svetlemodry" creationdate="20141219T204144Z">
@@ -1994,6 +2002,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063617Z" creationid="svetlemodry" creationdate="20150310T063617Z">
         <seg>Nelze odhadnout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Car</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124300Z" creationid="svetlemodry" creationdate="20160626T124300Z">
+        <seg>Vozidlo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7110,6 +7126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notification dismissed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124553Z" creationid="svetlemodry" creationdate="20160626T124553Z">
+        <seg>Upozornění zamítnuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification grace period</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204731Z" creationid="svetlemodry" creationdate="20141219T204145Z">
@@ -8522,6 +8546,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090541Z" creationid="svetlemodry" creationdate="20160626T090541Z">
         <seg>Nahrávky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recurrence</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124306Z" creationid="svetlemodry" creationdate="20160626T124306Z">
+        <seg>Opakování</seg>
       </tuv>
     </tu>
     <tu>
@@ -10862,6 +10894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will cancel all repeating costs to the suspended date.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124702Z" creationid="svetlemodry" creationdate="20160626T124702Z">
+        <seg>Toto zruší všechny opakující se náklady k datu uspání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will delete all saved articles</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190902Z" creationid="svetlemodry" creationdate="20151115T190902Z">
@@ -11126,6 +11166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trust this certificate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124605Z" creationid="svetlemodry" creationdate="20160626T124605Z">
+        <seg>Důvěřovat tomuto certifikátu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Try again</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204559Z" creationid="svetlemodry" creationdate="20141219T204559Z">
@@ -11194,6 +11242,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T165204Z" creationid="svetlemodry" creationdate="20151206T165204Z">
         <seg>Zapnout WiFi při vstupu do těchto lokací:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124309Z" creationid="svetlemodry" creationdate="20160626T124309Z">
+        <seg>Typ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12194,6 +12250,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T172215Z" creationid="svetlemodry" creationdate="20151003T172215Z">
         <seg>Můžete určit možnosti úprav dnů v nastavení aplikace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can suspend a car, when you don't use it anymore.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124627Z" creationid="svetlemodry" creationdate="20160626T124627Z">
+        <seg>Můžete vozidlo uspat, pokud ho již nepoužíváte.</seg>
       </tuv>
     </tu>
     <tu>
