@@ -1062,6 +1062,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add other expenditure</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203522Z" creationid="svetlemodry" creationdate="20160629T203522Z">
+        <seg>Add other expenditure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add refueling</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203509Z" creationid="svetlemodry" creationdate="20160629T203509Z">
+        <seg>Přidat dotankování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add reminder</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T123855Z" creationid="svetlemodry" creationdate="20160626T123855Z">
@@ -3966,6 +3982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit refueling</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203519Z" creationid="svetlemodry" creationdate="20160629T203519Z">
+        <seg>Upravit dotankování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit track</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110023Z" creationid="svetlemodry" creationdate="20150208T110023Z">
@@ -4754,6 +4778,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204600Z" creationid="svetlemodry" creationdate="20141219T204600Z">
         <seg>Dokončit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First steps</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203457Z" creationid="svetlemodry" creationdate="20160629T203457Z">
+        <seg>První kroky</seg>
       </tuv>
     </tu>
     <tu>
@@ -5666,6 +5698,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171522Z" creationid="svetlemodry" creationdate="20150328T171522Z">
         <seg>Umí zobrazit historii schránky v upozorněních.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It seems invalid.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203415Z" creationid="svetlemodry" creationdate="20160629T203415Z">
+        <seg>Vypadá neplatný.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7694,6 +7734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overwrite</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203441Z" creationid="svetlemodry" creationdate="20160629T203441Z">
+        <seg>Přepsat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Owner</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204020Z" creationid="svetlemodry" creationdate="20141219T204020Z">
@@ -8914,6 +8962,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T194156Z" creationid="svetlemodry" creationdate="20151115T194156Z">
         <seg>Restartovat a použít nový vzhled?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203445Z" creationid="svetlemodry" creationdate="20160629T203445Z">
+        <seg>Obnovit</seg>
       </tuv>
     </tu>
     <tu>
@@ -10342,6 +10398,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Suspended</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203424Z" creationid="svetlemodry" creationdate="20160629T203424Z">
+        <seg>Uspaný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Suspended since %s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203436Z" creationid="svetlemodry" creationdate="20160629T203436Z">
+        <seg>Uspaný od %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Swipe to navigate</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192753Z" creationid="svetlemodry" creationdate="20151115T192753Z">
@@ -10694,6 +10766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The certificate could not be trusted.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203405Z" creationid="svetlemodry" creationdate="20160629T203405Z">
+        <seg>Tento certifikát není důvěryhodný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contact already exists</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204402Z" creationid="svetlemodry" creationdate="20141219T204402Z">
@@ -10946,6 +11026,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125142Z" creationid="svetlemodry" creationdate="20150130T125142Z">
         <seg>Toto pole je vyžadováno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This fuel type does already exist.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203348Z" creationid="svetlemodry" creationdate="20160629T203348Z">
+        <seg>Tento typ paliva již existuje.</seg>
       </tuv>
     </tu>
     <tu>
