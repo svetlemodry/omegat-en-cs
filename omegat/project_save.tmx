@@ -2408,8 +2408,8 @@
       <tuv lang="EN">
         <seg>Close navigation drawer</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193559Z" creationid="svetlemodry" creationdate="20151115T193559Z">
-        <seg>Zavřít navigaci</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160706T214841Z" creationid="svetlemodry" creationdate="20151115T193559Z">
+        <seg>Zavřít navigační panel</seg>
       </tuv>
     </tu>
     <tu>
@@ -7576,8 +7576,8 @@
       <tuv lang="EN">
         <seg>Open navigation drawer</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20151115T193550Z" creationid="svetlemodry" creationdate="20151115T193550Z">
-        <seg>Otevřít navigaci</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160706T214830Z" creationid="svetlemodry" creationdate="20151115T193550Z">
+        <seg>Otevřít navigační panel</seg>
       </tuv>
     </tu>
     <tu>
