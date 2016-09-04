@@ -9134,6 +9134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SSH-key imported</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T142212Z" creationid="svetlemodry" creationdate="20160904T142212Z">
+        <seg>SSH-key importován</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>STATUS:</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091550Z" creationid="svetlemodry" creationdate="20160626T091550Z">
