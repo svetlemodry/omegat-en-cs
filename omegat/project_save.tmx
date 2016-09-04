@@ -1904,8 +1904,8 @@
       <tuv lang="EN">
         <seg>Broken stations</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090947Z" creationid="svetlemodry" creationdate="20160626T090947Z">
-        <seg>Rozbité stanice</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T135119Z" creationid="svetlemodry" creationdate="20160626T090947Z">
+        <seg>Nefunkční stanice</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,8 +3640,8 @@
       <tuv lang="EN">
         <seg>Do not show broken stations in lists</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091016Z" creationid="svetlemodry" creationdate="20160626T091016Z">
-        <seg>Nezobrazovat rozbité stanice v seznamech</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T135212Z" creationid="svetlemodry" creationdate="20160626T091016Z">
+        <seg>Nezobrazovat nefunkční stanice v seznamech</seg>
       </tuv>
     </tu>
     <tu>
@@ -8104,8 +8104,8 @@
       <tuv lang="EN">
         <seg>Player Status</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090553Z" creationid="svetlemodry" creationdate="20160626T090553Z">
-        <seg>Stav přehrávače</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T135105Z" creationid="svetlemodry" creationdate="20160626T090553Z">
+        <seg>Přehrávač</seg>
       </tuv>
     </tu>
     <tu>
@@ -9942,6 +9942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show all stations when starting RadioDroid</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T134928Z" creationid="svetlemodry" creationdate="20160904T134928Z">
+        <seg>Zobrazit všechny stanice po spuštění RadioDroid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show alt text by default</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204502Z" creationid="svetlemodry" creationdate="20151115T204502Z">
@@ -9960,8 +9968,8 @@
       <tuv lang="EN">
         <seg>Show broken stations in lists</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091023Z" creationid="svetlemodry" creationdate="20160626T091002Z">
-        <seg>Zobrazovat rozbité stanice v seznamech</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T135158Z" creationid="svetlemodry" creationdate="20160626T091002Z">
+        <seg>Zobrazovat nefunkční stanice v seznamech</seg>
       </tuv>
     </tu>
     <tu>
@@ -10024,8 +10032,16 @@
       <tuv lang="EN">
         <seg>Show single use tags</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090909Z" creationid="svetlemodry" creationdate="20160626T090909Z">
-        <seg>Zobrazit tagy použité jednou</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T135144Z" creationid="svetlemodry" creationdate="20160626T090909Z">
+        <seg>Zobrazit osamocené tagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show starred stations when starting RadioDroid</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T134905Z" creationid="svetlemodry" creationdate="20160904T134905Z">
+        <seg>Zobrazit oblíbené stanice po spuštění RadioDroid</seg>
       </tuv>
     </tu>
     <tu>
@@ -10208,8 +10224,16 @@
       <tuv lang="EN">
         <seg>Starred</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172046Z" creationid="svetlemodry" creationdate="20150328T172046Z">
-        <seg>Označené</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T135002Z" creationid="svetlemodry" creationdate="20150328T172046Z">
+        <seg>Oblíbené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Starred stations at startup</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T134840Z" creationid="svetlemodry" creationdate="20160904T134840Z">
+        <seg>Oblíbené stanice po spuštění</seg>
       </tuv>
     </tu>
     <tu>
