@@ -3390,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deletes local (hidden) repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T141100Z" creationid="svetlemodry" creationdate="20160904T141100Z">
+        <seg>Smaže místní (skrytý) repozitář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleting Comics…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192147Z" creationid="svetlemodry" creationdate="20151115T192147Z">
@@ -4650,6 +4658,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104431Z" creationid="svetlemodry" creationdate="20160618T104431Z">
         <seg>Exportovat/Importovat oblíbené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T141108Z" creationid="svetlemodry" creationdate="20160904T141108Z">
+        <seg>Externí repozitář</seg>
       </tuv>
     </tu>
     <tu>
@@ -7102,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No external repository selected</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T141155Z" creationid="svetlemodry" creationdate="20160904T141155Z">
+        <seg>Nebyl vybrát externí repozitář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No groups have been found.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160223T172132Z" creationid="svetlemodry" creationdate="20160223T172132Z">
@@ -8718,6 +8742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refresh list</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T141140Z" creationid="svetlemodry" creationdate="20160904T141140Z">
+        <seg>Obnovit seznam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refueling</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T123929Z" creationid="svetlemodry" creationdate="20160626T123929Z">
@@ -9390,6 +9422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select external repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T141133Z" creationid="svetlemodry" creationdate="20160904T141133Z">
+        <seg>Vybrat externí repozitář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select up to one address book (tap again to unselect):</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151711Z" creationid="svetlemodry" creationdate="20150309T151105Z">
@@ -9474,6 +9514,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204131Z" creationid="svetlemodry" creationdate="20141219T204131Z">
         <seg>Odeslat teď</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send password as plaintext using…</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T141218Z" creationid="svetlemodry" creationdate="20160904T141218Z">
+        <seg>Odeslat heslo jako plaintext za použití…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11730,6 +11778,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190028Z" creationid="svetlemodry" creationdate="20151003T190028Z">
         <seg>Velká písmena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use an external password repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20160904T141122Z" creationid="svetlemodry" creationdate="20160904T141122Z">
+        <seg>Použít externí repozitář hesel</seg>
       </tuv>
     </tu>
     <tu>
