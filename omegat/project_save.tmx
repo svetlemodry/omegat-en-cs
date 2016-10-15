@@ -6254,6 +6254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Longest streak</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161015T130017Z" creationid="svetlemodry" creationdate="20161015T130017Z">
+        <seg>Nejdelší řada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Low</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T150445Z" creationid="svetlemodry" creationdate="20151206T150445Z">
@@ -10434,6 +10442,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185945Z" creationid="svetlemodry" creationdate="20151003T185945Z">
         <seg>Uložit dvacet náhodných textů do schránky namísto pouze jednoho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Streaks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161015T130035Z" creationid="svetlemodry" creationdate="20161015T130035Z">
+        <seg>Rada</seg>
       </tuv>
     </tu>
     <tu>
