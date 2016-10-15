@@ -6246,6 +6246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Longest break</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161015T122030Z" creationid="svetlemodry" creationdate="20161015T122030Z">
+        <seg>Nejdelší pauza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Low</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T150445Z" creationid="svetlemodry" creationdate="20151206T150445Z">
@@ -6690,6 +6698,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110157Z" creationid="svetlemodry" creationdate="20150208T110157Z">
         <seg>Několik zápisů za den</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple taps on a day will be counted.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161015T122101Z" creationid="svetlemodry" creationdate="20161015T122101Z">
+        <seg>Několikanásobná tuknutí za den budou počítána.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10846,6 +10862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The backup folder is:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161015T122140Z" creationid="svetlemodry" creationdate="20161015T122140Z">
+        <seg>Adresář se zálohami je:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The certificate could not be trusted.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203405Z" creationid="svetlemodry" creationdate="20160629T203405Z">
@@ -11834,6 +11858,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160618T190523Z" creationid="svetlemodry" creationdate="20160618T190523Z">
         <seg>Použít místní adresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use long press to decrease the counter.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161015T122128Z" creationid="svetlemodry" creationdate="20161015T122128Z">
+        <seg>Dlouhým stlačením snížit počítadlo.</seg>
       </tuv>
     </tu>
     <tu>
