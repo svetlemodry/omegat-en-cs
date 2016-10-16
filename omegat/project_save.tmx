@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Applying PIN code.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105659Z" creationid="svetlemodry" creationdate="20161016T105659Z">
+        <seg>Aplikuje se PIN kód.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure that you want to import the selected database?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110705Z" creationid="svetlemodry" creationdate="20150208T110705Z">
@@ -4646,10 +4654,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error activating stealth launch.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105837Z" creationid="svetlemodry" creationdate="20161016T105837Z">
+        <seg>Chyba aktivace tajného spouštění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error creating wallet.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T104311Z" creationid="svetlemodry" creationdate="20161016T104311Z">
         <seg>Chyba vytváření peněženky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error entering app via stealth launch.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105750Z" creationid="svetlemodry" creationdate="20161016T105750Z">
+        <seg>Chyba spuštění aplikace pomocí tajného vstupu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5650,6 +5674,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105025Z" creationid="svetlemodry" creationdate="20161016T105025Z">
         <seg>Pokud sdíleno, může být načteno jinými aplikacemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the error persists, reinstall Sentinel.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105822Z" creationid="svetlemodry" creationdate="20161016T105822Z">
+        <seg>Pokud chyba přetrvá, přeinstalujte Sentinel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8726,6 +8758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please wait.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105712Z" creationid="svetlemodry" creationdate="20161016T105708Z">
+        <seg>Chvíli strpení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please wait...</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080212Z" creationid="svetlemodry" creationdate="20161016T080212Z">
@@ -9814,6 +9854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scramble PIN entry</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105956Z" creationid="svetlemodry" creationdate="20161016T105920Z">
+        <seg>Promíchat PIN klávesnici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Screen Orientation</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203937Z" creationid="svetlemodry" creationdate="20151115T203937Z">
@@ -10450,6 +10498,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205715Z" creationid="svetlemodry" creationdate="20151115T205715Z">
         <seg>Nastavit noční téma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ShapeShift</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110103Z" creationid="svetlemodry" creationdate="20161016T110103Z">
+        <seg>ShapeShift</seg>
       </tuv>
     </tu>
     <tu>
@@ -12750,6 +12806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use scrambled numerical pad to enter Sentinel.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110026Z" creationid="svetlemodry" creationdate="20161016T105939Z">
+        <seg>Použít promíchanou numerickou klávesnici pro Sentinel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use transient notifications (auto dismiss)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151117T183115Z" creationid="svetlemodry" creationdate="20151117T183115Z">
@@ -12778,6 +12842,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190003Z" creationid="svetlemodry" creationdate="20151003T190003Z">
         <seg>Užitečné pro telefony Samsung, které nabízejí funkci historie schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User PIN code</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110039Z" creationid="svetlemodry" creationdate="20161016T110039Z">
+        <seg>Uživatelský PIN kód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User PIN code to enter Sentinel.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110058Z" creationid="svetlemodry" creationdate="20161016T110058Z">
+        <seg>Uživatelský PIN kód pro vstup do aplikace Sentinel.</seg>
       </tuv>
     </tu>
     <tu>
