@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow stealth remote commands via SMS.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082617Z" creationid="svetlemodry" creationdate="20161016T082617Z">
+        <seg>Povolit tajné vzdálené příkazy pomocí SMS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Almost there…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191640Z" creationid="svetlemodry" creationdate="20151115T191640Z">
@@ -1898,6 +1906,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T111928Z" creationid="svetlemodry" creationdate="20150104T111928Z">
         <seg>Zablokovat doménu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Block explorer</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082647Z" creationid="svetlemodry" creationdate="20161016T082647Z">
+        <seg>Prohlížeč bloků</seg>
       </tuv>
     </tu>
     <tu>
@@ -3714,6 +3730,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204225Z" creationid="svetlemodry" creationdate="20141219T204225Z">
         <seg>Chcete přidat %s do svého telefonního seznamu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to define a pin code?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082549Z" creationid="svetlemodry" creationdate="20161016T082549Z">
+        <seg>Chcete nastavit pin kód?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7574,6 +7598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only allow remote commands sent from your trusted mobile phone number.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082937Z" creationid="svetlemodry" creationdate="20161016T082937Z">
+        <seg>Povolí vzdálené příkazy pouze z nastaveného důvěryhodného mobilního čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only manually</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150430Z" creationid="svetlemodry" creationdate="20150309T150430Z">
@@ -8966,6 +8998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote commands</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082559Z" creationid="svetlemodry" creationdate="20161016T082559Z">
+        <seg>Vzdálené příkazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote location</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184013Z" creationid="svetlemodry" creationdate="20151003T184013Z">
@@ -9258,6 +9298,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063201Z" creationid="svetlemodry" creationdate="20150310T063201Z">
         <seg>ZÁŘ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SIM switch defense</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082731Z" creationid="svetlemodry" creationdate="20161016T082731Z">
+        <seg>Ochrana výměny SIM</seg>
       </tuv>
     </tu>
     <tu>
@@ -9634,6 +9682,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204137Z" creationid="svetlemodry" creationdate="20141219T204137Z">
         <seg>Poslat OpenPGP šifrovanou zprávu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send SMS to trusted mobile number when the SIM card is changed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082808Z" creationid="svetlemodry" creationdate="20161016T082808Z">
+        <seg>Odešle SMS na důvěryhodné číslo při výměně SIM karty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10710,6 +10766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Street price</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082624Z" creationid="svetlemodry" creationdate="20161016T082624Z">
+        <seg>Pouliční cena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Style</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T205204Z" creationid="svetlemodry" creationdate="20151115T205204Z">
@@ -11142,6 +11206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The block explorer used to view transaction details.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082713Z" creationid="svetlemodry" creationdate="20161016T082713Z">
+        <seg>Prohlížeč bloků použitý pro zobrazování detailů transakcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The certificate could not be trusted.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203405Z" creationid="svetlemodry" creationdate="20160629T203405Z">
@@ -11178,6 +11250,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204026Z" creationid="svetlemodry" creationdate="20141219T204026Z">
         <seg>Konverzace spojené s tímto kontaktem nebudou odstraněny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fiat price from localbitcoins.com.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082638Z" creationid="svetlemodry" creationdate="20161016T082638Z">
+        <seg>Fiat cena z localbitcoins.com.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11758,6 +11838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trusted number</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082945Z" creationid="svetlemodry" creationdate="20161016T082945Z">
+        <seg>Důvěryhodné číslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Try again</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204559Z" creationid="svetlemodry" creationdate="20141219T204559Z">
@@ -12178,6 +12266,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151117T183115Z" creationid="svetlemodry" creationdate="20151117T183115Z">
         <seg>Používat dočasná upozornění (samozavírací)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use trusted mobile number for remote</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082846Z" creationid="svetlemodry" creationdate="20161016T082846Z">
+        <seg>Použít důvěryhodné mobilní číslo pro vzdálené příkazy</seg>
       </tuv>
     </tu>
     <tu>
