@@ -2766,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm PIN code</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105355Z" creationid="svetlemodry" creationdate="20161016T105355Z">
+        <seg>Potvrďit PIN kód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confirm password</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204221Z" creationid="svetlemodry" creationdate="20141219T204221Z">
@@ -3106,6 +3114,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204354Z" creationid="svetlemodry" creationdate="20141219T204354Z">
         <seg>Vytvořit kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create PIN code</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105330Z" creationid="svetlemodry" creationdate="20161016T105330Z">
+        <seg>Vytvořit PIN kód</seg>
       </tuv>
     </tu>
     <tu>
@@ -4422,6 +4438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter XPUB or bitcoin address.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105109Z" creationid="svetlemodry" creationdate="20161016T105109Z">
+        <seg>Zadat XPUB nebo bitcoin adresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter dim</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152532Z" creationid="svetlemodry" creationdate="20151206T152532Z">
@@ -5290,6 +5314,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200249Z" creationid="svetlemodry" creationdate="20160120T200249Z">
         <seg>Přejít na záložku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to settings to configure Sentinel.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105308Z" creationid="svetlemodry" creationdate="20161016T105308Z">
+        <seg>Jděte do nastavení pro konfiguraci aplikace Sentinel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11774,6 +11806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are no XPUBs/bitcoin addresses for creating a wallet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105247Z" creationid="svetlemodry" creationdate="20161016T105247Z">
+        <seg>Nejsou zde žádné XPUB/bitcoin adresy pro vytvoření peněženky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are no suitable applications installed.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070541Z" creationid="svetlemodry" creationdate="20150310T070541Z">
@@ -11786,6 +11826,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172132Z" creationid="svetlemodry" creationdate="20150328T172132Z">
         <seg>Nejsou žádné označené položky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There was an error creating a wallet from your XPUBs/bitcoin addresses.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105204Z" creationid="svetlemodry" creationdate="20161016T105204Z">
+        <seg>Došlo k chybě vytváření peněženky ze zadaných XPUB/bitcoin adres.</seg>
       </tuv>
     </tu>
     <tu>
