@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'Crafty Cobra'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T113209Z" creationid="svetlemodry" creationdate="20161016T113209Z">
+        <seg>'Crafty Cobra'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'No network timeout' setting might be too short for the locations feature to work.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180021Z" creationid="svetlemodry" creationdate="20151206T180021Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203919Z" creationid="svetlemodry" creationdate="20141219T203919Z">
         <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.81</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T113212Z" creationid="svetlemodry" creationdate="20161016T113212Z">
+        <seg>0.81</seg>
       </tuv>
     </tu>
     <tu>
@@ -9906,6 +9922,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064827Z" creationid="svetlemodry" creationdate="20150310T064827Z">
         <seg>SHRNUTÍ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Samourai</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T113219Z" creationid="svetlemodry" creationdate="20161016T113219Z">
+        <seg>Samourai</seg>
       </tuv>
     </tu>
     <tu>
