@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add a new XPUB or bitcoin address to begin tracking.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110548Z" creationid="svetlemodry" creationdate="20161016T110548Z">
+        <seg>Přidat novou XPUB či bitcoin adresu pro její sledování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add account</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203957Z" creationid="svetlemodry" creationdate="20141219T203957Z">
@@ -1098,6 +1106,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T125106Z" creationid="svetlemodry" creationdate="20151101T125106Z">
         <seg>Přidat skupinu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add new</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110552Z" creationid="svetlemodry" creationdate="20161016T110516Z">
+        <seg>Přidat novou</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,6 +3022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy this send address to the clipboard?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110441Z" creationid="svetlemodry" creationdate="20161016T110441Z">
+        <seg>Zkopírovat tuto adresu do schránky?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy to clipboard</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171610Z" creationid="svetlemodry" creationdate="20150328T171610Z">
@@ -3610,6 +3634,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192157Z" creationid="svetlemodry" creationdate="20151115T192157Z">
         <seg>Mazání článků…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deposit</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110142Z" creationid="svetlemodry" creationdate="20161016T110142Z">
+        <seg>Vklad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deposit into...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110606Z" creationid="svetlemodry" creationdate="20161016T110606Z">
+        <seg>Vklad do...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4678,6 +4718,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error getting latest ShapeShift market info.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110415Z" creationid="svetlemodry" creationdate="20161016T110415Z">
+        <seg>Chyba získání nejnovějších obchodních informací ShapeShift.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error getting trade info.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110429Z" creationid="svetlemodry" creationdate="20161016T110429Z">
+        <seg>Chyba získání obchodních informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error occurred creating report file.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070515Z" creationid="svetlemodry" creationdate="20150310T070515Z">
@@ -5298,6 +5354,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085232Z" creationid="svetlemodry" creationdate="20161016T085232Z">
         <seg>Získat SHA-256 hash souboru APK této aplikace (lze zkopírovat do schránky).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting latest ShapeShift info for this trade.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110344Z" creationid="svetlemodry" creationdate="20161016T110344Z">
+        <seg>Získávání nejnovějších informací ShapeShift pro tento obchod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting latest ShapeShift market info.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110318Z" creationid="svetlemodry" creationdate="20161016T110318Z">
+        <seg>Získat nejnovější obchodní informace ShapeShift.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6262,6 +6334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Label</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110242Z" creationid="svetlemodry" creationdate="20161016T110242Z">
+        <seg>Štítek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Landscape</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195017Z" creationid="svetlemodry" creationdate="20151115T195017Z">
@@ -6402,6 +6482,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195203Z" creationid="svetlemodry" creationdate="20151115T195203Z">
         <seg>Citrónová</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Limit:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110458Z" creationid="svetlemodry" creationdate="20161016T110458Z">
+        <seg>Limit:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6950,6 +7038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minimum:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110502Z" creationid="svetlemodry" creationdate="20161016T110502Z">
+        <seg>Minimum:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minutes before turning off WiFi:</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164659Z" creationid="svetlemodry" creationdate="20151206T164659Z">
@@ -7266,6 +7362,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151209T192436Z" creationid="svetlemodry" creationdate="20151115T193623Z">
         <seg>Nové What If!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110248Z" creationid="svetlemodry" creationdate="20161016T110248Z">
+        <seg>Nový účet</seg>
       </tuv>
     </tu>
     <tu>
@@ -12510,6 +12614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>USD used for Bitfinex fiat price.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110206Z" creationid="svetlemodry" creationdate="20161016T110206Z">
+        <seg>USD použitý pro Bitfinex fiat cenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to calculate fuel amount using these values</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070725Z" creationid="svetlemodry" creationdate="20150310T070725Z">
@@ -13126,6 +13238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Watchlist</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110131Z" creationid="svetlemodry" creationdate="20161016T110131Z">
+        <seg>Sledování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WebView default</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195250Z" creationid="svetlemodry" creationdate="20151115T195250Z">
@@ -13438,6 +13558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XPUB or bitcoin address</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110115Z" creationid="svetlemodry" creationdate="20161016T110115Z">
+        <seg>XPUB nebo bitcoin adresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>YTD</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065111Z" creationid="svetlemodry" creationdate="20150310T065111Z">
@@ -13634,6 +13762,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183353Z" creationid="svetlemodry" creationdate="20151003T183353Z">
         <seg>Je třeba zadat informaci o serveru před vlastní synchronizací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must select an account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110512Z" creationid="svetlemodry" creationdate="20161016T110512Z">
+        <seg>Musíte vybrat účet</seg>
       </tuv>
     </tu>
     <tu>
@@ -14370,6 +14506,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183025Z" creationid="svetlemodry" creationdate="20151003T183025Z">
         <seg>sekund na jeho zkopírování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>select a cryptocurrency</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110452Z" creationid="svetlemodry" creationdate="20161016T110452Z">
+        <seg>vybrat kryptoměnu</seg>
       </tuv>
     </tu>
     <tu>
