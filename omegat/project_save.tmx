@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2.0.4</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T075011Z" creationid="svetlemodry" creationdate="20161016T075011Z">
+        <seg>2.0.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>200%</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195233Z" creationid="svetlemodry" creationdate="20151115T195233Z">
@@ -9598,6 +9606,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sentinel</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T075059Z" creationid="svetlemodry" creationdate="20161016T075059Z">
+        <seg>Sentinel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sentinel cannot send bitcoin.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T075234Z" creationid="svetlemodry" creationdate="20161016T075234Z">
+        <seg>Sentinel neumí odesílat bitcoiny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151123T184416Z" creationid="svetlemodry" creationdate="20151123T184416Z">
@@ -11158,6 +11182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is an alpha product and things may go wrong, please write the following 12 words down and keep them safe.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T075343Z" creationid="svetlemodry" creationdate="20161016T075343Z">
+        <seg>Tento produkt je v alfa fázi, může dojít k problémům. Poznamenejte si prosím následujících 12 slov a uložte je na bezpečné místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is not a valid Jabber ID</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204223Z" creationid="svetlemodry" creationdate="20141219T204223Z">
@@ -12210,6 +12242,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183650Z" creationid="svetlemodry" creationdate="20151003T183650Z">
         <seg>Vítejte v aplikaci Password Store\n\n Na této obrazovce můžete buď  vytvořit nový repozitář nebo klonovat dostupný repozitář na svůj přístroj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Welcome to Sentinel\n\nSentinel is your deposit only bitcoin wallet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T075218Z" creationid="svetlemodry" creationdate="20161016T075218Z">
+        <seg>Vítejte v aplikaci Sentinel\n\nSentinel je bitcoin peněženka zobrazující pouze pohyb na účtech.</seg>
       </tuv>
     </tu>
     <tu>
