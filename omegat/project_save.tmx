@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose an Email client:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110905Z" creationid="svetlemodry" creationdate="20161016T110905Z">
+        <seg>Vybrat emailového klienta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose an icon</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110305Z" creationid="svetlemodry" creationdate="20150208T110305Z">
@@ -4406,6 +4414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Encrypted wallet data</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110815Z" creationid="svetlemodry" creationdate="20161016T110815Z">
+        <seg>Šifrovaná data peněženky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encryption settings</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204524Z" creationid="svetlemodry" creationdate="20141219T204524Z">
@@ -4958,6 +4974,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export to clipboard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110646Z" creationid="svetlemodry" creationdate="20161016T110646Z">
+        <seg>Exportovat do schránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export to email</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110653Z" creationid="svetlemodry" creationdate="20161016T110653Z">
+        <seg>Exportovat do emailu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export wallet</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085243Z" creationid="svetlemodry" creationdate="20161016T085243Z">
@@ -5170,6 +5202,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204525Z" creationid="svetlemodry" creationdate="20141219T204525Z">
         <seg>Vynutit šifrování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From backup</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110743Z" creationid="svetlemodry" creationdate="20161016T110743Z">
+        <seg>Ze zálohy</seg>
       </tuv>
     </tu>
     <tu>
@@ -7086,6 +7126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mnemonic/seed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110751Z" creationid="svetlemodry" creationdate="20161016T110751Z">
+        <seg>Mnemonic/semínko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mobile</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203828Z" creationid="svetlemodry" creationdate="20141219T202237Z">
@@ -8862,6 +8910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please use a password containing at least 6 characters.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110639Z" creationid="svetlemodry" creationdate="20161016T110639Z">
+        <seg>Zadejte heslo obsahující alespoň 6 znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please wait.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105712Z" creationid="svetlemodry" creationdate="20161016T105708Z">
@@ -9678,6 +9734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore wallet from backup</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110927Z" creationid="svetlemodry" creationdate="20161016T110854Z">
+        <seg>Obnovit peněženku ze zálohy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restoring wallet.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080222Z" creationid="svetlemodry" creationdate="20161016T080222Z">
@@ -10304,8 +10368,8 @@
       <tuv lang="EN">
         <seg>Send payment code</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085447Z" creationid="svetlemodry" creationdate="20161016T085447Z">
-        <seg>Odesla kód platby</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T111025Z" creationid="svetlemodry" creationdate="20161016T085447Z">
+        <seg>Odeslat kód platby</seg>
       </tuv>
     </tu>
     <tu>
@@ -11934,6 +11998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The proposed passwords do not match.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110712Z" creationid="svetlemodry" creationdate="20161016T110712Z">
+        <seg>Navrhovaná hesla se neshodují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The server address is invalid!</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170725Z" creationid="svetlemodry" creationdate="20151208T170725Z">
@@ -11994,6 +12066,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105204Z" creationid="svetlemodry" creationdate="20161016T105204Z">
         <seg>Došlo k chybě vytváření peněženky ze zadaných XPUB/bitcoin adres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There was an error while decrypting your wallet backup.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110842Z" creationid="svetlemodry" creationdate="20161016T110842Z">
+        <seg>Došlo k chybě při dešifrování zálohy peněženky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There was an error while encrypting your wallet backup.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110737Z" creationid="svetlemodry" creationdate="20161016T110737Z">
+        <seg>Došlo k chybě při šifrování zálohy peněženky.</seg>
       </tuv>
     </tu>
     <tu>
