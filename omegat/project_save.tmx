@@ -8982,6 +8982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove all traces of Sentinel from the launcher and home screen.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T081016Z" creationid="svetlemodry" creationdate="20161016T081016Z">
+        <seg>Odstraní všechny stopy o aplikaci Sentinel z menu a domovské obrazovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove from Favorites</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T194236Z" creationid="svetlemodry" creationdate="20151115T194236Z">
@@ -11586,6 +11594,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T172115Z" creationid="svetlemodry" creationdate="20151208T171419Z">
         <seg>Jak nainstalovat a nastavit server si prečtěte zde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To open your wallet dial **YOUR_PIN_CODE# from the phone dialer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T081252Z" creationid="svetlemodry" creationdate="20161016T081252Z">
+        <seg>Pro otevření své peněženky vytočte **VÁŠ_PIN_KÓD# na telefonu.</seg>
       </tuv>
     </tu>
     <tu>
