@@ -13190,6 +13190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your Samourai Wallet device now has a different SIM card corresponding to incoming number of this text message.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T103535Z" creationid="svetlemodry" creationdate="20161016T103535Z">
+        <seg>Přístroj s peněženkou Samourai má nyní jinou SIM kartu pro příchozí textové.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your WiFi sleep policy is set to automatically disable WiFi as soon as the display goes off.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164546Z" creationid="svetlemodry" creationdate="20151206T164546Z">
