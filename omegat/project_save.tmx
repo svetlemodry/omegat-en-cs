@@ -822,6 +822,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A trusted mobile number that you can restrict remote access to (use int'l format without spacing ex.: +447385555555).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085142Z" creationid="svetlemodry" creationdate="20161016T085142Z">
+        <seg>Důvěryhodné mobilní číslo, na které můžete omezit povolení pro vzdálené příkazy (použijte mezinárodní formát bez mezer: +420).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>APK hash</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085146Z" creationid="svetlemodry" creationdate="20161016T085146Z">
+        <seg>APK hash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>APR</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063141Z" creationid="svetlemodry" creationdate="20150310T063141Z">
@@ -1602,6 +1618,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T190844Z" creationid="svetlemodry" creationdate="20151115T190802Z">
         <seg>Opravdu chcete vypnout offline mód?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to exit Sentinel?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085459Z" creationid="svetlemodry" creationdate="20161016T085459Z">
+        <seg>Opravdu chcete ukončit Sentinel?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2850,6 +2874,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T213104Z" creationid="svetlemodry" creationdate="20141219T213104Z">
         <seg>Konverzace využívá aplikaci třetí strany, &lt;b0&gt;OpenKeychain&lt;/b0&gt;, k šifrování a dešifrování zpráv a ke správě veřejných klíčů.\n\nOpenKeychain je licencován pod GPLv3 a dostupný na F-Droid a Google Play.\n\n&lt;s1&gt;(Po instalaci prosím restartujte aplikaci Konverzace.)&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copied to clipboard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085422Z" creationid="svetlemodry" creationdate="20161016T085422Z">
+        <seg>Zkopírováno do schránky</seg>
       </tuv>
     </tu>
     <tu>
@@ -4726,6 +4758,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export wallet</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085243Z" creationid="svetlemodry" creationdate="20161016T085243Z">
+        <seg>Exportovat peněženku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export wallet and metadata.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085253Z" creationid="svetlemodry" creationdate="20161016T085253Z">
+        <seg>Exportuje peněženku a metadata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export your Favorites</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104445Z" creationid="svetlemodry" creationdate="20160618T104445Z">
@@ -5102,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Get SHA-256 hash of this installed APK file (can be copied to clipboard).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085232Z" creationid="svetlemodry" creationdate="20161016T085232Z">
+        <seg>Získat SHA-256 hash souboru APK této aplikace (lze zkopírovat do schránky).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151123T184410Z" creationid="svetlemodry" creationdate="20151123T184410Z">
@@ -5258,6 +5314,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131229Z" creationid="svetlemodry" creationdate="20151101T131229Z">
         <seg>Akce při odpojení sluchátek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hello blank fragment</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085348Z" creationid="svetlemodry" creationdate="20161016T085348Z">
+        <seg>Prázdný ahoj fragment</seg>
       </tuv>
     </tu>
     <tu>
@@ -7558,6 +7622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Older</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085335Z" creationid="svetlemodry" creationdate="20161016T085335Z">
+        <seg>Starší</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On my way...</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190153Z" creationid="svetlemodry" creationdate="20151003T190153Z">
@@ -9190,6 +9262,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore wallet</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085300Z" creationid="svetlemodry" creationdate="20161016T085300Z">
+        <seg>Obnovit peněženku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore wallet and metadata from backup.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085314Z" creationid="svetlemodry" creationdate="20161016T085314Z">
+        <seg>Obnoví peněženku a metadata ze zálohy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restoring wallet.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080222Z" creationid="svetlemodry" creationdate="20161016T080222Z">
@@ -9630,6 +9718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select currency</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085324Z" creationid="svetlemodry" creationdate="20161016T085324Z">
+        <seg>Vybrat měnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select external repository</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160904T141133Z" creationid="svetlemodry" creationdate="20160904T141133Z">
@@ -9746,6 +9842,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160904T141218Z" creationid="svetlemodry" creationdate="20160904T141218Z">
         <seg>Odeslat heslo jako plaintext za použití…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send payment code</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085447Z" creationid="svetlemodry" creationdate="20161016T085447Z">
+        <seg>Odesla kód platby</seg>
       </tuv>
     </tu>
     <tu>
@@ -11694,6 +11798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Today</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085327Z" creationid="svetlemodry" creationdate="20161016T085327Z">
+        <seg>Dnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TopClick</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160904T135512Z" creationid="svetlemodry" creationdate="20160626T090300Z">
@@ -12886,6 +12998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yesterday</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085331Z" creationid="svetlemodry" creationdate="20161016T085331Z">
+        <seg>Včera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204421Z" creationid="svetlemodry" creationdate="20141219T204421Z">
@@ -13042,6 +13162,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204700Z" creationid="svetlemodry" creationdate="20151115T204700Z">
         <seg>Musíte restartovat aplikaci aby bylo použito nové téma vzhledu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You received</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085403Z" creationid="svetlemodry" creationdate="20161016T085403Z">
+        <seg>Přijato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You sent</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085407Z" creationid="svetlemodry" creationdate="20161016T085407Z">
+        <seg>Odesláno</seg>
       </tuv>
     </tu>
     <tu>
