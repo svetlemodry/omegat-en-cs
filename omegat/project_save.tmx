@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bitcoin units to display (default BTC).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080913Z" creationid="svetlemodry" creationdate="20161016T080913Z">
+        <seg>Zobrazované Bitcoin jednotky (výchozí BTC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Black</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195119Z" creationid="svetlemodry" creationdate="20151115T195119Z">
@@ -8966,6 +8974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080515Z" creationid="svetlemodry" creationdate="20161016T080515Z">
+        <seg>Vzdálená nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove from Favorites</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T194236Z" creationid="svetlemodry" creationdate="20151115T194236Z">
@@ -10142,10 +10158,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show BIP39 passphrase</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080704Z" creationid="svetlemodry" creationdate="20161016T080704Z">
+        <seg>Zobrazit BIP39 bezpečnostní heslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show BIP39 passphrase for this wallet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080719Z" creationid="svetlemodry" creationdate="20161016T080719Z">
+        <seg>Zobrazí BIP39 bezpečnostní heslo této peněženky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show QR code</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204552Z" creationid="svetlemodry" creationdate="20141219T204552Z">
         <seg>Zobrazit QR kód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show XPUB</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080724Z" creationid="svetlemodry" creationdate="20161016T080724Z">
+        <seg>Zobrazit XPUB</seg>
       </tuv>
     </tu>
     <tu>
@@ -10198,10 +10238,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show extended key for this wallet account (can be copied to clipboard).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080813Z" creationid="svetlemodry" creationdate="20161016T080813Z">
+        <seg>Zobrazí rozšířený klíč účtu této peněženky (lze zkopírovat do schránky).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show hex seed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080638Z" creationid="svetlemodry" creationdate="20161016T080638Z">
+        <seg>Zobrazit hex semínko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show hex seed for this wallet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080652Z" creationid="svetlemodry" creationdate="20161016T080652Z">
+        <seg>Zobrazí hex semínko této peněženky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show location</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T180308Z" creationid="svetlemodry" creationdate="20151003T180300Z">
         <seg>Zobrazit umístění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show mnemonic</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080612Z" creationid="svetlemodry" creationdate="20161016T080612Z">
+        <seg>Zobrazit mnemonic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show mnemonic for this wallet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080626Z" creationid="svetlemodry" creationdate="20161016T080626Z">
+        <seg>Zobrazí mnemonic pro tuto peněženku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10498,6 +10578,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063550Z" creationid="svetlemodry" creationdate="20150310T063550Z">
         <seg>Statistiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stealth launcher</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080938Z" creationid="svetlemodry" creationdate="20161016T080938Z">
+        <seg>Tajné spouštění</seg>
       </tuv>
     </tu>
     <tu>
@@ -12510,6 +12598,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wipe this wallet from device.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080844Z" creationid="svetlemodry" creationdate="20161016T080844Z">
+        <seg>Smaže tuto peněženku z přístroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wipe wallet</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080824Z" creationid="svetlemodry" creationdate="20161016T080824Z">
+        <seg>Smazat peněženku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Would you like to add it?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210728Z" creationid="svetlemodry" creationdate="20141219T204134Z">
@@ -12930,6 +13034,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T113800Z" creationid="svetlemodry" creationdate="20150104T113800Z">
         <seg>Společně tajemství nemůže být nevyplněno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your wallet</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080525Z" creationid="svetlemodry" creationdate="20161016T080525Z">
+        <seg>Vlastní peněženka</seg>
       </tuv>
     </tu>
     <tu>
