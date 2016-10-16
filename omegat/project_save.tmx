@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As long as you have these 12 words and the passphrase you just created you will never lose access to your funds.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T075604Z" creationid="svetlemodry" creationdate="20161016T075604Z">
+        <seg>Dokud budete mít těchto 12 slov a bezpečnostní heslo, které jste právě vytvořili, neztratíte přístup ke svým peněžním prostředkům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ask for presence updates</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212248Z" creationid="svetlemodry" creationdate="20141219T204150Z">
@@ -11184,8 +11192,8 @@
       <tuv lang="EN">
         <seg>This is an alpha product and things may go wrong, please write the following 12 words down and keep them safe.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T075343Z" creationid="svetlemodry" creationdate="20161016T075343Z">
-        <seg>Tento produkt je v alfa fázi, může dojít k problémům. Poznamenejte si prosím následujících 12 slov a uložte je na bezpečné místo.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T075717Z" creationid="svetlemodry" creationdate="20161016T075343Z">
+        <seg>Tento produkt je v alfa fázi vývoje, může dojít k problémům. Poznamenejte si prosím následujících 12 slov a uložte je na bezpečné místo.</seg>
       </tuv>
     </tu>
     <tu>
