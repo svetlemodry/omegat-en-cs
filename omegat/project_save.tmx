@@ -854,10 +854,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About Sentinel</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080442Z" creationid="svetlemodry" creationdate="20161016T080442Z">
+        <seg>O aplikaci Sentinel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About Tickmate</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110256Z" creationid="svetlemodry" creationdate="20150208T110256Z">
         <seg>O aplikaci Tickmate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About us</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080445Z" creationid="svetlemodry" creationdate="20161016T080445Z">
+        <seg>O nás</seg>
       </tuv>
     </tu>
     <tu>
@@ -2990,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating wallet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080205Z" creationid="svetlemodry" creationdate="20161016T080205Z">
+        <seg>Vytváření peněženky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Credentials are sent after server requests them</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150340Z" creationid="svetlemodry" creationdate="20150309T150340Z">
@@ -3234,6 +3258,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204350Z" creationid="svetlemodry" creationdate="20141219T204350Z">
         <seg>Dešifrovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Decrypting BIP38 password.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080253Z" creationid="svetlemodry" creationdate="20161016T080253Z">
+        <seg>Dešifrování BIP38 hesla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4542,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example action</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080322Z" creationid="svetlemodry" creationdate="20161016T080322Z">
+        <seg>Vzorová akce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example: myaccount@icloud.com</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T145659Z" creationid="svetlemodry" creationdate="20150309T145659Z">
@@ -5192,8 +5232,8 @@
       <tuv lang="EN">
         <seg>Hello world!</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20150130T130057Z" creationid="svetlemodry" creationdate="20150130T130057Z">
-        <seg>Hello world!</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080437Z" creationid="svetlemodry" creationdate="20150130T130057Z">
+        <seg>Ahoj světe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5346,6 +5386,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160904T135901Z" creationid="svetlemodry" creationdate="20160626T092402Z">
         <seg>Opravdu potřebuji někoho se zkušeností s prací s grafikou, aby aplikace získala hezčí vzhled. Možná někdo, kdo umí kreslit ikony a obrázky... Ale také programátory opravující chyby nebo implementující nové funkce.\nNápady na nové funkce jsou také vítány!\n\nTato aplikace je svobodný software licencovaný pod GPLv3\nhttps://www.gnu.org/licenses/gpl-3.0.html.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I've written down my recovery words</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080154Z" creationid="svetlemodry" creationdate="20161016T080154Z">
+        <seg>Má slova obnovovacího semínka jsou zapsána</seg>
       </tuv>
     </tu>
     <tu>
@@ -7470,6 +7518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080452Z" creationid="svetlemodry" creationdate="20161016T080452Z">
+        <seg>Ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On my way...</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190153Z" creationid="svetlemodry" creationdate="20151003T190153Z">
@@ -8310,6 +8366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please wait...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080212Z" creationid="svetlemodry" creationdate="20161016T080212Z">
+        <seg>Chvíli strpení...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please wait…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204018Z" creationid="svetlemodry" creationdate="20141219T204018Z">
@@ -8370,6 +8434,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204150Z" creationid="svetlemodry" creationdate="20141219T204150Z">
         <seg>Aktivně povolovat vyžádání změn stavu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080501Z" creationid="svetlemodry" creationdate="20161016T080501Z">
+        <seg>Nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -8642,6 +8714,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125337Z" creationid="svetlemodry" creationdate="20150130T125337Z">
         <seg>Ohodnoťit!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Receive</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080345Z" creationid="svetlemodry" creationdate="20161016T080345Z">
+        <seg>Přijmout</seg>
       </tuv>
     </tu>
     <tu>
@@ -9042,6 +9122,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203445Z" creationid="svetlemodry" creationdate="20160629T203445Z">
         <seg>Obnovit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restoring wallet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080222Z" creationid="svetlemodry" creationdate="20161016T080222Z">
+        <seg>Obnovování peněženky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9498,6 +9586,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T201209Z" creationid="svetlemodry" creationdate="20151115T201209Z">
         <seg>Vyberte svůj oblíbený styl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080325Z" creationid="svetlemodry" creationdate="20161016T080325Z">
+        <seg>Odeslat</seg>
       </tuv>
     </tu>
     <tu>
@@ -10406,6 +10502,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stealth send</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080339Z" creationid="svetlemodry" creationdate="20161016T080339Z">
+        <seg>Tajné odeslání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stealth settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080509Z" creationid="svetlemodry" creationdate="20161016T080509Z">
+        <seg>Tajná nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step of adjustment</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T153129Z" creationid="svetlemodry" creationdate="20151206T153129Z">
@@ -10558,6 +10670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sweep cold storage</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080430Z" creationid="svetlemodry" creationdate="20161016T080430Z">
+        <seg>Vybrat cold storage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Swipe to navigate</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192753Z" creationid="svetlemodry" creationdate="20151115T192753Z">
@@ -10698,6 +10818,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190224Z" creationid="svetlemodry" creationdate="20151003T190224Z">
         <seg>Synchronizovat repozitář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Syncing with network.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080237Z" creationid="svetlemodry" creationdate="20161016T080237Z">
+        <seg>Synchronizace se sítí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11490,6 +11618,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T124942Z" creationid="svetlemodry" creationdate="20151101T124942Z">
         <seg>Stopy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Transactions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080350Z" creationid="svetlemodry" creationdate="20161016T080350Z">
+        <seg>Transakce</seg>
       </tuv>
     </tu>
     <tu>
@@ -12706,6 +12842,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T164546Z" creationid="svetlemodry" creationdate="20151206T164546Z">
         <seg>WiFi připojení je nastaveno na automatické vypnutí při vypnutí displeje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your XPUB</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080400Z" creationid="svetlemodry" creationdate="20161016T080400Z">
+        <seg>XPUB</seg>
       </tuv>
     </tu>
     <tu>
