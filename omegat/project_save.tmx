@@ -10014,6 +10014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scan any XPUB and Sentinel will keep watch, alerting you of any new incoming transactions and allowing you to create new addresses so you can receive bitcoin on your mobile device.\n\nSentinel is the easiest and most secure way to keep track and receive payments to your cold storage wallet.\n\nSentinel can't send bitcoin out of your wallet, and your private keys are never communicated with Sentinel in any way.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T111919Z" creationid="svetlemodry" creationdate="20161016T111919Z">
+        <seg>Naskenujte jakýkoliv XPUB a Sentinel ho bude hlídat, upozorňovat na nové příchozí transakce a umožní vytváření nových adres pro přijímání bitcoinů.\n\nSentinel je nejjednodušší a nejbezpečnější cesta pro udržování přehledu a přijímání plateb do vaší cold storage peněženky.\n\nSentinel neumí odesílat bitcoiny z peněženky, a privátní klíče nejsou nikdy ukládány v jakékoliv podobě v aplikaci Sentinel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scan error</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T104702Z" creationid="svetlemodry" creationdate="20161016T104702Z">
