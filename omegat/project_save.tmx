@@ -7120,16 +7120,16 @@
       <tuv lang="EN">
         <seg>Mnemonic or hex seed</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T104159Z" creationid="svetlemodry" creationdate="20161016T104159Z">
-        <seg>Mnemonic nebo hex semínko</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T112712Z" creationid="svetlemodry" creationdate="20161016T104159Z">
+        <seg>Paměťová nápověda nebo hex semínko</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mnemonic/seed</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110751Z" creationid="svetlemodry" creationdate="20161016T110751Z">
-        <seg>Mnemonic/semínko</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T112727Z" creationid="svetlemodry" creationdate="20161016T110751Z">
+        <seg>Paměťová nápověda/semínko</seg>
       </tuv>
     </tu>
     <tu>
@@ -10992,16 +10992,16 @@
       <tuv lang="EN">
         <seg>Show mnemonic</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080612Z" creationid="svetlemodry" creationdate="20161016T080612Z">
-        <seg>Zobrazit mnemonic</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T112624Z" creationid="svetlemodry" creationdate="20161016T080612Z">
+        <seg>Zobrazit paměťovou nápovědu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Show mnemonic for this wallet.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080626Z" creationid="svetlemodry" creationdate="20161016T080626Z">
-        <seg>Zobrazí mnemonic pro tuto peněženku.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20161016T112647Z" creationid="svetlemodry" creationdate="20161016T080626Z">
+        <seg>Zobrazí paměťovou nápovědu pro tuto peněženku.</seg>
       </tuv>
     </tu>
     <tu>
