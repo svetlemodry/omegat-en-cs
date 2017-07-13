@@ -4270,6 +4270,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downgrade your account to the free plan</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130839Z" creationid="svetlemodry" creationdate="20170713T130839Z">
+        <seg>Přejít na bezplatnou verzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130827Z" creationid="svetlemodry" creationdate="20170713T130827Z">
+        <seg>Stáhnout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download %s</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T185535Z" creationid="svetlemodry" creationdate="20150112T185535Z">
@@ -5966,6 +5982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here are the advantages:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130559Z" creationid="svetlemodry" creationdate="20170713T130559Z">
+        <seg>Zde jsou výhody:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hi :username</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084026Z" creationid="svetlemodry" creationdate="20170713T084026Z">
@@ -6326,6 +6350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to be able to downgrade, you need to pass the checklist below:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130943Z" creationid="svetlemodry" creationdate="20170713T130943Z">
+        <seg>K přechodu na bezplatnou verzi musíte projít seznam níže:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In progress</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204557Z" creationid="svetlemodry" creationdate="20141219T204557Z">
@@ -6594,6 +6626,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125625Z" creationid="svetlemodry" creationdate="20170713T125625Z">
         <seg>Pozvat uživatele emailem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invoices</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130814Z" creationid="svetlemodry" creationdate="20170713T130814Z">
+        <seg>Faktury</seg>
       </tuv>
     </tu>
     <tu>
@@ -12206,6 +12246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Support the project on the long run, so we can introduce more great features.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130718Z" creationid="svetlemodry" creationdate="20170713T130718Z">
+        <seg>Dlouhodobá podpora projektu, která umožní zavedení dalších skvělých funkcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Suspend</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T123955Z" creationid="svetlemodry" creationdate="20160626T123955Z">
@@ -13138,6 +13186,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204151Z" creationid="svetlemodry" creationdate="20141219T204151Z">
         <seg>Vybraný soubor není obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The free plan has limitations.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130853Z" creationid="svetlemodry" creationdate="20170713T130853Z">
+        <seg>Bezplatná verze má omezení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14206,6 +14262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unlimited number of users</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130617Z" creationid="svetlemodry" creationdate="20170713T130617Z">
+        <seg>Neomezený počet uživatelů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unlock screen, and enable NFC.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T144110Z" creationid="svetlemodry" creationdate="20151206T144110Z">
@@ -14306,6 +14370,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112615Z" creationid="svetlemodry" creationdate="20150104T112615Z">
         <seg>Aktualizuji...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upgrade your account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130759Z" creationid="svetlemodry" creationdate="20170713T130759Z">
+        <seg>Navýšit svůj účet</seg>
       </tuv>
     </tu>
     <tu>
@@ -15366,6 +15438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You currently have &lt;a href=":url"&gt;:count users&lt;/a&gt; in your account.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131037Z" creationid="svetlemodry" creationdate="20170713T131037Z">
+        <seg>Aktuálně máte &lt;a href=":url"&gt;:count uživatel&lt;/a&gt; v tomto účtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You didn't add a bookmark yet!</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200429Z" creationid="svetlemodry" creationdate="20160120T200429Z">
@@ -15418,6 +15498,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183353Z" creationid="svetlemodry" creationdate="20151003T183353Z">
         <seg>Je třeba zadat informaci o serveru před vlastní synchronizací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must have only 1 user in your account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131006Z" creationid="svetlemodry" creationdate="20170713T131006Z">
+        <seg>Smíte mít pouze jednoho uživatele účtu</seg>
       </tuv>
     </tu>
     <tu>
