@@ -1886,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to delete this reminder?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142833Z" creationid="svetlemodry" creationdate="20170713T142833Z">
+        <seg>Opravdu chcete smazat toto upozornění?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to delete this track?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T173426Z" creationid="svetlemodry" creationdate="20150208T110232Z">
@@ -6550,6 +6558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to change those dates, edit the birthdate of the contacts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143105Z" creationid="svetlemodry" creationdate="20170713T143105Z">
+        <seg>Pokud chcete změnit tato data, upravte datum narození kontaktů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204506Z" creationid="svetlemodry" creationdate="20141219T204506Z">
@@ -9254,6 +9270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One time</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143117Z" creationid="svetlemodry" creationdate="20170713T143117Z">
+        <seg>Jedenkrát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Online</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204152Z" creationid="svetlemodry" creationdate="20141219T204152Z">
@@ -10946,6 +10970,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092737Z" creationid="svetlemodry" creationdate="20170713T092737Z">
         <seg>Upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reminders are sent every morning the day events will happen.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142953Z" creationid="svetlemodry" creationdate="20170713T142953Z">
+        <seg>Upozornění jsou rozesílána poránu v den události.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reminders automatically added for birthdates can not be deleted.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143028Z" creationid="svetlemodry" creationdate="20170713T143028Z">
+        <seg>Automatická upozornění pro zadaná data narození nelze smazat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15790,6 +15830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We will send an email for each one of the reminders below.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142924Z" creationid="svetlemodry" creationdate="20170713T142924Z">
+        <seg>Pro každé upozornění níže bude poslán email.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WebView default</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195250Z" creationid="svetlemodry" creationdate="20151115T195250Z">
@@ -17102,6 +17150,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>every month|every :number months</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142703Z" creationid="svetlemodry" creationdate="20170713T142703Z">
+        <seg>každý měsíc|každé :number měsíce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>every week|every :number weeks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142644Z" creationid="svetlemodry" creationdate="20170713T142644Z">
+        <seg>každý týden|každé :number týdny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>every year|every :number year</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142721Z" creationid="svetlemodry" creationdate="20170713T142721Z">
+        <seg>každý rok|každé :number roky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>everyday at %s</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163758Z" creationid="svetlemodry" creationdate="20151206T163758Z">
@@ -17370,6 +17442,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204304Z" creationid="svetlemodry" creationdate="20141219T204228Z">
         <seg>offline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>on</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142839Z" creationid="svetlemodry" creationdate="20170713T142839Z">
+        <seg>v</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>on :date</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142808Z" creationid="svetlemodry" creationdate="20170713T142808Z">
+        <seg>:date</seg>
       </tuv>
     </tu>
     <tu>
@@ -17690,6 +17778,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204140Z" creationid="svetlemodry" creationdate="20141219T204140Z">
         <seg>čekám…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>week</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143120Z" creationid="svetlemodry" creationdate="20170713T143120Z">
+        <seg>týdně</seg>
       </tuv>
     </tu>
     <tu>
