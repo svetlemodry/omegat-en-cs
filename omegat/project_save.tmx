@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;laquo; Previous</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T083920Z" creationid="svetlemodry" creationdate="20170713T083920Z">
+        <seg>&amp;laquo; Předchozí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'%1$s' exists.\nOverwrite it?"</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064313Z" creationid="svetlemodry" creationdate="20150310T064313Z">
@@ -1178,6 +1186,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110010Z" creationid="svetlemodry" creationdate="20150208T105951Z">
         <seg>Přidat stopu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add, view, complete, and change information about this contact:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084225Z" creationid="svetlemodry" creationdate="20170713T084225Z">
+        <seg>Přidat, zobrazit, dodat a změnit informace k této osobě:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5062,6 +5078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FOR:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084045Z" creationid="svetlemodry" creationdate="20170713T084045Z">
+        <seg>PRO:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204558Z" creationid="svetlemodry" creationdate="20141219T204558Z">
@@ -5618,6 +5642,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143347Z" creationid="svetlemodry" creationdate="20150309T143347Z">
         <seg>Pomoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hi :username</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084026Z" creationid="svetlemodry" creationdate="20170713T084026Z">
+        <seg>Ahoj :username</seg>
       </tuv>
     </tu>
     <tu>
@@ -7506,6 +7538,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204444Z" creationid="svetlemodry" creationdate="20141219T204444Z">
         <seg>Další</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;raquo;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T083926Z" creationid="svetlemodry" creationdate="20170713T083926Z">
+        <seg>Další &amp;raquo;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9522,6 +9562,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171307Z" creationid="svetlemodry" creationdate="20150328T171307Z">
         <seg>Pamatovat si schránku navždy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reminder for :contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084007Z" creationid="svetlemodry" creationdate="20170713T084007Z">
+        <seg>Připomínka pro :contact</seg>
       </tuv>
     </tu>
     <tu>
@@ -13682,6 +13730,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110115Z" creationid="svetlemodry" creationdate="20161016T110115Z">
         <seg>XPUB nebo bitcoin adresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YOU WANTED TO BE REMINDED OF</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084040Z" creationid="svetlemodry" creationdate="20170713T084040Z">
+        <seg>CHTĚLI JSTE BÝT UPOZORNĚNI NA</seg>
       </tuv>
     </tu>
     <tu>
