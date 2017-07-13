@@ -5750,6 +5750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Food preferences have been saved</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T141235Z" creationid="svetlemodry" creationdate="20170713T141235Z">
+        <seg>Informace o oblíbených potravinách uloženy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For each day, you can specify whether something has occurred or not.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110328Z" creationid="svetlemodry" creationdate="20150208T110328Z">
@@ -9746,6 +9754,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114128Z" creationid="svetlemodry" creationdate="20150104T114128Z">
         <seg>Provést akci s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Perhaps :firstname or someone in the :family's family has an allergy.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T141547Z" creationid="svetlemodry" creationdate="20170713T141427Z">
+        <seg>Možná má :firstname nebo někdo z rodiny :family alergii.</seg>
       </tuv>
     </tu>
     <tu>
