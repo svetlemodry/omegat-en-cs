@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to delete the tag?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T134307Z" creationid="svetlemodry" creationdate="20170713T134307Z">
+        <seg>Opravdu chcete smazat tento tag?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to delete this entry?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105043Z" creationid="svetlemodry" creationdate="20161016T105043Z">
@@ -5894,6 +5902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to a contact and tag a friend, right below the name.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T134536Z" creationid="svetlemodry" creationdate="20170713T134536Z">
+        <seg>Přejděte na kontakt a otagujte přitele hned pod jeho jménem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to bookmark</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200249Z" creationid="svetlemodry" creationdate="20160120T200249Z">
@@ -8418,6 +8434,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212328Z" creationid="svetlemodry" creationdate="20141219T204154Z">
         <seg>Žádné připojení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No contacts will be deleted, only the tag.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T134329Z" creationid="svetlemodry" creationdate="20170713T134329Z">
+        <seg>Bude smazán pouze vybraný tag, žádné kontakty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12694,6 +12718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tags are a great way of categorizing your contacts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T134438Z" creationid="svetlemodry" creationdate="20170713T134438Z">
+        <seg>Tagy jsou šikovné řešení kategorizace kontaktů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tags management</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T114758Z" creationid="svetlemodry" creationdate="20170713T114758Z">
@@ -13538,6 +13570,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204434Z" creationid="svetlemodry" creationdate="20141219T204434Z">
         <seg>Server odmítl toto zveřejnění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tag has been successfully with success</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T134242Z" creationid="svetlemodry" creationdate="20170713T134242Z">
+        <seg>Tag byl úspěšně smazán</seg>
       </tuv>
     </tu>
     <tu>
