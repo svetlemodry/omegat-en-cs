@@ -12286,6 +12286,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The :attribute field does not exist in :other.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095655Z" creationid="svetlemodry" creationdate="20170713T095655Z">
+        <seg>Pole :attribute neexistuje v :other.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute field has a duplicate value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095419Z" creationid="svetlemodry" creationdate="20170713T095419Z">
+        <seg>Pole :attribute obsahuje duplicitní hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute field is required.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095516Z" creationid="svetlemodry" creationdate="20170713T095516Z">
+        <seg>Pole :attribute je vyžadováno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The :attribute field must be true or false.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095014Z" creationid="svetlemodry" creationdate="20170713T095014Z">
@@ -12306,6 +12330,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095055Z" creationid="svetlemodry" creationdate="20170713T095055Z">
         <seg>:attribute není platné datum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute may not be greater than :max.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095848Z" creationid="svetlemodry" creationdate="20170713T095848Z">
+        <seg>:attribute nesmí být vyšší než :max.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12358,6 +12390,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The :attribute must be a valid IP address.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095755Z" creationid="svetlemodry" creationdate="20170713T095755Z">
+        <seg>:attribute musí být platná IP adresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be a valid JSON string.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095829Z" creationid="svetlemodry" creationdate="20170713T095829Z">
+        <seg>:attribute musí být platný JSON řetětec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be a valid email address.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095438Z" creationid="svetlemodry" creationdate="20170713T095438Z">
+        <seg>:attribute musí být platná emailová adresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The :attribute must be accepted.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093913Z" creationid="svetlemodry" creationdate="20170713T093913Z">
@@ -12370,6 +12426,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094513Z" creationid="svetlemodry" creationdate="20170713T094513Z">
         <seg>:attribute musí být proměnná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be an image.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095530Z" creationid="svetlemodry" creationdate="20170713T095530Z">
+        <seg>:attribute musí být obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be an integer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095739Z" creationid="svetlemodry" creationdate="20170713T095739Z">
+        <seg>:attribute musí být celé číslo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12586,6 +12658,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110712Z" creationid="svetlemodry" creationdate="20161016T110712Z">
         <seg>Navrhovaná hesla se neshodují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected :attribute is invalid.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095600Z" creationid="svetlemodry" creationdate="20170713T095501Z">
+        <seg>Vybraný :attribute není platný.</seg>
       </tuv>
     </tu>
     <tu>
