@@ -2462,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Charge my card $:price every month</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131946Z" creationid="svetlemodry" creationdate="20170713T131946Z">
+        <seg>Strhněte z mé karty $:price každý měsíc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check image file size</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204545Z" creationid="svetlemodry" creationdate="20141219T204545Z">
@@ -6150,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you will not be refunded for the current month.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131915Z" creationid="svetlemodry" creationdate="20170713T131915Z">
+        <seg>Platba za aktuální měsíc ale nebude vracena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I confirm that I want to invite this user to my account.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125521Z" creationid="svetlemodry" creationdate="20170713T125521Z">
@@ -6330,6 +6346,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070238Z" creationid="svetlemodry" creationdate="20150310T070238Z">
         <seg>Import kompletní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import contacts in your account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132052Z" creationid="svetlemodry" creationdate="20170713T132052Z">
+        <seg>Importovat kontakty do svého účtu</seg>
       </tuv>
     </tu>
     <tu>
@@ -14430,6 +14454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Upload contacts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132100Z" creationid="svetlemodry" creationdate="20170713T132100Z">
+        <seg>Nahrát kontakty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Upload journal</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170923Z" creationid="svetlemodry" creationdate="20151208T170923Z">
@@ -15014,6 +15046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you cancel, you will never be charged again.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131847Z" creationid="svetlemodry" creationdate="20170713T131847Z">
+        <seg>Pokud účet zrušíte, nebudete již dále platit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Where are your artist folders?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182557Z" creationid="svetlemodry" creationdate="20150201T182557Z">
@@ -15462,6 +15502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can upgrade, downgrade, or cancel any time.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131734Z" creationid="svetlemodry" creationdate="20170713T131734Z">
+        <seg>Účet můžete kdykoliv povýšit, snížit nebo zrušit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can't have two accounts with the same name.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151351Z" creationid="svetlemodry" creationdate="20150309T151351Z">
@@ -15626,6 +15674,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T104057Z" creationid="svetlemodry" creationdate="20161016T104057Z">
         <seg>Toto bezpečnostní heslo nebude třeba pro přístup k peněžence na tomto přístroji, ale pro případné pozdější obnovení nebo import peněženky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your :name monthly subscription</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132026Z" creationid="svetlemodry" creationdate="20170713T132026Z">
+        <seg>Váš měsíční plán :name</seg>
       </tuv>
     </tu>
     <tu>
