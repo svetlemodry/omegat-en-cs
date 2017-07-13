@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>:count contacts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133536Z" creationid="svetlemodry" creationdate="20170713T133536Z">
+        <seg>:count kontaktů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Warning:&lt;/b0&gt; Sending this without mutual presence updates could cause unexpected problems.\n\n&lt;s1&gt;Go to contact details to verify your presence subscriptions.&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211646Z" creationid="svetlemodry" creationdate="20141219T211646Z">
@@ -3066,6 +3074,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204426Z" creationid="svetlemodry" creationdate="20141219T204426Z">
         <seg>Kontakt přidán do seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact already exists</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133145Z" creationid="svetlemodry" creationdate="20170713T133145Z">
+        <seg>Kontakt již existuje</seg>
       </tuv>
     </tu>
     <tu>
@@ -6422,10 +6438,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Import vCard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133346Z" creationid="svetlemodry" creationdate="20170713T133346Z">
+        <seg>Importovat vCard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import your contacts from a vCard file</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132413Z" creationid="svetlemodry" creationdate="20170713T132413Z">
         <seg>Importovat kontakty z vCard souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Imported</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133127Z" creationid="svetlemodry" creationdate="20170713T133127Z">
+        <seg>Importováno</seg>
       </tuv>
     </tu>
     <tu>
@@ -8414,6 +8446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No firstname (mandatory)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133200Z" creationid="svetlemodry" creationdate="20170713T133200Z">
+        <seg>Chybí jméno (vyžadováno)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No groups have been found.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160223T172132Z" creationid="svetlemodry" creationdate="20160223T172132Z">
@@ -8650,6 +8690,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110110Z" creationid="svetlemodry" creationdate="20150208T110110Z">
         <seg>Počet událostí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of skipped contacts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133122Z" creationid="svetlemodry" creationdate="20170713T133122Z">
+        <seg>Počet přeskočených kontaktů</seg>
       </tuv>
     </tu>
     <tu>
@@ -12070,6 +12118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skipped</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133133Z" creationid="svetlemodry" creationdate="20170713T133133Z">
+        <seg>Přeskočeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sleep timer</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091112Z" creationid="svetlemodry" creationdate="20160626T091112Z">
@@ -12642,6 +12698,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T114758Z" creationid="svetlemodry" creationdate="20170713T114758Z">
         <seg>Správa tagů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags work like folders, but you can add more than one tag to a contact.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133448Z" creationid="svetlemodry" creationdate="20170713T133448Z">
+        <seg>Tagy fungují jako adresáře, kontaktům můžete ale přidat vícero tagů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13942,6 +14006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a new tag, add it on the contact itself.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133528Z" creationid="svetlemodry" creationdate="20170713T133528Z">
+        <seg>Nový tag přidáte úpravou vlastního kontaktu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To date:</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171916Z" creationid="svetlemodry" creationdate="20150328T171911Z">
@@ -15030,6 +15102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We can import vCard files that you can get from Google Contacts or your Contact manager.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133342Z" creationid="svetlemodry" creationdate="20170713T133342Z">
+        <seg>Umíme importovat soubory vCard, které můžete získat z Google Contacts nebo svého správce kontaktů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We can't find a user with that e-mail address.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084617Z" creationid="svetlemodry" creationdate="20170713T084617Z">
@@ -15314,6 +15394,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112146Z" creationid="svetlemodry" creationdate="20150104T112146Z">
         <seg>Chcete zablokovat příjem zpráv od %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Would you like to import contacts now?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133248Z" creationid="svetlemodry" creationdate="20170713T133248Z">
+        <seg>Chcete nyní importovat kontakty?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15622,6 +15710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can organize your contacts by setting up tags.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133408Z" creationid="svetlemodry" creationdate="20170713T133408Z">
+        <seg>Své kontakty můžete organizovat pomocí tagů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can return to your bookmark from overview mode.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200332Z" creationid="svetlemodry" creationdate="20160120T200332Z">
@@ -15746,6 +15842,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183353Z" creationid="svetlemodry" creationdate="20151003T183353Z">
         <seg>Je třeba zadat informaci o serveru před vlastní synchronizací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You haven't imported any contacts yet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133217Z" creationid="svetlemodry" creationdate="20170713T133217Z">
+        <seg>Zatím jste neimportovali žádné kontakty.</seg>
       </tuv>
     </tu>
     <tu>
