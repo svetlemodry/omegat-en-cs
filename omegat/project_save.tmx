@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add a journal entry</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085259Z" creationid="svetlemodry" creationdate="20170713T085259Z">
+        <seg>Přidat deníkový záznam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add a new XPUB or bitcoin address to begin tracking.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110548Z" creationid="svetlemodry" creationdate="20161016T110548Z">
@@ -1934,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back to homepage</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084834Z" creationid="svetlemodry" creationdate="20170713T084834Z">
+        <seg>Zpět na domovskou stránku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backup</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171935Z" creationid="svetlemodry" creationdate="20150328T171935Z">
@@ -2178,6 +2194,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150748Z" creationid="svetlemodry" creationdate="20150309T150748Z">
         <seg>Interval synchronizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085144Z" creationid="svetlemodry" creationdate="20170713T085144Z">
+        <seg>Zavolat</seg>
       </tuv>
     </tu>
     <tu>
@@ -5598,6 +5622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hangout with</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085157Z" creationid="svetlemodry" creationdate="20170713T085157Z">
+        <seg>Setkání s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Haptic feedback</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210549Z" creationid="svetlemodry" creationdate="20151115T210549Z">
@@ -6818,6 +6850,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T150455Z" creationid="svetlemodry" creationdate="20151206T150455Z">
         <seg>Nejnižší</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lunch with</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085148Z" creationid="svetlemodry" creationdate="20170713T085148Z">
+        <seg>Oběd s</seg>
       </tuv>
     </tu>
     <tu>
@@ -9554,6 +9594,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204154Z" creationid="svetlemodry" creationdate="20141219T204154Z">
         <seg>Registrace selhala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Registration is currently disabled</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084824Z" creationid="svetlemodry" creationdate="20170713T084824Z">
+        <seg>Nové registrace jsou aktuálně zastaveny</seg>
       </tuv>
     </tu>
     <tu>
@@ -13658,6 +13706,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080824Z" creationid="svetlemodry" creationdate="20161016T080824Z">
         <seg>Smazat peněženku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wish happy birthday to</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085130Z" creationid="svetlemodry" creationdate="20170713T085130Z">
+        <seg>Popřát k narozeninám</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wish happy birthday to the kid of</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085234Z" creationid="svetlemodry" creationdate="20170713T085234Z">
+        <seg>Popřát k narozeninám dítěti od</seg>
       </tuv>
     </tu>
     <tu>
