@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activities</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090446Z" creationid="svetlemodry" creationdate="20170713T090446Z">
+        <seg>Aktivity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204037Z" creationid="svetlemodry" creationdate="20141219T204037Z">
@@ -1066,6 +1074,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110548Z" creationid="svetlemodry" creationdate="20161016T110548Z">
         <seg>Přidat novou XPUB či bitcoin adresu pro její sledování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add a user</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090631Z" creationid="svetlemodry" creationdate="20170713T090631Z">
+        <seg>Přidat uživatele</seg>
       </tuv>
     </tu>
     <tu>
@@ -1154,6 +1170,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203522Z" creationid="svetlemodry" creationdate="20160629T203522Z">
         <seg>Add other expenditure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add people</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090426Z" creationid="svetlemodry" creationdate="20170713T090426Z">
+        <seg>Přidat osobu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,6 +1618,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180226Z" creationid="svetlemodry" creationdate="20150119T180226Z">
         <seg>Aplikace pro Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any remarks?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090516Z" creationid="svetlemodry" creationdate="20170713T090516Z">
+        <seg>Další poznámky?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6374,6 +6406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Journal</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090442Z" creationid="svetlemodry" creationdate="20170713T090442Z">
+        <seg>Deník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jump Back</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182658Z" creationid="svetlemodry" creationdate="20150201T182658Z">
@@ -6646,6 +6686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List of contacts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090615Z" creationid="svetlemodry" creationdate="20170713T090615Z">
+        <seg>Seznam kontaktů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Listen system clipboard in background.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171210Z" creationid="svetlemodry" creationdate="20150328T171210Z">
@@ -6794,6 +6842,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151520Z" creationid="svetlemodry" creationdate="20150309T145615Z">
         <seg>Přihlášení s emailovou adresou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Logout</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090407Z" creationid="svetlemodry" creationdate="20170713T090407Z">
+        <seg>Odhlásit</seg>
       </tuv>
     </tu>
     <tu>
@@ -7266,6 +7322,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190313Z" creationid="svetlemodry" creationdate="20150112T190313Z">
         <seg>Nastavení konference upravena!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monica on GitHub</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090554Z" creationid="svetlemodry" creationdate="20170713T090554Z">
+        <seg>Monica na GitHubu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8694,6 +8758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>People</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090437Z" creationid="svetlemodry" creationdate="20170713T090437Z">
+        <seg>Osoby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Per-app settings</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185539Z" creationid="svetlemodry" creationdate="20151003T185539Z">
@@ -9222,6 +9294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Privacy policy</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090537Z" creationid="svetlemodry" creationdate="20170713T090537Z">
+        <seg>Podmínky používání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Private (Members only)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190246Z" creationid="svetlemodry" creationdate="20150112T190246Z">
@@ -9626,6 +9706,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084824Z" creationid="svetlemodry" creationdate="20170713T084824Z">
         <seg>Nové registrace jsou aktuálně zastaveny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Release notes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090545Z" creationid="svetlemodry" creationdate="20170713T090545Z">
+        <seg>Poznámky k vydání</seg>
       </tuv>
     </tu>
     <tu>
@@ -10506,6 +10594,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195428Z" creationid="svetlemodry" creationdate="20151115T195428Z">
         <seg>Odeslat email s…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send me an email</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090524Z" creationid="svetlemodry" creationdate="20170713T090524Z">
+        <seg>Pošli mi email</seg>
       </tuv>
     </tu>
     <tu>
@@ -11950,6 +12046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090459Z" creationid="svetlemodry" creationdate="20170713T090459Z">
+        <seg>Úkoly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Temporarily disable</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204157Z" creationid="svetlemodry" creationdate="20141219T204157Z">
@@ -12782,6 +12886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trash</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090503Z" creationid="svetlemodry" creationdate="20170713T090503Z">
+        <seg>Koš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Trust this certificate</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124605Z" creationid="svetlemodry" creationdate="20160626T124605Z">
@@ -13094,6 +13206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090354Z" creationid="svetlemodry" creationdate="20170713T090354Z">
+        <seg>Aktualizovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Update interval for notifications</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204027Z" creationid="svetlemodry" creationdate="20151115T204027Z">
@@ -13138,6 +13258,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112615Z" creationid="svetlemodry" creationdate="20150104T112615Z">
         <seg>Aktualizuji...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upload</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090402Z" creationid="svetlemodry" creationdate="20170713T090402Z">
+        <seg>Nahrát</seg>
       </tuv>
     </tu>
     <tu>
@@ -13310,6 +13438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090625Z" creationid="svetlemodry" creationdate="20170713T090625Z">
+        <seg>Uživatelé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VCard 4.0 support</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150517T093951Z" creationid="svetlemodry" creationdate="20150517T093951Z">
@@ -13370,6 +13506,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T123120Z" creationid="svetlemodry" creationdate="20160626T123120Z">
         <seg>Verze: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version: :version</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090600Z" creationid="svetlemodry" creationdate="20170713T090600Z">
+        <seg>Verze: :version</seg>
       </tuv>
     </tu>
     <tu>
