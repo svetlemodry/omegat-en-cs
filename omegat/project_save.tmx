@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure to delete this user from your account?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130138Z" creationid="svetlemodry" creationdate="20170713T130138Z">
+        <seg>Opravdu chcete smazat tohoto uživatele z tohoto účtu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure to delete your account?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123327Z" creationid="svetlemodry" creationdate="20170713T123327Z">
@@ -1786,6 +1794,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T125046Z" creationid="svetlemodry" creationdate="20151101T125046Z">
         <seg>Opravdu si přejete smazat tuto skupinu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to delete this invitation?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130113Z" creationid="svetlemodry" creationdate="20170713T130113Z">
+        <seg>Opravdu chcete smazat tuto pozvánku?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6586,6 +6602,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171522Z" creationid="svetlemodry" creationdate="20150328T171522Z">
         <seg>Umí zobrazit historii schránky v upozorněních.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It costs $:price every month.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130300Z" creationid="svetlemodry" creationdate="20170713T130300Z">
+        <seg>Měsíční náklady $:price.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13126,6 +13150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The invitation has been successfully deleted</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130055Z" creationid="svetlemodry" creationdate="20170713T130055Z">
+        <seg>Pozvánka byla úspěšně smazána</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The journal entry has been successfully deleted.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085317Z" creationid="svetlemodry" creationdate="20170713T085317Z">
@@ -15222,6 +15254,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are on the :name plan.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130233Z" creationid="svetlemodry" creationdate="20170713T130233Z">
+        <seg>Využíváte plán :name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are on the free plan.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130439Z" creationid="svetlemodry" creationdate="20170713T130439Z">
+        <seg>Využíváte bezplatnou verzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are the only one who has access to this account.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123843Z" creationid="svetlemodry" creationdate="20170713T123843Z">
@@ -15234,6 +15282,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190023Z" creationid="svetlemodry" creationdate="20150112T185923Z">
         <seg>Pokoušíte se vyhodit %s z veřejné konference.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can &lt;a href=":url"&gt;cancel subscription&lt;/a&gt; anytime.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130419Z" creationid="svetlemodry" creationdate="20170713T130419Z">
+        <seg>Odběr můžete &lt;a href=":url"&gt;zrušit&lt;/a&gt; kdykoliv.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15282,6 +15338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124627Z" creationid="svetlemodry" creationdate="20160626T124627Z">
         <seg>Můžete vozidlo uspat, pokud ho již nepoužíváte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can upgrade your account to the :name plan, which costs $:price per month.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130529Z" creationid="svetlemodry" creationdate="20170713T130529Z">
+        <seg>Svůj účet můžete povýšit na verzi :name, která měsíčně stojí $:price.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15486,6 +15550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your current plan</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130149Z" creationid="svetlemodry" creationdate="20170713T130149Z">
+        <seg>Aktuální plán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your fingerprint</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204346Z" creationid="svetlemodry" creationdate="20141219T204346Z">
@@ -15554,6 +15626,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T113800Z" creationid="svetlemodry" creationdate="20150104T113800Z">
         <seg>Společně tajemství nemůže být nevyplněno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your subscription will auto-renew on &lt;strong&gt;:date&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130339Z" creationid="svetlemodry" creationdate="20170713T130339Z">
+        <seg>K automatickému obnovení dojde &lt;strong&gt;:date&lt;/strong&gt;.</seg>
       </tuv>
     </tu>
     <tu>
