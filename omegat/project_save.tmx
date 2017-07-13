@@ -3406,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Credit or debit card</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131528Z" creationid="svetlemodry" creationdate="20170713T131528Z">
+        <seg>Kreditní nebo debetní karta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Crypto</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184310Z" creationid="svetlemodry" creationdate="20151003T184310Z">
@@ -4266,6 +4274,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204526Z" creationid="svetlemodry" creationdate="20141219T204526Z">
         <seg>Neukládat šifrované zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downgrade</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131219Z" creationid="svetlemodry" creationdate="20170713T131219Z">
+        <seg>Přejít</seg>
       </tuv>
     </tu>
     <tu>
@@ -7734,6 +7750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Monica uses &lt;a href="https://stripe.com"&gt;Stripe&lt;/a&gt; to process your payments securely.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131353Z" creationid="svetlemodry" creationdate="20170713T131353Z">
+        <seg>Monica používá &lt;a href="https://stripe.com"&gt;Stripe&lt;/a&gt; k bezpečnému zpracování plateb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Month(s)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T123051Z" creationid="svetlemodry" creationdate="20160626T123051Z">
@@ -8266,6 +8290,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212328Z" creationid="svetlemodry" creationdate="20141219T204154Z">
         <seg>Žádné připojení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No credit card information are stored on our servers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131518Z" creationid="svetlemodry" creationdate="20170713T131518Z">
+        <seg>Na našem serveru nejsou ukládány žádné informace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9450,6 +9482,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T125644Z" creationid="svetlemodry" creationdate="20160626T125644Z">
         <seg>Zadejte prosím URL ke speciálnímu adresáři pro Car Report na vlastním WebDAV serveru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your card details below.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131321Z" creationid="svetlemodry" creationdate="20170713T131321Z">
+        <seg>Vložte prosím níže údaje své platební karty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15438,6 +15478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You currently have &lt;a href="/settings/users/invitations"&gt;:count pending invitations&lt;/a&gt; sent to people.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131208Z" creationid="svetlemodry" creationdate="20170713T131208Z">
+        <seg>Aktuálně máte &lt;a href="/settings/users/invitations"&gt;:count čekající pozvánky&lt;/a&gt; odeslané uživatelům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You currently have &lt;a href=":url"&gt;:count users&lt;/a&gt; in your account.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131037Z" creationid="svetlemodry" creationdate="20170713T131037Z">
@@ -15506,6 +15554,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131006Z" creationid="svetlemodry" creationdate="20170713T131006Z">
         <seg>Smíte mít pouze jednoho uživatele účtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must not have pending invitations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131104Z" creationid="svetlemodry" creationdate="20170713T131104Z">
+        <seg>Nesmíte mít čekající pozvánky</seg>
       </tuv>
     </tu>
     <tu>
@@ -15610,6 +15666,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123309Z" creationid="svetlemodry" creationdate="20170713T123309Z">
         <seg>Účet byl úspěšně zresetován</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your account will be instantly updated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T131556Z" creationid="svetlemodry" creationdate="20170713T131556Z">
+        <seg>Váš účet bude okamžitě aktualizován.</seg>
       </tuv>
     </tu>
     <tu>
