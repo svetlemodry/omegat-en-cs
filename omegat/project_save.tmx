@@ -1734,6 +1734,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure to delete your account?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123327Z" creationid="svetlemodry" creationdate="20170713T123327Z">
+        <seg>Opravdu chcete smazat svůj účet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure to reset your account?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123221Z" creationid="svetlemodry" creationdate="20170713T123221Z">
+        <seg>Opravdu chcete resetovat svůj účet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to clear all?\nStarred items will be retained.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171714Z" creationid="svetlemodry" creationdate="20150328T171714Z">
@@ -4152,8 +4168,16 @@
       <tuv lang="EN">
         <seg>Do you wish to delete your account?</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122749Z" creationid="svetlemodry" creationdate="20170713T122749Z">
-        <seg>Chcete opravdu smazat tento účet?</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123048Z" creationid="svetlemodry" creationdate="20170713T122749Z">
+        <seg>Opravdu chcete smazat tento účet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you wish to reset your account?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123037Z" creationid="svetlemodry" creationdate="20170713T123037Z">
+        <seg>Opravdu chcete resetovat svůj účet?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4682,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204533Z" creationid="svetlemodry" creationdate="20141219T204533Z">
         <seg>Dokdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123405Z" creationid="svetlemodry" creationdate="20170713T123405Z">
+        <seg>Angličtina</seg>
       </tuv>
     </tu>
     <tu>
@@ -5466,6 +5498,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204525Z" creationid="svetlemodry" creationdate="20141219T204525Z">
         <seg>Vynutit šifrování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123411Z" creationid="svetlemodry" creationdate="20170713T123411Z">
+        <seg>Francouzština</seg>
       </tuv>
     </tu>
     <tu>
@@ -6486,6 +6526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invite a new user</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123454Z" creationid="svetlemodry" creationdate="20170713T123454Z">
+        <seg>Pozvat nového uživatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can show clipboard history in notification.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171522Z" creationid="svetlemodry" creationdate="20150328T171522Z">
@@ -6722,6 +6770,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090214Z" creationid="svetlemodry" creationdate="20160626T090214Z">
         <seg>Jazyk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language used in the app</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123359Z" creationid="svetlemodry" creationdate="20170713T123359Z">
+        <seg>Jazyk použitý v aplikaci</seg>
       </tuv>
     </tu>
     <tu>
@@ -9022,6 +9078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pending invitations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123527Z" creationid="svetlemodry" creationdate="20170713T123527Z">
+        <seg>Čekající pozvánky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>People</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090437Z" creationid="svetlemodry" creationdate="20170713T090437Z">
@@ -9438,6 +9502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123417Z" creationid="svetlemodry" creationdate="20170713T123417Z">
+        <seg>Portugalština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pre-emptive authentication</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150256Z" creationid="svetlemodry" creationdate="20150309T150256Z">
@@ -9474,6 +9546,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080501Z" creationid="svetlemodry" creationdate="20161016T080501Z">
         <seg>Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences updated!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123345Z" creationid="svetlemodry" creationdate="20170713T123345Z">
+        <seg>Předvolby aktualizovány!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10206,6 +10286,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123201Z" creationid="svetlemodry" creationdate="20170713T123201Z">
+        <seg>Resetovat účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset your account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123155Z" creationid="svetlemodry" creationdate="20170713T123147Z">
+        <seg>Resetovat vlastní účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Respond</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204558Z" creationid="svetlemodry" creationdate="20141219T204558Z">
@@ -10362,6 +10458,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183235Z" creationid="svetlemodry" creationdate="20151003T183235Z">
         <seg>Příkaz běží...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123422Z" creationid="svetlemodry" creationdate="20170713T123422Z">
+        <seg>Ruština</seg>
       </tuv>
     </tu>
     <tu>
@@ -12422,6 +12526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That's you</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123504Z" creationid="svetlemodry" creationdate="20170713T123504Z">
+        <seg>To jsi ty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The :attribute and :other must be different.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095126Z" creationid="svetlemodry" creationdate="20170713T095126Z">
@@ -13078,6 +13190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no turning back.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123236Z" creationid="svetlemodry" creationdate="20170713T123236Z">
+        <seg>Poté nebude cesty zpět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There was an error creating a wallet from your XPUBs/bitcoin addresses.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105204Z" creationid="svetlemodry" creationdate="20161016T105204Z">
@@ -13330,6 +13450,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T191306Z" creationid="svetlemodry" creationdate="20151003T184258Z">
         <seg>Toto neodstraní vaše nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will remove all your contacts, and the data associated with them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123124Z" creationid="svetlemodry" creationdate="20170713T123124Z">
+        <seg>Toto odstraní všechny kontakty a jejich související data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14210,6 +14338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090625Z" creationid="svetlemodry" creationdate="20170713T090625Z">
         <seg>Uživatelé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users with access to your account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123446Z" creationid="svetlemodry" creationdate="20170713T123446Z">
+        <seg>Uživatelé s přístupem k tomuto účtu</seg>
       </tuv>
     </tu>
     <tu>
@@ -15170,6 +15306,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204149Z" creationid="svetlemodry" creationdate="20141219T204149Z">
         <seg>Váš účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your account has been reset successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123309Z" creationid="svetlemodry" creationdate="20170713T123309Z">
+        <seg>Účet byl úspěšně zresetován</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your account won't be deleted.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123137Z" creationid="svetlemodry" creationdate="20170713T123137Z">
+        <seg>Účet nebude smazán.</seg>
       </tuv>
     </tu>
     <tu>
