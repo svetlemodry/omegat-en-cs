@@ -3790,6 +3790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delete your account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122729Z" creationid="svetlemodry" creationdate="20170713T122722Z">
+        <seg>Smazat účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleted.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171038Z" creationid="svetlemodry" creationdate="20150328T171038Z">
@@ -4142,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you wish to delete your account?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122749Z" creationid="svetlemodry" creationdate="20170713T122749Z">
+        <seg>Chcete opravdu smazat tento účet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Does not rely on the clipboard for Android versions 5.0 and up.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190536Z" creationid="svetlemodry" creationdate="20151003T190512Z">
@@ -4454,6 +4470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Email address</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122524Z" creationid="svetlemodry" creationdate="20170713T122524Z">
+        <seg>Emailová adresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Email address:</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T151144Z" creationid="svetlemodry" creationdate="20150309T151144Z">
@@ -4690,6 +4714,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152532Z" creationid="svetlemodry" creationdate="20151206T152532Z">
         <seg>Zadat jas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter email</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122531Z" creationid="svetlemodry" creationdate="20170713T122531Z">
+        <seg>Vložit email</seg>
       </tuv>
     </tu>
     <tu>
@@ -5546,6 +5578,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T131117Z" creationid="svetlemodry" creationdate="20151101T131117Z">
         <seg>Celá obrazovka právě hraje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full width of the browser</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122651Z" creationid="svetlemodry" creationdate="20170713T122651Z">
+        <seg>Plná šířka prohlížeče</seg>
       </tuv>
     </tu>
     <tu>
@@ -6774,6 +6814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Layout</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122622Z" creationid="svetlemodry" creationdate="20170713T122622Z">
+        <seg>Vzhled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Leave</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204425Z" creationid="svetlemodry" creationdate="20141219T204425Z">
@@ -7290,6 +7338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151126T195118Z" creationid="svetlemodry" creationdate="20151126T195118Z">
         <seg>Maximální počet zpráv pro odeslání na synchronizaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum 1200 pixels wide</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122639Z" creationid="svetlemodry" creationdate="20170713T122639Z">
+        <seg>Maximálně 1200 pixelů široký</seg>
       </tuv>
     </tu>
     <tu>
@@ -13190,6 +13246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the email used to login, and this is where you'll receive your reminders.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122609Z" creationid="svetlemodry" creationdate="20170713T122609Z">
+        <seg>Tento email bude použit pro přihlašování a budete na něj dostávat svá upozornění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This might take some time, relax…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T191513Z" creationid="svetlemodry" creationdate="20151115T191513Z">
@@ -13338,6 +13402,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204632Z" creationid="svetlemodry" creationdate="20151113T204632Z">
         <seg>Čas zpoždění před první kontrolou (sekundy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Timezone</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122616Z" creationid="svetlemodry" creationdate="20170713T122616Z">
+        <seg>Časová zóna</seg>
       </tuv>
     </tu>
     <tu>
@@ -13926,6 +13998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Update preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122704Z" creationid="svetlemodry" creationdate="20170713T122704Z">
+        <seg>Aktualizovat předvolby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Update the password according to your server.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150228Z" creationid="svetlemodry" creationdate="20150309T150228Z">
@@ -14370,6 +14450,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204527Z" creationid="svetlemodry" creationdate="20141219T204527Z">
         <seg>Varování: Toto může vést ke ztrátě zpráv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: deletion is permanent and all your data will be erased permamently.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123010Z" creationid="svetlemodry" creationdate="20170713T123010Z">
+        <seg>Varování: smazání účtu je trvalé a všechna data účtu budou trvale vymazána.</seg>
       </tuv>
     </tu>
     <tu>
