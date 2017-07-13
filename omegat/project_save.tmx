@@ -1150,6 +1150,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add a note</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145618Z" creationid="svetlemodry" creationdate="20170713T145618Z">
+        <seg>Přidat poznámku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add a note about :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145533Z" creationid="svetlemodry" creationdate="20170713T145533Z">
+        <seg>Přidat poznámku k :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add a reminder</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142225Z" creationid="svetlemodry" creationdate="20170713T142225Z">
@@ -1198,10 +1214,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add an activity</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145329Z" creationid="svetlemodry" creationdate="20170713T145329Z">
+        <seg>Přidat aktivitu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add another child</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143618Z" creationid="svetlemodry" creationdate="20170713T143618Z">
         <seg>Přidat další dítě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add another note</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145611Z" creationid="svetlemodry" creationdate="20170713T145611Z">
+        <seg>Přidat další poznámku</seg>
       </tuv>
     </tu>
     <tu>
@@ -1282,6 +1314,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110552Z" creationid="svetlemodry" creationdate="20161016T110516Z">
         <seg>Přidat novou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add note</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145538Z" creationid="svetlemodry" creationdate="20170713T145538Z">
+        <seg>Přidat poznámku</seg>
       </tuv>
     </tu>
     <tu>
@@ -1970,6 +2010,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085617Z" creationid="svetlemodry" creationdate="20170713T085617Z">
         <seg>Opravdu chcete smazat tento deníkový záznam?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to delete this note?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145639Z" creationid="svetlemodry" creationdate="20170713T145639Z">
+        <seg>Opravdu chcete smazat tuto poznámku?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3894,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Date this activity occured</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145209Z" creationid="svetlemodry" creationdate="20170713T145209Z">
+        <seg>Datum, kdy došlo k aktivitě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date/Time</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063548Z" creationid="svetlemodry" creationdate="20150310T063548Z">
@@ -4866,6 +4922,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203958Z" creationid="svetlemodry" creationdate="20141219T203958Z">
         <seg>Upravit jméno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit note about :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145548Z" creationid="svetlemodry" creationdate="20170713T145548Z">
+        <seg>Upravit poznámku o :name</seg>
       </tuv>
     </tu>
     <tu>
@@ -7462,6 +7526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep track of what you've done with :name in the past, and what you've talked about</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145321Z" creationid="svetlemodry" creationdate="20170713T145321Z">
+        <seg>Udržujte informace o tom co jste dělali v minulosti společně s :name a o čem jste hovořili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep tracks of things you need to do for :name</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144155Z" creationid="svetlemodry" creationdate="20170713T144155Z">
@@ -9734,6 +9806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Optional comment</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145219Z" creationid="svetlemodry" creationdate="20170713T145219Z">
+        <seg>Volitelný komentář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or doesn't like a specific bottle of wine.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T141813Z" creationid="svetlemodry" creationdate="20170713T141626Z">
@@ -11046,6 +11126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Record activity</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145227Z" creationid="svetlemodry" creationdate="20170713T145227Z">
+        <seg>Zaznamenat aktivitu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Record voice</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204158Z" creationid="svetlemodry" creationdate="20141219T204158Z">
@@ -11730,6 +11818,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142111Z" creationid="svetlemodry" creationdate="20170713T142111Z">
         <seg>Uložit informace o potravinách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save note</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145554Z" creationid="svetlemodry" creationdate="20170713T145554Z">
+        <seg>Uložit poznámku</seg>
       </tuv>
     </tu>
     <tu>
@@ -14214,6 +14310,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The activity has been added successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145347Z" creationid="svetlemodry" creationdate="20170713T145347Z">
+        <seg>Aktivita byla úšpěšně přidána</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The activity has been deleted successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145434Z" creationid="svetlemodry" creationdate="20170713T145434Z">
+        <seg>Aktivita byla úspěšně smazána</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The activity has been updated successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145402Z" creationid="svetlemodry" creationdate="20170713T145402Z">
+        <seg>Aktivita byla úspěšně aktualizována</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The address of the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170509Z" creationid="svetlemodry" creationdate="20151208T170509Z">
@@ -14394,6 +14514,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204706Z" creationid="svetlemodry" creationdate="20141219T204143Z">
         <seg>Jméno se kterým se tento klient identifikuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The note has been created successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145452Z" creationid="svetlemodry" creationdate="20170713T145452Z">
+        <seg>Poznámka byla úspěšně vytvořena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The note has been deleted successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145518Z" creationid="svetlemodry" creationdate="20170713T145518Z">
+        <seg>Poznámka byla úspěšně smazána</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The note has been saved successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145505Z" creationid="svetlemodry" creationdate="20170713T145505Z">
+        <seg>Poznámka byla úspěšně uložena</seg>
       </tuv>
     </tu>
     <tu>
@@ -16574,6 +16718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Written on :date</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145603Z" creationid="svetlemodry" creationdate="20170713T145603Z">
+        <seg>Zapsána :date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wrong Tag.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143658Z" creationid="svetlemodry" creationdate="20151206T143658Z">
@@ -16962,6 +17114,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093032Z" creationid="svetlemodry" creationdate="20170713T093032Z">
         <seg>Nemám dluhy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You don't have to, but it will give you statistics later on</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145152Z" creationid="svetlemodry" creationdate="20170713T145152Z">
+        <seg>Nemusíte, později ale můžete získat statistiku</seg>
       </tuv>
     </tu>
     <tu>
@@ -17394,6 +17554,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110543Z" creationid="svetlemodry" creationdate="20150208T110543Z">
         <seg>\n\nTickmate je open source software, zveřejněný pod GPLv3 licencí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>about :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145625Z" creationid="svetlemodry" creationdate="20170713T145625Z">
+        <seg>k :name</seg>
       </tuv>
     </tu>
     <tu>
