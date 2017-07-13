@@ -3712,8 +3712,8 @@
       <tuv lang="EN">
         <seg>Country (optional)</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140450Z" creationid="svetlemodry" creationdate="20170713T140450Z">
-        <seg>Zemé (volitelné)</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174348Z" creationid="svetlemodry" creationdate="20170713T140450Z">
+        <seg>Země (volitelné)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6112,8 +6112,8 @@
       <tuv lang="EN">
         <seg>Food preferences</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142133Z" creationid="svetlemodry" creationdate="20170713T142133Z">
-        <seg>Upřednostňovanév potraviny</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174426Z" creationid="svetlemodry" creationdate="20170713T142133Z">
+        <seg>Upřednostňované potraviny</seg>
       </tuv>
     </tu>
     <tu>
@@ -7776,8 +7776,8 @@
       <tuv lang="EN">
         <seg>Last activity together: :date</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140206Z" creationid="svetlemodry" creationdate="20170713T140206Z">
-        <seg>Posledni společná aktivita: :date</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174323Z" creationid="svetlemodry" creationdate="20170713T140206Z">
+        <seg>Poslední společná aktivita: :date</seg>
       </tuv>
     </tu>
     <tu>
@@ -14048,8 +14048,8 @@
       <tuv lang="EN">
         <seg>That's you</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123504Z" creationid="svetlemodry" creationdate="20170713T123504Z">
-        <seg>To jsi ty</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174045Z" creationid="svetlemodry" creationdate="20170713T123504Z">
+        <seg>Toto jsi ty</seg>
       </tuv>
     </tu>
     <tu>
@@ -14336,8 +14336,8 @@
       <tuv lang="EN">
         <seg>The :attribute must be a valid JSON string.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095829Z" creationid="svetlemodry" creationdate="20170713T095829Z">
-        <seg>:attribute musí být platný JSON řetětec.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174027Z" creationid="svetlemodry" creationdate="20170713T095829Z">
+        <seg>:attribute musí být platný JSON řetězec.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16848,8 +16848,8 @@
       <tuv lang="EN">
         <seg>Wish happy birthday to :name</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135837Z" creationid="svetlemodry" creationdate="20170713T135837Z">
-        <seg>Popřát k narozeniním :name</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174247Z" creationid="svetlemodry" creationdate="20170713T135837Z">
+        <seg>Popřát k narozeninám :name</seg>
       </tuv>
     </tu>
     <tu>
