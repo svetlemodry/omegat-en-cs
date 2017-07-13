@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add a reminder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142225Z" creationid="svetlemodry" creationdate="20170713T142225Z">
+        <seg>Přidat upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add a user</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090631Z" creationid="svetlemodry" creationdate="20170713T090631Z">
@@ -1186,6 +1194,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070106Z" creationid="svetlemodry" creationdate="20150310T070106Z">
         <seg>Přidání selhalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add food preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142148Z" creationid="svetlemodry" creationdate="20170713T142148Z">
+        <seg>Přidat upřednostňované potraviny</seg>
       </tuv>
     </tu>
     <tu>
@@ -3590,6 +3606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom reminder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142334Z" creationid="svetlemodry" creationdate="20170713T142334Z">
+        <seg>Vlastní upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customize autofill settings for specific apps.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185646Z" creationid="svetlemodry" creationdate="20151003T185646Z">
@@ -5750,6 +5774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Food preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142133Z" creationid="svetlemodry" creationdate="20170713T142133Z">
+        <seg>Upřednostňovanév potraviny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Food preferences have been saved</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T141235Z" creationid="svetlemodry" creationdate="20170713T141235Z">
@@ -6970,6 +7002,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130814Z" creationid="svetlemodry" creationdate="20170713T130814Z">
         <seg>Faktury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is there something you want to be reminded of about :name?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142219Z" creationid="svetlemodry" creationdate="20170713T142219Z">
+        <seg>Je něco na co chcete být upozorňováni pro osobu :name?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10126,6 +10166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please remind me to...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142310Z" creationid="svetlemodry" creationdate="20170713T142310Z">
+        <seg>Prosím upozornit na...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please request presence updates from your contact first.\n\n&lt;s0&gt;This will be used to determine what client(s) your contact is using.&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211924Z" creationid="svetlemodry" creationdate="20141219T204502Z">
@@ -10258,6 +10306,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140432Z" creationid="svetlemodry" creationdate="20170713T140432Z">
         <seg>PSČ (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-defined reminder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142326Z" creationid="svetlemodry" creationdate="20170713T142326Z">
+        <seg>Předdefinované upozornění</seg>
       </tuv>
     </tu>
     <tu>
@@ -10858,6 +10914,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171307Z" creationid="svetlemodry" creationdate="20150328T171307Z">
         <seg>Pamatovat si schránku navždy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remind me about this every</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142622Z" creationid="svetlemodry" creationdate="20170713T142436Z">
+        <seg>Upozornit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remind me about this just once</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142421Z" creationid="svetlemodry" creationdate="20170713T142421Z">
+        <seg>Upozornit pouze jedenkrát</seg>
       </tuv>
     </tu>
     <tu>
@@ -14030,6 +14102,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The reminder has been added successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142534Z" creationid="svetlemodry" creationdate="20170713T142534Z">
+        <seg>Upozornění bylo úspěšně přidáno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The reminder has been deleted successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142601Z" creationid="svetlemodry" creationdate="20170713T142601Z">
+        <seg>Upozornění bylo úspěšně smazáno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selected :attribute is invalid.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095600Z" creationid="svetlemodry" creationdate="20170713T095501Z">
@@ -15774,6 +15862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What would you like to be reminded of about :name?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142251Z" creationid="svetlemodry" creationdate="20170713T142251Z">
+        <seg>Na co chcete být upozorňováni pro osobu :name?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What's coming</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092533Z" creationid="svetlemodry" creationdate="20170713T092533Z">
@@ -15810,6 +15906,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T202449Z" creationid="svetlemodry" creationdate="20151115T202449Z">
         <seg>Pokud skryté, bude místo toho zobrazeno tlačítko v náhledovém menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When is the next time you would like to be reminded about this?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142410Z" creationid="svetlemodry" creationdate="20170713T142410Z">
+        <seg>Kdy budete chtít být na tuto skutečnost příště upozorněni?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16450,6 +16554,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110512Z" creationid="svetlemodry" creationdate="20161016T110512Z">
         <seg>Musíte vybrat účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to indicate a text for this reminder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142518Z" creationid="svetlemodry" creationdate="20170713T142518Z">
+        <seg>Musíte zadat text tohoto upozornění</seg>
       </tuv>
     </tu>
     <tu>
@@ -17418,6 +17530,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123747Z" creationid="svetlemodry" creationdate="20170713T123747Z">
         <seg>pozvání odesláno :date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>starting from the date specified above</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142456Z" creationid="svetlemodry" creationdate="20170713T142456Z">
+        <seg>po datu zadaném výše</seg>
       </tuv>
     </tu>
     <tu>
