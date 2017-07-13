@@ -6382,6 +6382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Import your contacts from a vCard file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132413Z" creationid="svetlemodry" creationdate="20170713T132413Z">
+        <seg>Importovat kontakty z vCard souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171956Z" creationid="svetlemodry" creationdate="20150328T171956Z">
@@ -10270,6 +10278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reload the page in one minute.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132359Z" creationid="svetlemodry" creationdate="20170713T132359Z">
+        <seg>Obnovit stránku za jednu minutu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remember clipboards for %d days.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171353Z" creationid="svetlemodry" creationdate="20150328T171353Z">
@@ -13270,6 +13286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The import is in progress.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132341Z" creationid="svetlemodry" creationdate="20170713T132341Z">
+        <seg>Probíhá import.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The invitation has been successfully deleted</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130055Z" creationid="svetlemodry" creationdate="20170713T130055Z">
@@ -14470,6 +14494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uploaded vCard with :total_contacts contacts (:total_imported imported, :total_skipped skipped)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132325Z" creationid="svetlemodry" creationdate="20170713T132325Z">
+        <seg>Nahrán vCard soubor s :total_contacts kontakty (:total_imported importováno, :total_skipped přeskočeno)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uppercase</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190028Z" creationid="svetlemodry" creationdate="20151003T190028Z">
@@ -14798,6 +14830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View report</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132332Z" creationid="svetlemodry" creationdate="20170713T132332Z">
+        <seg>Zobrazit report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View source code on GitHub.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171141Z" creationid="svetlemodry" creationdate="20150328T171141Z">
@@ -14910,10 +14950,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We do however have some rules:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132429Z" creationid="svetlemodry" creationdate="20170713T132429Z">
+        <seg>Máme ale několik pravidel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We have e-mailed your password reset link!</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084500Z" creationid="svetlemodry" creationdate="20170713T084500Z">
         <seg>Byl odeslán odkaz na reset hesla!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We support &lt;code&gt;.vcard&lt;/code&gt; and &lt;code&gt;.vcf&lt;/code&gt; files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132446Z" creationid="svetlemodry" creationdate="20170713T132446Z">
+        <seg>Podporujeme &lt;code&gt;.vcard&lt;/code&gt; a &lt;code&gt;.vcf&lt;/code&gt; soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We support the vCard 3.0 format, which is the default format for Contacts.app (macOS) and Google Contacts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132531Z" creationid="svetlemodry" creationdate="20170713T132531Z">
+        <seg>Podporujeme formát vCard 3.0, který je výchozím formátem aplikací Contacts.app (macOS) a Google Contacts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15674,6 +15738,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T104057Z" creationid="svetlemodry" creationdate="20161016T104057Z">
         <seg>Toto bezpečnostní heslo nebude třeba pro přístup k peněžence na tomto přístroji, ale pro případné pozdější obnovení nebo import peněženky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You've imported :number files so far.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132122Z" creationid="svetlemodry" creationdate="20170713T132122Z">
+        <seg>Zatím jste importovali :number souborů.</seg>
       </tuv>
     </tu>
     <tu>
