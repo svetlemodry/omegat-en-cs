@@ -12302,6 +12302,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The :attribute field is required unless :other is in :values.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T103151Z" creationid="svetlemodry" creationdate="20170713T103151Z">
+        <seg>Pole :attribute je vyžadováno, pokud :other je v :values.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute field is required when :other is :value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T102943Z" creationid="svetlemodry" creationdate="20170713T102943Z">
+        <seg>Pole :attribute je vyžadováno, když :other má hodnotu :value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute field is required when :values is not present.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T103300Z" creationid="svetlemodry" creationdate="20170713T103300Z">
+        <seg>Pole :attribute je vyžadováno, pokud :values není dárek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute field is required when :values is present.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T103233Z" creationid="svetlemodry" creationdate="20170713T103233Z">
+        <seg>Pole :attribute je vyžadováno, pokud :values je dárek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute field is required when none of :values are present.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T103346Z" creationid="svetlemodry" creationdate="20170713T103346Z">
+        <seg>Pole :attribute je vyžadováno, pokud není žádná z :values dárek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The :attribute field is required.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095516Z" creationid="svetlemodry" creationdate="20170713T095516Z">
