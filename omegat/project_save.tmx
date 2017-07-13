@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Account settings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T114734Z" creationid="svetlemodry" creationdate="20170713T114734Z">
+        <seg>Nastavení účtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Activate</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110805Z" creationid="svetlemodry" creationdate="20150208T110805Z">
@@ -2610,6 +2618,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T152457Z" creationid="svetlemodry" creationdate="20151206T152457Z">
         <seg>Kliknutím na upozornění spustit aplikaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the button to start the export.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T114835Z" creationid="svetlemodry" creationdate="20170713T114835Z">
+        <seg>Kliknout na tlačítko pro spuštění exportu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5126,6 +5142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export data</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T114742Z" creationid="svetlemodry" creationdate="20170713T114742Z">
+        <seg>Exportovat data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export failed.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070242Z" creationid="svetlemodry" creationdate="20150310T070242Z">
@@ -5186,6 +5210,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200645Z" creationid="svetlemodry" creationdate="20160120T200645Z">
         <seg>Exportovat seznam oblíbených jako text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export your account data</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T114818Z" creationid="svetlemodry" creationdate="20170713T114818Z">
+        <seg>Exportovat data účtu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6114,6 +6146,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070238Z" creationid="svetlemodry" creationdate="20150310T070238Z">
         <seg>Import kompletní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import data</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T114748Z" creationid="svetlemodry" creationdate="20170713T114748Z">
+        <seg>Importovat data</seg>
       </tuv>
     </tu>
     <tu>
@@ -12078,6 +12118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tags management</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T114758Z" creationid="svetlemodry" creationdate="20170713T114758Z">
+        <seg>Správa tagů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Take picture</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212253Z" creationid="svetlemodry" creationdate="20141219T204150Z">
@@ -12378,6 +12426,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T102903Z" creationid="svetlemodry" creationdate="20170713T102903Z">
         <seg>:attribute formát není platný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute has already been taken.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T114650Z" creationid="svetlemodry" creationdate="20170713T114650Z">
+        <seg>:attribute je již použitý.</seg>
       </tuv>
     </tu>
     <tu>
