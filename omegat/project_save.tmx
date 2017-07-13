@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>:age years old</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140116Z" creationid="svetlemodry" creationdate="20170713T140116Z">
+        <seg>:age let</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>:count contacts</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133536Z" creationid="svetlemodry" creationdate="20170713T133536Z">
@@ -2646,6 +2654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>City (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140441Z" creationid="svetlemodry" creationdate="20170713T140441Z">
+        <seg>Město (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Classic</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210517Z" creationid="svetlemodry" creationdate="20151115T210517Z">
@@ -3418,6 +3434,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T090209Z" creationid="svetlemodry" creationdate="20160626T090209Z">
         <seg>Země</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Country (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140450Z" creationid="svetlemodry" creationdate="20170713T140450Z">
+        <seg>Zemé (volitelné)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit :name's personal information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140301Z" creationid="svetlemodry" creationdate="20170713T140301Z">
+        <seg>Upravit osobní informace o :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Groups</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T124948Z" creationid="svetlemodry" creationdate="20151101T124948Z">
@@ -4674,6 +4706,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122524Z" creationid="svetlemodry" creationdate="20170713T122524Z">
         <seg>Emailová adresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Email address (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140458Z" creationid="svetlemodry" creationdate="20170713T140458Z">
+        <seg>Email (volitelné)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5526,6 +5566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Facebook profile (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140331Z" creationid="svetlemodry" creationdate="20170713T140331Z">
+        <seg>Facebook profil (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204558Z" creationid="svetlemodry" creationdate="20141219T204558Z">
@@ -6330,6 +6378,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125521Z" creationid="svetlemodry" creationdate="20170713T125521Z">
         <seg>Potvrzuji, že chci pozvat tohoto uživatele do svého účtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I know the exact birthdate of this person, which is</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140608Z" creationid="svetlemodry" creationdate="20170713T140608Z">
+        <seg>Vím přesné datum narození této osoby, které je</seg>
       </tuv>
     </tu>
     <tu>
@@ -7166,6 +7222,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last activity together: :date</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140206Z" creationid="svetlemodry" creationdate="20170713T140206Z">
+        <seg>Posledni společná aktivita: :date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last activity together: unknown</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140220Z" creationid="svetlemodry" creationdate="20170713T140220Z">
+        <seg>Poslední společná aktivita: neznámo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last called: :date</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140137Z" creationid="svetlemodry" creationdate="20170713T140137Z">
+        <seg>Poslední telefonát: :date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last called: unknown</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140155Z" creationid="svetlemodry" creationdate="20170713T140155Z">
+        <seg>Poslední telefonát: neznámo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last consulted:</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135226Z" creationid="svetlemodry" creationdate="20170713T135226Z">
@@ -7322,6 +7410,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110458Z" creationid="svetlemodry" creationdate="20161016T110458Z">
         <seg>Limit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LinkedIn profile (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140347Z" creationid="svetlemodry" creationdate="20170713T140347Z">
+        <seg>LinkedIn profil (volitelné)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9590,6 +9686,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Phone number (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140507Z" creationid="svetlemodry" creationdate="20170713T140507Z">
+        <seg>Telefon (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Photo/avatar of the contact</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140313Z" creationid="svetlemodry" creationdate="20170713T140313Z">
+        <seg>Fotografie/avatar kontaktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PhotoBackup cannot work properly without the permission to read your pictures.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170901Z" creationid="svetlemodry" creationdate="20151208T170901Z">
@@ -10014,6 +10126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Postal code (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140432Z" creationid="svetlemodry" creationdate="20170713T140432Z">
+        <seg>PSČ (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pre-emptive authentication</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150256Z" creationid="svetlemodry" creationdate="20150309T150256Z">
@@ -10178,6 +10298,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190121Z" creationid="svetlemodry" creationdate="20151003T190121Z">
         <seg>Přidat tento veřejný klíč na Git server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Province (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140418Z" creationid="svetlemodry" creationdate="20170713T140418Z">
+        <seg>Okres (volitelné)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12638,6 +12766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Street (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140357Z" creationid="svetlemodry" creationdate="20170713T140357Z">
+        <seg>Ulice (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Street price</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082624Z" creationid="svetlemodry" creationdate="20161016T082624Z">
@@ -13742,6 +13878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The profile has been updated successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140235Z" creationid="svetlemodry" creationdate="20170713T140235Z">
+        <seg>Profil byl úspěšně aktualizován</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The proposed passwords do not match.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110712Z" creationid="svetlemodry" creationdate="20161016T110712Z">
@@ -14050,6 +14194,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084539Z" creationid="svetlemodry" creationdate="20170713T084539Z">
         <seg>Toto není platný odkaz na reset hesla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This person is probably</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140524Z" creationid="svetlemodry" creationdate="20170713T140524Z">
+        <seg>Tato osoba je přibližně</seg>
       </tuv>
     </tu>
     <tu>
@@ -14546,6 +14698,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T165204Z" creationid="svetlemodry" creationdate="20151206T165204Z">
         <seg>Zapnout WiFi při vstupu do těchto lokací:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twitter profile (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140339Z" creationid="svetlemodry" creationdate="20170713T140339Z">
+        <seg>Twitter profil (volitelné)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16590,6 +16750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>born :date</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140124Z" creationid="svetlemodry" creationdate="20170713T140124Z">
+        <seg>narozeniny :date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>click here</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135739Z" creationid="svetlemodry" creationdate="20170713T135739Z">
@@ -17266,6 +17434,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204438Z" creationid="svetlemodry" creationdate="20141219T204438Z">
         <seg>šeptem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>years old</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140528Z" creationid="svetlemodry" creationdate="20170713T140528Z">
+        <seg>let stará</seg>
       </tuv>
     </tu>
     <tu>
