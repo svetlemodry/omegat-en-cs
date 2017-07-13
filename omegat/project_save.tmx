@@ -7094,6 +7094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Import report</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T153340Z" creationid="svetlemodry" creationdate="20170713T153340Z">
+        <seg>Importovat report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import vCard</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133346Z" creationid="svetlemodry" creationdate="20170713T133346Z">
@@ -12392,8 +12400,8 @@
       <tuv lang="EN">
         <seg>Send me an email</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090524Z" creationid="svetlemodry" creationdate="20170713T090524Z">
-        <seg>Pošli mi email</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T153433Z" creationid="svetlemodry" creationdate="20170713T090524Z">
+        <seg>Poslat email</seg>
       </tuv>
     </tu>
     <tu>
