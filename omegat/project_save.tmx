@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add child</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143850Z" creationid="svetlemodry" creationdate="20170713T143850Z">
+        <seg>Přidat dítě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add contact</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210735Z" creationid="svetlemodry" creationdate="20141219T204135Z">
@@ -1870,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to delete this child?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143921Z" creationid="svetlemodry" creationdate="20170713T143921Z">
+        <seg>Opravdu chcete smazat toto dítě?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to delete this contact?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135754Z" creationid="svetlemodry" creationdate="20170713T135754Z">
@@ -2354,6 +2370,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160120T200412Z" creationid="svetlemodry" creationdate="20160120T200412Z">
         <seg>Záložka přidána</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Boy</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143632Z" creationid="svetlemodry" creationdate="20170713T143632Z">
+        <seg>Chlapec</seg>
       </tuv>
     </tu>
     <tu>
@@ -4750,6 +4774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit information about :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143901Z" creationid="svetlemodry" creationdate="20170713T143901Z">
+        <seg>Upravit informace o :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit name</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203958Z" creationid="svetlemodry" creationdate="20141219T203958Z">
@@ -6118,6 +6150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Girl</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143636Z" creationid="svetlemodry" creationdate="20170713T143636Z">
+        <seg>Děvče</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151123T184410Z" creationid="svetlemodry" creationdate="20151123T184410Z">
@@ -6502,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I know the exact birthdate of this child, which is</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143802Z" creationid="svetlemodry" creationdate="20170713T143802Z">
+        <seg>Vím přesné datum narození tohoto dítěte, které je</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I know the exact birthdate of this person, which is</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140608Z" creationid="svetlemodry" creationdate="20170713T140608Z">
@@ -6586,6 +6634,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T153231Z" creationid="svetlemodry" creationdate="20150309T145251Z">
         <seg>Pokud narazíte na chybu v aplikaci DAVdroid, nahlaste ji na portálu &lt;a href="https://github.com/rfc2822/davdroid"&gt;Github&lt;/a&gt; místo přímého kontaktování vývojářů nebo vyplnění špatného hodnocení.&lt;/b&gt;&lt;/p&gt; &lt;h1&gt;Open-source&lt;/h1&gt; &lt;p&gt;DAVdroid is designed to be an open-source project from the very first beginning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you indicate an exact birthdate for this child, we will create a new reminder for you - so you'll be notified every year when it's time to celebrate this child's birthdate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143840Z" creationid="svetlemodry" creationdate="20170713T143840Z">
+        <seg>Pokud zadáte přesné datum narození tohoto dítěte, bude vytvořeno nové upozornění - takže budete každoročně upozorněni na oslavu narozenin dítěte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14046,6 +14102,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The child has been added with success</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143936Z" creationid="svetlemodry" creationdate="20170713T143936Z">
+        <seg>Dítě bylo úspěšně přidáno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The child has been deleted successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144012Z" creationid="svetlemodry" creationdate="20170713T144012Z">
+        <seg>Dítě bylo úspěšně smazáno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The child has been updated successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143956Z" creationid="svetlemodry" creationdate="20170713T143956Z">
+        <seg>Dítě bylo úspěšně aktualizován</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contact already exists</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204402Z" creationid="svetlemodry" creationdate="20141219T204402Z">
@@ -14458,6 +14538,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T125100Z" creationid="svetlemodry" creationdate="20151101T125100Z">
         <seg>Toto nelze vzít zpět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This child is probably</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143718Z" creationid="svetlemodry" creationdate="20170713T143718Z">
+        <seg>Toto dítě je asi</seg>
       </tuv>
     </tu>
     <tu>
@@ -15886,6 +15974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We assume the last name is :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143707Z" creationid="svetlemodry" creationdate="20170713T143707Z">
+        <seg>Předpokládám, že příjmení je :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We can import vCard files that you can get from Google Contacts or your Contact manager.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133342Z" creationid="svetlemodry" creationdate="20170713T133342Z">
@@ -16186,6 +16282,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135837Z" creationid="svetlemodry" creationdate="20170713T135837Z">
         <seg>Popřát k narozeniním :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wish happy birthday to :name, :contact_firstname's child</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144046Z" creationid="svetlemodry" creationdate="20170713T144046Z">
+        <seg>Popřát k narozeninám :name, dítě od :contact_firstname</seg>
       </tuv>
     </tu>
     <tu>
@@ -18101,6 +18205,16 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135957Z" creationid="svetlemodry" creationdate="20170713T135957Z">
         <seg>Dárky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">monica/people.php.po</prop>
+      <prop type="path">$mess-&gt;'kids_add_probably_yo'</prop>
+      <tuv lang="EN">
+        <seg>years old</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143742Z" creationid="svetlemodry" creationdate="20170713T143742Z">
+        <seg>let staré</seg>
       </tuv>
     </tu>
   </body>
