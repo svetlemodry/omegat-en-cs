@@ -2118,6 +2118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below are the people you've invited to join Monica as a collaborator.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123719Z" creationid="svetlemodry" creationdate="20170713T123719Z">
+        <seg>Níže jsou lidé, které jste přizvali ke spolupráci a  používání aplikace Monica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bitcoin units to display (default BTC).</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080913Z" creationid="svetlemodry" creationdate="20161016T080913Z">
@@ -6530,6 +6538,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123454Z" creationid="svetlemodry" creationdate="20170713T123454Z">
         <seg>Pozvat nového uživatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invite someone</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T124003Z" creationid="svetlemodry" creationdate="20170713T124003Z">
+        <seg>Někoho pozvat</seg>
       </tuv>
     </tu>
     <tu>
@@ -13398,6 +13414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This person will have the same access than you have, and will be able to add, edit or delete contact information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123956Z" creationid="svetlemodry" creationdate="20170713T123956Z">
+        <seg>Tato osoba bude mít stejný přístup a bude schopna přidávat, upravovat a mazat informace kontaktů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This receive address has been used previously.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T104509Z" creationid="svetlemodry" creationdate="20161016T104509Z">
@@ -14862,6 +14886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Would you like to invite someone else?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123858Z" creationid="svetlemodry" creationdate="20170713T123858Z">
+        <seg>Chcete pozvat někoho dalšího?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Would you like to remove %s as a bookmark?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204027Z" creationid="svetlemodry" creationdate="20141219T204027Z">
@@ -15082,6 +15114,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204544Z" creationid="svetlemodry" creationdate="20141219T204544Z">
         <seg>Bez připojení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are the only one who has access to this account.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123843Z" creationid="svetlemodry" creationdate="20170713T123843Z">
+        <seg>Jste zatím samotným uživatelem s přístupem k tomuto účtu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15798,6 +15838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>invited by :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123736Z" creationid="svetlemodry" creationdate="20170713T123736Z">
+        <seg>pozván uživatelem :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>just now</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204009Z" creationid="svetlemodry" creationdate="20141219T204009Z">
@@ -16090,6 +16138,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204016Z" creationid="svetlemodry" creationdate="20141219T204016Z">
         <seg>odesílám…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sent on :date</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123747Z" creationid="svetlemodry" creationdate="20170713T123747Z">
+        <seg>pozvání odesláno :date</seg>
       </tuv>
     </tu>
     <tu>
