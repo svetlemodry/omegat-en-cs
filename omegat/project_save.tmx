@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Actions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150048Z" creationid="svetlemodry" creationdate="20170713T150048Z">
+        <seg>Akce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Activate</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110805Z" creationid="svetlemodry" creationdate="20150208T110805Z">
@@ -1114,6 +1122,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143624Z" creationid="svetlemodry" creationdate="20170713T143624Z">
         <seg>Přidat dítě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add a gift</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145755Z" creationid="svetlemodry" creationdate="20170713T145755Z">
+        <seg>Přidat dárek</seg>
       </tuv>
     </tu>
     <tu>
@@ -1426,6 +1442,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084225Z" creationid="svetlemodry" creationdate="20170713T084225Z">
         <seg>Přidat, zobrazit, dodat a změnit informace k této osobě:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Added on :date</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145839Z" creationid="svetlemodry" creationdate="20170713T145839Z">
+        <seg>Přidán :date</seg>
       </tuv>
     </tu>
     <tu>
@@ -1982,10 +2006,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to delete this debt?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150127Z" creationid="svetlemodry" creationdate="20170713T150127Z">
+        <seg>Opravdu chcete smazat tento dluh?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to delete this entry?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105043Z" creationid="svetlemodry" creationdate="20161016T105043Z">
         <seg>Opravdu chcete smazat tento záznam?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to delete this gift?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145829Z" creationid="svetlemodry" creationdate="20170713T145829Z">
+        <seg>Opravdu chcete smazat tento dárek?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3930,6 +3970,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064831Z" creationid="svetlemodry" creationdate="20150310T064831Z">
         <seg>Datum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date added</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150039Z" creationid="svetlemodry" creationdate="20170713T150039Z">
+        <seg>Datum přidání</seg>
       </tuv>
     </tu>
     <tu>
@@ -6294,10 +6342,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gift already offered</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145912Z" creationid="svetlemodry" creationdate="20170713T145912Z">
+        <seg>Dárek již darován</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gift idea</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145903Z" creationid="svetlemodry" creationdate="20170713T145903Z">
+        <seg>Nápad na dárek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gift management for :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145857Z" creationid="svetlemodry" creationdate="20170713T145857Z">
+        <seg>Správa dárků pro :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gifts</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092814Z" creationid="svetlemodry" creationdate="20170713T092814Z">
         <seg>Dárků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gifts already offered</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150030Z" creationid="svetlemodry" creationdate="20170713T150030Z">
+        <seg>Dárek již darován</seg>
       </tuv>
     </tu>
     <tu>
@@ -7838,6 +7918,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Link</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145834Z" creationid="svetlemodry" creationdate="20170713T145834Z">
+        <seg>Odkaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Link to the web page (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145936Z" creationid="svetlemodry" creationdate="20170713T145936Z">
+        <seg>Odkaz na webovou stránku (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LinkedIn profile (optional)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140347Z" creationid="svetlemodry" creationdate="20170713T140347Z">
@@ -8202,6 +8298,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T143608Z" creationid="svetlemodry" creationdate="20150309T143608Z">
         <seg>Spravovat synchronizované účty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manage your gifts ideas and the ones you've offered to :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145749Z" creationid="svetlemodry" creationdate="20170713T145749Z">
+        <seg>Udržujte přehled o nápadech na dárky a o dárcích, které jste darovali osobě :name</seg>
       </tuv>
     </tu>
     <tu>
@@ -14438,6 +14542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The debt has been deleted successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150138Z" creationid="svetlemodry" creationdate="20170713T150138Z">
+        <seg>Dluh byl úspěšně smazán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fiat price from localbitcoins.com.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082638Z" creationid="svetlemodry" creationdate="20161016T082638Z">
@@ -14466,6 +14578,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130853Z" creationid="svetlemodry" creationdate="20170713T130853Z">
         <seg>Bezplatná verze má omezení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The gift has been added successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145804Z" creationid="svetlemodry" creationdate="20170713T145804Z">
+        <seg>Dárek byl úspěšně přidán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The gift has been deleted successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145818Z" creationid="svetlemodry" creationdate="20170713T145818Z">
+        <seg>Dárek byl úspěšně smazán</seg>
       </tuv>
     </tu>
     <tu>
@@ -14906,6 +15034,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203348Z" creationid="svetlemodry" creationdate="20160629T203348Z">
         <seg>Tento typ paliva již existuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This gift is for someone in :name's family in particular</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150020Z" creationid="svetlemodry" creationdate="20170713T150020Z">
+        <seg>Tento dárek je pro někoho konkrétního z rodiny od :name</seg>
       </tuv>
     </tu>
     <tu>
@@ -16038,6 +16174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Value (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145944Z" creationid="svetlemodry" creationdate="20170713T145944Z">
+        <seg>Hodnota (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Value is less than the current odometer value in the log for this vehicle (%1$s).</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064520Z" creationid="svetlemodry" creationdate="20150310T064445Z">
@@ -16442,6 +16586,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144353Z" creationid="svetlemodry" creationdate="20170713T144353Z">
         <seg>Na jaký úkol chcete být upozorněni?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is this gift?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145923Z" creationid="svetlemodry" creationdate="20170713T145923Z">
+        <seg>Co je tento dárek zač?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18082,6 +18234,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T065127Z" creationid="svetlemodry" creationdate="20150310T065127Z">
         <seg>odometer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>offered</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145847Z" creationid="svetlemodry" creationdate="20170713T145847Z">
+        <seg>darováno</seg>
       </tuv>
     </tu>
     <tu>
