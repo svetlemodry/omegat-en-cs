@@ -12302,10 +12302,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The :attribute must be a date before :date.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094525Z" creationid="svetlemodry" creationdate="20170713T094525Z">
+        <seg>:attribute musí být datum před :date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The :attribute must be accepted.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093913Z" creationid="svetlemodry" creationdate="20170713T093913Z">
         <seg>:attribute musí být přijmut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be an array.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094513Z" creationid="svetlemodry" creationdate="20170713T094513Z">
+        <seg>:attribute musí být proměnná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be between :min and :max characters.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094639Z" creationid="svetlemodry" creationdate="20170713T094639Z">
+        <seg>:attribute musí být v rozmezí :min a :max znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be between :min and :max kilobytes.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094612Z" creationid="svetlemodry" creationdate="20170713T094612Z">
+        <seg>:attribute musí být v rozmezí :min a :max kilobajtů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be between :min and :max.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094546Z" creationid="svetlemodry" creationdate="20170713T094546Z">
+        <seg>:attribute musí být v rozmezí :min a :max.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must have between :min and :max items.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094704Z" creationid="svetlemodry" creationdate="20170713T094704Z">
+        <seg>:attribute musí mít mezi :min a :max položek.</seg>
       </tuv>
     </tu>
     <tu>
