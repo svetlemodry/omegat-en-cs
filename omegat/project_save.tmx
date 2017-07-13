@@ -814,6 +814,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>:name owes you</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150329Z" creationid="svetlemodry" creationdate="20170713T150329Z">
+        <seg>:name mi dluží</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>:name owes you :amount</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150220Z" creationid="svetlemodry" creationdate="20170713T150220Z">
+        <seg>:name mi dluží :amount</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Warning:&lt;/b0&gt; Sending this without mutual presence updates could cause unexpected problems.\n\n&lt;s1&gt;Go to contact details to verify your presence subscriptions.&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T211646Z" creationid="svetlemodry" creationdate="20141219T211646Z">
@@ -1290,6 +1306,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T210735Z" creationid="svetlemodry" creationdate="20141219T204135Z">
         <seg>Přidat kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add debt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150200Z" creationid="svetlemodry" creationdate="20170713T150200Z">
+        <seg>Přidat dluh</seg>
       </tuv>
     </tu>
     <tu>
@@ -4046,6 +4070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Debt management</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150228Z" creationid="svetlemodry" creationdate="20170713T150228Z">
+        <seg>Správa dluhů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Debt owed</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092940Z" creationid="svetlemodry" creationdate="20170713T092940Z">
@@ -4994,6 +5026,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143346Z" creationid="svetlemodry" creationdate="20170713T143346Z">
         <seg>Upravit drahou polovičk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit tag</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150510Z" creationid="svetlemodry" creationdate="20170713T150510Z">
+        <seg>Upravit tag</seg>
       </tuv>
     </tu>
     <tu>
@@ -8290,6 +8330,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203948Z" creationid="svetlemodry" creationdate="20141219T203948Z">
         <seg>Nastavení účtů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manage debts you owe to :name or :name owes you</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150505Z" creationid="svetlemodry" creationdate="20170713T150505Z">
+        <seg>Spravovat dluh pro :name nebo :name dlužící mně</seg>
       </tuv>
     </tu>
     <tu>
@@ -14542,10 +14590,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The debt has been added successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150152Z" creationid="svetlemodry" creationdate="20170713T150152Z">
+        <seg>Dluh byl úspěšně přidán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The debt has been deleted successfully</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150138Z" creationid="svetlemodry" creationdate="20170713T150138Z">
         <seg>Dluh byl úspěšně smazán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The debt has been updated successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150427Z" creationid="svetlemodry" creationdate="20170713T150427Z">
+        <seg>Dluh byl úspěšně aktulizován</seg>
       </tuv>
     </tu>
     <tu>
@@ -15882,6 +15946,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T141012Z" creationid="svetlemodry" creationdate="20170713T141012Z">
         <seg>Aktualizovat informace o práci pro :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update debt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150406Z" creationid="svetlemodry" creationdate="20170713T150406Z">
+        <seg>Aktualizovat dluh</seg>
       </tuv>
     </tu>
     <tu>
@@ -17358,6 +17430,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You owe :amount</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150212Z" creationid="svetlemodry" creationdate="20170713T150212Z">
+        <seg>Dlužím :amount</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You owe :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150320Z" creationid="svetlemodry" creationdate="20170713T150320Z">
+        <seg>Dlužím :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You received</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085403Z" creationid="svetlemodry" creationdate="20161016T085403Z">
@@ -18006,6 +18094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>for the following reason (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150359Z" creationid="svetlemodry" creationdate="20170713T150359Z">
+        <seg>z následujícího důvodu (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>free to chat</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204226Z" creationid="svetlemodry" creationdate="20141219T204226Z">
@@ -18450,6 +18546,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142456Z" creationid="svetlemodry" creationdate="20170713T142456Z">
         <seg>po datu zadaném výše</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the sum of</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T150343Z" creationid="svetlemodry" creationdate="20170713T150343Z">
+        <seg>celkem</seg>
       </tuv>
     </tu>
     <tu>
