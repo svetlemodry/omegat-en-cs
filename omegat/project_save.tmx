@@ -12270,6 +12270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The :attribute and :other must match.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T104821Z" creationid="svetlemodry" creationdate="20170713T104821Z">
+        <seg>:attribute a :other se musí shodovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The :attribute confirmation does not match.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095045Z" creationid="svetlemodry" creationdate="20170713T095045Z">
@@ -12454,6 +12462,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The :attribute must be :size characters.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T104900Z" creationid="svetlemodry" creationdate="20170713T104900Z">
+        <seg>:attribute musí být :size znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be :size kilobytes.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T104840Z" creationid="svetlemodry" creationdate="20170713T104840Z">
+        <seg>:attribute musí být :size kilobajtů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be :size.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T104828Z" creationid="svetlemodry" creationdate="20170713T104828Z">
+        <seg>:attribute musí být :size.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The :attribute must be a date after :date.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093941Z" creationid="svetlemodry" creationdate="20170713T093941Z">
@@ -12594,6 +12626,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094546Z" creationid="svetlemodry" creationdate="20170713T094546Z">
         <seg>:attribute musí být v rozmezí :min a :max.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must contain :size items.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T104914Z" creationid="svetlemodry" creationdate="20170713T104914Z">
+        <seg>:attribute musí obsahovat :size položek.</seg>
       </tuv>
     </tu>
     <tu>
