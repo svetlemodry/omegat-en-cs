@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add your first journal entry</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085412Z" creationid="svetlemodry" creationdate="20170713T085412Z">
+        <seg>Přidej svůj první deníkový záznam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add, view, complete, and change information about this contact:</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084225Z" creationid="svetlemodry" creationdate="20170713T084225Z">
@@ -1690,6 +1698,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151101T125046Z" creationid="svetlemodry" creationdate="20151101T125046Z">
         <seg>Opravdu si přejete smazat tuto skupinu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to delete this journal entry?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085617Z" creationid="svetlemodry" creationdate="20170713T085617Z">
+        <seg>Opravdu chcete smazat tento deníkový záznam?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4626,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150246Z" creationid="svetlemodry" creationdate="20150309T150246Z">
         <seg>Vložit své heslo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entry</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085349Z" creationid="svetlemodry" creationdate="20170713T085349Z">
+        <seg>Zápis</seg>
       </tuv>
     </tu>
     <tu>
@@ -12094,6 +12118,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The journal entry has been successfully deleted.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085317Z" creationid="svetlemodry" creationdate="20170713T085317Z">
+        <seg>Záznam deníku byl úspěšně smazán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The journal lets you write events that happened to you, and remember them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085552Z" creationid="svetlemodry" creationdate="20170713T085552Z">
+        <seg>Deník umožňuje záznamenávání událostí které se staly a ulehčuje jejich zapamatování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The name this client identifies itself with</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204706Z" creationid="svetlemodry" creationdate="20141219T204143Z">
@@ -12530,6 +12570,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124115Z" creationid="svetlemodry" creationdate="20160626T124115Z">
         <seg>Název</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Title (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085345Z" creationid="svetlemodry" creationdate="20170713T085345Z">
+        <seg>Nadpis (volitelné)</seg>
       </tuv>
     </tu>
     <tu>
