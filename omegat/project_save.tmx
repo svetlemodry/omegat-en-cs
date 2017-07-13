@@ -8566,6 +8566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Passwords must be at least six characters and match the confirmation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084415Z" creationid="svetlemodry" creationdate="20170713T084415Z">
+        <seg>Hesla musí obsahovat alespoň šest znaků a oba zápisy se musí shodovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Past 12 months</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T062809Z" creationid="svetlemodry" creationdate="20150310T062809Z">
@@ -8946,6 +8954,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183105Z" creationid="svetlemodry" creationdate="20151003T183105Z">
         <seg>Až to bude možné, tak si zadejte jméno účtu v nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again in :seconds seconds.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084749Z" creationid="svetlemodry" creationdate="20170713T084749Z">
+        <seg>Opakujte pokus za :seconds sekund.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12182,6 +12198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These credentials do not match our records.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084719Z" creationid="svetlemodry" creationdate="20170713T084719Z">
+        <seg>Tyto přihlašovací údaje neodpovídají uloženým záznamům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This account already exists</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T112550Z" creationid="svetlemodry" creationdate="20150104T112550Z">
@@ -12306,6 +12330,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125136Z" creationid="svetlemodry" creationdate="20150130T125136Z">
         <seg>Toto heslo je příliš krátké</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This password reset token is invalid.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084539Z" creationid="svetlemodry" creationdate="20170713T084539Z">
+        <seg>Toto není platný odkaz na reset hesla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12490,6 +12522,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085327Z" creationid="svetlemodry" creationdate="20161016T085327Z">
         <seg>Dnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Too many login attempts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084732Z" creationid="svetlemodry" creationdate="20170713T084732Z">
+        <seg>Příliš mnoho pokusů o přihlášení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13414,6 +13454,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We can't find a user with that e-mail address.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084617Z" creationid="svetlemodry" creationdate="20170713T084617Z">
+        <seg>Nelze nalézt uživatele s touto emalovou adresou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We have e-mailed your password reset link!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084500Z" creationid="svetlemodry" creationdate="20170713T084500Z">
+        <seg>Byl odeslán odkaz na reset hesla!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WebView default</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T195250Z" creationid="svetlemodry" creationdate="20151115T195250Z">
@@ -13822,6 +13878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are not authorized to execute this action</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084802Z" creationid="svetlemodry" creationdate="20170713T084802Z">
+        <seg>Nejste oprávněni provést tuto akci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are not connected.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204544Z" creationid="svetlemodry" creationdate="20141219T204544Z">
@@ -14066,6 +14130,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204138Z" creationid="svetlemodry" creationdate="20141219T204138Z">
         <seg>Přezdívka byla změněna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your password has been reset!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084507Z" creationid="svetlemodry" creationdate="20170713T084427Z">
+        <seg>Heslo bylo resetováno!</seg>
       </tuv>
     </tu>
     <tu>
