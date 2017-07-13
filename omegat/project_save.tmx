@@ -6542,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invite a new user by email to your account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T124101Z" creationid="svetlemodry" creationdate="20170713T124101Z">
+        <seg>Pozvat emailem nového uživatele k tomuto účtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invite someone</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T124003Z" creationid="svetlemodry" creationdate="20170713T124003Z">
