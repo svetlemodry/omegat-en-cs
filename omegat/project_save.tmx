@@ -5166,6 +5166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export to SQL</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T121759Z" creationid="svetlemodry" creationdate="20170713T121752Z">
+        <seg>Exportovat jako SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export to clipboard</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110646Z" creationid="svetlemodry" creationdate="20161016T110646Z">
@@ -5226,6 +5234,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104431Z" creationid="svetlemodry" creationdate="20160618T104431Z">
         <seg>Exportovat/Importovat oblíbené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exporting your data in SQL format allows you to take your data and import it to your own Monica instance.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T121900Z" creationid="svetlemodry" creationdate="20170713T121900Z">
+        <seg>Export dat v SQL formátu je umožňuje převést a importovat do vlastní instance Monica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6426,6 +6442,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171522Z" creationid="svetlemodry" creationdate="20150328T171522Z">
         <seg>Umí zobrazit historii schránky v upozorněních.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It might take several minutes to process the export - please be patient and do not spam the button.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T121741Z" creationid="svetlemodry" creationdate="20170713T121741Z">
+        <seg>Zpracování exportu může zabrat až několik minut - buďte prosím trpěliví a neklikejte vícekrát.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13122,6 +13146,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204223Z" creationid="svetlemodry" creationdate="20141219T204223Z">
         <seg>Toto není platné Jabber ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is only valuable if you do have your own server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122014Z" creationid="svetlemodry" creationdate="20170713T122014Z">
+        <seg>Toto se hodí hlavně pokud provozujete vlastní server.</seg>
       </tuv>
     </tu>
     <tu>
