@@ -12518,6 +12518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The :attribute must be a string.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T104936Z" creationid="svetlemodry" creationdate="20170713T104936Z">
+        <seg>:attribute musí být řetězec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The :attribute must be a valid IP address.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095755Z" creationid="svetlemodry" creationdate="20170713T095755Z">
@@ -12538,6 +12546,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095438Z" creationid="svetlemodry" creationdate="20170713T095438Z">
         <seg>:attribute musí být platná emailová adresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be a valid zone.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T104950Z" creationid="svetlemodry" creationdate="20170713T104950Z">
+        <seg>:attribute musí být platná zóna.</seg>
       </tuv>
     </tu>
     <tu>
