@@ -6574,6 +6574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invite user by email</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125625Z" creationid="svetlemodry" creationdate="20170713T125625Z">
+        <seg>Pozvat uživatele emailem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can show clipboard history in notification.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171522Z" creationid="svetlemodry" creationdate="20150328T171522Z">
@@ -9318,6 +9326,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please choose another email address.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130004Z" creationid="svetlemodry" creationdate="20170713T130004Z">
+        <seg>Vyberte prosím jinou emailovou adresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please choose another one</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125936Z" creationid="svetlemodry" creationdate="20170713T125936Z">
+        <seg>Vyberte prosím nějaký jiný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please clone or create a new repository below before trying to add a password or any synchronization operation.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182746Z" creationid="svetlemodry" creationdate="20151003T182746Z">
@@ -9330,6 +9354,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T103800Z" creationid="svetlemodry" creationdate="20161016T103800Z">
         <seg>Potvrďte prosím 5-8 znaků PIN kódu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please confirm that you want to invite this before proceeding with the invitation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125908Z" creationid="svetlemodry" creationdate="20170713T125908Z">
+        <seg>Potvrďte prosím, že chcete přizvat ?tuto osobu?, než bude pozvánka zpracována</seg>
       </tuv>
     </tu>
     <tu>
@@ -13374,6 +13406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This email is already taken.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125923Z" creationid="svetlemodry" creationdate="20170713T125923Z">
+        <seg>Email byl již použit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This field is required</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125142Z" creationid="svetlemodry" creationdate="20150130T125142Z">
@@ -13402,6 +13442,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204223Z" creationid="svetlemodry" creationdate="20141219T204223Z">
         <seg>Toto není platné Jabber ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is not the email of the person who've invited you.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T130042Z" creationid="svetlemodry" creationdate="20170713T130042Z">
+        <seg>Toto není email osoby, která vás pozvala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13442,6 +13490,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084539Z" creationid="svetlemodry" creationdate="20170713T084539Z">
         <seg>Toto není platný odkaz na reset hesla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This person will access ALL my data and see exactly what I see.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125608Z" creationid="svetlemodry" creationdate="20170713T125608Z">
+        <seg>Tato osoba bude moci přistupovat ke VŠEM mým datům a uvidí přesně to co já.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15106,6 +15162,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204421Z" creationid="svetlemodry" creationdate="20141219T204421Z">
         <seg>Já</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You already have invited this user.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125949Z" creationid="svetlemodry" creationdate="20170713T125949Z">
+        <seg>Již jste tohoto uživatele pozvali.</seg>
       </tuv>
     </tu>
     <tu>
