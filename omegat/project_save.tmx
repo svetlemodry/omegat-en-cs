@@ -2974,6 +2974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Company (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T141040Z" creationid="svetlemodry" creationdate="20170713T141040Z">
+        <seg>Společnost (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conference</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204230Z" creationid="svetlemodry" creationdate="20141219T204230Z">
@@ -6470,6 +6478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you indicate an exact birthdate for this person, we will create a new reminder for you - so you'll be notified every year when it's time to celebrate this person's birthdate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140751Z" creationid="svetlemodry" creationdate="20170713T140751Z">
+        <seg>Pokud zadáte přesné datum narození pro tuto osobu, bude vytvořeno nové upozornění - takže budete každoročně upozorněni na oslavu narozenin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you like this application, please give rate us on Google Play Store</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125438Z" creationid="svetlemodry" creationdate="20150130T125438Z">
@@ -7026,6 +7042,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T212417Z" creationid="svetlemodry" creationdate="20141219T204159Z">
         <seg>Jabber ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Job title (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T141025Z" creationid="svetlemodry" creationdate="20170713T141025Z">
+        <seg>Pracovní pozice (volitelné)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8542,10 +8566,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Facebook defined</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140833Z" creationid="svetlemodry" creationdate="20170713T140833Z">
+        <seg>Facebook nebyl zadán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Internet connectivity.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T103836Z" creationid="svetlemodry" creationdate="20161016T103836Z">
         <seg>Internetové připojení není dostupné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No LinkedIn defined</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140847Z" creationid="svetlemodry" creationdate="20170713T140847Z">
+        <seg>LinkedIn nebyl zadán</seg>
       </tuv>
     </tu>
     <tu>
@@ -8594,6 +8634,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T143631Z" creationid="svetlemodry" creationdate="20151206T143631Z">
         <seg>Tag nenastaven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Twitter defined</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140839Z" creationid="svetlemodry" creationdate="20170713T140839Z">
+        <seg>Twitter nebyl zadán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No address defined</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140805Z" creationid="svetlemodry" creationdate="20170713T140805Z">
+        <seg>Adresa nebyla zadána</seg>
       </tuv>
     </tu>
     <tu>
@@ -8686,6 +8742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No email address defined</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140813Z" creationid="svetlemodry" creationdate="20170713T140813Z">
+        <seg>Email nebyl zadán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No external repository selected</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160904T141155Z" creationid="svetlemodry" creationdate="20160904T141155Z">
@@ -8714,6 +8778,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204619Z" creationid="svetlemodry" creationdate="20141219T204619Z">
         <seg>Na serveru není žádná další historie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No phone number defined</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140821Z" creationid="svetlemodry" creationdate="20170713T140821Z">
+        <seg>Telefon nebyl zadán</seg>
       </tuv>
     </tu>
     <tu>
@@ -8762,6 +8834,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204601Z" creationid="svetlemodry" creationdate="20141219T204601Z">
         <seg>Nebylo nalezeno platné OTR sezení!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No work information defined</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140910Z" creationid="svetlemodry" creationdate="20170713T140910Z">
+        <seg>Žádné informace o práci</seg>
       </tuv>
     </tu>
     <tu>
@@ -14966,6 +15046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Update :name's job information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T141012Z" creationid="svetlemodry" creationdate="20170713T141012Z">
+        <seg>Aktualizovat informace o práci pro :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Update interval for notifications</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204027Z" creationid="svetlemodry" creationdate="20151115T204027Z">
@@ -15002,6 +15090,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150228Z" creationid="svetlemodry" creationdate="20150309T150228Z">
         <seg>Aktualizovat heslo dle svého serveru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update work information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140924Z" creationid="svetlemodry" creationdate="20170713T140924Z">
+        <seg>Aktualizovat informace o práci</seg>
       </tuv>
     </tu>
     <tu>
@@ -15786,6 +15882,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091204Z" creationid="svetlemodry" creationdate="20170713T091204Z">
         <seg>Žena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Work information have been updated with success</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140943Z" creationid="svetlemodry" creationdate="20170713T140943Z">
+        <seg>Informace o práci úspěšně aktualizovány</seg>
       </tuv>
     </tu>
     <tu>
@@ -16714,6 +16818,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140051Z" creationid="svetlemodry" creationdate="20170713T140051Z">
         <seg>věk okolo :age</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>at :company</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140912Z" creationid="svetlemodry" creationdate="20170713T140912Z">
+        <seg>v :company</seg>
       </tuv>
     </tu>
     <tu>
