@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An activity about :name has been added</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092316Z" creationid="svetlemodry" creationdate="20170713T092316Z">
+        <seg>Byla přidána aktivita k :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error has occurred</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
@@ -15226,6 +15234,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091444Z" creationid="svetlemodry" creationdate="20170713T091444Z">
         <seg>upozornění aktualizováno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>updated a task</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092305Z" creationid="svetlemodry" creationdate="20170713T092305Z">
+        <seg>úkol aktualizován</seg>
       </tuv>
     </tu>
     <tu>
