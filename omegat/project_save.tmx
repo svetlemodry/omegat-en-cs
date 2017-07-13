@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add a child</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143624Z" creationid="svetlemodry" creationdate="20170713T143624Z">
+        <seg>Přidat dítě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add a journal entry</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085259Z" creationid="svetlemodry" creationdate="20170713T085259Z">
@@ -1154,6 +1162,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125445Z" creationid="svetlemodry" creationdate="20150130T125445Z">
         <seg>Přidat účet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add another child</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143618Z" creationid="svetlemodry" creationdate="20170713T143618Z">
+        <seg>Přidat další dítě</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,6 +1274,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T123855Z" creationid="svetlemodry" creationdate="20160626T123855Z">
         <seg>Přidat upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add significant other</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143204Z" creationid="svetlemodry" creationdate="20170713T143204Z">
+        <seg>Přidat drahou polovičku</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,6 +1914,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142833Z" creationid="svetlemodry" creationdate="20170713T142833Z">
         <seg>Opravdu chcete smazat toto upozornění?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to delete this significant other?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143403Z" creationid="svetlemodry" creationdate="20170713T143403Z">
+        <seg>Opravdu chcete smazatu tuto drahou polovičku?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2610,6 +2642,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151209T192459Z" creationid="svetlemodry" creationdate="20151115T204221Z">
         <seg>Kontroluje nové komixy v pondělí, ve středu a v pátek, kontroluje nové What If v úterý.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Children</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143605Z" creationid="svetlemodry" creationdate="20170713T143605Z">
+        <seg>Děti</seg>
       </tuv>
     </tu>
     <tu>
@@ -4038,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deletion is permanent</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143413Z" creationid="svetlemodry" creationdate="20170713T143413Z">
+        <seg>Smazání je trvalé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deletion is permanent.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135806Z" creationid="svetlemodry" creationdate="20170713T135806Z">
@@ -4714,6 +4762,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203519Z" creationid="svetlemodry" creationdate="20160629T203519Z">
         <seg>Upravit dotankování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit significant other</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143346Z" creationid="svetlemodry" creationdate="20170713T143346Z">
+        <seg>Upravit drahou polovičk</seg>
       </tuv>
     </tu>
     <tu>
@@ -6438,6 +6494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I do not know this person's age</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143247Z" creationid="svetlemodry" creationdate="20170713T143247Z">
+        <seg>Neznám věk této osoby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I know the exact birthdate of this person, which is</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140608Z" creationid="svetlemodry" creationdate="20170713T140608Z">
@@ -6522,6 +6586,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T153231Z" creationid="svetlemodry" creationdate="20150309T145251Z">
         <seg>Pokud narazíte na chybu v aplikaci DAVdroid, nahlaste ji na portálu &lt;a href="https://github.com/rfc2822/davdroid"&gt;Github&lt;/a&gt; místo přímého kontaktování vývojářů nebo vyplnění špatného hodnocení.&lt;/b&gt;&lt;/p&gt; &lt;h1&gt;Open-source&lt;/h1&gt; &lt;p&gt;DAVdroid is designed to be an open-source project from the very first beginning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you indicate an exact birthdate for this person, we will create a new reminder for you - so you'll be notified every year when it's time to celebrate this person's birthdate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143336Z" creationid="svetlemodry" creationdate="20170713T143336Z">
+        <seg>Pokud zadáte přesné datum narození pro tuto osobu, bude vytvořeno nové upozornění - takže budete každoročně upozorněni na oslavu narozenin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12638,6 +12710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Significant other</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143153Z" creationid="svetlemodry" creationdate="20170713T143153Z">
+        <seg>Drahá polovička</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Single Tap</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151214T202553Z" creationid="svetlemodry" creationdate="20151115T210603Z">
@@ -14178,6 +14258,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204434Z" creationid="svetlemodry" creationdate="20141219T204434Z">
         <seg>Server odmítl toto zveřejnění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The significant other has been added successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143429Z" creationid="svetlemodry" creationdate="20170713T143429Z">
+        <seg>Drahá polovička byla úspěšně přidána</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The significant other has been deleted successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143501Z" creationid="svetlemodry" creationdate="20170713T143501Z">
+        <seg>Drahá polovička byla úspěšně smazána</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The significant other has been updated successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143445Z" creationid="svetlemodry" creationdate="20170713T143445Z">
+        <seg>Drahá polovička byla úspěšně aktualizována</seg>
       </tuv>
     </tu>
     <tu>
@@ -16014,6 +16118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Who is :name's significant other?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143232Z" creationid="svetlemodry" creationdate="20170713T143232Z">
+        <seg>Kdo je drahá polovička pro :name?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WiFi disabled</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T180109Z" creationid="svetlemodry" creationdate="20151206T180109Z">
@@ -16074,6 +16186,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135837Z" creationid="svetlemodry" creationdate="20170713T135837Z">
         <seg>Popřát k narozeniním :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wish happy birthday to :name, :contact_firstname's significant other</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143600Z" creationid="svetlemodry" creationdate="20170713T143600Z">
+        <seg>Popřát k narozeninám :name, drahá polovička od :contact_firstname</seg>
       </tuv>
     </tu>
     <tu>
@@ -17374,6 +17494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>month</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143132Z" creationid="svetlemodry" creationdate="20170713T143132Z">
+        <seg>měsíčně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ms</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150103T173642Z" creationid="svetlemodry" creationdate="20150103T173642Z">
@@ -17818,6 +17946,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204438Z" creationid="svetlemodry" creationdate="20141219T204438Z">
         <seg>šeptem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>year</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143144Z" creationid="svetlemodry" creationdate="20170713T143144Z">
+        <seg>ročně</seg>
       </tuv>
     </tu>
     <tu>
