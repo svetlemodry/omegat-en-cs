@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be patient.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132841Z" creationid="svetlemodry" creationdate="20170713T132841Z">
+        <seg>Buďte trpěliví.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Behavior</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203146Z" creationid="svetlemodry" creationdate="20151115T203146Z">
@@ -3602,6 +3610,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T064831Z" creationid="svetlemodry" creationdate="20150310T064831Z">
         <seg>Datum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date of the import</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133035Z" creationid="svetlemodry" creationdate="20170713T133035Z">
+        <seg>Datum importu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5294,6 +5310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export instructions for &lt;a href="http://osxdaily.com/2015/07/14/export-contacts-mac-os-x/" target="_blank"&gt;Contacts.app (macOS)&lt;/a&gt; and &lt;a href="http://www.akruto.com/backup-phone-contacts-calendar/how-to-export-google-contacts-to-csv-or-vcard/" target="_blank"&gt;Google Contacts&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132635Z" creationid="svetlemodry" creationdate="20170713T132635Z">
+        <seg>Instrukce pro export z &lt;a href="http://osxdaily.com/2015/07/14/export-contacts-mac-os-x/" target="_blank"&gt;Contacts.app (macOS)&lt;/a&gt; a &lt;a href="http://www.akruto.com/backup-phone-contacts-calendar/how-to-export-google-contacts-to-csv-or-vcard/" target="_blank"&gt;Google Contacts&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export success:</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171848Z" creationid="svetlemodry" creationdate="20150328T171848Z">
@@ -5502,6 +5526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files are limited to 10MB.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132757Z" creationid="svetlemodry" creationdate="20170713T132757Z">
+        <seg>Velikost souborů je limitována na 10MB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190542Z" creationid="svetlemodry" creationdate="20151003T190542Z">
@@ -5562,6 +5594,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110328Z" creationid="svetlemodry" creationdate="20150208T110328Z">
         <seg>Pro každý den můžete zaznamenat jestli se něco stalo nebo ne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For now, if your contacts have multiple email addresses or phone numbers, only the first entry will be picked up.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132742Z" creationid="svetlemodry" creationdate="20170713T132742Z">
+        <seg>Pokud mají vaše kontakty vícero emailů nebo telefonních čísel, bude importován pouze první z těchto záznamů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6390,6 +6430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing report</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133044Z" creationid="svetlemodry" creationdate="20170713T133005Z">
+        <seg>Report importu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing…</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T171956Z" creationid="svetlemodry" creationdate="20150328T171956Z">
@@ -6706,6 +6754,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T121741Z" creationid="svetlemodry" creationdate="20170713T121741Z">
         <seg>Zpracování exportu může zabrat až několik minut - buďte prosím trpěliví a neklikejte vícekrát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It might take up to 1 minute to upload the contacts and process them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132832Z" creationid="svetlemodry" creationdate="20170713T132832Z">
+        <seg>Nahrání a zpracování kontaktů může zabrat až 1 minutu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7418,6 +7474,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150215T150222Z" creationid="svetlemodry" creationdate="20150215T150222Z">
         <seg>MainActivity2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure data is accurate before uploading, as you can't undo the upload.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132935Z" creationid="svetlemodry" creationdate="20170713T132935Z">
+        <seg>Ověřte správnost dat před jejich nahráním, nahrání nelze vzít zpět.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8562,6 +8626,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182455Z" creationid="svetlemodry" creationdate="20150201T182455Z">
         <seg>Právě hraje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of contacts in the file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133102Z" creationid="svetlemodry" creationdate="20170713T133102Z">
+        <seg>Počet kontaktů v souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of imported contacts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133110Z" creationid="svetlemodry" creationdate="20170713T133110Z">
+        <seg>Počet importovaných kontaktů</seg>
       </tuv>
     </tu>
     <tu>
@@ -14166,6 +14246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type of import</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133050Z" creationid="svetlemodry" creationdate="20170713T133050Z">
+        <seg>Typ importu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>UI Options</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204147Z" creationid="svetlemodry" creationdate="20141219T204147Z">
@@ -15754,6 +15842,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132026Z" creationid="svetlemodry" creationdate="20170713T132026Z">
         <seg>Váš měsíční plán :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your &lt;code&gt;.vcf&lt;/code&gt; or &lt;code&gt;.vCard&lt;/code&gt; file:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T132954Z" creationid="svetlemodry" creationdate="20170713T132954Z">
+        <seg>Váš &lt;code&gt;.vcf&lt;/code&gt; nebo &lt;code&gt;.vCard&lt;/code&gt; soubor:</seg>
       </tuv>
     </tu>
     <tu>
