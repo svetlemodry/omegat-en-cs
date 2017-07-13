@@ -6990,6 +6990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Man</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091034Z" creationid="svetlemodry" creationdate="20170713T091034Z">
+        <seg>Muž</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manage Accounts</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204000Z" creationid="svetlemodry" creationdate="20141219T204000Z">
@@ -7890,6 +7898,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204619Z" creationid="svetlemodry" creationdate="20141219T204619Z">
         <seg>Na serveru není žádná další historie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No reminders are planned.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091308Z" creationid="svetlemodry" creationdate="20170713T091308Z">
+        <seg>Nejsou naplánována žádná upozornění.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9498,6 +9514,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125337Z" creationid="svetlemodry" creationdate="20150130T125337Z">
         <seg>Ohodnoťit!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather not say</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091215Z" creationid="svetlemodry" creationdate="20170713T091215Z">
+        <seg>Nepovím</seg>
       </tuv>
     </tu>
     <tu>
@@ -11702,6 +11726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subscription</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091008Z" creationid="svetlemodry" creationdate="20170713T091008Z">
+        <seg>Odběry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subscriptions</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204149Z" creationid="svetlemodry" creationdate="20141219T204149Z">
@@ -13206,6 +13238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Upcoming reminders</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091254Z" creationid="svetlemodry" creationdate="20170713T091254Z">
+        <seg>Nadcházející upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Update</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090354Z" creationid="svetlemodry" creationdate="20170713T090354Z">
@@ -13914,6 +13954,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085234Z" creationid="svetlemodry" creationdate="20170713T085234Z">
         <seg>Popřát k narozeninám dítěti od</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Woman</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091204Z" creationid="svetlemodry" creationdate="20170713T091204Z">
+        <seg>Žena</seg>
       </tuv>
     </tu>
     <tu>
