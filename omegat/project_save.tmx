@@ -3574,6 +3574,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Debt due</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092949Z" creationid="svetlemodry" creationdate="20170713T092949Z">
+        <seg>Dluh do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Debt owed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092940Z" creationid="svetlemodry" creationdate="20170713T092940Z">
+        <seg>Dluženo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Debts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092957Z" creationid="svetlemodry" creationdate="20170713T092957Z">
+        <seg>Dluhů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Decrypt</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204350Z" creationid="svetlemodry" creationdate="20141219T204350Z">
@@ -14278,6 +14302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are due</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093020Z" creationid="svetlemodry" creationdate="20170713T093020Z">
+        <seg>Dlužím do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are not authorized to execute this action</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084802Z" creationid="svetlemodry" creationdate="20170713T084802Z">
@@ -14390,6 +14422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You don't have debts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093032Z" creationid="svetlemodry" creationdate="20170713T093032Z">
+        <seg>Nemám dluhy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You have been kicked from this conference</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204542Z" creationid="svetlemodry" creationdate="20141219T204542Z">
@@ -14426,6 +14466,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204700Z" creationid="svetlemodry" creationdate="20151115T204700Z">
         <seg>Musíte restartovat aplikaci aby bylo použito nové téma vzhledu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You owe</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093006Z" creationid="svetlemodry" creationdate="20170713T093006Z">
+        <seg>Dlužím</seg>
       </tuv>
     </tu>
     <tu>
@@ -14874,6 +14922,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204609Z" creationid="svetlemodry" creationdate="20141219T204609Z">
         <seg>přenos souboru selhal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093026Z" creationid="svetlemodry" creationdate="20170713T093026Z">
+        <seg>komu</seg>
       </tuv>
     </tu>
     <tu>
