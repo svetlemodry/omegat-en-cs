@@ -4790,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the email of the person you want to invite</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125453Z" creationid="svetlemodry" creationdate="20170713T125453Z">
+        <seg>Zadejte email osoby, kterou chcete pozvat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter user name:</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150149Z" creationid="svetlemodry" creationdate="20150309T150149Z">
@@ -6082,6 +6090,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210458Z" creationid="svetlemodry" creationdate="20151115T210423Z">
         <seg>Kolik chcete přispět?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I confirm that I want to invite this user to my account.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125521Z" creationid="svetlemodry" creationdate="20170713T125521Z">
+        <seg>Potvrzuji, že chci pozvat tohoto uživatele do svého účtu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13258,6 +13274,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T185129Z" creationid="svetlemodry" creationdate="20151003T185129Z">
         <seg>Tam poté ťuknout mezi službami na Password Store a přepínačem lze zapnout nebo vypnout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, make sure you trust this person.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T125433Z" creationid="svetlemodry" creationdate="20170713T125433Z">
+        <seg>Proto si raději buďte jisti, že jí můžete věřit.</seg>
       </tuv>
     </tu>
     <tu>
