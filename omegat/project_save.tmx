@@ -6726,6 +6726,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Indicate food preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142119Z" creationid="svetlemodry" creationdate="20170713T142037Z">
+        <seg>Zapsat upřednostňované potraviny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indicate them here so you will remember it next time you invite them for dinner</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T141737Z" creationid="svetlemodry" creationdate="20170713T141737Z">
+        <seg>Poznačte si to zde, abyste si vzpoměli před příštím pozváním na večeři</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Informations</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170906Z" creationid="svetlemodry" creationdate="20151208T170906Z">
@@ -9390,6 +9406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or doesn't like a specific bottle of wine.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T141813Z" creationid="svetlemodry" creationdate="20170713T141626Z">
+        <seg>Nebo nemusí nějaké specifické víno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204538Z" creationid="svetlemodry" creationdate="20141219T204538Z">
@@ -9754,6 +9778,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114128Z" creationid="svetlemodry" creationdate="20150104T114128Z">
         <seg>Provést akci s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Perhaps :firstname has an allergy.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T141753Z" creationid="svetlemodry" creationdate="20170713T141753Z">
+        <seg>Možná má :firstname alergii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11306,6 +11338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204416Z" creationid="svetlemodry" creationdate="20141219T204407Z">
         <seg>Uložit jako záložku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save food preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142111Z" creationid="svetlemodry" creationdate="20170713T142111Z">
+        <seg>Uložit informace o potravinách</seg>
       </tuv>
     </tu>
     <tu>
