@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Optional) Would you like to categorize this activity?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145113Z" creationid="svetlemodry" creationdate="20170713T145113Z">
+        <seg>(Volitelné) Chcete tuto aktivitu přidat do kategorie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Or long press to bring back default)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204436Z" creationid="svetlemodry" creationdate="20141219T204436Z">
@@ -1174,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add activity</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144908Z" creationid="svetlemodry" creationdate="20170713T144908Z">
+        <seg>Přidat aktivitu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add an account</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125445Z" creationid="svetlemodry" creationdate="20150130T125445Z">
@@ -1898,6 +1914,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T134307Z" creationid="svetlemodry" creationdate="20170713T134307Z">
         <seg>Opravdu chcete smazat tento tag?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to delete this activity?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144937Z" creationid="svetlemodry" creationdate="20170713T144937Z">
+        <seg>Opravdu chcete smazat tuto aktivitu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3670,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cultural activities</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144647Z" creationid="svetlemodry" creationdate="20170713T144647Z">
+        <seg>Kulturní aktivity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Currency</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T071114Z" creationid="svetlemodry" creationdate="20150310T071114Z">
@@ -4178,6 +4210,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T171804Z" creationid="svetlemodry" creationdate="20151003T171804Z">
         <seg>Sestupné pořadí data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describe what you did</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145032Z" creationid="svetlemodry" creationdate="20170713T145032Z">
+        <seg>Popište co jste dělali</seg>
       </tuv>
     </tu>
     <tu>
@@ -5910,6 +5950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Food</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144639Z" creationid="svetlemodry" creationdate="20170713T144639Z">
+        <seg>Jídlo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Food preferences</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142133Z" creationid="svetlemodry" creationdate="20170713T142133Z">
@@ -6358,6 +6406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Happened on :date</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144955Z" creationid="svetlemodry" creationdate="20170713T144955Z">
+        <seg>Stalo se :date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Haptic feedback</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T210549Z" creationid="svetlemodry" creationdate="20151115T210549Z">
@@ -6458,6 +6514,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070043Z" creationid="svetlemodry" creationdate="20150310T070043Z">
         <seg>Skrýt kalkulaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide details</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144920Z" creationid="svetlemodry" creationdate="20170713T144920Z">
+        <seg>Skrýt detaily</seg>
       </tuv>
     </tu>
     <tu>
@@ -8450,6 +8514,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151206T163848Z" creationid="svetlemodry" creationdate="20151206T163848Z">
         <seg>Další aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More details</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144914Z" creationid="svetlemodry" creationdate="20170713T144914Z">
+        <seg>Více detailů</seg>
       </tuv>
     </tu>
     <tu>
@@ -16214,6 +16286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What did you do with :name?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145020Z" creationid="svetlemodry" creationdate="20170713T145020Z">
+        <seg>Společná aktivita s :name?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is the task you want to be reminded of?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144353Z" creationid="svetlemodry" creationdate="20170713T144353Z">
@@ -17390,6 +17470,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ate at a restaurant</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144902Z" creationid="svetlemodry" creationdate="20170713T144902Z">
+        <seg>jídlo v restauraci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ate at her place</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144808Z" creationid="svetlemodry" creationdate="20170713T144808Z">
+        <seg>jídlo u ní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ate at his place</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144803Z" creationid="svetlemodry" creationdate="20170713T144803Z">
+        <seg>jídlo u něj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ate at home</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144821Z" creationid="svetlemodry" creationdate="20170713T144821Z">
+        <seg>jídlo doma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>audio</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180206Z" creationid="svetlemodry" creationdate="20150119T180206Z">
@@ -17474,6 +17586,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204135Z" creationid="svetlemodry" creationdate="20141219T204135Z">
         <seg>doručení selhalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>did sport together</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144755Z" creationid="svetlemodry" creationdate="20170713T144755Z">
+        <seg>společný sport</seg>
       </tuv>
     </tu>
     <tu>
@@ -17646,10 +17766,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>just hung out</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144705Z" creationid="svetlemodry" creationdate="20170713T144705Z">
+        <seg>společný čas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>just now</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204009Z" creationid="svetlemodry" creationdate="20141219T204009Z">
         <seg>právě teď</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>just talked at home</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144747Z" creationid="svetlemodry" creationdate="20170713T144747Z">
+        <seg>promluvili jsme si doma</seg>
       </tuv>
     </tu>
     <tu>
@@ -17874,6 +18010,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070748Z" creationid="svetlemodry" creationdate="20150310T070748Z">
         <seg>na míli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>picknicked</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144824Z" creationid="svetlemodry" creationdate="20170713T144824Z">
+        <seg>piknik</seg>
       </tuv>
     </tu>
     <tu>
@@ -18134,10 +18278,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>watched a movie at home</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144730Z" creationid="svetlemodry" creationdate="20170713T144730Z">
+        <seg>sledování filmu doma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>week</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143120Z" creationid="svetlemodry" creationdate="20170713T143120Z">
         <seg>týdně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>went to a bar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144817Z" creationid="svetlemodry" creationdate="20170713T144817Z">
+        <seg>návštěva baru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>went to a concert</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144838Z" creationid="svetlemodry" creationdate="20170713T144838Z">
+        <seg>návštěva koncertu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>went to a play</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144845Z" creationid="svetlemodry" creationdate="20170713T144845Z">
+        <seg>návštěva zápasu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>went to the museum</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144854Z" creationid="svetlemodry" creationdate="20170713T144854Z">
+        <seg>návštěva muzea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>went to the theater</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144831Z" creationid="svetlemodry" creationdate="20170713T144831Z">
+        <seg>návštěva divadla</seg>
       </tuv>
     </tu>
     <tu>
