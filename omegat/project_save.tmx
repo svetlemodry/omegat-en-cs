@@ -12262,10 +12262,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The :attribute and :other must be different.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095126Z" creationid="svetlemodry" creationdate="20170713T095126Z">
+        <seg>:attribute a :other se nesmí shodovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute confirmation does not match.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095045Z" creationid="svetlemodry" creationdate="20170713T095045Z">
+        <seg>:attribute ověření se neshoduje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute does not match the format :format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095108Z" creationid="svetlemodry" creationdate="20170713T095108Z">
+        <seg>:attribute neodpovídá formátu :format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute field must be true or false.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095014Z" creationid="svetlemodry" creationdate="20170713T095014Z">
+        <seg>Pole :attribute musí být true nebo false.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The :attribute is not a valid URL.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093925Z" creationid="svetlemodry" creationdate="20170713T093925Z">
         <seg>:attribute není platná adresa URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute is not a valid date.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095055Z" creationid="svetlemodry" creationdate="20170713T095055Z">
+        <seg>:attribute není platné datum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12290,6 +12330,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094040Z" creationid="svetlemodry" creationdate="20170713T093957Z">
         <seg>:attribute smí obsahovat pouze písmena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be :digits digits.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095143Z" creationid="svetlemodry" creationdate="20170713T095143Z">
+        <seg>:attribute musí být :digits číslic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12330,6 +12378,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094639Z" creationid="svetlemodry" creationdate="20170713T094639Z">
         <seg>:attribute musí být v rozmezí :min a :max znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be between :min and :max digits.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095207Z" creationid="svetlemodry" creationdate="20170713T095207Z">
+        <seg>:attribute musí být v rozmezí :min a :max číslic.</seg>
       </tuv>
     </tu>
     <tu>
