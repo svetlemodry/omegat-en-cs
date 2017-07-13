@@ -14704,8 +14704,8 @@
       <tuv lang="EN">
         <seg>The journal lets you write events that happened to you, and remember them.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085552Z" creationid="svetlemodry" creationdate="20170713T085552Z">
-        <seg>Deník umožňuje záznamenávání událostí které se staly a ulehčuje jejich zapamatování.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174952Z" creationid="svetlemodry" creationdate="20170713T085552Z">
+        <seg>Deník umožňuje zaznamenávání událostí které se staly a ulehčuje jejich zapamatování.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17328,8 +17328,8 @@
       <tuv lang="EN">
         <seg>You don't have any activity yet.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092501Z" creationid="svetlemodry" creationdate="20170713T092501Z">
-        <seg>Ještě není zaznamenána žádna aktivita.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T175047Z" creationid="svetlemodry" creationdate="20170713T092501Z">
+        <seg>Ještě není zaznamenána žádná aktivita.</seg>
       </tuv>
     </tu>
     <tu>
