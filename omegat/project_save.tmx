@@ -846,6 +846,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A note about :name has been added</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091729Z" creationid="svetlemodry" creationdate="20170713T091729Z">
+        <seg>Byla přidána poznámka o :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A note about :name has been updated</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091747Z" creationid="svetlemodry" creationdate="20170713T091747Z">
+        <seg>Byla aktualizována poznámka o :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A trusted mobile number that you can restrict remote access to (use int'l format without spacing ex.: +447385555555).</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085142Z" creationid="svetlemodry" creationdate="20161016T085142Z">
@@ -6570,6 +6586,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104852Z" creationid="svetlemodry" creationdate="20160618T104852Z">
         <seg>Nejnovější komix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest actions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091331Z" creationid="svetlemodry" creationdate="20170713T091331Z">
+        <seg>Nejnovější změny</seg>
       </tuv>
     </tu>
     <tu>
@@ -14606,6 +14630,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>added a kid, :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091548Z" creationid="svetlemodry" creationdate="20170713T091548Z">
+        <seg>přidáno dítě, :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>added a reminder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091427Z" creationid="svetlemodry" creationdate="20170713T091427Z">
+        <seg>upozornění přidáno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>added a task</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091808Z" creationid="svetlemodry" creationdate="20170713T091808Z">
+        <seg>úkol přidán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>added significant other, :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091513Z" creationid="svetlemodry" creationdate="20170713T091513Z">
+        <seg>přidána drahá polovička, :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>audio</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180206Z" creationid="svetlemodry" creationdate="20150119T180206Z">
@@ -14642,6 +14698,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063236Z" creationid="svetlemodry" creationdate="20150310T063236Z">
         <seg>cloud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contact added</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091405Z" creationid="svetlemodry" creationdate="20170713T091349Z">
+        <seg>kontakt přidán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contact updated</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091413Z" creationid="svetlemodry" creationdate="20170713T091413Z">
+        <seg>kontakt aktualizován</seg>
       </tuv>
     </tu>
     <tu>
@@ -15138,6 +15210,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203936Z" creationid="svetlemodry" creationdate="20141219T203936Z">
         <seg>než opět změním</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>updated a kid, :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091618Z" creationid="svetlemodry" creationdate="20170713T091618Z">
+        <seg>aktualizováno dítě, :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>updated a reminder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091444Z" creationid="svetlemodry" creationdate="20170713T091444Z">
+        <seg>upozornění aktualizováno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>updated significant other, :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091538Z" creationid="svetlemodry" creationdate="20170713T091538Z">
+        <seg>aktualizována drahá polovička, :name</seg>
       </tuv>
     </tu>
     <tu>
