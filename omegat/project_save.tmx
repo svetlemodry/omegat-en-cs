@@ -12262,6 +12262,54 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The :attribute is not a valid URL.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093925Z" creationid="svetlemodry" creationdate="20170713T093925Z">
+        <seg>:attribute není platná adresa URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute may only contain letters and numbers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094101Z" creationid="svetlemodry" creationdate="20170713T094101Z">
+        <seg>:attribute smí obsahovat pouze písmena a číslice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute may only contain letters, numbers, and dashes.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094034Z" creationid="svetlemodry" creationdate="20170713T094034Z">
+        <seg>:attribute smí obsahovat pouze písmena, číslice a pomlčky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute may only contain letters.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T094040Z" creationid="svetlemodry" creationdate="20170713T093957Z">
+        <seg>:attribute smí obsahovat pouze písmena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be a date after :date.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093941Z" creationid="svetlemodry" creationdate="20170713T093941Z">
+        <seg>:attribute musí být datum po :date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be accepted.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093913Z" creationid="svetlemodry" creationdate="20170713T093913Z">
+        <seg>:attribute musí být přijmut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The address of the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151208T170509Z" creationid="svetlemodry" creationdate="20151208T170509Z">
