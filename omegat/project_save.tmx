@@ -1134,10 +1134,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add a new task for :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144303Z" creationid="svetlemodry" creationdate="20170713T144303Z">
+        <seg>Přidat úkol pro kontakt :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add a reminder</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142225Z" creationid="svetlemodry" creationdate="20170713T142225Z">
         <seg>Přidat upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add a task</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144450Z" creationid="svetlemodry" creationdate="20170713T144450Z">
+        <seg>Přidat úkol</seg>
       </tuv>
     </tu>
     <tu>
@@ -1298,6 +1314,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135338Z" creationid="svetlemodry" creationdate="20170713T135338Z">
         <seg>Někoho přidat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add task</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144247Z" creationid="svetlemodry" creationdate="20170713T144247Z">
+        <seg>Přidat úkol</seg>
       </tuv>
     </tu>
     <tu>
@@ -1938,6 +1962,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143403Z" creationid="svetlemodry" creationdate="20170713T143403Z">
         <seg>Opravdu chcete smazatu tuto drahou polovičku?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to delete this task?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144526Z" creationid="svetlemodry" creationdate="20170713T144526Z">
+        <seg>Opravdu chcete smazat tento úkol?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3058,6 +3090,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190100Z" creationid="svetlemodry" creationdate="20151003T190100Z">
         <seg>Komentář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment (optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144406Z" creationid="svetlemodry" creationdate="20170713T144406Z">
+        <seg>Komentář (volitelné)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7174,6 +7214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It looks like you don't have any tasks about :name yet</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144242Z" creationid="svetlemodry" creationdate="20170713T144242Z">
+        <seg>Zdá se, že zatím nemáte žádné úkoly pro :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It might take several minutes to process the export - please be patient and do not spam the button.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T121741Z" creationid="svetlemodry" creationdate="20170713T121741Z">
@@ -7346,6 +7394,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204603Z" creationid="svetlemodry" creationdate="20141219T204603Z">
         <seg>Ponechat službu v popředí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep tracks of things you need to do for :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144155Z" creationid="svetlemodry" creationdate="20170713T144155Z">
+        <seg>Udržovat přehled o detailech pro :name</seg>
       </tuv>
     </tu>
     <tu>
@@ -8074,6 +8130,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192343Z" creationid="svetlemodry" creationdate="20151115T192343Z">
         <seg>Označit vše jako nepřečtené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark as complete</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144445Z" creationid="svetlemodry" creationdate="20170713T144445Z">
+        <seg>Označit jako hotové</seg>
       </tuv>
     </tu>
     <tu>
@@ -10822,6 +10886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reactivate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144434Z" creationid="svetlemodry" creationdate="20170713T144434Z">
+        <seg>Reaktivovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Receive</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080345Z" creationid="svetlemodry" creationdate="20161016T080345Z">
@@ -12774,6 +12846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simple activities</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144631Z" creationid="svetlemodry" creationdate="20170713T144631Z">
+        <seg>Jednoduché aktivity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Single Tap</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151214T202553Z" creationid="svetlemodry" creationdate="20151115T210603Z">
@@ -14370,6 +14450,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T134242Z" creationid="svetlemodry" creationdate="20170713T134242Z">
         <seg>Tag byl úspěšně smazán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The task has been added successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144425Z" creationid="svetlemodry" creationdate="20170713T144425Z">
+        <seg>Úkol byl úspěšně přidán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The task has been deleted successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144536Z" creationid="svetlemodry" creationdate="20170713T144536Z">
+        <seg>Úkol byl úspěšně smazán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The task has changed status successfully</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144621Z" creationid="svetlemodry" creationdate="20170713T144621Z">
+        <seg>Úkol úspěšně změnil svůj stav</seg>
       </tuv>
     </tu>
     <tu>
@@ -16110,6 +16214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What is the task you want to be reminded of?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144353Z" creationid="svetlemodry" creationdate="20170713T144353Z">
+        <seg>Na jaký úkol chcete být upozorněni?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What would you like to be reminded of about :name?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142251Z" creationid="svetlemodry" creationdate="20170713T142251Z">
@@ -17242,6 +17354,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091808Z" creationid="svetlemodry" creationdate="20170713T091808Z">
         <seg>úkol přidán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>added on :date</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T144502Z" creationid="svetlemodry" creationdate="20170713T144502Z">
+        <seg>přidáno :date</seg>
       </tuv>
     </tu>
     <tu>
