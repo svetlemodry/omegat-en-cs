@@ -2096,8 +2096,8 @@
       <tuv lang="EN">
         <seg>Are you sure you want to delete this significant other?</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143403Z" creationid="svetlemodry" creationdate="20170713T143403Z">
-        <seg>Opravdu chcete smazatu tuto drahou polovičku?</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174558Z" creationid="svetlemodry" creationdate="20170713T143403Z">
+        <seg>Opravdu chcete smazat tuto drahou polovičku?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5024,8 +5024,8 @@
       <tuv lang="EN">
         <seg>Edit significant other</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T143346Z" creationid="svetlemodry" creationdate="20170713T143346Z">
-        <seg>Upravit drahou polovičk</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174543Z" creationid="svetlemodry" creationdate="20170713T143346Z">
+        <seg>Upravit drahou polovičku</seg>
       </tuv>
     </tu>
     <tu>
@@ -11496,8 +11496,8 @@
       <tuv lang="EN">
         <seg>Reminders are sent every morning the day events will happen.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T142953Z" creationid="svetlemodry" creationdate="20170713T142953Z">
-        <seg>Upozornění jsou rozesílána poránu v den události.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174508Z" creationid="svetlemodry" creationdate="20170713T142953Z">
+        <seg>Upozornění jsou rozesílána ráno v den události.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14472,8 +14472,8 @@
       <tuv lang="EN">
         <seg>The activity has been added successfully</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T145347Z" creationid="svetlemodry" creationdate="20170713T145347Z">
-        <seg>Aktivita byla úšpěšně přidána</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174711Z" creationid="svetlemodry" creationdate="20170713T145347Z">
+        <seg>Aktivita byla úspěšně přidána</seg>
       </tuv>
     </tu>
     <tu>
@@ -16536,8 +16536,8 @@
       <tuv lang="EN">
         <seg>We can't find a user with that e-mail address.</seg>
       </tuv>
-      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T084617Z" creationid="svetlemodry" creationdate="20170713T084617Z">
-        <seg>Nelze nalézt uživatele s touto emalovou adresou.</seg>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T174858Z" creationid="svetlemodry" creationdate="20170713T084617Z">
+        <seg>Nelze nalézt uživatele s touto emailovou adresou.</seg>
       </tuv>
     </tu>
     <tu>
