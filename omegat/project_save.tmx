@@ -12310,10 +12310,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The :attribute field must be present.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T102831Z" creationid="svetlemodry" creationdate="20170713T102831Z">
+        <seg>:attribute musí být dárek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The :attribute field must be true or false.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T095014Z" creationid="svetlemodry" creationdate="20170713T095014Z">
         <seg>Pole :attribute musí být true nebo false.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute format is invalid.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T102903Z" creationid="svetlemodry" creationdate="20170713T102903Z">
+        <seg>:attribute formát není platný.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12418,6 +12434,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T100054Z" creationid="svetlemodry" creationdate="20170713T100054Z">
         <seg>:attribute musí být soubor typu: :values.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The :attribute must be a number.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T102801Z" creationid="svetlemodry" creationdate="20170713T102801Z">
+        <seg>:attribute musí být číslice.</seg>
       </tuv>
     </tu>
     <tu>
