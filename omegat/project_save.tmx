@@ -1614,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An activity about :name has been updated</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092332Z" creationid="svetlemodry" creationdate="20170713T092332Z">
+        <seg>Byla aktualizována aktivita k :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error has occurred</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204148Z" creationid="svetlemodry" creationdate="20141219T204148Z">
@@ -5558,6 +5566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gifts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092814Z" creationid="svetlemodry" creationdate="20170713T092814Z">
+        <seg>Dárků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151123T184410Z" creationid="svetlemodry" creationdate="20151123T184410Z">
@@ -6510,6 +6526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kids</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092732Z" creationid="svetlemodry" creationdate="20170713T092732Z">
+        <seg>Dětí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kilometers</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T070803Z" creationid="svetlemodry" creationdate="20150310T070803Z">
@@ -6586,6 +6610,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T203350Z" creationid="svetlemodry" creationdate="20151115T203350Z">
         <seg>Velké obrázky komixu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last edited contacts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092515Z" creationid="svetlemodry" creationdate="20170713T092515Z">
+        <seg>Naposledy upravované kontakty</seg>
       </tuv>
     </tu>
     <tu>
@@ -7946,6 +7978,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150106T201309Z" creationid="svetlemodry" creationdate="20150106T201309Z">
         <seg>Bez role</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No tasks are planned.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092614Z" creationid="svetlemodry" creationdate="20170713T092614Z">
+        <seg>Nejsou naplánovány žádné úkoly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9806,6 +9846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reminders</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092737Z" creationid="svetlemodry" creationdate="20170713T092737Z">
+        <seg>Upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote Fingerprint</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204553Z" creationid="svetlemodry" creationdate="20141219T204553Z">
@@ -11610,6 +11658,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150310T063550Z" creationid="svetlemodry" creationdate="20150310T063550Z">
         <seg>Statistiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Statistics about your account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092704Z" creationid="svetlemodry" creationdate="20170713T092704Z">
+        <seg>Statistiky tohoto účtu</seg>
       </tuv>
     </tu>
     <tu>
@@ -13854,6 +13910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What's coming</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092533Z" creationid="svetlemodry" creationdate="20170713T092533Z">
+        <seg>Co bude dál</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When disabled, comics may look better on large devices</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151214T202500Z" creationid="svetlemodry" creationdate="20151214T202500Z">
@@ -14318,6 +14382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You don't have any activity yet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092501Z" creationid="svetlemodry" creationdate="20170713T092501Z">
+        <seg>Ještě není zaznamenána žádna aktivita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You have been kicked from this conference</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204542Z" creationid="svetlemodry" creationdate="20141219T204542Z">
@@ -14634,6 +14706,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110543Z" creationid="svetlemodry" creationdate="20150208T110543Z">
         <seg>\n\nTickmate je open source software, zveřejněný pod GPLv3 licencí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>added a debt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092350Z" creationid="svetlemodry" creationdate="20170713T092342Z">
+        <seg>dluh přidán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>added a gift</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092405Z" creationid="svetlemodry" creationdate="20170713T092405Z">
+        <seg>dárek přidán</seg>
       </tuv>
     </tu>
     <tu>
@@ -15222,6 +15310,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>updated a debt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092355Z" creationid="svetlemodry" creationdate="20170713T092355Z">
+        <seg>dluh aktualizován</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>updated a gift</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092413Z" creationid="svetlemodry" creationdate="20170713T092413Z">
+        <seg>dárek aktualizován</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>updated a kid, :name</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T091618Z" creationid="svetlemodry" creationdate="20170713T091618Z">
@@ -15342,6 +15446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{1} in 1 day|in :number days</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092652Z" creationid="svetlemodry" creationdate="20170713T092652Z">
+        <seg>{1} za 1 den|za :number dny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>© Jan Kühle</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T123114Z" creationid="svetlemodry" creationdate="20160626T123114Z">
@@ -15387,6 +15499,46 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150309T150803Z" creationid="svetlemodry" creationdate="20150309T150803Z">
         <seg>kalendáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">monica/dashboard.php.po</prop>
+      <prop type="path"></prop>
+      <tuv lang="EN">
+        <seg>Activities</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092808Z" creationid="svetlemodry" creationdate="20170713T092808Z">
+        <seg>Aktivit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">monica/dashboard.php.po</prop>
+      <prop type="path"></prop>
+      <tuv lang="EN">
+        <seg>Contacts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092729Z" creationid="svetlemodry" creationdate="20170713T092729Z">
+        <seg>Kontaktů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">monica/dashboard.php.po</prop>
+      <prop type="path"></prop>
+      <tuv lang="EN">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092756Z" creationid="svetlemodry" creationdate="20170713T092756Z">
+        <seg>Poznámek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">monica/dashboard.php.po</prop>
+      <prop type="path">$mess-&gt;'statistics_tasks'</prop>
+      <tuv lang="EN">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092828Z" creationid="svetlemodry" creationdate="20170713T092828Z">
+        <seg>Úkolů</seg>
       </tuv>
     </tu>
   </body>
