@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add this person</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135658Z" creationid="svetlemodry" creationdate="20170713T135658Z">
+        <seg>Přidat tuto osobu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add to Favorites</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192403Z" creationid="svetlemodry" creationdate="20151115T192403Z">
@@ -1814,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to delete this contact?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135754Z" creationid="svetlemodry" creationdate="20170713T135754Z">
+        <seg>Opravdu chcete smazat tento kontakt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to delete this entry?</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T105043Z" creationid="svetlemodry" creationdate="20161016T105043Z">
@@ -2178,6 +2194,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T123719Z" creationid="svetlemodry" creationdate="20170713T123719Z">
         <seg>Níže jsou lidé, které jste přizvali ke spolupráci a  používání aplikace Monica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Birthdate is not set</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140037Z" creationid="svetlemodry" creationdate="20170713T140037Z">
+        <seg>Datum narození není zadáno</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,6 +3974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deletion is permanent.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135806Z" creationid="svetlemodry" creationdate="20170713T135806Z">
+        <seg>Smazání je trvalé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deposit</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T110142Z" creationid="svetlemodry" creationdate="20161016T110142Z">
@@ -4202,6 +4234,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160904T135212Z" creationid="svetlemodry" creationdate="20160626T091016Z">
         <seg>Nezobrazovat nefunkční stanice v seznamech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to &lt;a href="/settings/import"&gt;import your contacts&lt;/a&gt;?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135854Z" creationid="svetlemodry" creationdate="20170713T135854Z">
+        <seg>Chcete &lt;a href="/settings/import"&gt;importovat své kontakty&lt;/a&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4554,6 +4594,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204422Z" creationid="svetlemodry" creationdate="20141219T204422Z">
         <seg>Upravit jméno konference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit contact information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140024Z" creationid="svetlemodry" creationdate="20170713T140024Z">
+        <seg>Upravit informace kontaktu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5806,6 +5854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gender</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135703Z" creationid="svetlemodry" creationdate="20170713T135703Z">
+        <seg>Pohlaví</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T184414Z" creationid="svetlemodry" creationdate="20141219T204142Z">
@@ -6362,6 +6418,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150130T125438Z" creationid="svetlemodry" creationdate="20150130T125438Z">
         <seg>Pokud se vám tato aplikace líbí, ohodnoťte ji v Obchodě Google Play</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need to delete this contact,</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135734Z" creationid="svetlemodry" creationdate="20170713T135734Z">
+        <seg>Pokud potřebujete smazat tento účet,</seg>
       </tuv>
     </tu>
     <tu>
@@ -7118,6 +7182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last name (Optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135611Z" creationid="svetlemodry" creationdate="20170713T135611Z">
+        <seg>Příjmení (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last name first (Doe John)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122454Z" creationid="svetlemodry" creationdate="20170713T122420Z">
@@ -7266,6 +7338,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090615Z" creationid="svetlemodry" creationdate="20170713T090615Z">
         <seg>Seznam kontaktů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>List of people</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140014Z" creationid="svetlemodry" creationdate="20170713T140014Z">
+        <seg>Seznam osob</seg>
       </tuv>
     </tu>
     <tu>
@@ -9490,6 +9570,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T114128Z" creationid="svetlemodry" creationdate="20150104T114128Z">
         <seg>Provést akci s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Personal information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135902Z" creationid="svetlemodry" creationdate="20170713T135902Z">
+        <seg>Osobní informace</seg>
       </tuv>
     </tu>
     <tu>
@@ -13502,6 +13590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contact has been deleted</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135715Z" creationid="svetlemodry" creationdate="20170713T135715Z">
+        <seg>Kontakt byl smazán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contact is not in your roster.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204134Z" creationid="svetlemodry" creationdate="20141219T204134Z">
@@ -15510,6 +15606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wish happy birthday to :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135837Z" creationid="svetlemodry" creationdate="20170713T135837Z">
+        <seg>Popřát k narozeniním :name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wish happy birthday to the kid of</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T085234Z" creationid="svetlemodry" creationdate="20170713T085234Z">
@@ -16446,6 +16550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>around :age years old</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T140051Z" creationid="svetlemodry" creationdate="20170713T140051Z">
+        <seg>věk okolo :age</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>audio</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180206Z" creationid="svetlemodry" creationdate="20150119T180206Z">
@@ -16474,6 +16586,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204227Z" creationid="svetlemodry" creationdate="20141219T204227Z">
         <seg>pryč</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>click here</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135739Z" creationid="svetlemodry" creationdate="20170713T135739Z">
+        <seg>klikněte zde</seg>
       </tuv>
     </tu>
     <tu>
@@ -17275,6 +17395,16 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092828Z" creationid="svetlemodry" creationdate="20170713T092828Z">
         <seg>Úkolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">monica/people.php.po</prop>
+      <prop type="path"></prop>
+      <tuv lang="EN">
+        <seg>Gifts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135957Z" creationid="svetlemodry" creationdate="20170713T135957Z">
+        <seg>Dárky</seg>
       </tuv>
     </tu>
   </body>
