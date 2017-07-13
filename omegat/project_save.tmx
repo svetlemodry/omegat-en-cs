@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add a new person</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135542Z" creationid="svetlemodry" creationdate="20170713T135542Z">
+        <seg>Přidat novou osobu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add a user</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T090631Z" creationid="svetlemodry" creationdate="20170713T090631Z">
@@ -1226,6 +1234,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T123855Z" creationid="svetlemodry" creationdate="20160626T123855Z">
         <seg>Přidat upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add someone</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135338Z" creationid="svetlemodry" creationdate="20170713T135338Z">
+        <seg>Někoho přidat</seg>
       </tuv>
     </tu>
     <tu>
@@ -2650,6 +2666,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T184717Z" creationid="svetlemodry" creationdate="20151115T184717Z">
         <seg>Smazat oblíbené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear filter</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135513Z" creationid="svetlemodry" creationdate="20170713T135513Z">
+        <seg>Vyčistit filtr</seg>
       </tuv>
     </tu>
     <tu>
@@ -5582,6 +5606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135546Z" creationid="svetlemodry" creationdate="20170713T135546Z">
+        <seg>Jméno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First name first (John Doe)</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122438Z" creationid="svetlemodry" creationdate="20170713T122409Z">
@@ -7070,6 +7102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last consulted:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135226Z" creationid="svetlemodry" creationdate="20170713T135226Z">
+        <seg>Naposledy konzultováno:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last edited contacts</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T092515Z" creationid="svetlemodry" creationdate="20170713T092515Z">
@@ -7786,6 +7826,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150328T172542Z" creationid="svetlemodry" creationdate="20150328T172542Z">
         <seg>Střední - s ikonou ve stavovém řádku.\nUprostřed seznamu upozornění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Middle name (Optional)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135602Z" creationid="svetlemodry" creationdate="20170713T135602Z">
+        <seg>Prostřední jméno (volitelné)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8858,6 +8906,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T122748Z" creationid="svetlemodry" creationdate="20160626T122748Z">
         <seg>Jedenkrát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once a contact is tagged, go back here to manage all the tags in your account.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T134621Z" creationid="svetlemodry" creationdate="20170713T134621Z">
+        <seg>Jakmile je kontakt otagován, vraťte se zpět pro správu všech tagů v tomto účtu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12086,6 +12142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Showing all the contacts tagged with &lt;span class="pretty-tag"&gt;:name&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135505Z" creationid="svetlemodry" creationdate="20170713T135505Z">
+        <seg>Zobrazeny všechny kontakty s tagem &lt;span class="pretty-tag"&gt;:name&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shuffle</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182707Z" creationid="svetlemodry" creationdate="20150201T182707Z">
@@ -12218,6 +12282,46 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150201T182448Z" creationid="svetlemodry" creationdate="20150201T182448Z">
         <seg>Skladby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135344Z" creationid="svetlemodry" creationdate="20170713T135344Z">
+        <seg>Řazení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by first name A → Z</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135400Z" creationid="svetlemodry" creationdate="20170713T135400Z">
+        <seg>Řadit podle jména A → Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by first name Z → A</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135417Z" creationid="svetlemodry" creationdate="20170713T135417Z">
+        <seg>Řadit podle jména Z → A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by last name A → Z</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135427Z" creationid="svetlemodry" creationdate="20170713T135427Z">
+        <seg>Řadit podle příjmení A → Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by last name Z → A</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135434Z" creationid="svetlemodry" creationdate="20170713T135434Z">
+        <seg>Řadit podle příjmení Z → A</seg>
       </tuv>
     </tu>
     <tu>
@@ -15854,6 +15958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You don't have anyone in your account yet</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135331Z" creationid="svetlemodry" creationdate="20170713T135331Z">
+        <seg>Zatím jste do svého účtu nikoho nepřidali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You don't have debts.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T093032Z" creationid="svetlemodry" creationdate="20170713T093032Z">
@@ -17042,6 +17154,30 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110033Z" creationid="svetlemodry" creationdate="20150208T110033Z">
         <seg>včera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} 0 contact|{1,1} 1 contact|{2,*} :count contacts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135533Z" creationid="svetlemodry" creationdate="20170713T135533Z">
+        <seg>{0} 0 kontaktů|{1,1} 1 kontakt|{2,*} :count kontaktů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} 0 kids|{1,1} 1 kid|{2,*} :count kids</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135203Z" creationid="svetlemodry" creationdate="20170713T135203Z">
+        <seg>{0} 0 dětí|{1,1} 1 dítě|{2,*} :count děti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} 0 reminders|{1,1} 1 reminder|{2, *} :count reminders</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135304Z" creationid="svetlemodry" creationdate="20170713T135304Z">
+        <seg>{0} 0 připomínek|{1,1} 1 připomínka|{2, *} :count připomínek</seg>
       </tuv>
     </tu>
     <tu>
