@@ -5390,6 +5390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First name first (John Doe)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122438Z" creationid="svetlemodry" creationdate="20170713T122409Z">
+        <seg>Jméno první (Josef Vomáčka)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First steps</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160629T203457Z" creationid="svetlemodry" creationdate="20160629T203457Z">
@@ -6710,6 +6718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last name first (Doe John)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122454Z" creationid="svetlemodry" creationdate="20170713T122420Z">
+        <seg>Příjmení první (Vomáčka Josef)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latest Comic</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160618T104852Z" creationid="svetlemodry" creationdate="20160618T104852Z">
@@ -7670,6 +7686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name order</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122342Z" creationid="svetlemodry" creationdate="20170713T122342Z">
+        <seg>Řazení jmen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Need write permission for recording!</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T091546Z" creationid="svetlemodry" creationdate="20160626T091546Z">
@@ -8146,6 +8170,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124110Z" creationid="svetlemodry" creationdate="20160626T124110Z">
         <seg>Poznámka (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: &lt;a href=":url"&gt;read the instructions&lt;/a&gt; to learn more about importing this file to your instance.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122314Z" creationid="svetlemodry" creationdate="20170713T122314Z">
+        <seg>Poznámka: &lt;a href=":url"&gt;přečtěte si instrukce&lt;/a&gt; abyste se dozvěděli více o importu tohoto souboru do vlastní instance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15082,6 +15114,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150104T113737Z" creationid="svetlemodry" creationdate="20150104T113737Z">
         <seg>Nápověda by měla být vyplněna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your name: :name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170713T122515Z" creationid="svetlemodry" creationdate="20170713T122515Z">
+        <seg>Vlastní jméno: :name</seg>
       </tuv>
     </tu>
     <tu>
