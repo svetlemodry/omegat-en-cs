@@ -902,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A trusted mobile number that you can restrict remote access to (use int'l format without spaces ex.: +447385555555).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175136Z" creationid="svetlemodry" creationdate="20170808T175136Z">
+        <seg>Důvěryhodné mobilní číslo, pro které můžete omezit vzdálený přístup (v mezinárodním formátu bez mezer např.: +447385555555).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A trusted mobile number that you can restrict remote access to (use int'l format without spacing ex.: +447385555555).</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085142Z" creationid="svetlemodry" creationdate="20161016T085142Z">
@@ -2326,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autosave backup to device storage</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175357Z" creationid="svetlemodry" creationdate="20170808T175357Z">
+        <seg>Automaticky ukládat zálohy do paměti přístroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Avatar has been published!</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150119T180326Z" creationid="svetlemodry" creationdate="20150119T180326Z">
@@ -2738,6 +2754,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183949Z" creationid="svetlemodry" creationdate="20151003T183949Z">
         <seg>Kategorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change PIN</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175233Z" creationid="svetlemodry" creationdate="20170808T175233Z">
+        <seg>Změnit PIN</seg>
       </tuv>
     </tu>
     <tu>
@@ -4186,6 +4210,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T204000Z" creationid="svetlemodry" creationdate="20151115T204000Z">
         <seg>Výchozí, na výšku nebo na šířku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Define a new PIN.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175239Z" creationid="svetlemodry" creationdate="20170808T175239Z">
+        <seg>Zadat nový PIN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Define alternative PIN for stealth launch and remote functions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175329Z" creationid="svetlemodry" creationdate="20170808T175329Z">
+        <seg>Zadat alternativní PIN pro tajné spuštění a vzdálené ovládání.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5906,6 +5946,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T085253Z" creationid="svetlemodry" creationdate="20161016T085253Z">
         <seg>Exportuje peněženku a metadata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export wallet backup</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175228Z" creationid="svetlemodry" creationdate="20170808T175228Z">
+        <seg>Exportovat zálohu peněženky</seg>
       </tuv>
     </tu>
     <tu>
@@ -7914,6 +7962,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151115T192454Z" creationid="svetlemodry" creationdate="20151115T192454Z">
         <seg>Nejnovější komix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch OpenVPN for Android.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175151Z" creationid="svetlemodry" creationdate="20170808T175151Z">
+        <seg>Spustit OpenVPN pro Android.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch Orbot (Tor).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175217Z" creationid="svetlemodry" creationdate="20170808T175217Z">
+        <seg>Spustit Orbot (Tor).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11942,6 +12006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Route via Tor?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175211Z" creationid="svetlemodry" creationdate="20170808T175211Z">
+        <seg>Připojit pomocí síťe Tor?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running command...</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T183235Z" creationid="svetlemodry" creationdate="20151003T183235Z">
@@ -13562,6 +13634,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174459Z" creationid="svetlemodry" creationdate="20170808T174459Z">
         <seg>Tajný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stealth launch and remote PIN</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175256Z" creationid="svetlemodry" creationdate="20170808T175256Z">
+        <seg>Tajné spuštění a vzdálený PIN</seg>
       </tuv>
     </tu>
     <tu>
