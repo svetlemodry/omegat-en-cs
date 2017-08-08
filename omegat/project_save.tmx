@@ -1678,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow remote commands via SMS.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174816Z" creationid="svetlemodry" creationdate="20170808T174816Z">
+        <seg>Povolit vzdálené příkazy přes SMS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow stealth remote commands via SMS.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T082617Z" creationid="svetlemodry" creationdate="20161016T082617Z">
@@ -2922,6 +2930,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204137Z" creationid="svetlemodry" creationdate="20141219T204137Z">
         <seg>Vybrat aktualizaci stavu pro kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose your exchange and local fiat currency.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174933Z" creationid="svetlemodry" creationdate="20170808T174933Z">
+        <seg>Vyberte místní měnu a směnný kurz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5186,6 +5202,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204534Z" creationid="svetlemodry" creationdate="20141219T204534Z">
         <seg>Povolit tichý režim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable remote commands</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174801Z" creationid="svetlemodry" creationdate="20170808T174801Z">
+        <seg>Povolit vzdálené příkazy</seg>
       </tuv>
     </tu>
     <tu>
@@ -11606,6 +11630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Samourai from the launcher and home screen.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174640Z" creationid="svetlemodry" creationdate="20170808T174640Z">
+        <seg>Odstranit Samourai ze spouštěče a domovské obrazovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove all traces of Sentinel from the launcher and home screen.</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T081016Z" creationid="svetlemodry" creationdate="20161016T081016Z">
@@ -12418,6 +12450,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204137Z" creationid="svetlemodry" creationdate="20141219T204137Z">
         <seg>Poslat OpenPGP šifrovanou zprávu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send SMS to a trusted mobile number when the SIM card is changed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175019Z" creationid="svetlemodry" creationdate="20170808T175019Z">
+        <seg>Odeslat SMS na důvěryhodné mobilní číslo, pokud je SIM karta vyměněna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17514,6 +17554,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T133217Z" creationid="svetlemodry" creationdate="20170713T133217Z">
         <seg>Zatím jste neimportovali žádné kontakty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must dial **YOUR_PIN_CODE# from the phone dialer to launch Samourai.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174751Z" creationid="svetlemodry" creationdate="20170808T174751Z">
+        <seg>Pro spuštění aplikace musíte vytočit **YOUR_PIN_CODE# na telefonu.</seg>
       </tuv>
     </tu>
     <tu>
