@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About Samourai Wallet</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174159Z" creationid="svetlemodry" creationdate="20170808T174159Z">
+        <seg>O aplikaci Samourai Wallet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About Sentinel</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080442Z" creationid="svetlemodry" creationdate="20161016T080442Z">
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150208T110805Z" creationid="svetlemodry" creationdate="20150208T110805Z">
         <seg>Aktivovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Activate all archived payment codes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174142Z" creationid="svetlemodry" creationdate="20170808T174142Z">
+        <seg>Aktivovat všechny archivované platební kódy</seg>
       </tuv>
     </tu>
     <tu>
@@ -8934,6 +8950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Networking</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174329Z" creationid="svetlemodry" creationdate="20170808T174329Z">
+        <seg>Sítě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Never</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20150112T190338Z" creationid="svetlemodry" creationdate="20150112T190338Z">
@@ -11534,6 +11558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174503Z" creationid="svetlemodry" creationdate="20170808T174301Z">
+        <seg>Vzdálený</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote Fingerprint</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204553Z" creationid="svetlemodry" creationdate="20141219T204553Z">
@@ -12202,6 +12234,22 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T203955Z" creationid="svetlemodry" creationdate="20141219T203955Z">
         <seg>Zabezpečená konverzace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure erase wallet</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174421Z" creationid="svetlemodry" creationdate="20170808T174421Z">
+        <seg>Bezpečně smazat peněženku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Securely erase this wallet from the device.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174439Z" creationid="svetlemodry" creationdate="20170808T174439Z">
+        <seg>Bezpečně smaže peněženku na tomto přístroji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13046,6 +13094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show extended public key for an account.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174407Z" creationid="svetlemodry" creationdate="20170808T174407Z">
+        <seg>Zobrazit rozšířený veřejný klíč účtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show hex seed</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080638Z" creationid="svetlemodry" creationdate="20161016T080638Z">
@@ -13462,6 +13518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stealth</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174459Z" creationid="svetlemodry" creationdate="20170808T174459Z">
+        <seg>Tajný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Stealth launcher</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20161016T080938Z" creationid="svetlemodry" creationdate="20161016T080938Z">
@@ -13722,6 +13786,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T190021Z" creationid="svetlemodry" creationdate="20151003T190021Z">
         <seg>Symboly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sync all payment codes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174154Z" creationid="svetlemodry" creationdate="20170808T174154Z">
+        <seg>Synchronizovat všechny platební kódy</seg>
       </tuv>
     </tu>
     <tu>
@@ -15910,6 +15982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Units, Currency, Block explorer</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174241Z" creationid="svetlemodry" creationdate="20170808T174241Z">
+        <seg>Jednotky, Měna, Prohlížeč bloků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unknown</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204152Z" creationid="svetlemodry" creationdate="20141219T204152Z">
@@ -16490,6 +16570,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151003T182952Z" creationid="svetlemodry" creationdate="20151003T182952Z">
         <seg>Čekání na OpenKeychain...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wallet</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T174306Z" creationid="svetlemodry" creationdate="20170808T174306Z">
+        <seg>Peněženka</seg>
       </tuv>
     </tu>
     <tu>
