@@ -10502,6 +10502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Periodically save passphrase encrypted backup to device storage.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175746Z" creationid="svetlemodry" creationdate="20170808T175746Z">
+        <seg>Pravidelně ukládat zašifrovanou zálohu do paměti přístroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Personal information</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170713T135902Z" creationid="svetlemodry" creationdate="20170713T135902Z">
@@ -13550,6 +13558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spend using BIP126</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175838Z" creationid="svetlemodry" creationdate="20170808T175821Z">
+        <seg>Převod za použití BIP126</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starred</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160904T135002Z" creationid="svetlemodry" creationdate="20150328T172046Z">
@@ -16538,6 +16554,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20141219T204553Z" creationid="svetlemodry" creationdate="20141219T204553Z">
         <seg>Ověřit OTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175749Z" creationid="svetlemodry" creationdate="20170808T175749Z">
+        <seg>Verze</seg>
       </tuv>
     </tu>
     <tu>
