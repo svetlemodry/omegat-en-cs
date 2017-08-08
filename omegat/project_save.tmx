@@ -13326,6 +13326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show unspent outputs</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T180221Z" creationid="svetlemodry" creationdate="20170808T180221Z">
+        <seg>Zobrazit neutracené výstupy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show updates count on indicator</seg>
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20151113T204729Z" creationid="svetlemodry" creationdate="20151113T204729Z">
@@ -13562,6 +13570,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20170808T175838Z" creationid="svetlemodry" creationdate="20170808T175821Z">
         <seg>Převod za použití BIP126</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spends will use BIP126 for increased obfuscation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T180200Z" creationid="svetlemodry" creationdate="20170808T180200Z">
+        <seg>Převod použije BIP126 pro zvýšení náhodnosti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15842,6 +15858,14 @@
       </tuv>
       <tuv lang="CS" changeid="svetlemodry" changedate="20160626T124605Z" creationid="svetlemodry" creationdate="20160626T124605Z">
         <seg>Důvěřovat tomuto certifikátu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trusted node</seg>
+      </tuv>
+      <tuv lang="CS" changeid="svetlemodry" changedate="20170808T180232Z" creationid="svetlemodry" creationdate="20170808T180232Z">
+        <seg>Důveryhodný nod</seg>
       </tuv>
     </tu>
     <tu>
